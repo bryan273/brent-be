@@ -3,7 +3,7 @@ from data_preparator import DataPreparator
 from letor import LETOR
 import re
 
-def main_pipeline_letor(query, k=50):
+def main_pipeline_letor(letor, retrieval, query, k=50):
 
     clean_text = " ".join(re.findall(r"\w+", query))
     terms = retrieval.data_preparator.preprocess_text(clean_text).split(' ')
@@ -25,6 +25,14 @@ def main_pipeline_letor(query, k=50):
 
     return intersection[:k]
 
+def get_relevant_doc_id(letor, retrieval, query):
+    docs = main_pipeline_letor(letor, retrieval, query, k=50)
+    result_path = []
+    for doc_id in docs:
+        result_path.append(doc_id)
+    
+    return result_path
+
 if __name__=="__main__":
     ranker_path = "lgbr_base.txt"
     letor = LETOR(ranker_path)
@@ -32,7 +40,7 @@ if __name__=="__main__":
 
     mapping_file = DataPreparator.load_from_pickle("pickle/mapping_doc.pkl")
     query = "cardiovascular disease"
-    docs = main_pipeline_letor(query, k=50)
+    docs = get_relevant_doc_id(letor, retrieval, query)
     for doc in docs:
         with open("main_pipeline.txt", "w") as output_file:
             output_file.write("Query : " + query + "\n")

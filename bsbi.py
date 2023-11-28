@@ -13,9 +13,8 @@ from tqdm import tqdm
 
 import nltk
 from nltk.corpus import stopwords
+nltk.data.path.append("./nltk_data")
 from nltk.stem import PorterStemmer
-nltk.download('stopwords')
-
 from operator import itemgetter
 
 class BSBIIndex:

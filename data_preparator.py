@@ -5,12 +5,14 @@ import os
 from tqdm import tqdm
 from collections import defaultdict
 import nltk
+from nltk.corpus import stopwords
+nltk.data.path.append("./nltk_data")
 from nltk.stem import PorterStemmer
 
 class DataPreparator:
     def __init__(self):
         self.stemmer = PorterStemmer()
-        self.stop_words = set(line.strip() for line in open('stopwords.txt'))
+        self.stop_words = set(stopwords.words('english'))
 
     def preprocess_text(self, text):
         """

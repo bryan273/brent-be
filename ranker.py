@@ -1,6 +1,5 @@
 import numpy as np
 import lightgbm as lgb
-from gensim.models import LsiModel
 from gensim.corpora import Dictionary
 from scipy.spatial.distance import cosine
 from data_preparator import DataPreparator
