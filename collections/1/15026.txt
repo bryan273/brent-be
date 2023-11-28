@@ -1,0 +1,1 @@
+However, with mediated transport, the rate of diffusion increases as concentration increases up to a point, and then there is no further increase in rate with increasing concentration (red (B) and blue (C) curves). At this point, we say the system is saturated.

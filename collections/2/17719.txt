@@ -1,0 +1,1 @@
+This quick start guide shows you how to carry out a one-way ANOVA using SPSS Statistics, as well as interpret and report the results from this test. Since the one-way ANOVA is often followed up with post-hoc tests, we also show you how to carry out these using SPSS Statistics.

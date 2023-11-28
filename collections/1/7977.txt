@@ -1,0 +1,1 @@
+Golemblood Potion: Increases your Strength by 1200 for 25 sec. Earthen Potion: Increases armor by 4800 for 25 sec. Potion of Concentration: Puts the imbiber in an elevated state of concentration where they can restore up to 22000 mana over 10 sec, but they are defenseless until their concentration is broken. Mysterious Potion

@@ -1,0 +1,1 @@
+Classification methods. Vehicles can be categorized in numerous ways. For example, by means of the body style and the level of commonality in vehicle construction as defined by number of doors and roof treatment (e.g., sedan, convertible, fastback, hatchback) and number of seats that require seat belts to meet safety regulations.

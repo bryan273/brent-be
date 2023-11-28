@@ -1,0 +1,1 @@
+Mechanical Equivalent of Heat. Heat flow and work are both ways of transferring energy. As illustrated in the heat and work example, the temperature of a gas can be raised either by heating it, by doing work on it, or a combination of the two.

@@ -1,0 +1,1 @@
+To disable, or enable, the function key (fn) in the BIOS, do the following steps. 1  Press the power button to turn on the computer. 2  Press the f10 key to open the BIOS setup window. 3  Press the right-arrow or left-arrow keys to navigate to the System Configuration option. Figure : BIOS setup window.

@@ -1,0 +1,1 @@
+The distance that a free-falling object has fallen from a position of rest is also dependent upon the time of fall. This distance can be computed by use of a formula; the distance fallen after a time of t seconds is given by the formula.

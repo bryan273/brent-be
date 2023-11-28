@@ -1,0 +1,1 @@
+A common strategy is to combine SIMV with an additional ventilator mode known as pressure support ventilation (PSV) (Fig. 4). In this situation, inspiratory pressure is added to spontaneous breaths to overcome the resistance of the endotracheal tube or to increase the volume of spontaneous breaths.

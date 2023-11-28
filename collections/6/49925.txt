@@ -1,0 +1,1 @@
+The stock price is $101.12 per share. Imagine if you wanted to short it. To keep it simple, we'll say you want to short 100 shares and we'll ignore the small commissions you would otherwise owe. You borrow the stock, sell the shares, and pocket $10,112. At the same time, you decide to buy 1 call option covering 100 shares with a $200 strike price dated September 16th, 2016.

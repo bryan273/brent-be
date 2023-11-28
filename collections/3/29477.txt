@@ -1,0 +1,1 @@
+19.1.2: Define the term standard electrode potential. The standard electrode potential. This is the 'potential' of a redox system to lose or gain electrons when compared to the standard hydrogen electrode - assigned a value of 0 volts.

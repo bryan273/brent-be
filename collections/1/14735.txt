@@ -1,0 +1,1 @@
+Step 2: Boot Your Windows Computer from CD/DVD/USB. Then turn to the computer that has black screen issues: insert CD/DVD/USB into this computer, and set your CD drive as the first boot device in BIOS. Press F10 to save the settings.

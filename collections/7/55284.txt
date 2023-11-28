@@ -1,0 +1,1 @@
+The Voyager XL is a proportional brake controller. It is plug and play, but you have to have the right connector. Time-delay controllers apply the trailer brakes in the same manner every time, with an adjustable delay between when the brake pedal is pressed and when the trailer brakes are applied.

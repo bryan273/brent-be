@@ -1,0 +1,1 @@
+455 - 390. The order of colors in light, arranged from shortest wavelength to longest, is called the visible spectrum of light. The image below shows light's visible spectrum, which runs from violet to red. You might recognize the spectrum as the order of colors in a rainbow.

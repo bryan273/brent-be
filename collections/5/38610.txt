@@ -1,0 +1,1 @@
+The major types of bias in the observation bias group include recall bias, interviewer bias, follow-up bias and misclassification bias. Confounding is sometimes referred to as the third major class of bias. It is a function of the complex interrelationships between various exposures and disease.

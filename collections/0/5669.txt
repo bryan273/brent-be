@@ -1,0 +1,1 @@
+When we used the whole population we got: Mean = 7, Standard Deviation = 2.983... When we used the sample we got: Sample Mean = 6.5, Sample Standard Deviation = 3.619... Our Sample Mean was wrong by 7%, and our Sample Standard Deviation was wrong by 21%.

@@ -1,0 +1,1 @@
+On the COEP table the profit segment no for the CO postings of a particular. billing release is 4157, but this number does not exist on table ce1m001. (the line item table in PA) The PA entries for all the related documents. around this billing have a profit segment of 4155.

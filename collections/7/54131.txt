@@ -1,0 +1,1 @@
+Current local time in Pennsylvania with information about Pennsylvania time zones and daylight saving time.

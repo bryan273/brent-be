@@ -1,0 +1,1 @@
+On Windows: Insert a disc into your PC and click on the Details of the CD drive, then click on the Properties window with a follow up click on Hardware. On a Mac: Go to the Apple menu in the upper left-hand corner of your screen and select About this Mac.

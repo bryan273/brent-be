@@ -1,0 +1,1 @@
+You’ll select ‘Time Lapse’ as an option under the Video settings. Then within that you can select the interval for how often to take a photo to add to the video: The options for photos are: .5s, 1s, 2s, 5s, 10s, 30s, 60s. Finally, you can choose between 4K (16:9 format) and 2.7K (in 4:3 format) video to export.

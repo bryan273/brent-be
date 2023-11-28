@@ -1,0 +1,1 @@
+The sensors physically measure the tire pressure in each tire and report it to the vehicle's instrument cluster or a corresponding monitor. Some units also measure and alert temperatures of the tire as well. These systems can identify under-inflation in any combination, be it one tire or all, simultaneously.

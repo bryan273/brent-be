@@ -1,0 +1,1 @@
+Oracle Express is no longer actively promoted by Oracle and is officially end-of-life (tho still used by satisfied customers across the world). The successor is Oracle OLAP - the Oracle Database OLAP Option.

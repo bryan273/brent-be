@@ -1,0 +1,1 @@
+Milliliter to US Fluid Ounce Conversion Example. Task: Convert 2,500 milliliters to US fluid ounces (show work) Formula: mL ÷ 29.5735296 = US fl oz Calculations: 2,500 mL ÷ 29.5735296 = 84.53505665 US fl oz Result: 2,500 mL is equal to 84.53505665 US fl oz.

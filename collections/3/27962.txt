@@ -1,0 +1,1 @@
+However, use of these plugs without a transformer or voltage converter can result in fireworks. The voltage in Europe is twice that of the voltage in the United States, and while many electronics are designed to adapt to voltage changes, it is crucial to check. If the device is not capable of handling 220 volts of electricity, it will fail.

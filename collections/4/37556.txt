@@ -1,0 +1,1 @@
+It uses a direct path load approach. Using a direct path load is faster than standard loading (using the OLE DB Destination) as it formats Oracle data blocks and writes the data blocks directly to the data files. This eliminates considerable processing overhead.

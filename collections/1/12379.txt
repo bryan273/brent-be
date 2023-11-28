@@ -1,0 +1,1 @@
+There are usually ten of these electrodes in a standard 12-lead ECG. Alternatively (and some would say properly, in the context of electrocardiography) the word lead may refer to the tracing of the voltage difference between two of the electrodes and is what is actually produced by the ECG recorder. Each will have a specific name.

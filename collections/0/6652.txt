@@ -1,0 +1,1 @@
+Note that velocity is a range, not an exact number. For example, if you have developed 2, 5 and 4 stories respectively in your past 3 sprints, then you know that your velocity is 2-5, not 3 or 4.

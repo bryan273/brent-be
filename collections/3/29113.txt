@@ -1,0 +1,1 @@
+Please download Farbar Service Scanner (FSS) and run it on the computer with the issue. 1  Make sure the following options are checked: Internet Services. 2  Press Scan. 3  It will create a log (FSS.txt) in the same directory the tool is run.  Please copy and paste the log to your reply.

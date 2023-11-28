@@ -1,0 +1,1 @@
+First of all i suggest you to the KB article: How to select rows via an unbound checkbox column. Starting with version 13.2, the GridView in the XtraGrid control provides a built-in checkbox column for multiple row selection. See the following help topic to learn more: Multiple Row Selection via Built-In Check Column.

@@ -1,0 +1,1 @@
+I've wired my two 12-volt solar panels in series and the four 6 volt (actually 6.3) volt 40 Ah batteries in series, connected in parallel with the solar panels. This will produce about 24 volts at 40 amps for a total power of 960 watts for 1 hour from the four batteries.

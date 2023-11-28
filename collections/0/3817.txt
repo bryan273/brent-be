@@ -1,0 +1,1 @@
+In contrast, an adiabatic process is where a system exchanges no heat with its surroundings (Q = 0). (See our atom on Adiabatic Process. ) In other words, in an isothermal process, the value δT = 0 but Q ≠ 0, while in an adiabatic process, δT ≠ 0 but Q = 0.

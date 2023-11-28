@@ -1,0 +1,1 @@
+Example of a p-value computation. The vertical coordinate is the probability density of each outcome, computed under the null hypothesis. The p-value is the area under the curve past the observed data point.

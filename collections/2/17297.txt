@@ -1,0 +1,1 @@
+In this blog post I’m going to use the ARMClient which you can download from Github. The ARMClient cannot really be used as a PowerShell module “as is” and uploaded to Azure Automation.

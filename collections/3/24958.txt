@@ -1,0 +1,1 @@
+Partitioning a database improves performance and simplifies maintenance. By splitting a large table into smaller, individual tables, queries that access only a fraction of the data can run faster because there is less data to scan.

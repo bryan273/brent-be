@@ -1,0 +1,1 @@
+For each patient seen in the ED, a scribe will: 1  Accompany the physician into the exam room. 2  Document the history of the patient's present illness. 3  Document the Review-of-Systems (ROS) and physical examination. 4  Enter vital signs and keep track of lab values. 5  Look up pertinent past medical records.

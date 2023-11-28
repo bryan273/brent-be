@@ -1,0 +1,1 @@
+The first switch, --image, is the path to the image we are going to find the brightest spot in. The second switch --radius, is an integer indicating the radius of the Gaussian blur we are going to apply to the image. It’s important to note that this radius value must be odd and not even.

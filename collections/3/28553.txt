@@ -1,0 +1,1 @@
+The purpose of SDCMS is to provide an automated mechanism for managing and reporting on all suspension and debarment activities from receipt of referral through the expiration date of the suspension or debarment period.

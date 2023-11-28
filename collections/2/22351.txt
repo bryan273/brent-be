@@ -1,0 +1,1 @@
+Another situation in which it is easy to find the equation of a parabola is when we place the focus on the x axis, the vertex at the origin and the directrix a vertical line parallel to the y axis. In this case, the equation of the parabola comes out to be.

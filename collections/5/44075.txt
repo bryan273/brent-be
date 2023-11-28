@@ -1,0 +1,1 @@
+HTML Entities. On this page you can view many of the HTML entities that can be displayed on a web page. Try your own entity code here. If you see an empty rectangle in the second column (“Character”), that means your browser does not support the named entity.

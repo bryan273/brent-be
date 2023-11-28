@@ -1,0 +1,1 @@
+1 This frame rate derives from the PAL television standard of 50i (or 50 interlaced fields per second). 2  Film and television companies use this rate in 50 Hz regions for direct compatibility with television field and frame rates.

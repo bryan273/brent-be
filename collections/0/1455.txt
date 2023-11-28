@@ -1,0 +1,1 @@
+We use DC voltages in an electrostatic precipitator (ESP) because it is necessary to induce a charge on the particulates, and then attract them to a plate by the use of an opp … osite charge. An AC source would be changing constantly.

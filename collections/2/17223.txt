@@ -1,0 +1,1 @@
+The specific gravity of a metal or alloy is merely the weight in grams of one cubic centimeter. When it is more convenient to work in troy weights, the number of ounces per cubic inch of any metal or alloy may be found by multiplying its specific gravity by the constant 0.52686.

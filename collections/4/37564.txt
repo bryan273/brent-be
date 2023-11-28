@@ -1,0 +1,1 @@
+64 bit. The Oracle Destination Component is an SSIS Data Flow Component, which is used to connect to an Oracle database and to perform bulk loads of data into Oracle tables.

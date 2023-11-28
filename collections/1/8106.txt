@@ -1,0 +1,1 @@
+1. Re: Difference between logical interface and virtual interface Scott Morris - CCDE/4xCCIE/2xJNCIE Sep 16, 2009 10:03 AM (in response to rjallipa) That's kind of a tough one... So let's take a stab at this here. First... Anything that does not have a physical presence is technically a logical interface.

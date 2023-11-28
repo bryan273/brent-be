@@ -1,0 +1,1 @@
+Rather than assign physical gestures based on the literal meaning of a person's spoken words, the program focuses on prosody, the combination of vocal rhythm, intonation and stress.

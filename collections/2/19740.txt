@@ -1,0 +1,1 @@
+10 Developing Applications with IBM FileNet P8 APIs. Figure 1-3 Application communication between core engines and available applications. For custom applications, the communications path used depends on both the. API used and which transport is selected for use.

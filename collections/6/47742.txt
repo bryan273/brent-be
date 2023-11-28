@@ -1,0 +1,1 @@
+Before i go through these steps, lets first look at what the Azure Key Vault actually is quoting the Azure online documentation: “Azure Key Vault helps safeguard cryptographic keys and secrets used by cloud applications and services.

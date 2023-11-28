@@ -1,0 +1,1 @@
+Title Enter the business title of the authorized representative of the Texas Medicaid provider/applicant. Authorized Power of Attorney Enter the printed name of the authorized power of attorney of the surety company that is signing. the bond. Authorized Power of Attorney Signature This line is for the signat ure of the authorized power of attorney of the surety company.

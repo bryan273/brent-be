@@ -1,0 +1,1 @@
+The volume label can be built by FDISK, a standard partition tool in Linux. Partitioning Method. Disk volume label in DOS is a convenient way. The simplest way for disk partition is to apply installation program of Linux, for example, disk druid or fdisk under Red Hat.

@@ -1,0 +1,1 @@
+Insertion mutations can affect many amino acids in the protein. An insertion mutation usually causes more defects during protein  synthesis than point mutation because an ins…ertion mutation will  affect many amino acids in the protein.

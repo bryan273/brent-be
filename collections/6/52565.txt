@@ -1,0 +1,1 @@
+The main branches of computer science are the following: 1  Algorithms is the study of effective and efficient procedures of solving problems on a computer. 2  Theory of computation concerns the meaning and complexity of algorithms and the limits of what can be computed in principle.

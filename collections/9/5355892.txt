@@ -1,0 +1,1 @@
+Microsoft Silverlight is an application framework for writing and running rich Internet applications, similar to Adobe Flash. A plugin for Silverlight is available for some browsers.

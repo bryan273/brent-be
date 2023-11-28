@@ -1,0 +1,1 @@
+but if you can read CD's & DVD's but not write to CD-r and DVD-r I would suspect registry corruption or a policy set to deny writing. I presume you ran the Microsoft upper filter driver fixit without success.

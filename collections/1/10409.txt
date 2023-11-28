@@ -1,0 +1,1 @@
+The genome of D. melanogaster (sequenced in 2000, and curated at the FlyBase database) contains four pairs of chromosomes: an X/Y pair, and three autosomes labeled 2, 3, and 4. The fourth chromosome is so tiny, it is often ignored, aside from its important eyeless gene.

@@ -1,0 +1,1 @@
+This table lists support for the Flash plugin and the HTML5 Video tag on all popular browsers and devices.

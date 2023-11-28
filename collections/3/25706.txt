@@ -1,0 +1,1 @@
+In the new experience, you will get a Chatter feed post when a note is related to a record you follow. In Winter '15, select customers customers can have access to this and other new Notes features through a pilot program. For more information on the pilot: https://success.salesforce.com/06930000003yo4i. Flag.

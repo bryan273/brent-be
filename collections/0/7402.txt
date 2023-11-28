@@ -1,0 +1,1 @@
+A propositional fallacy is an error in logic that concerns compound propositions. For a compound proposition to be true, the truth values of its constituent parts must satisfy the relevant logical connectives that occur in it (most commonly: <and>, <or>, <not>, <only if>, <if and only if>).

@@ -1,0 +1,1 @@
+For SQL development, ensure that you have SQL Server Data Tools installed in Visual Studio. Click the View menu. If you don't see SQL Server Object Explorer, go to Control Panel and change Visual Studio. In the installer, select Microsoft SQL Server Data Tools.

@@ -1,0 +1,1 @@
+I believe that it would be the number of faces of the tetrahedron ($4$), plus the number of faces of the pyramid ($5$), minus the two faces that got glued together since they will not be on the outside surface of the resulting polyhedron, so $7$ faces total.

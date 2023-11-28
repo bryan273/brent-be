@@ -1,0 +1,1 @@
+FORMAT=format assigns a SAS or user-defined format to the item. This format applies to item as PROC REPORT displays it; the format does not alter the format associated with a variable in the data set. For data set variables, PROC REPORT honors the first of these formats that it finds: the format assigned with FORMAT= in the DEFINE statement

@@ -1,0 +1,1 @@
+Presentation: – It is a layer where the user work with SAP GUI. 1  It interacts with database layer via Application layer. 2  Application: – It interacts between presentation and database layer. 3  Database: – It is a central database that stores all the data of ERP SAP Systems.

@@ -1,0 +1,1 @@
+Table 6-1. Identification of light and heavy key First, you specify the split you would like. To do this, you need the concept of a light key and heavy key. First, line the chemicals up in order of their boiling points, from low to high. (Note: this illustration assumes that the thermodynamics are ideal, so Raoult’s Law applies.)

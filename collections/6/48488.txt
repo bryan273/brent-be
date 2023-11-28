@@ -1,0 +1,1 @@
+Stream ciphers encrypt one character of data at a time. The output is the same. size as the input. A Block cipher is a symmetric cipher which encrypts a message by breaking it. down into blocks and encrypting data in each block. A block cipher encrypts. the text in fixed sized blocks.

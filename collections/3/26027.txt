@@ -1,0 +1,1 @@
+Show that y = cos3x tan x satisfies. `cos\ x(dy)/(dx)+3y\ sin\ x-cos^2x=0`. Answer. 10. Find the derivative of y = x tan x. Answer. See also: Derivative of square root of sine x by first principles.

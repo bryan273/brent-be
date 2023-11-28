@@ -1,0 +1,1 @@
+Accepted Answer. The upper and lower bounds on mean and sigma refer to the upper and lower limits on the scroll bar that is used to move the mean and sigma values up and down. These parameters do not effect the values of the mean and sigma of the distribution in any way.

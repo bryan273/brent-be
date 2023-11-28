@@ -1,0 +1,1 @@
+Kinetics Topics: Effect of Temperature, Collision Theory, Activated Complex Theory. A qualitative observation is that reaction rates tend to increase with increased temperature. we will consider the quantitative effect. In 1889, Svante Arrhenius plotted rate constants (k) versus temperature. ln k versus inverse temperature gave a straight line.

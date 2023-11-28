@@ -1,0 +1,1 @@
+If the CVA is caused by an occlusion, narrowing, or stenosis of a precerebral artery, a code from category 433 is assigned. Common precerebral arteries include the basilar, carotid, and vertebral. The fifth digit of 1 is assigned to show that the occlusion/stenosis caused the CVA.

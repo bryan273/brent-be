@@ -1,0 +1,1 @@
+A compiled computer language outputs a program file that is directly understandable by the CPU in a computer and is ready to be run. It is in what is called binary format, is not readable by (most) humans, but is directly understood by the computer.

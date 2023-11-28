@@ -1,0 +1,1 @@
+On many vehicles, there's even a sender on the spare tire. The TPMS is initialized with the position of the four (or five) tires when the car is new. Eventually, those tires could change position, through normal tire rotation or as the result of a flat. That's why there is a procedure to resynchronize the system.

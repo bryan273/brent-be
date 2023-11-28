@@ -1,0 +1,1 @@
+A ZIP+4 code uses the basic 02119 Zip code plus four additional digits to identify a geographic segment within the five-digit delivery area, such as a Roxbury city block, a group of apartments, an individual high-volume receiver of mail or any other unit that could use an extra identifier to aid in efficient mail sorting and delivery in Massachusetts.

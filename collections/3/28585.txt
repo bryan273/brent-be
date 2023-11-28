@@ -1,0 +1,1 @@
+In this case we interpret the parameters of the range function to mean range(start,beyondLast), where beyondLast means an index past the last index we want. In the 2-parameter version of range, that is the last index included + 1.

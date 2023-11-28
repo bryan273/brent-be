@@ -1,0 +1,1 @@
+If the ratio of the TDP to Total Population is greater than 1, the location gains population during the day when commuting workers are present. If the ratio is less than 1, the location is more of a bedroom community where people commute to another place for work. Population Density = Total Population per square mile.

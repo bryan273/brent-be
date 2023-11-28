@@ -1,0 +1,1 @@
+There are many types of computer networks. Common types of networks include the following: 1  Local-area network (LAN): The computers are geographically close together (that is, in the same building).  Wide-area network (WAN): The computers are farther apart and are connected by telephone lines or radio waves.

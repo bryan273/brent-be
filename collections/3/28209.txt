@@ -1,0 +1,1 @@
+This paper demonstrates best practices for creating a Microsoft SMB file sharing solution with Tintri VMstores. Microsoft SMB file. sharing solutions can be architected in a number of ways. This paper explores some of these scenarios but limits the scope to only the. best practices that apply to Tintri VMstores.

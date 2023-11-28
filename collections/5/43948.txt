@@ -1,0 +1,1 @@
+However, if you configure an instance of SQL Server to use dynamic port allocation, and you restart the instance of SQL Server, the registry values are set as follows: TCPDynamicPorts = Current port that is used. TCPPort = Current port that is used.

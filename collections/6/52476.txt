@@ -1,0 +1,1 @@
+The Minimum Password Age setting must be lower than the Maximum Password Age, unless the Maximum Password Age is set to 0 (zero), or never expire. If the Maximum Password Age is set to 0, the Minimum Password Age can be set to any value between 0 and 998.

@@ -1,0 +1,1 @@
+If this is your team’s first iteration you can still plan your initial Velocity. A good rule of thumb when using time-based estimates (e.g., days, ideal days, etc) is to plan initial Velocity at one-half your team’s total available time.

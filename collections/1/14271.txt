@@ -1,0 +1,1 @@
+Select a cell in the database. On the Excel Ribbon's Data tab, click Advanced. In the Advanced Filter dialog box, choose 'Copy to another location'. For the List range, select the column(s) from which you want to extract the unique values. Leave the Criteria Range blank.

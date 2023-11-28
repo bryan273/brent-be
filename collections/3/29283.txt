@@ -1,0 +1,1 @@
+250 Watt RMS 250 watt RMS stands for the abbreviation of, root means square. This sounds like an AC circuit or an audio circuit. <br /><br /> For instance, if you take the voltage coming out of the wall socket and it's at 117 VAC, the true RMS voltage is: 82.718 volts, RMS.

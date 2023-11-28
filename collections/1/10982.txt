@@ -1,0 +1,1 @@
+Useful For Suggests clinical disorders or settings where the test may be helpful. Prenatal screening for open neural tube defect (alpha-fetoprotein only), Down syndrome (alpha-fetoprotein, human chorionic gonadotropin, estriol, and inhibin A) and trisomy 18 (alpha-fetoprotein, human chorionic gonadotropin, and estriol)

@@ -1,0 +1,1 @@
+(o) If through the point of intersection of the two diagonals you draw lines parallel to the sides, you get 4 congruent rhombus each of whose area will be one-fourth that of the original rhombus. (p) There can be no circumscribing circle around a rhombus. (q) There can be no inscribed circle within a rhombus.

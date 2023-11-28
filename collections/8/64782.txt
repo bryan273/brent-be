@@ -1,0 +1,1 @@
+HANA also includes a programming component that allows a company's IT department to create and run customized application programs on top of HANA, as well as a suite of predictive, spatial and text analytics libraries across multiple data sources.

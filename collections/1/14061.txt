@@ -1,0 +1,1 @@
+There is an appropriate use for modifier 59 that is applicable only to codes for which the unit of service is a measure of time (e.g., per 15 minutes, per hour). The new submodifiers should not be used with the psychological and neuropsychological testing code combinations 96101 with 96102, or 96118 with 96119.

@@ -1,0 +1,1 @@
+So you don't get the performance from the octane, it comes from the engine, which now requires a harder to ignite fuel. Example: My GTI requires 91. If I use 87, it senses ignition and retards the timing, and that's what makes it slower.

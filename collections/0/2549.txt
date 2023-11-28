@@ -1,0 +1,1 @@
+Intel Rapid Storage Technology is a program developed by Intel. The most used version is 9.6.0.1014, with over 53% of all installations currently using this version. Upon installation and setup, it defines an auto-start registry entry which makes this program run on each Windows boot for all user logins.

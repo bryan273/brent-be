@@ -1,0 +1,1 @@
+The following table lists the HTML entities, character codes, and URL-encodings for accented Latin letters and ligatures. (Letters that do not have standard HTML entities are not included. Still, those letters can be rendered, similar to the above examples, as long as you know the character codes.

@@ -1,0 +1,1 @@
+If you're in the United States right now, the voltage is 110 volts but you said you bought a 220 volts converter. If the adapter/converter says 110-240 volts, you need to make sure before you plug it in your voltage that you're using is 110 volts *not* 220.

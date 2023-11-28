@@ -1,0 +1,1 @@
+1 In battles: Physical moves stand out. 2  12 moves are of the type. 3  4 moves are of the type. 4  4 moves are of the type. 5  In contests: Tough moves stand out. 6  11 moves are of the type. 7  4 moves are of the type. 8  2 moves are of the type. 9  2 moves are of the type. 10  1 move is of the type.

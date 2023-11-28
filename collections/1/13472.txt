@@ -1,0 +1,1 @@
+Beer-Lambert Law relates the transmittance of light to absorbance by taking the negative logarithmic. function, base 10, of the transmittance observed by a sample, which results in a linear relationship to the. intensity of the absorbing species and the distance traveled by light. Absorbance = 2 - Log. 10. (T)

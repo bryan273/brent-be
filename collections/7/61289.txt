@@ -1,0 +1,1 @@
+Microsoft OneNote Web App extends your Microsoft OneNote experience to the web browser, where you can work with notebooks directly on the website where the notebook is stored.

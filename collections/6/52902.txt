@@ -1,0 +1,1 @@
+When they have gained a point, they will show a small icon over their head, which must be cleared for the next set of training to begin. While they are training, they will show the time left until the next point gain under their feet. Dwellers in training can only improve each SPECIAL statistic to 10.

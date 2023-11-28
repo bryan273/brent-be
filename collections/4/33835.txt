@@ -1,0 +1,1 @@
+1 The number and type of electrical devices connected to a circuit determine the amperage requirement of the circuit. 2  Usually, a general purpose house circuit is designed for 20 amps. 3  Lighting circuits may be designed for only 15 amps.

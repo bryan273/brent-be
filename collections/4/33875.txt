@@ -1,0 +1,1 @@
+KML files have either a .kml or .kmz (for compressed or zipped KML files) file extension. KML can be composed of both feature and raster elements including points, lines, polygons, and imagery, as well as related content like graphics, pictures, attributes, and HTML.

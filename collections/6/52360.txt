@@ -1,0 +1,1 @@
+The minimum frequency of light needed to eject electrons from a metal is called the threshold frequency, ν0. Find the minimum energy needed to eject electrons from a metal with a threshold frequency of 5.48 × 1014 s–1.

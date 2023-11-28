@@ -1,0 +1,1 @@
+Definition: Discrete Variable A Discrete variable is a variable which takes only finite values like 1, 2, 3, 4, 5 etc. and can’t take any fractions like 1.5, 2.7 etc. Number of family members, number of floors in a building and number of buses, all represent discrete variables.

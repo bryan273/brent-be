@@ -1,0 +1,1 @@
+When the optical disc drive was first developed, it was not easy to add to computer systems. Some computers such as the IBM PS/2 were standardizing on the 3.5 floppy and 3.5 hard disk, and did not include a place for a large internal device.

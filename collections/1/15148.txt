@@ -1,0 +1,1 @@
+For instance, if the p-value is 0.03, then what it means is that there is a 3% chance of observing a difference as large as observed in the particular experiment between the sample means even if the population means are identical.

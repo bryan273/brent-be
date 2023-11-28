@@ -1,0 +1,1 @@
+How to Fix Taskeng.exe Infections. Taskeng.exe is an executable file used by the Windows operating system to schedule tasks for your processor to complete. Although the file is usually associated with the critical tasks of your operating system, viruses have been known to disguise their executable file as a taskeng.exe file to escape detection.

@@ -1,0 +1,1 @@
+rule of nines a method of estimating the extent of burns, expressed as a percentage of total body surface. In this method, the body is divided into sections of 9 per cent, or multiples of 9 per cent, each: head and neck, 9 per cent; anterior trunk, 18 per cent; posterior trunk, 18 per cent; upper limbs, 18 per cent; lower limbs, 36 per cent; genitalia and perineum, 1 per cent.

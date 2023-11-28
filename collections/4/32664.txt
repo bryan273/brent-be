@@ -1,0 +1,1 @@
+A point of congestion in a system that occurs when workloads arrive at a given point more quickly than that point can handle them. The inefficiencies brought about by the bottleneck often create a queue and a longer overall cycle time. A point of congestion in a system that occurs when workloads arrive at a given point more quickly than that point can handle them.

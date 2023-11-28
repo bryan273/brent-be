@@ -1,0 +1,1 @@
+For pay-in through NSDL / CDSL a facility has been provided to members wherein delivery-out instructions will be generated automatically by the Clearing Corporation based on the net delivery obligations of its Clearing Members.

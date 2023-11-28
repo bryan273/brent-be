@@ -1,0 +1,1 @@
+Financial Strength Rating. A weighted average of the ratings given by the four major financial rating agencies, A.M Best, S&P, Fitch and Moody's. Represents each company’s financial strength relative to its competitors. A high (green) rating suggests excellent financial standing.

@@ -1,0 +1,1 @@
+Client-server applications use the TLS protocol to communicate across a network in a way designed to prevent eavesdropping and tampering. Since applications can communicate either with or without TLS (or SSL), it is necessary for the client to indicate to the server the setup of a TLS connection.

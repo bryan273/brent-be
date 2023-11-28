@@ -1,0 +1,1 @@
+Here is a list of different types of doctors and their medical specialties. 1  Psychiatrist - Deals with mental health. 2  Podiatrist - Foot doctor. 3  Optometrist - Eye doctor.  Dentist - Tooth 1  doctor. Urologist - Deals with bladder.  Obstetrician - Deals with pregnancy and 1  birth. Pediatrician - Child doctor.  Oncologist- Cancer doctor.

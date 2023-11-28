@@ -1,0 +1,1 @@
+An important concept in thermodynamics is the “thermodynamic system”, a precisely defined region of the universe under study. Everything in the universe except the system is known as the surroundings, and is separated from the system by a boundary which may be notional or real, but which by convention delimits a finite volume.

@@ -1,0 +1,1 @@
+For any custom workflow if you have e.g DMDynamic Workflow , you will need to modify the custom activity to make the comments field as required field. Hope that helps. If you found this post helpful, please “Vote as Helpful”. If it answered your question, please “Mark as Answer”.

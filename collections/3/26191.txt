@@ -1,0 +1,1 @@
+Stall Speeds and Center of Gravity (C.G.) Q: Some stall speeds are specified with the occupants in the full forward CG position. This does not seem like it’s a conservative specification, i.e., if the occupants move rearward, that would tilt the plane backward, causing an increase in angle of attack, causing a higher stall speed.

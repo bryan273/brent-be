@@ -1,0 +1,1 @@
+Deliver my container(s) to: * To start, deliver my empty PODS container(s) to ZIP/Postal Code: Enter the ZIP code for the delivery location of your empty PODS storage container. If you are unsure about your ZIP code click “lookup” for a list of ZIP codes by city.

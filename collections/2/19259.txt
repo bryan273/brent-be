@@ -1,0 +1,1 @@
+For all seasons where actual pace adjustments can be computed, the root mean square error of the estimates is 0.01967. Now the pace adjustment is made to uPER (I will call this aPER): aPER = (pace adjustment) * uPER The final step is to standardize aPER. First, calculate league average aPER (lg_aPER) using player minutes played as the weights.

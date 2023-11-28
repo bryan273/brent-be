@@ -1,0 +1,1 @@
+The Home Depot [storeName] - #[storeID] can help with all of your home improvement needs. Our address is [address], [city], [state], [zipcode] and our phone number is [phoneNumber]. We offer a variety of features including [services]. For Home improvement professionals, we'll help get your jobs done faster and for less at our Pro Desk.

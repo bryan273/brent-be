@@ -1,0 +1,1 @@
+Foot inflammation: 1  Causes: Foot inflammation. 2  Introduction: Foot inflammation. 3  Foot inflammation: Add a 3rd symptom. 4  Foot inflammation: Remove a symptom.

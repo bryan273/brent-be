@@ -1,0 +1,1 @@
+To create simple volume, there must be at least one dynamic disk in computer. Run MiniTool Partition Wizard. In the main interface of MiniTool Partition Wizard, we can see whether there are any dynamic disks in computer. To create simple volume, select Dynamic Disk and click Create button on toolbar.

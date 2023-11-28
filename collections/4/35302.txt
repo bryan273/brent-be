@@ -1,0 +1,1 @@
+Creating the Database. Database creation, the heart of the installation, occurs in a series of steps, the first of which is creating the SQL script CreateWhsDB.sql. shows a sample script that the installation uses to create a database on the current server.

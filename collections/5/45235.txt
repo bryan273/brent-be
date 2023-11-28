@@ -1,0 +1,1 @@
+There are two principal types of reverse dictionaries: reverse word dictionaries, and reverse concept dictionaries (conceptual dictionary). This article discusses reverse word dictionaries; see conceptual dictionary for reverse concept dictionaries.

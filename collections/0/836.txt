@@ -1,0 +1,1 @@
+You can set up a version for each of the category codes that you use and specify the category code in a processing option for the program. If you assign the same category code value to more than one of your accounts, the system adds the amounts in all of the accounts and prints the total amount on the report.

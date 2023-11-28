@@ -1,0 +1,1 @@
+For providers to obtain prior authorization, Medica requires that the following information be provided: 1  Name and phone number of the provider who is making the request. 2  Name, phone number, address and type of specialty of the provider to whom the patient is being referred, if applicable.

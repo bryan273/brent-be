@@ -1,0 +1,1 @@
+It doesnt work as standard currency because of this. In vanilla bartering is best, but you can set a value for items; 5 iron= 1 diamond or whatever value that is deemed fit. You could set a correct value by finding the saturation of ores and the percentage they have of appearing and valuing the items like that.

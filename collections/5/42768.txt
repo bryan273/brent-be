@@ -1,0 +1,1 @@
+An exothermic process is one that gives off energy when it occurs. A simple example of an exothermic process is the combustion of gasoline, because this process gives off a great deal of heat. In fancy mathematical terms, we would say that exothermic processes have negative ∆H values because the system is giving off the energy (i.e. losing energy to the surroundings).

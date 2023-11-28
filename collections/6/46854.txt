@@ -1,0 +1,1 @@
+If x a is indeed a factor of p(x) , then the remainder after division by x a will be zero. That is: p(x) = (x a)q(x). In terms of the Remainder Theorem, this means that, if x a is a factor of p(x) , then the remainder, when we do synthetic division by x = a, will be zero.

@@ -1,0 +1,1 @@
+Electrical conductivity spans an incredibly large order of magnitudes (30!) from insulators to metals, and can even be infinite in superconductors. Knowledge of how to control it has allowed for the computer revolution, and ever increasing miniaturisation.

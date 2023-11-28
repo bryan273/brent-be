@@ -1,0 +1,1 @@
+There's a central time zone (abbreviated CST/CDT for Central Standard Time/Central Daylight Time), but there are six different time zones spanning North America (from eastern Canada to Alaska) and three time zones spanning South America.

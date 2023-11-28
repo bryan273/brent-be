@@ -1,0 +1,1 @@
+Clearly, for any object, we can find a size such that the escape velocity would be greater than the speed of light. Similarly, for any size object (or region of space), we can find a mass such that a mass crammed into that volume of space would be a black hole.

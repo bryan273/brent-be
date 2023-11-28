@@ -1,0 +1,1 @@
+The freezer side is working but the refrigerator side is not cooling at all. It appears that the baffle door will no longer open. I can push it open and the air baffle diagnostics test will close it, but it won't open no matter how warm it is.

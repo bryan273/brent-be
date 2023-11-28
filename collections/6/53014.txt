@@ -1,0 +1,1 @@
+If the buy targets developers who will program software, PaaS may fit. If the intent is to replace software with a cloud service, SaaS is a likely candidate. If the buy targets developers who will program software, PaaS may fit. Hardware, primarily IT Equipment for storage and Networking Equipment, belong on IaaS.

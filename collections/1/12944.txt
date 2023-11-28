@@ -1,0 +1,1 @@
+HIPAA has mandated the adoption of a National Provider Identifier (NPI), a standard unique. identifier for health care providers and organizations that are defined as covered entities under. HIPAA. All providers who transmit health information in electronic form via standard HIPAA electronic.

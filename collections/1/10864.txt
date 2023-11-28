@@ -1,0 +1,1 @@
+Your cholesterol ratio is calculated by dividing your total cholesterol by your HDL number. For instance, if your total cholesterol is 180 and your HDL is 82, your cholesterol ratio is 2.2.

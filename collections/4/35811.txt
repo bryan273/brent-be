@@ -1,0 +1,1 @@
+The octahedron of unit side length is the antiprism of sides with height. The octahedron is also a square dipyramid with equal edge lengths. There are 11 distinct nets for the octahedron, the same as for the cube (Buekenhout and Parker 1998).

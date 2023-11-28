@@ -1,0 +1,1 @@
+By using DHCP rather than the IP Control Protocol (IPCP), a DHCP client can acquire other useful information such as Domain Name System (DNS) addresses, the DNS default domain name, and the default route.

@@ -1,0 +1,1 @@
+The final type of tuner found in today’s digital television is the QAM tuner. QAM stands for “quadrature amplitude modulation” and it’s the standard used by cable companies for sending digital television signals to digital cable subscribers. In an ideal world, a QAM tuner would replace the need for a cable set top box.

@@ -1,0 +1,1 @@
+Most scoring models don’t penalize the same for a collections account whether it’s been paid off or not (Vantage 3.0 is the exception here). The negative information should automatically fall off your credit report 7 years and 180 days after the account with the original creditor was first reported late.

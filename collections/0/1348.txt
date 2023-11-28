@@ -1,0 +1,1 @@
+The new label assigns each vehicle a rating from 1 (worst) to 10 (best) for fuel economy and greenhouse gas emissions (i.e., how much carbon dioxide the vehicle’s tailpipe emits each mile), as shown below. Consumers may note that higher fuel economy is associated with a better GHG emissions profile.

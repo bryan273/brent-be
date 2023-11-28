@@ -1,0 +1,1 @@
+A process dissociation procedure that provides an escape from those problems is introduced. The process dissociation procedure separates the contributions of different types of processes to performance of a task, rather than equating processes with tasks.

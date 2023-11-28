@@ -1,0 +1,1 @@
+Create custom keyboard shortcuts to apply font or fill colors to selected cells in one step. The add-in is very easy to use, and there is a free version available! This is the fastest way to apply font and fill colors to a cell. Undo your changes if you accidentally press the wrong shortcut key.

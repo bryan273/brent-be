@@ -1,0 +1,1 @@
+The binding of an inhibitor can stop a substrate from entering the enzyme's active site and/or hinder the enzyme from catalyzing its reaction. Inhibitor binding is either reversible or irreversible. Irreversible inhibitors usually react with the enzyme and change it chemically (e.g. via covalent bond formation).

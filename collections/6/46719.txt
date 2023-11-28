@@ -1,0 +1,1 @@
+Flying time from LHR to EWR. The total flight duration from LHR to EWR is 7 hours, 26 minutes. This assumes an average flight speed for a commercial airliner of 500 mph, which is equivalent to 805 km/h or 434 knots. It also adds an extra 30 minutes for take-off and landing.

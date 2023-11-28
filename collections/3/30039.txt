@@ -1,0 +1,1 @@
+View indashboard. The daily average low (blue) and high (red) temperature with percentile bands (inner band from 25th to 75th percentile, outer band from 10th to 90th percentile). The warm season lasts from May 18 to September 14 with an average daily high temperature above 69A°69â. f

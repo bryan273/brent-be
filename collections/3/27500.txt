@@ -1,0 +1,1 @@
+To find the perimeter of a polygon, take the sum of the length of each side. So im thinking the two long sides are about 13 and the two short ones are 6. So 13 + 13 + 6 +6. And that equals 38.

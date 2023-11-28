@@ -1,0 +1,1 @@
+1 Examine the set of graphs below for a given city. 2  Read carefully the temperature and precipitation scales on the graphs.

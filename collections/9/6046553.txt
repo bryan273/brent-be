@@ -1,0 +1,1 @@
+To get a command block you need to enable cheats, then type /give 137. To use the command block set it down and righty click on it, when you do this a screen will pop up. Type … whatever command you want it to perform here.

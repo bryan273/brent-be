@@ -1,0 +1,1 @@
+Hi, For me I think that when I tried importing the Server 2008 R2 exported VM into Server 2012, it failed but in the background the VHD was attached as a hard drive. Detaching it from Disk Management removed the 'file lock' and I could use it as I wanted. Thanks to LuisFF and tdward.

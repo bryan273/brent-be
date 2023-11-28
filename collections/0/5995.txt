@@ -1,0 +1,1 @@
+These screens literally “resist” your touch; if you press hard enough you can feel the screen bend slightly. This is what makes resistive screens work – two electrically conductive layers bending to touch one another, as in this picture: Resistive touch screen technology [Image Credit: Chassis Plans]

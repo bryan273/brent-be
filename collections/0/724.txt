@@ -1,0 +1,1 @@
+The COMPASS test is a self-adjusting, multiple choice test that is taken at the computer. The. answer to your current question will determine the next question; it will stop once it has determined. your level. Consequently the test is untimed and has a different number of questions for each. student.

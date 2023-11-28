@@ -1,0 +1,1 @@
+ID: A 1 G.G.27: Triangle Proofs: Write a proof arguing from a given hypothesis to a given conclusionAnswer Section 1 ANS: 1 AB = CDAB + BC = CD + BCAC = BD REF: 081207ge 2 ANS: BE and AD intersect at point C, BC ≅ EC, AC ≅ DC, AB and DE are drawn (Given). ∠ BCA ≅∠ ECD (Vertical Angles).

@@ -1,0 +1,1 @@
+RandomPicker is a random winner generator for your contests, lotteries or sweepstakes and will validate the correctness of your draws.

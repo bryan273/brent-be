@@ -1,0 +1,1 @@
+In this video tutorial we will show you how to set x and y axis in excel. Open the excel document you want to edit. Select the part of the text you want to edit. Go to Insert tab. Click on Scatter and select the preferred scatter. After the diagram appears, right-click to it and choose Select data.

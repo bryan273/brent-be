@@ -1,0 +1,1 @@
+They define it as the product of how far the object goes multiplied by how much force that takes. (W=DF) It the force isn't lined up with the direction of travel, you have to …use the formula W=DFcos(θ), where θ is how many degrees off the force is from the direction of travel.

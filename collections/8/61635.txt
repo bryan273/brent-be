@@ -1,0 +1,1 @@
+A type of UN specification packaging, know as variation packaging (or V packaging for short) is used when a combination of different inner components is needed, or when the party responsible for shipping has a variety of products to ship.

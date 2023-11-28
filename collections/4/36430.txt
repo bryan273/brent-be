@@ -1,0 +1,1 @@
+For assets other than goodwill or indefinite-lived intangibles, an impairment charge is recognized whenever an asset's recoverable amount (the higher of its fair value less costs to sell, and its value in use) exceeds its carrying amount.

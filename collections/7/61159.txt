@@ -1,0 +1,1 @@
+Define.pdf, SAS ® ODS, RTF, define.xml, bookmark, hyperlink . Introduction . In a regulated industry such as pharmaceutical and biotechnology industry, product submissions for marketing approval currently require define.xml (data definition) files for study data tabulation model (SDTM). It is a good idea to include define.xml files for analysis data model

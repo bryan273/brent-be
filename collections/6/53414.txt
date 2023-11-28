@@ -1,0 +1,1 @@
+Do not build isolated hollow core masonry piers that are fi lled solid with concrete or mortar taller than 10 times the unit thickness. Example: an isolated hollow core masonry pier made from standard 8 by 8 by 16 inch solid-fi lled units should not be taller than 80 inches.

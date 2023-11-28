@@ -1,0 +1,1 @@
+Notepad is a basic text editor that you can use to create simple documents. The most common use for Notepad is to view or edit text (.txt) files, but many users find Notepad a simple tool for creating Web pages. Because Notepad supports only very basic formatting, you cannot accidentally save special formatting in documents that need to remain pure text.

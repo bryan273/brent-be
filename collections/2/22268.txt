@@ -1,0 +1,1 @@
+Click Close when the system alerts you that the formatting is complete. Click Start, and then click Computer.. Double-click the SanDisk card, flash drive or other device under Drives with removable storage.. Right-click within the card and select New Folder.. Type in and save the name for the folder as DCIM.

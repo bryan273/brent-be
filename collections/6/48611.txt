@@ -1,0 +1,1 @@
+Service set (802.11 network) In computer networking, a service set is a set consisting of all the devices associated with a consumer or enterprise IEEE 802.11 wireless local area network (WLAN). The service set can be local, independent, extended or mesh.

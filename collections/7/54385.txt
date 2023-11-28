@@ -1,0 +1,1 @@
+In a medium, light usually does not propagate at a speed equal to c; further, different types of light wave will travel at different speeds. The speed at which the individual crests and troughs of a plane wave (a wave filling the whole space, with only one frequency) propagate is called the phase velocity v p.

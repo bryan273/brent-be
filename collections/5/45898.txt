@@ -1,0 +1,1 @@
+Application Software Defined. Unlike systems software, applications software is designed to be used by end-users. Applications software, in essence, sits on top of system software, as it is unable to run without the operating system and other utilities.

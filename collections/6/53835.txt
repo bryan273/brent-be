@@ -1,0 +1,1 @@
+URL is the acronym for Uniform Resource Locator, they are an address or reference to a resource or service on the Internet. e.g. http://www.google.com uses the Hypertext Transfer Protocol to access the World Wide Web and retrieve Google's homepage. mr_cabbageman · 1 decade ago.

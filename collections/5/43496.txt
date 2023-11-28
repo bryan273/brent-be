@@ -1,0 +1,1 @@
+The Lorentz force is always perpendicular to both the velocity of the particle and the magnetic field that created it. When a charged particle moves in a static magnetic field, it traces a helical path in which the helix axis is parallel to the magnetic field, and in which the speed of the particle remains constant.

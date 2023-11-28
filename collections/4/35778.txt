@@ -1,0 +1,1 @@
+It can be up to 34 characters long and contains a two-character country code, two check digits, and the basic bank account number. The basic bank account number. identifies the bank as well as the account holder. In printed format, spaces are inserted. for readability (i.e. DE16 5003 3300 0532 0130 00).

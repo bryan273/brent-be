@@ -1,0 +1,1 @@
+The rapid scan feature of the IRTracer-100 FTIR permits acquisition of 20 infrared spectra per second, enabling precise observation of the curing reaction process even when it is completed within a few seconds.

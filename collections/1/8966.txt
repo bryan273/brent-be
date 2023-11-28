@@ -1,0 +1,1 @@
+Notes: 1  The lenders (the people who put up the $9bn in the example) can insure against default by syndicating the loan to spread the risk, or by buying credit default swaps (CDSs) or selling collateralised debt obligations (CDOs) from/to other institutions (although this is no business of the private equity firm).

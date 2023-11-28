@@ -1,0 +1,1 @@
+Cookies Disabled Error: Cookies are disabled in your browser, HRWeb system will not work correctly without JavaScript Cookies enabled, continuing without it may result in loss of data. Contact our support if you need help at <hrweb_support@cohred.org>.

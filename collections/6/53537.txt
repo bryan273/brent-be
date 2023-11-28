@@ -1,0 +1,1 @@
+Notepad and WordPad, despite their similar names, serve different purposes. Notepad is a text editor, meant for basic plain text entry, while WordPad is a word processor, meant for formatting and printing documents—like Microsoft Word, but not quite as advanced. They aren’t the only programs in their respective categories, either.

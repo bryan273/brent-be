@@ -1,0 +1,1 @@
+Add 273 to the amount of kelvins to get it into degrees Celsius. To get Fahrenheit from celsuis, you use this equation (°C x 1.8) + 32 = °F Or you could go to this site http://www.metric-conversions.org/cgi-bi... to convert Kelvins to Celsius and Fahrenheit

@@ -1,0 +1,1 @@
+How touchscreens work. Different kinds of touchscreen work in different ways. Some can sense only one finger at a time and get extremely confused if you try to press in two places at once. Others can easily detect and distinguish more than one key press at once. These are some of the main technologies:

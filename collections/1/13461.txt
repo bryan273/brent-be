@@ -1,0 +1,1 @@
+It doesn't do anything with the fields of the instance. So, any method which does not take any information from a field, and does not put any information into a field, does not have to be an instance method. Any method which does not use or alter any fields in its class or object might as well be a static method.

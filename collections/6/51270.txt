@@ -1,0 +1,1 @@
+Option 2: Find the number in the BIOS using System Information. Use the following steps to find a product identification number from the BIOS. If the computer does not power on, refer to Option 3: Use the product label. Turn on the computer by pressing the power button.

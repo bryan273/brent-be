@@ -1,0 +1,1 @@
+The critical value of chi-square for a significance level (or p-value) of 0.05, for example, is 3.84. The null hypothesis for the chi-square test is that there is no difference in test results between patients with and without the disease.

@@ -1,0 +1,1 @@
+Calculate Max over time on sum function in Prometheus. This isn't possible in one expression, you need to use a recording rule for the intermediate expression. See https://www.robustperception.io/composing-range-vector-functions-in-promql/.

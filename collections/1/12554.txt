@@ -1,0 +1,1 @@
+Your blood sugar level is taken again two hours later. The result should be less than 7.8. A result between 7.8 and 11.1 is indicative of 'impaired glucose tolerance' and a result above 11.1 indicates a diagnosis of diabetes. People diagnosed with impaired glucose tolerance are considered 'pre-diabetic'.

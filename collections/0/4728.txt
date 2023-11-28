@@ -1,0 +1,1 @@
+FAQs / Virtual machine remote console plugin does not work in vCloud Director. Symptoms. The virtual machine remote console (VMRC) plug-in fails and does not connect in vCloud Director. Though the plug-in is already installed, it repeatedly asks to install the plug-in.

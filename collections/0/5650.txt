@@ -1,0 +1,1 @@
+The Kindle 2 added native PDF capability with the version 2.3 firmware upgrade. The Kindle 1 could not read PDF files, but Amazon provides experimental conversion to the native AZW format, with the caveat that not all PDFs may format correctly.

@@ -1,0 +1,1 @@
+The next step is to rewrite those fractions as like fractions. To re-write fractions as like fractions using the least common denominator, 1  Divide the least common denominator (15 in the example above) by the denominator of the first fraction. ( 2 15 divided by 3 = 5).

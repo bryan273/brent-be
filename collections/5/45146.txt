@@ -1,0 +1,1 @@
+1 Click Manage search engines. 2  Under Other search engines you can: 3  Add a search engine: Fill out the fields to set up the search engine. 4  Edit a search engine: If a search engine is listed, select it and edit the fields.  Delete a search engine: Select the search engine and click the X that appears at the end of the row.

@@ -1,0 +1,1 @@
+Brian Jones. 1  With the soon-to-be released next version of Microsoft® Office (currently code-named Office 12), there will be new default file formats for Microsoft Word, PowerPoint®, and Excel®. These new formats, called the Microsoft Office Open XML Formats, will open up a whole new world to Office developers.

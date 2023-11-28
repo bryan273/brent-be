@@ -1,0 +1,1 @@
+Interval data is like ordinal except we can say the intervals between each value are equally split. The most common example is temperature in degrees Fahrenheit. The difference between 29 and 30 degrees is the same magnitude as the difference between 78 and 79 (although I know I prefer the latter).

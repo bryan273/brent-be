@@ -1,0 +1,1 @@
+The Genetic Code. The sequence of bases on DNA codes for the sequence of amino acids in proteins. But there are 20 different amino acids and only 4 different bases, so the bases are read in groups of 3. This gives 64 combinations, more than enough to code for 20 amino acids.

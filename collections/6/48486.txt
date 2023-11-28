@@ -1,0 +1,1 @@
+OpenSSL and what encryption method to use. up vote 1 down vote favorite. 2. I am on OS X 10.8.3, savvy with a command-line and I want to use OpenSSL to start encrypting sensitive information on my MacBook Pro. I know that I can use openSSL in a syntax like: openssl enc -aes-256-ecb -in in.txt -out encrypted.txt.

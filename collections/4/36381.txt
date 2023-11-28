@@ -1,0 +1,1 @@
+Those materials have a specific gravity more than 1. Pure water at 4 C (the maximum density) was chosen as the accepted standard for specific gravity and given the value of 1. Some other standards set pure water at 60 F as sg = 1 so it is more correct to state the base used.

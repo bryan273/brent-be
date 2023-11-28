@@ -1,0 +1,1 @@
+That is because Microsoft has opened the Excel file format and decided to break the insides into XML files. When an XLSX or XLSM file is saved Excel needs to break it down into separate XML files, compress it and finally save it as XLSX or XLSM. The XLSB file format on the other hand is a binary Excel file. It resembles the old XLS file format which was also a binary file.

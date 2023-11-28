@@ -1,0 +1,1 @@
+EMG active pickups and EQs are powered by a standard, rectangular 9 volt (IEC 6LR61/NEDA 1604A) battery. We recommend normal alkaline batteries (Eveready or Duracell, for example) for best results. These are the same batteries that you would use in an effects box or wireless unit and are widely available.

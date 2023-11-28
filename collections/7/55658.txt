@@ -1,0 +1,1 @@
+You can use the Bluetooth File Exchange application to transfer files between Bluetooth-enabled devices. 1  Drag the file you want to copy onto the Bluetooth File Exchange icon, located in the Utilities folder, inside the Applications folder on your hard disk.

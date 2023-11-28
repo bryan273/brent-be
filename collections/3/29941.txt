@@ -1,0 +1,1 @@
+Rational Method is a rather conservative method. One of the basic assumptions of the rational formula is that the rainfall intensity must be constant for an interval at least equal to the time of concentration. For long duration of rainfall, this assumption may not hold true.

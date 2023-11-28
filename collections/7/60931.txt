@@ -1,0 +1,1 @@
+Molecular orbital theory rests on the notion that atomic orbitals are combined to form molecular orbitals. Because electron density from each atom is spread out over the span of the entire molecule, the electrons are lowered in energy.

@@ -1,0 +1,1 @@
+The Verizon Ellipsis Jetpack is a little slow to boot up, but in a minute or two it is online and connected to Verizon 4G LTE if it is available. The small device has one button and a small display to show the connectivity status, battery life, connected devices and data usage. That’s really all it needs.

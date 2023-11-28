@@ -1,0 +1,1 @@
+If you have a second PC, you can try the Steam connection there, just to test it out. If it is not working as well, it could indicate a issue either with your Internet connection, or with Steam servers.

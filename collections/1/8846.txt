@@ -1,0 +1,1 @@
+Find the magnitude and direction of the vector sum R1 where R1 = A + B . = 15.9 m at an angle 180 degrees from the positive horizontal axis, and the vector B = 8.7 m at an angle 70.2 degrees from the positive horizontal axis. Answer in units of m.

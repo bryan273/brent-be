@@ -1,0 +1,1 @@
+Delivers Virtual Data Centers in Minutes. vCloud Director orchestrates the provisioning of software-defined data center (SDDC) services as complete virtual data centers that are ready for consumption in minutes.

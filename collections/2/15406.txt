@@ -1,0 +1,1 @@
+text/html 11/15/2013 1:29:24 PM Trevor Sullivan [MVP] 7. Hey folks, When I use the Track Changes feature in Word 2013 (running on Windows 8.1), and I create a new Comment, my name temporarily appears as the Author, but when I close and re-open the document, it switches the Author name to Author instead of my name. Also, my picture disappears in favor of a generic icon.

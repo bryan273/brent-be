@@ -1,0 +1,1 @@
+Number of Winners This tool randomly pick a winner (or winners) for contests, giveaways, raffles and sweepstakes from a given list of names. It uses the Mersenne Twister random number generator to provide a uniform distribution of winners, and this way insure the fairness of the contest.

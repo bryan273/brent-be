@@ -1,0 +1,1 @@
+3.1 Cost Estimation. Cost estimation is performed for a number of cost categories of buildings and requirements. The approach for each can be summarized in a simplified framework. Overall, the incremental cost of compliance for elements includes initial and recurring costs.

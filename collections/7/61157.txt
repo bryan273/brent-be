@@ -1,0 +1,1 @@
+The format name is a valid SAS name of up to 8 characters. Character formats start with $. The specifications are made in value pairs. These pairings are in the form of: incoming_value = formatted_value USING THE VALUE STATEMENT Simple formats are created using the VALUE statement. It includes the name of the format to be created and the paired

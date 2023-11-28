@@ -1,0 +1,1 @@
+Where to find the hosts file in Windows 7, Vista, 2000, 2003, NT? The location of the hosts file in Windows 7 is: C:\Windows\System32\drivers\etc; Sidenote: In Windows 95, 98, ME the location is: %WinDir%\ Malware exploits your host file. As mentioned above your hosts file can map hostnames to IP’s.

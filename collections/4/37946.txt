@@ -1,0 +1,1 @@
+The check digits enable the sending bank (or its customer) to perform a sanity check of the routing destination and account number from a single string of data at the time of data entry.

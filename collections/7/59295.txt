@@ -1,0 +1,1 @@
+Let’s chop it down to pieces: 1  The Fmt field, together with the Type field say this is a Completion packet with data. 2  The Length field has the value 0x001, indicating that this TLP has one DW (32-bit word) of data. But wait. 3  And if we’re at it, we have the Byte Count field.

@@ -1,0 +1,1 @@
+As they do with proprietary software, users must accept the terms of a license when they use open source software—but the legal terms of open source licenses differ dramatically from those of proprietary licenses. Open source licenses affect the way people can use, study, modify, and distribute software.

@@ -1,0 +1,1 @@
+Select a Photo From Your Computer. 1  Select photos on your computer to add to your review. You can upload 5 photos at a time. 2  Select videos on your computer to add to your review. You can upload 1 video in .3gp, .asf, .avi, .flv, .mov, .mp4, .mpg, .vob, .wmv format, which is up to 5 minutes in length.

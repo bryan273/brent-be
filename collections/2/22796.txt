@@ -1,0 +1,1 @@
+UV-B lamps are lamps that emit a spectrum of ultraviolet light with wavelengths ranging from 290-320 nanometers. This spectrum is also commonly called the biological spectrum due to the human body's sensitivity to light of such a wavelength.

@@ -1,0 +1,1 @@
+Circles the earth parallel to the Equator and measures the distance north or south of the Equator in degrees.

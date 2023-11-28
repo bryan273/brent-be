@@ -1,0 +1,1 @@
+The Mod: Minecraft Money is a mod to enhance trading on Minecraft Servers. The mod adds a currency named 'Crafts' to the game. To allow a stable trading system with the money items they can not be crafted. Money items have to be added by an admin to the world.

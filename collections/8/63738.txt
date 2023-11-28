@@ -1,0 +1,1 @@
+The offset from UTC changes with daylight saving time, e.g. a time offset in Chicago, which is in the North American Central Time Zone, is −06:00 for the winter (Central Standard Time) and −05:00 for the summer (Central Daylight Time).

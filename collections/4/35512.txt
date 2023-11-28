@@ -1,0 +1,1 @@
+This is thebasis of all measurement of length. Every description of the scene of an event or of the position of an object in space is based on the specification of the point on a rigid body (body of reference) with which that event or object coincides. This applies not only to scientific description, but also to everyday life.

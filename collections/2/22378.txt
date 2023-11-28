@@ -1,0 +1,1 @@
+Therefore. and so. The dimension of the kernel is the number of vectors that span, so the dimension of the kernel of A is 1. Also notice that the dimension is given by the number of columns without leading ones in reduced row echelon form.

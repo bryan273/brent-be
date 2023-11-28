@@ -1,0 +1,1 @@
+Data represents total calendar year earnings, including base pay and any additional compensation or premiums such as overtime or assignment pay. Filter the data by Salary Range, an individual Employee name, a specific Job Title, and/or a state Agency by clicking in the white parameter boxes.

@@ -1,0 +1,1 @@
+To open ProShow, click on All Apps, locate the ProShow folder (Note: list is sorted alphabetically) and then click on the ProShow Shortcut to launch the program from the start menu. Start ProShow from the taskbar in Windows 10. The Windows 10 taskbar has a couple of new goodies including search with Cortana.

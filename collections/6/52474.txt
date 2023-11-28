@@ -1,0 +1,1 @@
+Note. 1  The minimum password age must be less than the Maximum password age. 2  Configure the minimum password age to be more than 0 if you would like to have entered a value for Enforce password history to be effective.

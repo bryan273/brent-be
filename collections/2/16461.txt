@@ -1,0 +1,1 @@
+up vote 2 down vote. It depends on what version of WordPress your sites run. If you are up to date, you shouldn't have much of an issue. According to the official WordPress hosting guide, any version of MySQL version 5.0.15 or greater is supported for WordPress. You can give this article a read and see if there is anything that jumps out at you as being particularly dangerous.

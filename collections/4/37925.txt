@@ -1,0 +1,1 @@
+Computer Management (Local) > Storage > Disk Management. 3. Right-click the unallocated space on the dynamic disk on which you want to create the simple volume, and then click New Volume. 4. In the New Volume Wizard, click Next, click Simple, and then follow the instructions on your screen. Note. To open Computer Management, click Start, and then click Control Panel.

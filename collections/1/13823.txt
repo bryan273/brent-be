@@ -1,0 +1,1 @@
+DC Motors 1. Shunt DC motor: The rotor and stator windings are connected in parallel.2. SparatelyExcited motor: The rotor and stator are each connected from a different power supply, this gives another degree of freedom for controlling the motor over the shunt.3.

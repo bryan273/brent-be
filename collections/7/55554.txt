@@ -1,0 +1,1 @@
+The purpose of this test is to select types of coagulant (alum) and also to estimate the optimal dose needed in removing the charged particles that occurred in raw water. Jar test is an experiment to understand the processes of coagulation, flocculation and sedimentation (AWWA, 2011).

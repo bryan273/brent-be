@@ -1,0 +1,1 @@
+1 The platelet count is the number of platelets in a person's sample of blood. 2  Mean platelet volume (MPV) may be reported with a CBC. 3  It is a calculation of the average size of platelets. 4  Platelet distribution width (PDW) may also be reported with a CBC.

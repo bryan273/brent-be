@@ -1,0 +1,1 @@
+New SQL Tab. CTRL+T. Open a new tab for a SQL script in the Code Editor. New Stored Object. CTRL+N. Create a stored object. File | Open File. CTRL+O. Open a file from Windows Explorer. File | Save to File. CTRL+S. Save the file.

@@ -1,0 +1,1 @@
+WebTA is a web-based T&A system developed to interface with the Department’s payroll/personnel service provider, the National Finance Center (NFC). This system allows employees to input their own biweekly time and leave data and provides them with the ability to submit electronic leave requests and validate their T&As online.

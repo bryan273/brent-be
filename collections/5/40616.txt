@@ -1,0 +1,1 @@
+Instructions are available for users of Windows 7, 8 and 8.1 to repair the Blue Screen 0x50 Stop error message condition. [Related: Microsoft Investigating Faulty Patch Causing Blue Screen Of Death ]. A small number of customers experienced problems with a few of the updates.

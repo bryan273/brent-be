@@ -1,0 +1,1 @@
+PTH is the primary hormone that protects against hypocalcimia, so it is stimulated to secrete by low circulating [Ca++], which is sensed by the parathyroid chief cell through a CaSR (Ca++-sensing receptor, GPCR).

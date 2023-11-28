@@ -1,0 +1,1 @@
+In Internet Explorer, click Print - Page setup and check the Print Background Colors and Images box. In Google Chrome, click Print then check the Background colors and images box under the Options section. In Mozilla Firefox, click File - Page Setup then check the Print Background (colors & images) box.

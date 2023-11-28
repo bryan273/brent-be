@@ -1,0 +1,1 @@
+These are CD's that have a sample rate of 44.1 KHz and a bit-depth of 16. If you are ripping disks for your car's audio system then lossless audio with Redbook specs will have *.aiff or *.wav extensions. iTunes and Windows Media Player can do this for you.

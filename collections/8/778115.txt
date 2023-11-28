@@ -1,0 +1,1 @@
+Heat Treatment Processes Hardening. Hardening involves heating of steel, keeping it at an appropriate temperature until all pearlite is transformed into austenite, and then quenching it rapidly in water or oil. The temperature at which austentizing rapidly takes place depends upon the carbon content in the steel used.

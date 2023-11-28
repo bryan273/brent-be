@@ -1,0 +1,1 @@
+For example, if there are two EMG-89's in a guitar, you will need two push/pull pots, two mini toggles, or one of each. The pot portion of the push/pull pot is 25K ohms. It can be wired as a volume control or a tone control.

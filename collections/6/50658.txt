@@ -1,0 +1,1 @@
+Resolution Quality. The other main difference between NTSC and PAL is resolution quality. While PAL produces fewer frames per second than NTSC, it produces more lines. An NTSC television will broadcast 525 lines of resolution, while a PAL television will broadcast 625 lines of resolution.

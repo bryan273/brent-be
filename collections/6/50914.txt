@@ -1,0 +1,1 @@
+1 Changing a corporation into a limited liability company (LLC). 2  For example, a C corporation with an owner that is not a US citizen wish to become an LLC to take advantage of pass-through taxation. ( 3 Because the C corporation has an owner that is not a US citizen, it cannot become an S corporation .).

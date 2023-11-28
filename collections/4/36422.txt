@@ -1,0 +1,1 @@
+Escrow Balance Esc Bal Amount of funds remaining in escrow account. Escrow Deﬁciency Amount of a negative balance in an escrow account at the time of an escrow analysis, resulting from escrow advances. Escrow Payment Portion of borrower’s monthly mortgage payment held by the servicer in escrow account to pay for taxes, insurance premi-

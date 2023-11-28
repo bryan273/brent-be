@@ -1,0 +1,1 @@
+GPU-accelerated computing offloads compute-intensive portions of the application to the GPU, while the remainder of the code still runs on the CPU. From a user's perspective, applications simply run much faster. A simple way to understand the difference between a GPU and a CPU is to compare how they process tasks.

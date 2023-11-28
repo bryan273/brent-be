@@ -1,0 +1,1 @@
+The Transport Layer Security (TLS) protocol, Secure Sockets Layer (SSL) protocol, versions 2.0 and 3.0, and the Private Communications Transport (PCT) protocol are based on public key cryptography. The Security Channel (Schannel) authentication protocol suite provides these protocols.

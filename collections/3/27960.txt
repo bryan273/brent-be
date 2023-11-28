@@ -1,0 +1,1 @@
+While the most common voltage is 120/240, there are other states with a nominal voltage of 115/230. It is rare for a utility to furnish 110/220 at the meter. After the electricity enters your home, there is additional voltage drop along the wires to your receptacle.

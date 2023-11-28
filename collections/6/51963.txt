@@ -1,0 +1,1 @@
+I know how to check in Javascript if HTML5 audio playback is available. But how do I specifically check if MP3 audio playback is available, as IE9 and Chrome support it, while Firefox and Opera do not. html5 html5-audio browser-feature-detection.

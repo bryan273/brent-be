@@ -1,0 +1,1 @@
+The sound intensity near a hard surface is enhanced because the reflected wave adds to the incident wave, giving a pressure amplitude that is twice as great in a thin pressure zone near the surface. This is used in pressure zone microphones to increase sensitivity.

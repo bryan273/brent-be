@@ -1,0 +1,1 @@
+Going From SSL to TLS. Secure Sockets Layer (SSL) is the predecessor to Transport Layer Security (TLS). TLS is an Internet Engineering Task Force (IETF) standards track protocol that is based on the earlier SSL specifications.

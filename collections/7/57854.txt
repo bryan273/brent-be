@@ -1,0 +1,1 @@
+PRV Controlled Constant Pressure Systems The figure to the left is that of a simple, simplex (one pump) constant pressure booster. It consists of pump that runs continuously, a check valve mounted on its suction (or discharge), a pressure reducing valve (PRV) mounted on its discharge, and a control panel.

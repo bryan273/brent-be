@@ -1,0 +1,1 @@
+The first product, VMware Workstation, was delivered in May 1999, and the company entered the server market in 2001 with VMware GSX Server (hosted) and VMware ESX Server (hostless). In 2003, VMware launched VMware Virtual Center, the VMotion, and Virtual SMP technology.

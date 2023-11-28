@@ -1,0 +1,1 @@
+Dimming can cause problems even in an otherwise perfect LED lighting installation. That’s because conventional dimmers work by lengthening the ‘off’ part of each on-off flicker cycle, in order to reduce the total amount of light that’s being output. This technique is called pulse width modulation (PWM).

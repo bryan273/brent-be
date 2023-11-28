@@ -1,0 +1,1 @@
+The recommended entry level path for students is Microsoft Technology Associate (MTA) skills development. After students are well versed in the basics, they can begin preparing for the Microsoft Certified Solutions Associate (MCSA) certification or the Microsoft Certified Solutions Developer (MCSD) certification.

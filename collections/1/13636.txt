@@ -1,0 +1,1 @@
+What you will need. 1  A Raspberry Pi 2(!). 2  A case – optional, but these are cheap and keep your Pi nice and safe. 3  An SD card reader – remember that the Pi 2 uses a microSD card.

@@ -1,0 +1,1 @@
+A new window will open where you need to input the following details 1  −. Profit center name and a short description of the profit center. 2  Person responsible for the profit center. 3  Profit center group for which the profit center belongs to.

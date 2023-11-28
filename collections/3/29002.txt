@@ -1,0 +1,1 @@
+This page is trying to establish a connection with the yahoo.groups domain name's web server to perform a network independent yahoo down or not test. If the site is up, try the troubleshooting tips below, but if the site is down, there is not much you can do. Read more: what we do and how do we do it.

@@ -1,0 +1,1 @@
+sap had to do something about it and then came fiori the fiori apps are developed using sapui5 the new big guy in the world of ui development fiori in italian flower is the just a name for all the apps that are developed in ui5 and follow an ui architecture

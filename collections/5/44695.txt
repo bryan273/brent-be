@@ -1,0 +1,1 @@
+PDT vs PST. Difference between PDT and PST is simply an hour. However, in order to understand how that one hour difference happens as well as what that one hour time difference means, we should understand what each term refers to. PDT stands for Pacific Daylight Time and PST stands for Pacific Standard Time.

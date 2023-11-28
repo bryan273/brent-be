@@ -1,0 +1,1 @@
+occupied by a given substitutional element. Thus if i represents the substitutional element yi~ x i Pm M x M (1) On this basis, the site fraction for an interstitial element j is given by yj~ a c x j Pm M x M (2) where a/c is the ratio of substitutional sites to interstitial sites in a particular lattice. This ratio is equal to unity in austenite and one third for ferrite.

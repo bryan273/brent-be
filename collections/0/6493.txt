@@ -1,0 +1,1 @@
+Key Features. 1  Run multiple operating systems simultaneously on the same PC. 2  Choose from hundreds of support Guest and Host OS's. 3  Ready for the latest releases of Windows 10.  Create restricted and expiring 1  VMs. Run VMware Workstation Pro as a server to share virtual machines with others.

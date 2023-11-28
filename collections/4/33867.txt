@@ -1,0 +1,1 @@
+Many applications display KML, including Google Earth, Google Maps, Google Maps for mobile, NASA WorldWind, ESRI ArcGIS Explorer, Adobe PhotoShop, AutoCAD, and Yahoo! Pipes.

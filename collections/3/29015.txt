@@ -1,0 +1,1 @@
+1 According to the Maxwell theory the frequency ν of classical radiation is equal to the rotation frequency ν rot of the electron in its orbit, with harmonics at integer multiples of this frequency. 2  This result is obtained from the Bohr model for jumps between energy levels E n and E n−k when k is much smaller than n.

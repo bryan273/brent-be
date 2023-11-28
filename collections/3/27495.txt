@@ -1,0 +1,1 @@
+4 right angle triangles are forming in the diagram of same kind use phytagorus theorem ans=last option. Think of this polygon as 4 congruent right triangles. The sides of the polygon are the 4 hypotenuses of the 4 triangles. The 4 hypotenuses are congruent. If you find the length of one hypotenuse and multiply it by 4, you'll have the perimeter of the polygon.

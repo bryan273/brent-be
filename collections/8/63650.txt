@@ -1,0 +1,1 @@
+Adding or inserting blank cells into an Excel worksheet from time to time is a common practice: data gets forgotten and must be added, space must be made for new data, or existing data gets moved about when the sheet is reorganized.

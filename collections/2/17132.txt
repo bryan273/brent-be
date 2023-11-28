@@ -1,0 +1,1 @@
+Video: Combine the contents of multiple cells into one cell. Applies To: Excel 2010 More... Learn how to combine separate columns of information, such as first and last names, into a single column.

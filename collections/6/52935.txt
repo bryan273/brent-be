@@ -1,0 +1,1 @@
+The electrical conductivity of a material is defined as the amount of electric charge transferred per unit time across unit area under the action of a unit potential gradient: J = σ E. where J is the current density (current per unit area) and E is the potential gradient.

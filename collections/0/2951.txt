@@ -1,0 +1,1 @@
+I f you need to know the exact times that the markets open and close, you have to take time zones into consideration. It is very simple when expressed in GMT. This is Greenwich Mean Time. This is the standard (winter) time in Greenwich, London which is the point of zero longitude on the globe. The normal Forex market hours are 22.00 Sunday GMT to 22.00 Friday GMT.

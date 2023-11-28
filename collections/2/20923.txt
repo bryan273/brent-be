@@ -1,0 +1,1 @@
+The kilogram-force is a non-SI unit of force, defined as the force exerted by a one kilogram mass in standard Earth gravity (equal to 9.80665 newtons exactly). The dyne is the cgs unit of force and is not a part of SI, while weights measured in the cgs unit of mass, the gram, remain a part of SI.

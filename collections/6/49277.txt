@@ -1,0 +1,1 @@
+A lens with a short focal length will have a small Depth Of Focus. (A microscope can have a DOF of less than 1 micrometer.). Another attribute of a lens system is its Contrast. Resolution is worthless without contrast, the ratio between the dark and the light-the number of shades.

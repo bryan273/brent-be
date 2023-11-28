@@ -1,0 +1,1 @@
+2. In a series circuit you will need to calculate the total resistance of the circuit in order to figure out the amperage. This is done by adding up the individual values of each component in series. In this example we have three resistors. To calculate the total resistance we use the formula: 1  RT = R1 + R2 + R3.

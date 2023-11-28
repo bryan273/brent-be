@@ -1,0 +1,1 @@
+The SSID (service set identifier) is the informal (human) name of the BSS (just like a Windows Workgroup name). A BSS is functionally a contention domain as a local or workgroup network is functionally a broadcast domain.

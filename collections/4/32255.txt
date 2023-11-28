@@ -1,0 +1,1 @@
+Differential Scanning Calorimetry (DSC) is a calorimetric method that is very useful for studying protein stability. DSC measures the apparent molar heat capacity (C p) of a protein as a function of temperature (Freire, 1995) (Figure 17.7).

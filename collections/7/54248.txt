@@ -1,0 +1,1 @@
+.blog-post .paragraph font { font-family: Open Sans; font-size: 14px; font-weight: bold; color: #FF0000; line-height: 42px; }. For the font family, you can use any font that is available on Weebly. The font size and line height are simply integer numbers followed by px.

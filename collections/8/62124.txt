@@ -1,0 +1,1 @@
+RecipeName Calories CaloriesfromFat TotalFat SaturatedFat TransFat Cholesterol Sodium Carbohydrates DietaryFiber Sugars Protein VitaminA VitaminC Calcium Iron 01- Combination 690 190 22g 4.5g 0g 60mg 1180mg 92g 6g 10g 29g 60% 15% 4% 35% 02- Pork Roll 800 320 35g 9g 0g 50mg 1020mg 94g 6g 10g 26g 45% 15% 4% 30%

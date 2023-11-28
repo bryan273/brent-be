@@ -1,0 +1,1 @@
+The Excel IPMT function calculates the interest payment, during a specific period of a loan or investment that is paid in constant periodic payments, with a constant interest rate. The syntax of the function is:

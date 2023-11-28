@@ -1,0 +1,1 @@
+Temporary virtual network interface. The process of creating a virtual network interface in Linux is a quite simple matter. It involves a single execution of the ifconfig command. ifconfig eth0:0 123.123.22.22. The above command will create a new virtual network interface based on original eth0 physical interface.

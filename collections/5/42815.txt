@@ -1,0 +1,1 @@
+An example of an effective lockout/tagout procedure. The procedure outlined in this article establishes the minimum requirements for the lockout or tagout of energy-isolating devices. Lockout is the preferred method of isolating fixtures, equipment or machinery from energy sources.

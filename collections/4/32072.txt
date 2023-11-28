@@ -1,0 +1,1 @@
+A speaker has several parts: 1  Box – houses the drivers and, if present, a passive crossover network. 2  Crossover network – divides the audio signal between the drivers. 3  Driver – converts the electrical audio signals into sound waves.

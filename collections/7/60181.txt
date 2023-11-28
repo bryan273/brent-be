@@ -1,0 +1,1 @@
+OOPL - Object Oriented Programming Languages. An object-oriented programming language (OOPL) is a high-level programming language based on the object-oriented model. To perform object-oriented programming, one needs an object-oriented programming language.

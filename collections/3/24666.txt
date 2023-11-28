@@ -1,0 +1,1 @@
+The following table lists the most important built-in date functions in MySQL: The following table lists the most important built-in date functions in SQL Server: The most difficult part when working with dates is to be sure that the format of the date you are trying to insert, matches the format of the date column in the database.

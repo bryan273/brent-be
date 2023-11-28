@@ -1,0 +1,1 @@
+HTML5 Audio Browser Support. HTML5 is capable of playing audio files via browsers. However, there is no universal support amongst software companies behind each browser type. As a result, HTML5 developers need to make sure that audio content is create in different formats.

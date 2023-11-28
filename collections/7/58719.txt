@@ -1,0 +1,1 @@
+Go to the Developer Dashboard to create a private device type. 1  First, sign into the ARTIK Cloud Developer Dashboard. If you don't have an ARTIK Cloud Account, you can create one at this step. 2  Click + New Device Type. 3  Name this device type Smart Light and give it a unique name such as com.example.iot.light.

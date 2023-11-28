@@ -1,0 +1,1 @@
+Check for operating system information in Windows 10. 1  Go to Start , enter About your PC, and then select About your PC. 2  Look under PC for Edition to find out which version and edition of Windows that your PC is running. 3  Look under PC for System type to see if you're running a 32-bit or 64-bit version of Windows.

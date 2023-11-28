@@ -1,0 +1,1 @@
+Survivorship (lx) is a standardized value for the number of individuals at each stage. The first survivorship value entered in any life table (l0) is always 1.0; one hundred percent of the individuals are observed at the first stage.

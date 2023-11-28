@@ -1,0 +1,1 @@
+You find the following: 1. Derive formulas for and calculate the remaining values in the table, based on the following. definitions. lx survivorship in year x = survival of individuals to age x. mx mortality rate in year x = proportion of individuals of age x dying by age x+1. Lx age units lived in year x = mean # of individuals alive between year x and x+1.

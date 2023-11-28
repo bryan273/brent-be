@@ -1,0 +1,1 @@
+A thumbnail is a small representation of a picture on a web page, usually containing a hyperlink to a full-size version of the graphic. Thumbnails are used to load pages that have lots of graphics or. pictures more quickly in a Web browser.

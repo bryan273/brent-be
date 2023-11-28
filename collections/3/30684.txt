@@ -1,0 +1,1 @@
+Definition of 'Bode plot'. Bode plot in Electrical Engineering (boʊd plɒt) A Bode plot is the graph of amplitude (in decibels) and phase against frequency (in logarithmic format). The Bode plot is named for US engineer Hendrik Bode (1905-1982). The straight line approximation of a Bode plot is easy to draw and gives reasonably accurate results.

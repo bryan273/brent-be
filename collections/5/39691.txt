@@ -1,0 +1,1 @@
+1 Cisco Nexus 2000 Series Fabric Extenders (FEX) : Extends the fabric to top-of-the-rack (TOR). 2  Cisco UCS 2200 Series Fabric Extenders: Extends the fabric to the Cisco UCS Blade Chassis. 3  Cisco Adapter Fabric Extender (Adapter FEX) : Extends the fabric into the server.

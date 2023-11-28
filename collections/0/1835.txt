@@ -1,0 +1,1 @@
+Radiofrequency (RF) and microwave (MW) radiation are electromagnetic radiation in the frequency ranges 3 kilohertz (kHz) - 300 Megahertz (MHz), and 300 MHz - 300 gigahertz (GHz), respectively. RF and MW radiation are non-ionizing in that there is insufficient energy to ionize atoms.

@@ -1,0 +1,1 @@
+Those scales factor in the 9.81 m/s of gravity, they are measuring weight but giving a mass output. If the scales say 79.5 kg, then you technically 'weigh' 779 Newtons. Basically earth scales are onlyvalid on earth, as they mesure weight then divide by 9.81 to give the reasong in SI units.

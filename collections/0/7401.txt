@@ -1,0 +1,1 @@
+A quantification fallacy is an error in logic where the quantifiers of the premises are in contradiction to the quantifier of the conclusion. Types of Quantification fallacies: Existential fallacy – an argument that has a universal premise and a particular conclusion.

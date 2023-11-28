@@ -1,0 +1,1 @@
+This document provides links to the information resources that are available for IBM® FileNet® Business Process Manager Version 5.0. The resources are organized according to the progression of key customer tasks. Some documents linked from this information roadmap were created for prior releases of the products.

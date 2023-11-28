@@ -1,0 +1,1 @@
+1 Add up all of the squared deviations. 2  Divide this value by the number of items in the data set. 3  For example, if you had 4 numbers, divide by 4. 4  Calculate the square root of the resulting value. 5  This is the population standard deviation.

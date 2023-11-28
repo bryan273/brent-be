@@ -1,0 +1,1 @@
+The equations/calculations are nearly the same, except the variance is divided by the number of data points (N) for the population standard deviation, but is divided by the number of data points minus one (N-1, degrees of freedom) for the sample standard deviation.

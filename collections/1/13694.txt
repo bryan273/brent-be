@@ -1,0 +1,1 @@
+One-sided confidence bounds are essentially an open-ended version of two-sided bounds. A one-sided bound defines the point where a certain percentage of the population is either higher or lower than the defined point. This means that there are two types of one-sided bounds: upper and lower.

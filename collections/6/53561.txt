@@ -1,0 +1,1 @@
+A cross-reference refers to an item that appears in another location in a document. For example, you can mention Figure 1 in your document and refer the reader to the figure's location elsewhere in the document. By default, Word inserts a cross-reference as a hyperlink that you can click to be taken directly to the cross-referenced item.

@@ -1,0 +1,1 @@
+Molecular Orbitals of the Second Energy Level. The 2 s orbitals on one atom combine with the 2 s orbitals on another to form a 2s bonding and a 2s * antibonding molecular orbital, just like the 1s and 1s * orbitals formed from the 1 s atomic orbitals.

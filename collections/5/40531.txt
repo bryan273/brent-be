@@ -1,0 +1,1 @@
+| ICD-10 from 2011 - 2016. ICD Code S33.6 is a non-billable code. To code a diagnosis of this type, you must use specify a 7th character that describes the diagnosis 'sprain of sacroiliac joint' in more detail. The 7th characters that can be added, and the resulting billable codes, are as follows:

@@ -1,0 +1,1 @@
+Remote Desktop Services. Remote Desktop Services (RDS), known as Terminal Services in Windows Server 2008 and earlier,[1] is one of the components of Microsoft Windows that allows a user to take control of a remote computer or virtual machine over a network connection.

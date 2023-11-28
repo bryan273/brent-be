@@ -1,0 +1,1 @@
+Category: Formulas | [Item URL]. Excel provides many ways to count cells in a range that meet various criteria: 1  The DCOUNT function. 2  The data must be set up in a table, and a separate criterion range is required. 3  The COUNT function. 4  Simply counts the number of cells in a range that contain a number. 5  The COUNTA function.

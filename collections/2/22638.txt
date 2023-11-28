@@ -1,0 +1,1 @@
+You know, click and drag to select the area to capture-then, as soon you leave the mouse button it'll be automatically sent to the Firefox's PrintPreview window. Version 0.1.5 introduces a new feature which allows you to save the captured area on the clipboard so that you can paste it anywhere.

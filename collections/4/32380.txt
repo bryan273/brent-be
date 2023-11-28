@@ -1,0 +1,1 @@
+In terms of NPI assignment, a sole proprietor is an Entity type 1 (Individual) and is eligible for only one NPI (the sole proprietorship business is not eligible for its own NPI). As an individual, a sole proprietorship cannot be a subpart and cannot have subparts.

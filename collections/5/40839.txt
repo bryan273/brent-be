@@ -1,0 +1,1 @@
+The Remote Desktop hosting functionality is not available in Windows XP Home Edition, though it can be used as a client (the receiving machine) to the office computer (the host) running Windows XP Professional.

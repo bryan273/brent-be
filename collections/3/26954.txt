@@ -1,0 +1,1 @@
+Convoy also has an issue with amount of content: you can expect to see every encounter and permutation of that encounter over just a few hours or so. With a lot of it being luck based, you generally just construct yourself an optimal choices flowchart and just don't even both with reading any of the boxes after a point.

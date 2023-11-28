@@ -1,0 +1,1 @@
+This is, by far, the simplest and most common of the pretest-posttest designs, and is a useful way of ensuring that an experiment has a strong level of internal validity. The principle behind this design is relatively simple, and involves randomly assigning subjects between two groups, a test group and a control.

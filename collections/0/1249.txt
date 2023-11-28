@@ -1,0 +1,1 @@
+Crime rates in Milbank (2002): 1  0 murders (0.0 per 100,000) 2  0 rapes (0.0 per 100,000) 3  0 robberies (0.0 per 100,000) 4  3 assaults (81.7 per 100,000) 5  9 burglaries (245.2 per 100,000) 6  31 thefts (844.7 per 100,000) 7  1 auto theft (27.2 per 100,000) 8  City-data.com crime rate = 71.9 (higher means more crime, US average = 328.4)

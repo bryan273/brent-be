@@ -1,0 +1,1 @@
+Now, I'm wondering how to convert local time (1) to GMT one (2) (and vice versa) with consideration of all possible exceptions like summer times, 1970-2038 time limits etc.?

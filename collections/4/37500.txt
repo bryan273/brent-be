@@ -1,0 +1,1 @@
+The IRS uses a system it calls the Pipeline to process mailed tax returns. When returns arrive at the processing center, the returns are machine-sorted according to the bar codes on the envelopes. Next, another machine separates the returns based on whether payment is enclosed by searching for magnetic ink found on checks.

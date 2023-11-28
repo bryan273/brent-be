@@ -1,0 +1,1 @@
+Often people want to know the Body Mass Index, or BMI. It is your weight in kilograms divided by the square of your height in meters. A kilogram is about 2.2 pounds and a meter is about 39 inches. For example, if you weigh 80 Kg and your height is 1.6 meters (160 cm), then your BMI is 80 / (1.6 x 1.6) = 31.

@@ -1,0 +1,1 @@
+Scribe Small Business (Limit 100 users). Scribe integration product for small business. Includes 3 connections and can scale to unlimited connections, can scale to a maximum of 100 CRM and/or 50 ERP users, and can be configured for up to 8 message processors. Scribe Integration 'Connections' (any data source or data target) A separate, single instance of:

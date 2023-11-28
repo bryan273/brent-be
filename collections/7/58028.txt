@@ -1,0 +1,1 @@
+The T Test function in Excel is designed to work on two independent sample sets. It allows you to compare the two sample sets, determining the two means’ difference in relation to the data variation. In simple terms, the result of the test indicates whether the difference is significant or due to random chance.

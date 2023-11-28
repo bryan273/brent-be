@@ -1,0 +1,1 @@
+You will be returned to the command prompt. Start the DocuShare service by using either the start_docushare command line utility or start DocuShare if you are running it as a service by using the Services Administrative Tool. Log in to the DocuShare webpage using admin for the username and admin as the password.

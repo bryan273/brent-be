@@ -1,0 +1,1 @@
+In the case of servers or software systems, a random key is generated. In Kerberos, users are known as principals. The KDC has a database of principals and their secret keys which is uses to perform authentication. In Kerberos knowledge of the secret key is considered sufficient for proof of identity.

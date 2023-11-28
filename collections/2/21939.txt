@@ -1,0 +1,1 @@
+survey was designed to measure to what extent GCL Viewer helps in working with GCL programs, and to determine which features of the tool were perceived as being most successful in achieving this. The survey results show that GCL Viewer significantly helps in understanding GCL programs.

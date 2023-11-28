@@ -1,0 +1,1 @@
+where g is the acceleration of gravity. The value for g on Earth is 9.8 m/s/s. The above equation can be used to calculate the velocity of the object after any given amount of time when dropped from rest. Example calculations for the velocity of a free-falling object after six and eight seconds are shown below.

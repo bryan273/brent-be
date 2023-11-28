@@ -1,0 +1,1 @@
+Teaching Yourself. 1  1. Start with a good book or tutorial on programming. Get a good, current book on the programming language you want to learn. 2  2. Get an interpreter for that language. An interpreter is just another computer program but it will convert ideas you've written in a programming language into machine code so you can see things work.

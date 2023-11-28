@@ -1,0 +1,1 @@
+Now, a full-body musculoskeletal simulator for swimming has been developed for the AnyBody Modeling System, which enables to calculate fluid force acting on the whole body during swimming. The model presents 4 swimming styles: Crawl, Breststroke, Backstroke, and Butterfly.

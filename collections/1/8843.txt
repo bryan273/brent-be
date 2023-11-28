@@ -1,0 +1,1 @@
+C. a displacement is obviously not a scalar. D. displacement can be speci¯ed by three numbers. E. displacement is associated with motion. ans: B. Section: 3{2; Di±culty: E. 2. The vectors ~a, ~b,and~c are related by ~c = ~b ¡ ~a.

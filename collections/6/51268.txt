@@ -1,0 +1,1 @@
+Instructions. Please use one the method bellow to retrieve the computer serial number: 1. Using the buid in  wmic  command:  wmic bios get serialnumber . Tip: You can use the command  wmic csproduct get name  to retrieve the local computer model.

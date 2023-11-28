@@ -1,0 +1,1 @@
+A pressure difference of 5 psi (lbf/in2) is equivalent to. (5 lbf/in2) (12 in/ft) (12 in/ft) / (62.4 lb/ft3). = 11.6 ft of water. (5 lbf/in2) (12 in/ft) (12 in/ft) / (847 lb/ft3). = 0.85 ft of mercury. when specific weight of water is 62.4 (lb/ft3) and specific weight of mercury is 847 (lb/ft3) .

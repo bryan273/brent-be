@@ -1,0 +1,1 @@
+Then the directrix, being perpendicular to the axis, is a horizontal line and it must be p units away from V. The directrix then is the line y=-p. Consider a point P with coordinates (x,y) on the parabola and let Q be the point on the directrix such that the line through PQ is perpendicular to the directrix.

@@ -1,0 +1,1 @@
+If you sync it, it will maintain the data on the iPhone. If you Restore from backup, it will restore from the last backup.. Then why when you sync does it say it will erase all the data on the phone and replace it with the data on the pc? As far as apps are concerned I mean. I couldnt just backup the iphone and update as I wasnt sure what is all backed up.

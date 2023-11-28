@@ -1,0 +1,1 @@
+The Selection tool (V) selects entire objects. See Select objects with the Selection tool. The Direct Selection tool (A) selects points or path segments within objects. See Select paths, segments, and anchor points. The Group Selection tool selects objects and groups within groups. See Select objects and groups with the Group Selection tool.

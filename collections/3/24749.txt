@@ -1,0 +1,1 @@
+Once found, click the button to the right labeled either Show in Finder (Mac) or Show Folder (PC) then delete. Deleting this file effectively restores Firefox to its settings before you began the session and may be able to bring back your tool bars in the process.

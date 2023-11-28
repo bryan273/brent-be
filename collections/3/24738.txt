@@ -1,0 +1,1 @@
+To calculate the ionization constant, Kb, you need to know: 1  the equation for the reaction of the base with water. 2  the equilibrium expression, Kb, for the reaction. 3  the equilibrium concentration of each species (molarity or moles per liter) or have a means to obtain them.

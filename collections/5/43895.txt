@@ -1,0 +1,1 @@
+2.3. Kerberos is an authentication protocol which uses a shared secret and a trusted third party arbitrator in order to validate the identity of clients. In Kerberos, clients may be users, servers, or pieces of software.

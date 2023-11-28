@@ -1,0 +1,1 @@
+Understanding the Shutter Speed. Traditionally, still camera shutter speeds are expressed in ‘seconds’, at fixed intervals. The difference between the shutter speed and amount of light is directly linear; which means, double the speed, double the light – or half the speed, half the light. Here are the standard shutter speeds you’ll find on most professional cameras (in seconds):

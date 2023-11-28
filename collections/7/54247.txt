@@ -1,0 +1,1 @@
+Text Color. The color property is used to set the color of the text. With CSS, a color is most often specified by: a color name - like red. a HEX value - like #ff0000. an RGB value - like rgb(255,0,0).

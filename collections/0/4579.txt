@@ -1,0 +1,1 @@
+Estimating the Airspeed Velocity of an Unladen Swallow. Hashing out the classic question with Strouhal numbers and simplified flight waveforms. After spending some time last month trying to develop alternate graphic presentations for kinematic ratios in winged flight, I decided to try.

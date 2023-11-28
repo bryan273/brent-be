@@ -1,0 +1,1 @@
+After we supply an NPI, we publish the parts of the NPI record that have public relevance, including the provider's name, specialty (taxonomy) and practice address. CMS provides this service based on federal law (45 CFR Part 162).

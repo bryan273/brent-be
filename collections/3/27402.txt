@@ -1,0 +1,1 @@
+The general theory for crimping all types of connectors is to strip a little bit of insulation off the wire. Then, put the connector into a suitably sized space in the jaws, insert the wire, and crimp it down. For non-ratcheting pliers, it’s suggested the connector be re-crimped with the next smallest hole in the jaws.

@@ -1,0 +1,1 @@
+Business accounts require a business bank account and an approval period of a few days before you’re up and running. Premier users will still have to verify their bank details as any normal PayPal user would, and can only link their account to a personal funding source.

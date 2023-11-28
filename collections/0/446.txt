@@ -1,0 +1,1 @@
+Most of the postal code systems are numeric; only a few are alphanumeric (i.e. use both letters and digits). Alphanumeric systems can, given the same number of characters, encode many more locations. For example: with a 2 digit numeric code we could code 10 x 10= 100 locations.

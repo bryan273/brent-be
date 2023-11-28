@@ -1,0 +1,1 @@
+The structure of a robot is usually mostly mechanical and can be called a kinematic chain (its functionality being similar to the skeleton of the human body). The chain is formed of links (its bones), actuators (its muscles) and joints which can allow one or more degrees of freedom.

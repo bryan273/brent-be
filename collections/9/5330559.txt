@@ -1,0 +1,1 @@
+Logistic Regression Variable Selection Methods. Method selection allows you to specify how independent variables are entered into the analysis. Using different methods, you can construct a variety of regression models from the same set of variables. Show details Hide details.

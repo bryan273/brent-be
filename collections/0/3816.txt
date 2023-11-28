@@ -1,0 +1,1 @@
+1 Adiabatic processes can occur if the container of the system has thermally-insulated walls or the process happens in an extremely short time.  For an adiabatically expanding ideal monatomic gas which does work on its environment (W is positive), internal energy of the gas should decrease.

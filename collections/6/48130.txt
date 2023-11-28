@@ -1,0 +1,1 @@
+But if your blower motor slows down unusually and makes a humming sound when it has slowed down, it might be due to a fault in the capacitor and the motor. Check your motors amperage draw using a tool that reads electrical current such as a multi meter and then check the rating on the plate of your motor to see how much is required.

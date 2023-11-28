@@ -1,0 +1,1 @@
+Convert text dates by using the DATEVALUE function. To convert a text date in a cell to a serial number, you use the DATEVALUE function. Then you copy the formula, select the cells that contain the text dates, and use Paste Special to apply a date format to them. Select a blank cell and verify that its number format is General. How to verify the number format.

@@ -1,0 +1,1 @@
+If you would like to take use of the Variable, then please follow the idea below: with the Onselect propery of the Approve Button, write the following formula: UpdateContext({ApproveStaus:Approved}) Replace the Status DataCard update property with ApproveStatus, Then, with the submitform action, add the following formula:

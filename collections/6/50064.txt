@@ -1,0 +1,1 @@
+PST automatically adjusted to PDT time zone, that is in use. Central Daylight Time is 2 hours ahead of Pacific Daylight Time. So 2:59 PM14:59 in CDT is 12:59 PM12:59 in PDT. 2:59 PM14:59 Central Daylight Time (CDT). Offset UTC -5:00 hours. 12:59 PM12:59 Pacific Daylight Time (PDT).

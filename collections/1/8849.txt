@@ -1,0 +1,1 @@
+The vector A has no Y component, since it lies on the x axis opposite to its positive direction, so it has a magnitude of - 15.9 m on that axis. For B vector the y component will be sin(70.2 degrees)* 8.7 or in terms of radians sin (70.2/360* 6.28)= .94 thus the y component is .94*8.7= 8.18m.

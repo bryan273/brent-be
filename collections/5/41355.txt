@@ -1,0 +1,1 @@
+Not all the legacy data have unique primary key fields defined for the tables storing the data. The fact is that some old systems and software do not even have accounts and contacts linked to each other. In Dynamics CRM, accounts can be associated with a primary contact and contact can have a parent customer defined. In other words, accounts are linked to contacts and vice versa.

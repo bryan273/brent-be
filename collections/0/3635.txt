@@ -1,0 +1,1 @@
+When does COBRA continuation coverage start. COBRA is always effective the day after your active coverage ends. For most, active coverage terminates at the end of a month and COBRA is effective on the first day of the next month.

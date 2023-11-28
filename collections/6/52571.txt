@@ -1,0 +1,1 @@
+The roots of computer science extend deeply into mathematics and engineering. Mathematics imparts analysis to the field; engineering imparts design. The main branches of computer science are the following: Algorithms is the study of effective and efficient procedures of solving problems on a computer.

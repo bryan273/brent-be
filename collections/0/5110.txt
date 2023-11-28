@@ -1,0 +1,1 @@
+Check for operating system information in Windows 7. 1  Click the Start button , enter Computer in the search box, right-click Computer, and then click Properties. 2  Look under Windows edition for the version and edition of Windows that your PC is running.

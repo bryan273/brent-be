@@ -1,0 +1,1 @@
+Programs written in compiled languages are reduced to machine code one during the compilation step. Programs written in interpreted languages are reduced to machine code every time they're run. As how a program is reduced to machine code is not usually part of the language specification, there are languages that can be both interpreted and compiled.

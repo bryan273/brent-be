@@ -1,0 +1,1 @@
+Let’s explore the reasons you would look at building a software factory and the things you need to have in place to start that process. We will talk about the process you need to actually use to build the factory in part 3 of the series. For now let's look at when it's applicable to build one.

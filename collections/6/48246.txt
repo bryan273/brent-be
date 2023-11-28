@@ -1,0 +1,1 @@
+Integral calculus is the study of the definitions, properties, and applications of two related concepts, the indefinite integral and the definite integral. The process of finding the value of an integral is called integration. In technical language, integral calculus studies two related linear operators.

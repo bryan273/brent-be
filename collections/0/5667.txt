@@ -1,0 +1,1 @@
+Variance is defined and calculated as the average squared deviation from the mean. Standard deviation is calculated as the square root of variance or in full definition, standard deviation is the square root of the average squared deviation from the mean. These definitions may sound confusing when encountered for the first time.

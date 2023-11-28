@@ -1,0 +1,1 @@
+Drag the orange dots on the edge of the circles to make a random-size annulus. Now try to estimate the area of the annulus just by looking at the squares inside it; Calculate the area using the formula; When you done click show details to see how close you got.

@@ -1,0 +1,1 @@
+The instrument for measuring atmospheric pressure, the barometer, is calibrated to read zero when there is a complete vacuum; the pressure indicated by the instrument is therefore called absolute pressure. The term pressure gauge is commonly applied to the other instruments used for measuring pressure.

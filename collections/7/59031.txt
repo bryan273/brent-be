@@ -1,0 +1,1 @@
+When you fax something, you are sending a copy of the document to someone directly over the phone line. While scanning and emailing, you are making a copy of the document on your computer, then it goes to the mail server you are using, and then the person you sent it to downloads it off the mail server.

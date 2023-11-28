@@ -1,0 +1,1 @@
+You may have heard that Lotus Notes is also an e-mail system. It is. In fact, some people use it only as an e-mail system. However, if you think about what e-mail is, and how it is stored once it arrives on your local machine, e-mail is just a database. Every user has their own individual Notes e-mail database that has been customized for mail activities.

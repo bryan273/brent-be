@@ -1,0 +1,1 @@
+ make the shatter layer . MAKE A GRADIENT. A key to making Shatter work the way you want is to use a gradient layer, or a separate layer that tells the Shattter effect how to behave (this will make more sense later on).

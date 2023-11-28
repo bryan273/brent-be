@@ -1,0 +1,1 @@
+There is a 13:0 hours time difference between USA and South Korea right now. Please note that Daylight Saving Time (DST) / Summer Time is taken into account for the calculation of hour difference.

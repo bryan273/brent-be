@@ -1,0 +1,1 @@
+Each tRNA binds to a specific amino acid, but the anticodons of some tRNA molecules can bind to two or three different codons. The flexibility of some anticodons is the result of the fact that the 3' end of the anticodon is more spatially confined than the 5' end.

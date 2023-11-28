@@ -1,0 +1,1 @@
+To enter an array formula, press CTRL+SHIFT+ENTER. Use the COUNTIF() function to count the occurrences of a text string. For example, use the formula. where. is the range of cells that you are evaluating, and. is the text string that you want to count instances of (note that. must be enclosed in quotation marks).

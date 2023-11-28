@@ -1,0 +1,1 @@
+In the criteria range for an Excel advanced filter, you can set the rules for the data that should remain visible after the filter is applied. You can use one criterion, or several. In this example, cells F1:F2 are the criteria range. The heading in F1 exactly matches a heading (D1) in the database.

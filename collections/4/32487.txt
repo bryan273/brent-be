@@ -1,0 +1,1 @@
+PAOBJNR Determination. The determination of the profitability segment is done in function module COPA_PROFITABILITY_SEGMENT. The logic intends that at first these characteristic values are taken over which are provided directly from the sending application (document). This happens in form FILL_TABLE_CRITERIA:

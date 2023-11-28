@@ -1,0 +1,1 @@
+Alpha yeast sends alpha signals that A yeast receives. A yeast sends A signals that only alpha can receive. The respective signals are then transduced and a response is carried out (mating). Paracrine signaling. Secreting cells sends regulators to target cells and to all cells in the vicinity.

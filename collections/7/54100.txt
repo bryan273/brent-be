@@ -1,0 +1,1 @@
+Marginal revenue is the first derivative of the total revenue function, that is, it is the change in total revenue resulting from the sale of an additional unit of output. Diminishing returns dictates the shape of the marginal cost curve. Diminishing marginal utility determines the shape of the marginal revenue curve.

@@ -1,0 +1,1 @@
+Since it is not possible to change the format of a variable in a proc step how can I import the file correctly, and only using SAS editor? EDIT: Another option that does half the work and it might give some inspiration is dynamically changing the format of the variable by importing through a data step:

@@ -1,0 +1,1 @@
+a unit of refractive index sometimes used in atmospheric science. The index of refraction of the atmosphere is only slightly greater than 1. The value of the index in N units is the number of millionths by which the index exceeds one; that is, an index of refraction n is equivalent to (n - 1) x 106 N units.

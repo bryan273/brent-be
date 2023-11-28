@@ -1,0 +1,1 @@
+Microsoft Azure Key Vault. Microsoft Azure Key Vault is a cloud-hosted management service that allows users to encrypt keys and small secrets by using keys that are protected by hardware security modules (HSMs). Small secrets are data less than 10 KB like passwords and .PFX files.

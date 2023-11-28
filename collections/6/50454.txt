@@ -1,0 +1,1 @@
+Locate a JPEG format picture file on your computer. Right click on the image and select Edit with the GIMP.. If that isn't an option on your right click menu, then open the GIMP software and select open from the file menu. Locate the file for the image you want to edit and open it.

@@ -1,0 +1,1 @@
+Click Tools then Internet Options. Within that menu click Advanced and then Reset. Then click Reset once more to confirm. The browser will go back to default settings and should bring back your navigation or other tool bars. You'll also need to restart your computer for this reset to take effect.

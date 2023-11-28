@@ -1,0 +1,1 @@
+| Jan 27, 2013. A. When you enter a Bill (the AP invoice), the invoice date will be used for the accrual expense. In the accrual basis report the transaction will appear with Bill next to the invoice date. B. When you Pay Bills, the payment date is used as the cash basis transaction date. In the cash basis report the transaction will appear with Bill next to the payment date.

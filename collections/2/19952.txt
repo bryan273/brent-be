@@ -1,0 +1,1 @@
+Answer Wiki. Software that converts source code into something more easily (and more efficiently) understandable by a computer. Of course the Zend PHP interpreter contains a PHP parser, but also e.g. a PHP-aware editor has one, so it can check your code and report possible syntax errors. Related Questions.

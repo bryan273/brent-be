@@ -1,0 +1,1 @@
+How do I weigh test scores when calculating final grade? How do I give percentage weight to test scores when calculating final score? like...60% to 4 general tests....15% to midterm...and 25% to final exam.

@@ -1,0 +1,1 @@
+The one that's 5th in line becomes 4th, and so forth. There are other ways to remove elements from an array, which we'll discuss later on. We'll treat index 0 as the front of the line and the index, length - 1, as the end of the line. We're going to implement removing this element in two ways. We do it with loops and with arrcopy().

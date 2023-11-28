@@ -1,0 +1,1 @@
+The Bluetooth File Transfer Wizard enables users to transfer files between a computer and a Bluetooth device. For example, users can transfer files between a computer and a mobile phone or a personal digital assistant (PDA).

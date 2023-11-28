@@ -1,0 +1,1 @@
+Bias and Confounding Lecture (PPT) Introduction. In epidemiologic research, it is essential to avoid bias, to control confounding and to undertake accurate replication. Bias, confounding and random variation/chance are the non-causal reasons for an association between an exposure and outcome.

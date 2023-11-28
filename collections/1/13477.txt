@@ -1,0 +1,1 @@
+index of refraction : n = c / v. When light travels from one medium to another, the speed changes, as does the wavelength. The index of refraction can also be stated in terms of wavelength: Although the speed changes and wavelength changes, the frequency of the light will be constant. The frequency, wavelength, and speed are related by:

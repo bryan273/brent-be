@@ -1,0 +1,1 @@
+To solve the New Simple Volume greyed out, you should change the MBR into GPT disk so that the part beyond 2 TB can be available. And here provides you two different ways to convert MBR to GPT disk. Method 1. With built-in Disk Management. Disk Management is the build in disk manager of Windows system.

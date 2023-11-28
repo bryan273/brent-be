@@ -1,0 +1,1 @@
+In my first post about the Blockchain, I explained the basics of the Blockchain and in this post I will go a bit deeper and talk about the different types of Blockchains, some examples of dApps and talk about the most important part of the Blockchain; the consensus algorithms to validate the data.

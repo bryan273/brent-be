@@ -1,0 +1,1 @@
+Density is a physical property of matter, which is a measure of the amount of matter available in a unit volume. Density of an object doesn’t change with the size of the sample, and hence, called an intensive property. Density is the ratio between mass to volume, and therefore, has the physical dimensions of ML -3.

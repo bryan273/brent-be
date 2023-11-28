@@ -1,0 +1,1 @@
+You are no longer required to get into the Google's Translation service in order to translate a web page, for example, as Google Chrome will automatically detect if you are viewing a page that is not in your native language and it will give you the opportunity to translate that certain page in your preferred language.

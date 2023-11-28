@@ -1,0 +1,1 @@
+The COMPASS (COMputer-adaptive Placement Assessment and Support Services) is. an admission/placement tool designed to measure your current skills in reading, writing and math (algebra). Throughout the test, the COMPASS program will adapt to your abilities. The questions will increase or decrease.

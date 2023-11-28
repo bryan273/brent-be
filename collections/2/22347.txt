@@ -1,0 +1,1 @@
+Graphing y = (x - h)2 + k. In the graph of y = x 2 , the point (0, 0) is called the vertex. The vertex is the minimum point in a parabola that opens upward. In a parabola that opens downward, the vertex is the maximum point. We can graph a parabola with a different vertex. Observe the graph of y = x 2 + 3 : Graph of y = x 2 + 3.

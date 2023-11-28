@@ -1,0 +1,1 @@
+This means that if you are firing a rifle that produces 140 dB and the hearing protection that you have on has an NRR 33 dB, the level of noise exposure is not reduced to 103 dB. To determine how much noise exposure is reduce, deduct 7 from the NRR on the device and divide the result by two.

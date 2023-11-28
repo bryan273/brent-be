@@ -1,0 +1,1 @@
+A frequency distribution where several numbers are grouped into one class. Class Limits. Separate one class in a grouped frequency distribution from another. The limits could actually appear in the data and have gaps between the upper limit of one class and the lower limit of the next.

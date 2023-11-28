@@ -1,0 +1,1 @@
+1 DNA 1 2 I. Extracting DNA from Your Cells Each cell in your body has a nucleus with multiple chromosomes. Each chromosome contains a DNA molecule. Each cell is surrounded by a cell membrane that regulates what gets into and out of the cell.

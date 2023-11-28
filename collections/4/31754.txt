@@ -1,0 +1,1 @@
+The eclipse magnitude is the fraction of the Sun's diameter that is covered by the Moon. For a total eclipse, this value is always greater than or equal to one. In both annular and total eclipses, the eclipse magnitude is the ratio of the angular sizes of the Moon to the Sun.

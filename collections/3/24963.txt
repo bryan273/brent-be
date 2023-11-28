@@ -1,0 +1,1 @@
+The two types of vertical partitioning are normalization and row splitting: Normalization is the standard database process of removing redundant columns from a table and putting them in secondary tables that are linked to the primary table by primary key and foreign key relationships.

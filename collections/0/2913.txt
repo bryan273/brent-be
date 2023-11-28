@@ -1,0 +1,1 @@
+Rust occurs when iron or its alloys, such as steel, corrode. The surface of a piece of iron will begin to corrode first in the presence of oxygen and water. Given enough time, any piece of iron will change entirely into rust and disintegrate. The process of rusting is a combustion reaction, similar to fire.

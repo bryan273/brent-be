@@ -1,0 +1,1 @@
+If p > 0, the parabola opens to the right and if p < 0 the parabola opens to the left. The equations we have just established are known as the standard equations of a parabola. A standard equation always implies the vertex is at the origin and the focus is on one of the axes.

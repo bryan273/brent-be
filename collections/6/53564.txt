@@ -1,0 +1,1 @@
+Using bookmarks and cross-references in Word. If you are referencing an item in your document, you don’t want to have to update the. paragraph or page number every time you make changes. By using bookmarks and. cross-references, you can include referenced items that update automatically and also.

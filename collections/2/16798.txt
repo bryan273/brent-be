@@ -1,0 +1,1 @@
+Place an X in the space for Claim Type 06 = CWCOT. Items 2 & 3 FHA Case Number and Section of Act Code (Same as Conveyance). Enter theFHA Case Number and the appropriate Section of the National Housing Act ADP code.Include the hyphen in the FHA Case Number. Item 4 Default Reason Code.

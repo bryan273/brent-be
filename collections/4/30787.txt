@@ -1,0 +1,1 @@
+If not, nothing can be blocked, of course. You must use OpenDNS to use its features. I too have added the youtube.com domain to the block list. All of my pc's DNS queries are correctly going via opendns, as the web filter is working for other sites in the block list, on the pc's. It would seem youtube.com is the only website where on any pc, it can still be accessed.

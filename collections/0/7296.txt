@@ -1,0 +1,1 @@
+If we traveled back in time about five years or so, this would be a simple comparison: Java is a general purpose programming language, and JavaScript is used on websites to make them animated and interactive. Now that JavaScript has “grown up,” the comparison is much more complicated.

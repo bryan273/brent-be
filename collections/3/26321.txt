@@ -1,0 +1,1 @@
+Deploying and managing Windows is easier than ever before with new improvements including the support of the latest Windows 10 features, Windows in-place upgrade, more frequent and easier updates, unified end-user portal, and on-premises mobile device management (MDM).

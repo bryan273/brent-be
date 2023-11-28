@@ -1,0 +1,1 @@
+The arctangent of x is defined as the inverse tangent function of x when x is real (x ∈ℝ). When the tangent of y is equal to x: tan y = x. Then the arctangent of x is equal to the inverse tangent function of x, which is equal to y: arctan x = tan x = y.

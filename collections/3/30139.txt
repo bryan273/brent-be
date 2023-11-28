@@ -1,0 +1,1 @@
+The Secure Sockets Layer and Transport Layer Security. Ever since Netscape Communications invented the Secure Sockets Layer Protocol (SSL) in 1994, after the Internet becomes under scrutiny over security, the arms race between code breakers and code makers has been accelerated in the field of the internet cryptography.

@@ -1,0 +1,1 @@
+A good way to separate a compiled language from an interpreted language is to look at what happens to the source code and how that source code is turned into a running program. In a compiled language, the source code files are run through a compiler ONCE, and outputs a single fixed binary.

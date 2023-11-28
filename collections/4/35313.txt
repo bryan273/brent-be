@@ -1,0 +1,1 @@
+Scales may be expressed as a numeric ratio (e.g. 1/87 or 1:87) or as a letter defined in rail transport modelling standards (e.g. HO, OO, N, O, G, TT and Z .) The majority of commercial model railway equipment manufacturers base their offerings on NEM or NMRA standards in most popular scales.

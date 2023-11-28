@@ -1,0 +1,1 @@
+Scribe’s CRM adapter also offers a great feature which is the possibility to access partner hosted CRM 4 implementation even in the case of a shared CRM implementation where each CRM organisation on the same server belongs to a different client of the partner host.

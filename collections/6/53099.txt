@@ -1,0 +1,1 @@
+An example for you: If it is 12 A.M in Eastern Standard Time, then it will be 5 A.M in Greenwich Mean Time. During the summer months, the time change results in a four hour difference between the two since the Eastern zone moves an hour forward in the spring.

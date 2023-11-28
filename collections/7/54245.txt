@@ -1,0 +1,1 @@
+Difference Between Serif and Sans-serif Fonts. CSS Font Families. In CSS, there are two types of font family names: generic family - a group of font families with a similar look (like Serif or Monospace) font family - a specific font family (like Times New Roman or Arial)

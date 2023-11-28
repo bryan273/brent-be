@@ -1,0 +1,1 @@
+The coverage of the material dispensed during the die attach. process is critical to the reliability and performance of the. package. The presence of voids and variations in thickness. are undesirable. Excessive or insufficient coverage of the die. attach material makes the device susceptible to reliability. failures.

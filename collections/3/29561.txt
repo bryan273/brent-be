@@ -1,0 +1,1 @@
+n number used in radiation safety that is the product of the radiation dose absorbed by a tissue multiplied by a given quality factor specific to the type of radiation used.

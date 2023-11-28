@@ -1,0 +1,1 @@
+Search NPI Records. The NPI Registry Public Search is a free directory of all active National Provider Identifier (NPI) records. Healthcare providers acquire their unique 10-digit NPIs to identify themselves in a standard way throughout their industry. Individuals or organizations apply for NPIs through the CMS National Plan and Provider Enumeration System (NPPES).

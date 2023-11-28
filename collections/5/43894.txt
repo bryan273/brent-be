@@ -1,0 +1,1 @@
+This means the way Active Directory user accounts are represented to Kerberos is the same as accounts in Unix realms. Using Kerberos in a Mixed Environment. Windows and MIT KDCs can co-exist in a mixed environment. You can have a situation where Windows clients need to authenticate to a Unix KDC, where non-Windows clients need to authenticate to a Windows KDC, or both.

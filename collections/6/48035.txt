@@ -1,0 +1,1 @@
+Each dataset is a separate file on disk All the contents in each personal geodatabase are held in a single Microsoft Access file (.mdb). Size Limits Up to DBMS limits : One TB for each dataset. Each file geodatabase can hold many datasets Two GB per Access database Versioning Support

@@ -1,0 +1,1 @@
+Windows Update clients normally download updates over an Internet connection, although Microsoft makes provision for installing updates on computers without an Internet connection and a range of alternative methods and programs also exist to install updates. The service provides different kinds of updates.

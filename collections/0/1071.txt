@@ -1,0 +1,1 @@
+A 20,000 kVA, 110/13.8 kV, Y-δ three phase transformer has a series impedance of 0.02 + j0.08 pu. Find the per-unit impedance of this transformer in a power system with a base apparent power of 500. MVA and a base voltage on the high side of 120 kV. SOLUTION The per-unit impedance to the new base would be: new. 2. given.

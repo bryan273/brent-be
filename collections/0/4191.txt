@@ -1,0 +1,1 @@
+Stations. 1  The total number of dialysis stations the facility operates. Each patient is assigned to a station when receiving dialysis treatment. 2  Indicates whether the facility offers hemodialysis services on site. Hemodialysis is the process of pumping blood through a dialyzer with dialysate.

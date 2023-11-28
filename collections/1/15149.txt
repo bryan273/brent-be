@@ -1,0 +1,1 @@
+The p-value is defined as the probability of obtaining a result equal to or more extreme than what was actually observed, when the null hypothesis is true. In frequentist inference, the p-value is widely used in statistical hypothesis testing, specifically in null hypothesis significance testing.

@@ -1,0 +1,1 @@
+A charged particle moving in a B-field experiences a sideways force that is proportional to the strength of the magnetic field, the component of the velocity that is perpendicular to the magnetic field and the charge of the particle.

@@ -1,0 +1,1 @@
+C and C++ are difficult languages to learn for a beginner, but not impossible. Learning them will give you an in depth understanding of not only programming (most programming languages inherit some concept or the other from C and C++), but also of how a computer works.

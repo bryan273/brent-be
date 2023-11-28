@@ -1,0 +1,1 @@
+For quarter-based courses, you may need to select more than 1 course per prerequisite. 1  2 semesters sequence = 3 quarters sequence. 2  Lab Course = 4 semester hours or 6 quarter hours; 3  Lecture Only Course = 3 semester hours or 4.5 quarter hours.

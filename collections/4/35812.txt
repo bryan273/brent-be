@@ -1,0 +1,1 @@
+The dual polyhedron of an octahedron with unit edge lengths is a cube with edge lengths. The illustration above shows an origami octahedron constructed from a single sheet of paper (Kasahara and Takahama 1987, pp. 60-61). Like the cube, it has the octahedral group of symmetries.

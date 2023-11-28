@@ -1,0 +1,1 @@
+PRI lines can be used for voice connectivity, data connectivity, video conferencing, faxing, and all the above can be done simultaneously too (on different channels). PRI lines are end-to-end digital lines and hence the clarity is much better than analog trunk lines.

@@ -1,0 +1,1 @@
+delete. Deletes a route or routes. print. Prints a route or routes. Destination: Specifies the network destination of the route. The destination can be an IP network address (where the host bits of the network address are set to 0), an IP address for a host route, or 0.0.0.0 for the default route.

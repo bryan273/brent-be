@@ -1,0 +1,1 @@
+You receive a call. A phone call is made by a Twilio app at the time you scheduled. You will want to make sure your child is around at this time. A script is read using Twilio text-to-voice asking your child what they want for Christmas.

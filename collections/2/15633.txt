@@ -1,0 +1,1 @@
+For example, using common bullet weights in the .45 ACP with the goal of a 165 power factor: a 230-grain bullet at 718 feet-per-second (fps) has the same recoil as a 200-grain bullet at 825 fps or a 185-grain bullet at 892 fps (Table 1). Hence, there is no obvious advantage of one bullet weight over another.

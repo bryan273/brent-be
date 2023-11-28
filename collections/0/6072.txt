@@ -1,0 +1,1 @@
+Prices are Rising. We track the prices of flights between all major cities searched by priceline customers. We recently saw a change in prices for the route you searched. Compared to the average cost of a ticket in the past, prices are now up to 6% higher.

@@ -1,0 +1,1 @@
+You can also update Windows Defender definitions using Windows PowerShell. If you think some malware is preventing the installation of Windows Defender definition updates, you may want to run a scan with Microsoft Safety Scanner or for more stubborn malware, using Windows Defender Offline.

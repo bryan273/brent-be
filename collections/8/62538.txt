@@ -1,0 +1,1 @@
+Calculations for testing a financial model using different assumptions and scenarios. What-if`calculations enable the forecaster to check the variance in end results for a financial model using various hypothetical levels for inputs such as interest rates and exchange rates.

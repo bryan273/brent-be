@@ -1,0 +1,1 @@
+This section describes the Extract window that is used by WinZip in Windows XP. If you need help using WinZip's Unzip or Extract window in Windows Vista or later, please click here. There are other ways to extract files from an archive: Using the drag and drop interface.

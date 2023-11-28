@@ -1,0 +1,1 @@
+Ultrasonic waves used to check the surface layer of various device components and specimens are another example of Rayleigh waves. The thickness of the layer where the waves are localized is (1–2)λ, where λ is the wavelength.

@@ -1,0 +1,1 @@
+In molecular orbital theory, we calculate bond orders by assuming that two electrons in a bonding molecular orbital contribute one net bond and that two electrons in an antibonding molecular orbital cancel the effect of one bond.

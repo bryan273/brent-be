@@ -1,0 +1,1 @@
+If the password has not previously been changed, the default username for the administrator login is root (without the quotes), and the default password is password (without the quotes). Both the username and password are case sensitive.

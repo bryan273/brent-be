@@ -1,0 +1,1 @@
+An Overview Of Vulnerability Scanners Page 6 of 15 II. THE ARCHITECTURE OF VULNERABILITY SCANNERS In general, a vulnerability scanner is made up of four main modules, namely, a Scan Engine, a Scan Database, a Report Module and a User Interface. 1.

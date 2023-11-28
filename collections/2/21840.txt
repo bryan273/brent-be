@@ -1,0 +1,1 @@
+1 Open RUN Command box and type compmgmt.msc in the box and Hit enter as shown below in the screen shot. 2  That’s it you will asked for conformation just conform your selection and you will no longer see that UpdatusUser folder in your system.

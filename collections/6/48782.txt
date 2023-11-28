@@ -1,0 +1,1 @@
+For Windows Vista and Windows 7 follow these steps: 1  Click Start, click All Programs, click Accessories, right-click Notepad, and then click Run as administrator. 2  Open the Hosts file or the Lmhosts file, make the necessary changes, and then click Save on the Edit menu.

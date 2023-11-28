@@ -1,0 +1,1 @@
+Seems like there is a misunderstanding on the correct execution date. If you signed on one day and they executed it for the day before, then your agent and broker need to contact the banks agent and correct the date and challenge it. The date of an executed contract is when the last party signs the contract.

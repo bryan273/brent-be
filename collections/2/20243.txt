@@ -1,0 +1,1 @@
+The DVD format is based on the MPEG-2 video compression standard for video and the PCM and Dolby Digital compression standards for audio. Those .VOD files are fundamentally .mpeg (or .mpg) files. However, there are DVD players that can play additional formats as well, such MPEG-4, part 2 and MPEG-1. You will need to check the specifications of the player for a full list.

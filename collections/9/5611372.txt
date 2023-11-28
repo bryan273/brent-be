@@ -1,0 +1,1 @@
+A: Codes used to identify Cervical Cancer Screening are: cpt: 88141-88143, 8147, 88148, 88150, 8152-88154, 88164-8167, 88174, 88175, 87620-87622 hcpcs: g0123, g0124, g0141, g0143-g0145, g0147, g0148, p3000, p3001, q0091

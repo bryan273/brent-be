@@ -1,0 +1,1 @@
+These are connected to the vehicle through a trailer brake controller, which is connected to the vehicles braking system. Older systems required hydraulic lines be tapped into the vehicle’s brakes, but that is no longer necessary. Today’s brake controllers are all electric and connect to the brake light switch.

@@ -1,0 +1,1 @@
+Award Notice: Servers, dell and fabric extender, cisco b22. Juniper also says the QFX3000-M offers four times the performance, in 63% less rack space, using 74% fewer cables and 57% less power than a fabric built with Cisco'sNexus 7000 switches and Nexus 2000 fabric extenders.

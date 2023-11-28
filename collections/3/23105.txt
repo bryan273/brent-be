@@ -1,0 +1,1 @@
+Beginning Principles. Crazy Jokers is a contract based card game I invented on a boring day in my Geometry class. It is a game for 2 to 4 players. It is played with a standard deck of 52 playing cards, plus two jokers. In this game, the card rankings are 2 low to Ace high. Jokers are wild.

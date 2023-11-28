@@ -1,0 +1,1 @@
+This display aspect ratio is the native resolution for many 24 widescreen LCD monitors, and is expected to also become a standard resolution for smaller to medium-size, wide-aspect tablet computers in the near future (as of 2012).

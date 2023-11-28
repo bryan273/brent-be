@@ -1,0 +1,1 @@
+Number of Credit Hours. 1  Enter the number of credit hours earned, as posted on your transcript. 2  Do not convert quarter hours to semester hours. 3  If you failed a course, enter the credits attempted, regardless of whether the credits on your transcript are blank, zero, or if you later repeated the course for a higher grade.

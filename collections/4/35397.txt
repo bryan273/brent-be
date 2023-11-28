@@ -1,0 +1,1 @@
+The Distance Calculator can find distance between any two cities or locations available in The World Clock. The distance is calculated in kilometers, miles and nautical miles, and the initial compass bearing/heading from the origin to the destination. It will also display local time in each of the locations. or choose:

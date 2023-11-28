@@ -1,0 +1,1 @@
+Two-Dimensional. A shape that only has two dimensions (such as width and height) and no thickness. Squares, Circles, Triangles, etc are two dimensional objects. Also known as 2D. See: Three-Dimensional.

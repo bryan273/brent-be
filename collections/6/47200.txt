@@ -1,0 +1,1 @@
+The starting point for string theory is the idea that the point-like particles of quantum field theory can also be modeled as one-dimensional objects called strings. The interaction of strings is most straightforwardly defined by generalizing the perturbation theory used in ordinary quantum field theory.

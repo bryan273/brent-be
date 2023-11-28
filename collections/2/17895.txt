@@ -1,0 +1,1 @@
+In addition to the independent-samples t-test, there are two other types of t-test that are used: One-Sample T-Test: Instead of comparing two actual groups, we compare a group to a fictional group with a hypothesized mean to ascertain whether the sample's mean is any different from the hypothesized mean.

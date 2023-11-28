@@ -1,0 +1,1 @@
+Option Pending-known as OP status means the contract is in an option period, this typically stays 7-14 days and also buyer needs to pay the option fee as well. In this case, the seller has no right to terminate the contract during this period, just only the buyer. about 3 years ago. 0 1.

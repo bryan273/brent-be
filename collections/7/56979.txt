@@ -1,0 +1,1 @@
+Shiller PE ratio The idea behind CAPE ratio is that one year yearnings are too volatile to be used to estimate the real value of a company. By looking at the average of the longer term earnings gives a more accurate view of a firm’s capacity to create value.

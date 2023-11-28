@@ -1,0 +1,1 @@
+That version of the rule required that the restart period contain two periods between 1 a.m. and 5 a.m. Instead, drivers should revert to taking any 34-hour period for a restart. A driver can now also utilize a restart more than one time per week if necessary. The 2013 rules only allowed one restart every 168 hours.

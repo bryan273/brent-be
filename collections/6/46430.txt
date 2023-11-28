@@ -1,0 +1,1 @@
+TLS/SSL Settings. This reference topic for the IT professional contains registry setting, Group Policy, and network port information for the Windows implementation of the Transport Layer Security (TLS) protocol and the Secure Sockets Layer (SSL) protocol through the Schannel Security Support Provider (SSP).

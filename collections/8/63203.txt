@@ -1,0 +1,1 @@
+The term open source refers to something people can modify and share because its design is publicly accessible. The term originated in the context of software development to designate a specific approach to creating computer programs.

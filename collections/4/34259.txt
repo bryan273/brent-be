@@ -1,0 +1,1 @@
+In the Echo/Alexa world, a skill is like an app. It’s a little program you can add to your Echo/Dot/Tap to enable some new, well, skills. At the time of this writing there were about 8,000 skills in the skill menu of the Alexa app, with more launching every week.

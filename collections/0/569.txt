@@ -1,0 +1,1 @@
+There’s no need to go through the preceding set of steps. 1  Internet Explorer is the preferred web browser in Windows. 2  Some programs, such as Internet Explorer, incessantly ask whether you want them to be the defaults every dang doodle time they run, even after you specify another program as the default.

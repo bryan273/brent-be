@@ -1,0 +1,1 @@
+The systolic blood pressure number is always said first, and then the diastolic blood pressure number is given. For example, your blood pressure may be read as “120 over 80” or written 120/80. Blood pressure is measured in millimetres of mercury (mmHg).

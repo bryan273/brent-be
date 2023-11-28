@@ -1,0 +1,1 @@
+Daylight Savings Time. For energy savings reasons, governments created the Daylight Savings Time. Our clocks are forwarded one hour, and this makes our days look longer. In fact, what really happens is only a Time Zone change. The primitive time (UTC) is still, and will allways be, the same.

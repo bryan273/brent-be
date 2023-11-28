@@ -1,0 +1,1 @@
+The replication fork is a structure that forms within the nucleus during DNA replication. It is created by helicases, which break the hydrogen bonds holding the two DNA strands together. The resulting structure has two branching prongs, each one made up of a single strand of DNA.

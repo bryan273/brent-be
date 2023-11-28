@@ -1,0 +1,1 @@
+The Pacific Daylight Time zone is seven hours behind Coordinated Universal Time (UTC). The region that this encompasses is the western coast of the United States, specific Canadian provinces, and a Mexican state. There are also other times zones within this same offset that we’ll explore in more detail.

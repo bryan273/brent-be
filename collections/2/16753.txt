@@ -1,0 +1,1 @@
+Choosing the solvent system by TLC analysis. Retention on TLC plates is measured in Rf (retention factor), whereas in column chromatography, it is usually expressed in CV (column volumes): To get a good separation, you will need to find a solvent system in which the compound of interest has an Rf of 0.25±0.1.

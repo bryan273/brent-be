@@ -1,0 +1,1 @@
+Relevance ranks synonyms and suggests the best matches based on how closely a synonym’s sense matches the sense you selected.

@@ -1,0 +1,1 @@
+If the second argument is not specified by the user, it is implied to be. , which means you can’t change the size of the image. Finally, to update the content of the OpenCV window with a new image use the function.

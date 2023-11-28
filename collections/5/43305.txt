@@ -1,0 +1,1 @@
+To give you an example of how this works: If the payment due date is the 20th and the closing date is the 30th, a payment made on the 19th is on time, but one made on the 21st is late -- despite payments of either date appearing on the statement of the 30th.

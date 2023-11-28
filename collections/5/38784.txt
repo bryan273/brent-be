@@ -1,0 +1,1 @@
+The EEC-V powertrain control module (PCM) has a 104 pin connector. To aid you in correctly identifying the connector pins, the back side of the connector (wire side) is embossed with a few numbers. IMPORTANT: The illustration above and pin-out table below apply only to: 1997 Ford pickup with 4.6L V-8 engine.

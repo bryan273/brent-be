@@ -1,0 +1,1 @@
+Best Answer: If you want the highest compatiblity, you'll need to have your DVD software build the .vob files needed to play the files. .vob is a container file format that actually contains MPEG-2 video along with either MPEG-2, PCM or AAC3 Audio file types. If you want every DVD player in the world to be able to play your disc, this is a must, and also set the region code to 0.

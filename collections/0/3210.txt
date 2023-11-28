@@ -1,0 +1,1 @@
+Means of transportation to work. 1  Drove a car alone: 3,977 (81%) 2  Carpooled: 477 (10%) 3  Bus or trolley bus: 30 (1%) 4  Motorcycle: 2 (0%) 5  Walked: 44 (1%) 6  Other means: 13 (0%) 7  Worked at home: 338 (7%)

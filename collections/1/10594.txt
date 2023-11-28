@@ -1,0 +1,1 @@
+Steam Inventory Service Now Available to Steamworks Developers. With today's Steamworks SDK update, we've released The Steam Inventory Service beta, a new feature available to developers with games or software on Steam.

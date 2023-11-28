@@ -1,0 +1,1 @@
+(6) can be transformed to: h = (p2 - p1) / γ (6). h express the pressure head-the height of a column of fluid of specific weight - γ - required to give a pressure difference of (p2 - p1).

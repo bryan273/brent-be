@@ -1,0 +1,1 @@
+For a particular cell in the visual system, the pattern of retinal stimulation that most effectively causes the cell to fire. For some cells, this pattern is defined simply in terms of a retinal location; for others, the most effective input has a particular shpae, color, or direction of motion. feature detectors.

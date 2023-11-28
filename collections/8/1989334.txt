@@ -1,0 +1,1 @@
+List of Mac OS versions. Note: The headings on this list indicate the Macintosh System bundle names; the bullet points indicate the version of the System File included in that bundle. This is to make it clearer for people searching for specific bundle versions as opposed to System File versions. Finder File versions are not indicated. Classic Mac OS.

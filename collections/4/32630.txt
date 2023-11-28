@@ -1,0 +1,1 @@
+How would you like to pay for your random draw? Pre-purchasing can save you up to 60% on the price of a single draw. You have {{user.remainingCredits}} draw credit s remaining.

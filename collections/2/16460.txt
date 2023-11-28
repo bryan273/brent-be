@@ -1,0 +1,1 @@
+PHP7 builds are available for Ubuntu 14.04 and CentOS 7 (and compatible distros) from php7.zend.com. Even as WordPress Core continues to expand its support for new versions of PHP, we have no intention of abandoning support for older versions until usage numbers show that the impact on users will be minimal.

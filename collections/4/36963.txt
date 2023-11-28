@@ -1,0 +1,1 @@
+Money flow measures the relative buying and selling pressure on a stock, based on the value of trades made on an uptick in price and the value of trades made on a downtick in price. The up/down ratio is calculated by dividing the value of uptick trades by the value of downtick trades.

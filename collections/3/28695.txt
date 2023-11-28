@@ -1,0 +1,1 @@
+The readiness status of the unit’s equipment (the R-level) is based on the operational. readiness condition (serviceability) of the unit’s on-hand and reportable (for maintenance) equipment (see chap 6).

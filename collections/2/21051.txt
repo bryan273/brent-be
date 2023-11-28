@@ -1,0 +1,1 @@
+If we ignore all ifs & buts, then the exact temperature for melting of snow/ice is 0.01 degree C or 32.02 degree F. While answering this, we should also remember that water has a triple point at this temperature, i.e., it can exist in all the three forms - solid, liquid and gas.

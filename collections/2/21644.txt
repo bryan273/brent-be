@@ -1,0 +1,1 @@
+Let's review. You want to use the quotient rule when you have one function divided by another function and you're taking the derivative of that, such as u / v. And you can remember the quotient rule by remembering this little jingle: Lo d hi minus hi d low, all over the square of what's below.

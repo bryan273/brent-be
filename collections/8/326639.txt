@@ -1,0 +1,1 @@
+On a weather forecast map, a cold front is represented by a solid line with blue triangles along the front pointing towards the warmer air and in the direction of movement. There is usually an obvious temperature change from one side of a cold front to the other.

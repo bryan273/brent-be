@@ -1,0 +1,1 @@
+Electrode placement for a 12-lead ECG is standard, with leads placed on the left and right arm and left and right leg. Another pair of electrodes is placed between the fourth and fifth ribs on the left and right side of the sternum.

@@ -1,0 +1,1 @@
+If you no longer want to encrypt your startup disk, you can turn off FileVault: 1  Choose Apple menu > System Preferences, then click Security & Privacy. 2  Click the FileVault tab. 3  Click the Lock button, then enter an administrator name and password.  Click Turn Off 1  FileVault. Restart your  Mac.

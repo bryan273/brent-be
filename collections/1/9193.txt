@@ -1,0 +1,1 @@
+The uncertainty for attempting to extrapolate the yearly radon concentration from a five to seven day sample is huge: about +/- 90% (at the 90% confidence level) 17. For this reason, a single CC reading (or indeed several) cannot be used to estimate the annual radon exposure in a house.

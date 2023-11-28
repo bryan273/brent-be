@@ -1,0 +1,1 @@
+Regions Bank A routing number is a nine digit code, used in the United States to identify the financial institution. Routing numbers are used by Federal Reserve Banks to process Fedwire funds transfers, and ACH(Automated Clearing House) direct deposits, bill payments, and other automated transfers.

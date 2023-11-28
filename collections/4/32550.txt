@@ -1,0 +1,1 @@
+Also, the option to 'Email the page location' is also not to be found. I use Google Chrome on a MAC computer at home, which includes both the menu bar (File, Edit,...) and the 'Email page location' to email a link to the current page. I still did not see the Email Page Location function in the wrench tool.

@@ -1,0 +1,1 @@
+1 Press the Enter key on the keyboard to complete the formula-the answer 9 should appear in cell E1. 2  Click on cell E1 to again make it the active cell. 3  Press the F2 key on the keyboard. 4  Excel enters edit mode and the insertion point is placed at the end of the current formula.

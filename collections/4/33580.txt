@@ -1,0 +1,1 @@
+The incidence rate is the number of new cases per population at risk in a given time period . When the denominator is the sum of the person-time of the at risk population, it is also known as the incidence density rate or person-time incidence rate.

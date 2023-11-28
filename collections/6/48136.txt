@@ -1,0 +1,1 @@
+An electricity meter can cause the low frequency hum, not all by itself, but it does in conjunction with the smart grid system. The smart grid system works from either RF frequencies or pulsing low frequencies on a two-way communication system--most likely this if you are in a suburb or rural area.

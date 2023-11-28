@@ -1,0 +1,1 @@
+Calculation. 1  tm, the prefix, indicating of team rather than of player; 2  lg, the prefix, indicating of league rather than of player; 3  min for number of minutes played; 4  3P for number of three-point field goals made; 5  FG for number of field goals made; 6  FT for number of free throws made;

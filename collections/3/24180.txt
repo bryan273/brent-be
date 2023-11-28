@@ -1,0 +1,1 @@
+What is the Sitemap format Checkout this section for more information about the sitemat default format and how to use the necessary tags in the XML for it. How does an example Sitemap look like In this part of the tutorial a sample Sitemap is presented. It can be used as a starting point for your website sitemap.

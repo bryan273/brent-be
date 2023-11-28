@@ -1,0 +1,1 @@
+Virtual interfaces are network interfaces that are not associated with a physical interface. Physical interfaces have some form of physical element—for example, an RJ-45 male connector on an Ethernet cable. Virtual interfaces exist only in software; there are no physical elements.

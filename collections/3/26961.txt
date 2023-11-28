@@ -1,0 +1,1 @@
+Spoon.net Sandbox Manager 3.33 is a software program developed by Code Systems. The most common release is 3.33.6.270, with over 98% of all installations currently using this version. When installed, it will add a context menu handler to the Windows shell in order to provide quick access to the program. The primary executable is named spoon-sandbox.exe.

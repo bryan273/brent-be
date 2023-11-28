@@ -1,0 +1,1 @@
+Amazing Audio Player is an easy-to-use Windows & Mac app that enables you to create HTML5 audio player for your website. The audio player works on iPhone, iPad, Android, Firefox, Chrome, Safari, Opera and Internet Explorer 7/8/9/10.

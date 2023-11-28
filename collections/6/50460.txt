@@ -1,0 +1,1 @@
+Figure 3.23. “Save as JPEG” dialog with poor quality. Reduce the image Quality to make the image even smaller. Reduced quality degrades the image, so be certain to check “Show preview in image window” to visually gauge the degradation.

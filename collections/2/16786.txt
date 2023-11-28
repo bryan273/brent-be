@@ -1,0 +1,1 @@
+1 The total resistance of a series circuit is equal to the sum of individual resistances. 2  Voltage applied to a series circuit is equal to the sum of the individual voltage drops. 3  The voltage drop across a resistor in a series circuit is directly proportional to the size of the resistor.

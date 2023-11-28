@@ -1,0 +1,1 @@
+*Gas driving costs are based on current prices of $2.31/gallon and assume a 25m/gallon gas mileage. Average 2013 gas prices were $3.58/gallon (Energy Information Administration). EV driving costs are based on 35 kwh/100 miles and standard residential rates.

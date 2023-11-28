@@ -1,0 +1,1 @@
+- Responsible for the implementation and ongoing support of Cisco CCE for 2000 agents across 190 satellite locations. - Manage advanced call routing, dialer, call recording (ZOOM), and reporting applications. - Responsible for Corporate telecom capital and expenses.

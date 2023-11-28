@@ -1,0 +1,1 @@
+The second most important component for computing basic regression in R is the actual function you need for it: lm(...), which stands for “linear model”. The two arguments you will need most often for regression analysis are the formula and the data arguments.

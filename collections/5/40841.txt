@@ -1,0 +1,1 @@
+Remote desktop protocol (RDP) is a secure network communications protocol designed for remote management, as well as for remote access to virtual desktops, applications and an RDP terminal server. Download this free guide

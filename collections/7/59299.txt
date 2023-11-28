@@ -1,0 +1,1 @@
+Being accurate is what the spec is for. All I’m trying to do here is to making it more human readable. I’ve also published a sample TLP sniff dump of a session, which may help understand how the machinery works. And I rely on other sources to describe form factors, lane counts, data rates and such.

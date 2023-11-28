@@ -1,0 +1,1 @@
+Installing the Windows 2000 Remote Installation Services. The following instructions help you install, configure, and use the Windows 2000 Remote Installation Services. Install Remote Installation Services. On a Windows 2000 Server, click Start, point to Settings, and click Control Panel.

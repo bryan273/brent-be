@@ -1,0 +1,1 @@
+Because HANA can run in parallel to a source SAP ERP application, analysts can access real-time operational and transactional data and not have to wait for a daily or weekly report to run. SAP HANA can be deployed on-site as an appliance or purchased as a managed cloud or hybrid- cloud service.

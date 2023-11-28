@@ -1,0 +1,1 @@
+AHI (Apnea Hypopnea Index) is the number of apneas and hypopneas per hour. Or an index for sleep apnea. 5-20 mild, 21-50 moderate, above 50 severe. The Greek word “apnea” means “without breath.” You stop breathing during sleep for ten seconds or longer.

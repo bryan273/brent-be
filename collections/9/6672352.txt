@@ -1,0 +1,1 @@
+Specifically, gene expression is controlled on two levels. First, transcription is controlled by limiting the amount of mRNA that is produced from a particular gene. The second level of control is through post-transcriptional events that regulate the translation of mRNA into proteins.

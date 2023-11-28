@@ -1,0 +1,1 @@
+A star's diameter is found from speed = (distance travelled)/(time it takes). The speed comes from the doppler shift and the time is the length of the eclipse. The distance travelled during the eclipse is equal to the diameter of the star = 2 × radius.

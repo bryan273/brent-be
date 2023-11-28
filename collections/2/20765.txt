@@ -1,0 +1,1 @@
+When your computer starts, it's moving information from your slow hard drive, or storage, to the much faster RAM, also called memory.. The more information that your computer has to move, the longer your computer takes to start. And as your computer ages, more information builds up.

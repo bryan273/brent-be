@@ -1,0 +1,1 @@
+Density is the mass per unit of volume of a substance. The density equation is: #Density# = #Mass/Volume#. To solve the equation for Mass, rearrange the equation by multiplying both sides times Volume in order to isolate Mass, then plug in your known values (Density and Volume). Then solve for Mass. #Mass# = #Density x Volume#.

@@ -1,0 +1,1 @@
+Then I multiply the area by the rainfall to get the cubic miles of annual rainfall for the state. Admittedly, this is not perfect. For example, the only rainfall figure I have for Alaska is for Juneau, which is much wetter than the rest of the state. (In fact, I think Alaska was the answer the game had for the state with the least annual rainfall.

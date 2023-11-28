@@ -1,0 +1,1 @@
+The National Provider Identifier is a 10-digit numeric identifier that must be used on claim forms submitted to payors by individual and organization health care providers who meet the definition of a covered entity under the Health Insurance Portability and Accountability Act (HIPAA), beginning May 23, 2008.

@@ -1,0 +1,1 @@
+When choosing a shard key, the DBA will typically look at data-access patterns and space issues to ensure that they are distributing load and space across shards evenly. Vertical partitioning is the act of splitting up the data stored in one entity into multiple entities - again for space and performance reasons.

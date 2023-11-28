@@ -1,0 +1,1 @@
+Summary: Learn about the Diagnostic Report in Skype for Business Server 2015. The Diagnostic Report provides diagnostic and troubleshooting information for a failed session. This information includes both the Diagnostic ID and the Diagnostic header that were reported when the session failed.

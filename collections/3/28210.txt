@@ -1,0 +1,1 @@
+I hope this post clarifies our claims for simplicity and ease of use in SMB 3.0 and the Windows Server 2012 File Server. It is always harder to code a solution that “just works” with minimal administration intervention, but we do believe this is something worth doing it.

@@ -1,0 +1,1 @@
+At the end of the day, if management does not have a control for the IPE/IUC for this control, the control fails. There's no manpower or knowledge issue here. Not only is this a deficiency, but if there are no effective compensating controls (tested by the auditor) it could be a material weakness.

@@ -1,0 +1,1 @@
+Use of a request form wrapped around the container is not acceptable as a specimen label. Specimens will not be accepted if the information on the specimen label does not match the information on the accompanying requisition.

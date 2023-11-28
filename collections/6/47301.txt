@@ -1,0 +1,1 @@
+Byte Academy. Why: Byte Academy offers a part-time full stack development bootcamp using Python as the primary programming language. The material covered is the same as in the full-time version of the bootcamp, and includes data structures, algorithms, object oriented programming concepts, Python, and JavaScript.

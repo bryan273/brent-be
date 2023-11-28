@@ -1,0 +1,1 @@
+1 The latency of the connecting device. 2  For a cable modem, this can normally be between 5 and 40 ms. 3  For a DSL modem this is normally 10 to 70ms. 4  For a dial-up modem, this is normally anywhere from 100 to 220ms. 5  For a cellular link, this can be from 200 to 600 ms.

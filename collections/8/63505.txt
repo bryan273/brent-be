@@ -1,0 +1,1 @@
+Scrabble is a game that is played by 2, 3 or 4 people. It uses a board with squares on it (15x15) and a large number of letters on small tiles. Each player, when it is his/her turn, has to put a word on the board, using any of the seven letters (seven tiles) that they have in front of them. Their word must join on to what is already on the board.

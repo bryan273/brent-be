@@ -1,0 +1,1 @@
+A3: Registration expires on the last day of the month of expiration. If renewing late, the online system will compute delinquent penalties through the date of renewal. Most delinquent registration renewal penalties are computed as follows:

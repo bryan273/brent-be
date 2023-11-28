@@ -1,0 +1,1 @@
+We discuss the available options for each of the core. platform engines and for the expansion products. This book gives IT architects, IT specialists, and IT Technical Sales a solid. understanding of IBM FileNet P8 Platform, its architecture, its functions and. extensibility, and its unlimited capabilities.

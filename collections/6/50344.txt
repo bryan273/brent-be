@@ -1,0 +1,1 @@
+Virtual machine runs its own kernel regardless of system-level virtualization in which instances share the same kernel. Virtualization administrator uses Virtualization Management Console (VMC) to manage virtual machines. There are different types of Server Virtualization which are common these days.

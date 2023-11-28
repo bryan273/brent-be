@@ -1,0 +1,1 @@
+In other implementations, this is a distinct concept; in Python a package is a collection of modules, while in the upcoming Java 9 the introduction of the new module concept (a collection of packages with enhanced access control) is planned.

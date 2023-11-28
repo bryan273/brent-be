@@ -1,0 +1,1 @@
+Volume is the amount of space inside of something like a cube. Volume is always measured using linear measurements (like inches and centimeters) cubed to represent three dimensions. Example: For the cube on the right, the volume is 75 cubic inches. This means that you can fit 75 little one inch cubes inside!

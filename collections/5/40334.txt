@@ -1,0 +1,1 @@
+In the first look, there may not be many limitations in Windows Defender. However, if you get a deeper look into the different aspects such as protection level, you will see some for sure. Now, we will see why some people believe that Windows Defender is not good enough for your Windows PC protection.

@@ -1,0 +1,1 @@
+However, sometimes, bytecode can also be compiled to a native binary using an AOT compiler or executed natively, by hardware processor. 1  Java (is compiled into Java bytecode to be interpreted by JVM). 2  Groovy. 3  Join Java. 4  ColdFusion. 5  Scala. 6  Lua. .NET  Framework languages (translated to bytecode, called CIL).

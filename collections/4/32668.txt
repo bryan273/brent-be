@@ -1,0 +1,1 @@
+_____ d) Which stage is the bottleneck? _____ e) What is the minimum TPT? = _____ Suppose two new machines are added to the process (in parallel to other machines at a stage): P4 at stage 2 (with cycle time = 8 min / unit) and M3 at stage 3 (with cycle time = 6 min / unit).

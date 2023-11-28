@@ -1,0 +1,1 @@
+To determine if an individual s condition has progressed to AIDS, a CD4 T-cell count is taken from blood samples. If the CD4 T-cell count falls below 200 cells/mm 3 then a person is considered to have acquired immune deficiency syndrome and is consequently severely immunocompromised.

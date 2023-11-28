@@ -1,0 +1,1 @@
+How to Send As a Mailbox. If you are working with Shared Mailboxes, in some cases you might want to send mail from the Shared Mailbox and have the message appear to come from the Shared Mailbox instead of the actual user’s account. Setting this up requires 2 main things.

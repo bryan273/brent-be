@@ -1,0 +1,1 @@
+Recently, security ratings have come under increased scrutiny by security professionals and locksport groups for failing to include real-world compromise techniques and scenarios. Much of this criticism began with the media attention surrounding key bumping.

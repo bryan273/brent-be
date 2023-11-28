@@ -1,0 +1,1 @@
+Mailbox size and message sending limits in iCloud. Learn more about iCloud Mail account mailbox size and message sending limits. Since iCloud Mail is designed for personal use, there are a few message sending limitations to know about.

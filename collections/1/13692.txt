@@ -1,0 +1,1 @@
+The first number in the dividend is put into the first position of the result area (below the horizontal line). Multiply the newest entry in the result by the divisor and place the result of under the next term in the dividend .

@@ -1,0 +1,1 @@
+When you create your own PHP-CPP extension, you also have to compile and deploy it. A normal PHP script only has to be copied to a web server to be deployed, but it takes a little more effort to deploy an extension: you need a Makefile, an extension specific php.ini file and of course the *.cpp files in which you implement your extension.

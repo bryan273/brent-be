@@ -1,0 +1,1 @@
+Enter the Payment Date, confirm the New Check Number and optionally record a Voucher Number. Payables automatically selects Void for you. Review and optionally update the void dates. 4. Choose OK to have Payables void the selected payment and create a new payment document to pay the invoices.

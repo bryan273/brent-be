@@ -1,0 +1,1 @@
+Instructions. Run Word 2010, and open the file for which you want to add the password. Click File.. A menu pane opens on the left section of the document. Click Info.. A new menu stems from Info.. Click Protect Document from the Info pane. Another menu opens below Protect Document..

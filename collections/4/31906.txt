@@ -1,0 +1,1 @@
+#1 Open the Color Palette Menus with Alt+H+. The keyboard shortcut to open the Fill Color menu on the ribbon is Alt+H+H. This will open the menu so you can view the color palette, but you have to take additional steps to select and apply the color.

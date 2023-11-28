@@ -1,0 +1,1 @@
+Methodology: Unlike standardly available Census demographics, NeighborhoodScout uses dozens of custom models to transform 8.5 million raw demographic data elements from government sources into proprietary indices and insights….

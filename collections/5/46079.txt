@@ -1,0 +1,1 @@
+Size content to viewport. The page content is too wide for the viewport, forcing the user to scroll horizontally. Size the page content to the viewport to provide a better user experience. The page content is 998 CSS pixels wide, but the viewport is only 980 CSS pixels wide.

@@ -1,0 +1,1 @@
+vi Developing Applications with IBM FileNet P8 APIs 6.5.8 Invoking PE REST service to fetch role and In-basket list . . . . . . . 217 6.5.9 Deploying the widget. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 217 6.5.10 Building the solution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 219 Chapter 7.

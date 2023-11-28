@@ -1,0 +1,1 @@
+To create a simple volume using a command line. Open a command prompt and type diskpart. At the DISKPART prompt, type list disk. Make note of the number of the disk where you want to create a simple volume. At the DISKPART prompt, type create volume simple [size=<size>] [disk=<disknumber>].

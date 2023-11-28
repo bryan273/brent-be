@@ -1,0 +1,1 @@
+1 A level of Start indicates a move that will be known by a Ekans obtained at level 1. 2  Bold indicates a move that gets STAB when used by Ekans.  Italic indicates a move that gets STAB only when used by an evolution of Ekans.

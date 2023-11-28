@@ -1,0 +1,1 @@
+Style notes: According to the official Bitcoin Foundation, the word Bitcoin is capitalized in the context of referring to the entity or concept, whereas bitcoin is written in the lower case when referring to a quantity of the currency (e.g. I traded 20 bitcoin).

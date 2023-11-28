@@ -1,0 +1,1 @@
+Just uninstall your WhatsApp and then reinstall it. WhatsApp automatically creates a backup of your data everyday and stored it on your phone. When you re-install the app, you are prompted to restore your message history. Simply tab “Restore” and messages less than seven days old is restored.

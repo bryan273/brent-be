@@ -1,0 +1,1 @@
+For my senior year, the school sprang for a FORTRAN compiler to run on the business office NCR computer. My job was to run the students punch-card decks through the computer during the business office lunch hour. Spent an interim month learning to use FORTRAN as a language usage analysis tool, under tutelage of a Classic Languages professor.

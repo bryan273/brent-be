@@ -1,0 +1,1 @@
+A Scatter (XY) Plot has points that show the relationship between two sets of data. In this example, each dot shows one person's weight versus their height. (The data is plotted on the graph as Cartesian (x,y) Coordinates)

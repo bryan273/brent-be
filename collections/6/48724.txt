@@ -1,0 +1,1 @@
+Open a new spreadsheet in Microsoft Excel. Enter the name, or type, of your first item in cell A1. Enter the total sales from the first item in cell B1. If you derived $15,000 from action figures sales, you would enter $15,000 in cell B1. Repeat this process for each item, or type of item, on a new line.

@@ -1,0 +1,1 @@
+If your phone is stolen and you attempt to block it using the IMEI, be sure to ask your carrier if this block will extend to other networks as well. If not, you might want to try contacting the other major networks in your region to ask what can be done.

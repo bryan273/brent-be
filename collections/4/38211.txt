@@ -1,0 +1,1 @@
+Let's take a look at what occurs within a skeletal muscle, from excitation to contraction to relaxation 1  : An electrical signal (action potential) travels down a nerve cell, causing it to release a chemical message (neurotransmitter) into a small gap between the nerve cell and muscle cell. 2  This gap is called the synapse.

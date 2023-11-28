@@ -1,0 +1,1 @@
+An office administrator is responsible for the management of employees associated with a given office. An office administrator is responsible for managing use of office supplies, such as paper clips. An office administrator oversees day-to-day office operations.

@@ -1,0 +1,1 @@
+With the release of the HITECH-HIPAA modifications, HIPAA also now covers “business associates” or entities that contract with covered entities and that receive, use, and process protected health information (PHI).

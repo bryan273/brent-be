@@ -1,0 +1,1 @@
+Check official docs about Ubuntu Development and Ubuntu for Debian Developers to understand them: Ubuntu is based on Debian, sharing many of its packages, tools and techniques with that project. Differences between Ubuntu and Debian are described in UbuntuForDebianDevelopers. Ubuntu is periodically released according to a set schedule.

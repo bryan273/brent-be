@@ -1,0 +1,1 @@
+Definition. A line segment is a piece, or part, of a line in geometry. A line segment is represented by end points on each end of the line segment. A line in geometry is represented by a line with arrows at each end. A line segment and a line are different because a line goes on forever while a line segment has a distinct beginning and end.

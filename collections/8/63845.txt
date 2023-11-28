@@ -1,0 +1,1 @@
+In simple random sampling, you use an unsystematic random selection process (i.e. you identify every characteristic you want to represent of the population in the sample group, then choose sample members on some planned basis, ensuring that every member has the same opportunity of being selected).

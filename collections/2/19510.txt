@@ -1,0 +1,1 @@
+Microsoft does have a tester program for Windows 10, but it's hidden. The Windows 10 System Requirements page says that if you are  ... running Windows 7 SP1 or Windows 8.1 Update, you can check to see if it meets the requirements by using ‘Check my PC’ in the Get Windows 10 app..

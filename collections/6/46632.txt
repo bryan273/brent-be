@@ -1,0 +1,1 @@
+A thumbnail is a smaller version of a much larger image that is used to help conserve screen space and help enable a user to view multiple images at once.

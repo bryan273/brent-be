@@ -1,0 +1,1 @@
+The related quantities LD 50 /30 or LD 50 /60 are used to refer to a dose that without treatment will be lethal to 50% of the population within (respectively) 30 or 60 days. These measures are used more commonly within Radiation Health Physics, as survival beyond 60 days usually results in recovery.

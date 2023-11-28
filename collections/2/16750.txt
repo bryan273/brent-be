@@ -1,0 +1,1 @@
+You can use the enthalpy number of the bonds on each side of a chemical equation to find out if the reaction is endothermic or exothermic. You just add up the amount of energy of the bonds that are broken and subtract products from reactants.

@@ -1,0 +1,1 @@
+For example, a lower volatility stock may have an expected (average) return of 7%, with annual volatility of 5%. This would indicate returns from approximately negative 3% to positive 17% most of the time (19 times out of 20, or 95% via a two standard deviation rule).

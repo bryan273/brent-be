@@ -1,0 +1,1 @@
+When dealers quote the spot price to each other these are the main assumptions they are making 1  :-. That the buyer is paying in full in 48 hours. 2  That the price quoted is in US dollars per troy ounce. 3  That the gold will be Unallocated at the point of trade, with a right to allocate without further cost in London.

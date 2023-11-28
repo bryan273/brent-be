@@ -1,0 +1,1 @@
+Okay, for step one you need to get the command blocks in your inventory. Make sure you have cheats ON and say /give (player name) command_block. After you get in in your inventory place 5 in a row.

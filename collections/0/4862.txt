@@ -1,0 +1,1 @@
+PHP programs can be created using any text editor such as EditRocket. PHP programs and scripts typically end with the .php extension. EditRocket will automatically recognize files with the .php extension as PHP programs, and will color the syntax accordingly.

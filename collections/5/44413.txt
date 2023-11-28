@@ -1,0 +1,1 @@
+This course will walk you through the major components of building GRITS, an HTML5 game. We'll talk about how to take standard game development techniques, and use them to create high performance HTML5 applications.

@@ -1,0 +1,1 @@
+The first inequality means that the distance between x and c is greater than 0 and that x ≠ c, while the second indicates that x is within distance δ of c. Note that the above definition of a limit is true even if f(c) ≠ L. Indeed, the function f need not even be defined at c.

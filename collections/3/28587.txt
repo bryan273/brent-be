@@ -1,0 +1,1 @@
+Python programmers, trainers, students and book writers should feel free to bypass these functions without concerns about missing something important. apply (function, args [, keywords]) ¶ The function argument must be a callable object (a user-defined or built-in function or method, or a class object) and the args argument must be a sequence.

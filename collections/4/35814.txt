@@ -1,0 +1,1 @@
+Therefore the resulting solid does not have $5+4-2=7$ faces, as expected, but only $5$ of them: the base square and one triangular side wall of the pyramid, two rhombi composed of a side wall of the pyramid and a facet of the tetrahedron, and one facet of the tetrahedron. share | cite | improve this answer.

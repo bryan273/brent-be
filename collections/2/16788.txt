@@ -1,0 +1,1 @@
+Find the applied voltage if the current through the 30 ohm resistor is 2 amps. (The abbreviation amp is commonly used for ampere.). To solve the problem, a circuit diagram is first drawn and labeled (fig 3-18). Figure 3-18.

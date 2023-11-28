@@ -1,0 +1,1 @@
+Objectively measurable stimuli are used in psychophysics experiments, such as lights varying in brightness, or sounds varying in loudness. A threshold, or limin, is the point at which a subject can detect a stimulus, or a change in the stimulus.

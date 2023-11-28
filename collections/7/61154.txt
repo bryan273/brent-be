@@ -1,0 +1,1 @@
+Defining a format for a variable is how you tell SAS to display the values in the variable (e.g., how you will see it). Formats can be grouped into the same three classes as informats (character, numeric, and date-time) and also always contain a dot. The format for a variable does not have to be the same as the informat for the variable.

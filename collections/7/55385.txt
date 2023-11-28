@@ -1,0 +1,1 @@
+Electron transport requires a membrane in order to work. In prokaryotic cells, those of bacteria and bacteria-like Archaeans, electron transport takes place in the cell’s plasma membrane, in folded areas called mesosomes.

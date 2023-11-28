@@ -1,0 +1,1 @@
+The energy associated with a given segment of the spectrum is proportional to its frequency. The bottom equation describes this relationship, which provides the energy carried by a photon of a given wavelength of radiation. To obtain specific frequency, wavelength and energy values use this calculator.

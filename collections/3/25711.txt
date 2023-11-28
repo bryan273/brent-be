@@ -1,0 +1,1 @@
+Our Chatter implementation primarily provides a think tank type of space for employees. It's not a channel for official communication, but it's usually project- or role-focused chat. There's a lot of brainstorming and idea sharing.

@@ -1,0 +1,1 @@
+Spot price for any commodity is the price you would have to pay at this specific moment to obtain the commodity. Spot price is, in effect, the commodity’s “right now” price. This does not mean that it exists in isolation from commodity market trends, however.

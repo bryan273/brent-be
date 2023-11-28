@@ -1,0 +1,1 @@
+Star sizes can also be found (less accurately) from the luminosity and the flux. Recall from the magnitude section above that the luminosity = [4 p ×(star radius) 2 ] × [ ×(star's surface temperature) 4 ], where is the Stefan-Boltzmann constant.

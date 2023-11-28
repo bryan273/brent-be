@@ -1,0 +1,1 @@
+Principle Operation of the hydrometer is based on [Archimedes' principle] that a solid suspended in a fluid is buoyed by a force equal to the weight of the fluid displaced by the submerged part of the suspended solid. Thus, the lower the density of the substance, the farther the hydrometer sinks.

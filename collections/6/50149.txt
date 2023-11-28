@@ -1,0 +1,1 @@
+However, the RMS value of the power waveform is different from the average power value (e.g. 22% higher for a sine wave signal), and doesn't represent anything useful, so these terms should not be used. The correct term is continuous average power, which is proportional to the RMS voltage, and specified by the FTC.

@@ -1,0 +1,1 @@
+I cannot recreate the problem in my system (XP and Word 2010). I can change the return address and the settings stick, even after closing Word 2010 without saving. The setting for the return address is stored in the registry, at HKEY_CURRENT_USER\Software \Microsoft \Office\14.0\Word\Da ta

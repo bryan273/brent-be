@@ -1,0 +1,1 @@
+The numbers in nominal measurement are assigned as labels and have no specific numerical value or meaning. No form of mathematical computation (+, -, x etc.) may be performed on nominal measures. The nominal level is the lowest measurement level used from a statistical point of view. Mathematical operations

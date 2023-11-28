@@ -1,0 +1,1 @@
+It corresponds to the average prediction variation of all predictions ( from the publication date of the predictions). For example, if a trader published 2 price predictions : + 30 %

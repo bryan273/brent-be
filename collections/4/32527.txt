@@ -1,0 +1,1 @@
+If an AFM lifter unlocks as soon as the engine is started, a SES light and DTC P0300 will be experienced with engine misfires on cylinder 1, 4, 6 or 7 but it is unlikely that any noise will be experienced.

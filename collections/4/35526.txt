@@ -1,0 +1,1 @@
+So Nosek’s team looked beyond statistical significance. They also considered the effect sizes of the studies. These measure the strength of a phenomenon; if your experiment shows that red lights make people angry, the effect size tells you how much angrier they get. And again, the results were worrisome.

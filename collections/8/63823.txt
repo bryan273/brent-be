@@ -1,0 +1,1 @@
+example 5 use the result of example 3 to find the average rate of change of from 3 to 0 the average rate of change of from 3 to 0 is a 0 3 3 1 a difference quotient can also be used to define a function that allows us to determine the average rate of change

@@ -1,0 +1,1 @@
+The drawback: Stateful services impose a level of complexity in order to scale out. Functionality that would usually be implemented within the external database boundaries must be addressed for things such as data replication across stateful micro­services replicas, data partitioning and so on.

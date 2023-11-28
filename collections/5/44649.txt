@@ -1,0 +1,1 @@
+The METeorological CALculator (METCAL) is a GUI between the end user and the SPA. It consists of a set of three notebook pages on which the user sets File I/O characteristics, operation mode requirements, and desired outputs. Each of these pages is described in detail in the following sections.

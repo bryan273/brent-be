@@ -1,0 +1,1 @@
+The JDK is a superset of the JRE, and contains everything that is in the JRE, plus tools such as the compilers and debuggers necessary for developing applets and applications. Note that Oracle is not the only one to provide JDK.

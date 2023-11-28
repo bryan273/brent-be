@@ -1,0 +1,1 @@
+4. Create a saved search in OMS. Our honeypot account runbook will leverage a saved OMS search. This will not only limit the scope and have a precise defined search, but will also avoid syntax errors. To save a search in OMS simply use the Log Search functionality to execute and test your search.

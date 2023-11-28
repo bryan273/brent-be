@@ -1,0 +1,1 @@
+This website is a listing of the most commonly used traffic signs in the United States. The signs are listed by type (regulatory, warning, marker, guide) and sub-type (R1, R2, etc.). On most pages, clicking on the smaller sign images will bring up a larger GIF image of that sign.

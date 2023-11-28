@@ -1,0 +1,1 @@
+SAP HANA is an in-memory platform for processing high volumes of data in real-time. HANA allows data analysts to query large volumes of data in real-time. HANA's in-memory database infrastructure frees analysts from having to load or write-back data.

@@ -1,0 +1,1 @@
+from my understanding, shut off pressure is the the higest pressure that can be produced by a pump and this happened at zero flow i.e. control valve closed at discharge line. so when pump running during discharge valve closed, the pressure build up in the pipe line until a maximum pressure and this maximum pressure is shut off pressure.

@@ -1,0 +1,1 @@
+Embracing QAPI: part 6: QAPI is a culture change and the final two steps provide an illustration of quality improvement The Centers for Medicare & Medicaid Services (CMS) is responsible for both promulgating the QAPI regulation and providing technical assistance to NHs.

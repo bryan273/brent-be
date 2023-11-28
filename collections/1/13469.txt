@@ -1,0 +1,1 @@
+That's all on What is main method in Java, What are valid signature of main method in Java, What happens if you put incorrect signature of main method, Why main method is public, static, and void in Java and finally we saw difference between C, C++ and Java main methods.

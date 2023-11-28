@@ -1,0 +1,1 @@
+Of course you can use the quotient rule, but it is usually not the easiest method. If we do use it here, we get $${d\over dx}{10\over x^2}={x^2\cdot 0-10\cdot 2x\over x^4}= {-20\over x^3},$$ since the derivative of 10 is 0.

@@ -1,0 +1,1 @@
+So again, re-emphasizing the shortcut keys: Command+Shift+3 will print the screen to a file on the Mac desktop, while Command+Control+Shift+3 will print the screen to the clipboard just like the Windows function works. Remember the difference between the two, and use which works best for you.

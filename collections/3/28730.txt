@@ -1,0 +1,1 @@
+THE RELATIVE FREQUENCY INTERPRETATION OF PROBABILITY. We are interested in learning about the probability of some event in some process. For example, our process could be rolling two dice, and we are interested in the probability in the event that the sum of the numbers on the dice is equal to 6.

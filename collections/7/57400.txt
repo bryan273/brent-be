@@ -1,0 +1,1 @@
+electromagnet - Computer Definition. A magnet that is energized by electricity. A coil of wire is wrapped around an iron core. When current flows in the wire, the core generates an energy called magnetic flux..

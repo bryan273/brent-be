@@ -1,0 +1,1 @@
+In the weapons information, if it says “Never” then the weapon is not a SIB weapon. If it says: “Not yet”, “Yes”, or “Not anymore” then it is a skill weapon, and, depending on which one of the messages you see, you may or may not get an increased skill gain from that weapon.

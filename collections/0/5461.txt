@@ -1,0 +1,1 @@
+Most AWD systems deliver power primarily to one set of wheels, front or rear. When slippage is detected at one axle, power is diverted to the other axle, in hopes of finding more traction there. Not all AWD systems are equal. Subaru’s AWD system always directs at least 20-percent of the engine’s power to the rear, and it can direct a larger amount aft if needed.

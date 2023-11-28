@@ -1,0 +1,1 @@
+While the sinoatrial node typically regulates the heartbeat during normal sinus rhythm, PACs occur when another region of the atria depolarizes before the sinoatrial node and thus triggers a premature heartbeat.

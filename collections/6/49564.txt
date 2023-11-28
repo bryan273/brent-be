@@ -1,0 +1,1 @@
+If you are trying to determine whether changing a particular parameter has any effect on the outcome of an experiment it is necessary to carry out the experiment on a control sample which is the same as the test sample apart from the single parameter change.

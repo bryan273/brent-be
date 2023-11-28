@@ -1,0 +1,1 @@
+If left unchecked, rust eats down into the surface of metal. In ideal conditions, metals such as steel take a long time to rust over if they are regularly cleaned, as occurs in commercial situations.

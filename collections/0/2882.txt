@@ -1,0 +1,1 @@
+A NALYSIS OF D ISCRETE V ARIABLES / 25 C HAPTER F IVE A NALYSIS OF D ISCRETE V ARIABLES Discrete variables are those which can only assume certain fixed values. Examples include outcome variables with results such as live vs die, pass vs fail, and extubated vs reintubated.

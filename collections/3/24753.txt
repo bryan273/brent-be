@@ -1,0 +1,1 @@
+To clear the list of Compatibility View sites. 1  Open Internet Explorer, select the Tools button , and then select Internet options. 2  Under Browsing history, select Delete.  In the Delete Browsing History dialog box, select the History check box, and then select Delete.

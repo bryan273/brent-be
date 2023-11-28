@@ -1,0 +1,1 @@
+This demonstrates the all-or-none relationship in spike production. The above account deals with the response of a single nerve fiber. If a nerve trunk is stimulated, then as the exciting stimulus is progressively increased above threshold, a larger number of fibers respond.

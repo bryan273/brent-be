@@ -1,0 +1,1 @@
+A data retention policy must consider the value of data over time and the data retention laws an organization may be subject to. In 2006, the U.S. Supreme Court recognized that it is not financially possible to retain all information indefinitely.

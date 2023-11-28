@@ -1,0 +1,1 @@
+In one of the previous articles (Measure Time in Python - time.time() vs time.clock()), we learned how to use the module timeit to benchmark a program. Since the program we timed in that article includes only raw statements instead of functions, we're going to explore how to actually time a function in Python.

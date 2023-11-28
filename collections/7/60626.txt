@@ -1,0 +1,1 @@
+1 Decide about the number of classes. 2  Too many classes or too few classes might not reveal the basic shape of the data set, also it will be difficult to interpret such frequency distribution. 3  The maximum number of classes may be determined by formula: or where n is the total number of observations in the data.

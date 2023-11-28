@@ -1,0 +1,1 @@
+A bottleneck is a point of congestion in a production system that occurs when workloads arrive too quickly for the production process to handle. The inefficiencies brought about by the bottleneck often create delays and higher production costs.

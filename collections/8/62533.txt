@@ -1,0 +1,1 @@
+Coil Spring Calculations and Definition. Definition: Wire wound spirally in order to form coils one on top of the other to make up a coil spring. Coil springs can be either compression, torsion, extension, or conical springs because all of these springs are made up of helically wound coils of wire.

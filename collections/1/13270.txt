@@ -1,0 +1,1 @@
+5,617 4 14 31. add a comment |. up vote 0 down vote. Key values of all selected checkboxes in the gridview can be retrieved by iterating though all the rows of gridview one by one using a simple loop and checking if the checkbox is selected or not.

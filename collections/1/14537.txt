@@ -1,0 +1,1 @@
+Timezone is a string with a maximum length of 256 characters. New time zones may appear in future releases. If you need to add support for a new time zone, enter the exact time zone string. Set the TimeZone to one of the values in the first column of the Time Zone table, for example, Central Asia Standard Time.

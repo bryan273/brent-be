@@ -1,0 +1,1 @@
+The deck consists of a total of 108 cards of four colors: red, green, blue, and yellow. The ranks in each color are 0-9, with two of each number per color, except 0 which only… appears once per color. If a player has any two or more cards of the same number and colour, he can play it together.

@@ -1,0 +1,1 @@
+If you are an experience user you may go for the manual removal of UpdatusUser account from the system Users management dashboard which requires simple tweaking through Computer management. 1  Open RUN Command box and type compmgmt.msc in the box and Hit enter as shown below in the screen shot.

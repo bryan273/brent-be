@@ -1,0 +1,1 @@
+Spin-Valves, which are used in Hard-Disks and sensors today, use Spintronics. Also MRAM, which is based on Spintronics, is advancing nicely, and EverSpin (formerly part of Freescale) have started selling 4-Mbit MRAM modules. There are several Spintronics-based sensors which are also available today.

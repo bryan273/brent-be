@@ -1,0 +1,1 @@
+What does SSID stand for? SSID stands for service set identifier, and it is used to uniquely identify any given wireless network. You can think of it as the IP address for a wireless network. Every wireless network that's set up needs to be identifiable by other devices on the network and for the data packets that will along it.

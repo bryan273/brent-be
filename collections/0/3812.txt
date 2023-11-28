@@ -1,0 +1,1 @@
+1 For an adiabatically expanding ideal monatomic gas which does work on its environment (W is positive), internal energy of the gas should decrease.  In a sense, isothermal process can be considered as the opposite extreme of adiabatic process. In isothermal processes, heat exchange is slow enough so that the system's temperature remains constant.

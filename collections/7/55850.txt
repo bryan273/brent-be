@@ -1,0 +1,1 @@
+Unit Lineage and Honors information is posted in subordinate directories based on the type of unit (branch or functional area). The Armor directory contains all of the entries for units in that basic branch; Signal the signal units, etc.

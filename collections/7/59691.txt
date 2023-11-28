@@ -1,0 +1,1 @@
+The following chart shows USPS Package Restrictions for all their major packaging options. These are the weight and dimensional limits that USPS allows. The Predefined Package names are drawn from the EasyPost API, so you can better reference how each Predefined Package matches up dimensionally. This chart is current as of August 30th, 2016.

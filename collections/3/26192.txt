@@ -1,0 +1,1 @@
+A: I’ve seen planes with the stall speeds specified for “Aft C.G.” (our club 172L POH shows that), “Forward C.G.”, tables showing stall speeds for both situations, and ones where the conditions for the stall speeds are not specified. First, let’s be clear to call it the center of gravity (aka C.G.).

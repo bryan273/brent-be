@@ -1,0 +1,1 @@
+Best Answer: Usually upper bound means the largest value, that would be 2248. the lower bound would then mean the smallest number or -283. If that does not answer your question, please be a bit more. precise in your question. What do these three.

@@ -1,0 +1,1 @@
+Rainfall intensity is classified according to the rate of precipitation: 1  Light rain — when the precipitation rate is < 2.5 mm (0.098 in) per hour. 2  Moderate rain — when the precipitation rate is between 2.5 mm (0.098 in) - 7.6 mm (0.30 in) or 10 mm (0.39 in) per hour.

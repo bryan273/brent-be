@@ -1,0 +1,1 @@
+Inertia controllers use both an electric connection to the brake switch and a built-in inertia gauge that meters out the braking power. These provide smooth braking response as the controller reacts just like the vehicle; if you stomp on the brakes, the trailer brakes are instantly applied.

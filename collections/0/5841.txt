@@ -1,0 +1,1 @@
+Strategy input; PCM uses this to adjust fuel quantity and injection timing for optimum running. and minimum smoke, also glow plug on time to aid starting at higher altitudes; 5 volts in, @4.6. volts/14.7 psi at sea level, decreasing as altitude increases.

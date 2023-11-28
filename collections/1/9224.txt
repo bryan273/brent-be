@@ -1,0 +1,1 @@
+Haiku Syllable Counter This free haiku syllable counter counts the syllables for each line in a Haiku (or other form of poem) entered with hard returns. It uses a combination of a U.S. English haiku syllable counter dictionary and a formula-based haiku syllable counting program.

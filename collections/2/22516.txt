@@ -1,0 +1,1 @@
+HIGH Impedance, such as most electric guitar and bass pickups and instruments, some (usually lower priced) Microphones (some can be low impedance, check the specs), most effects boxes, most preamps and instrument processors (stomp boxes), some of which may have both low and high impedance output jacks.

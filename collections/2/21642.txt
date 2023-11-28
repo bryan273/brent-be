@@ -1,0 +1,1 @@
+In other words, the derivative of a product is not the product of the derivatives. Using the same functions we can do the same thing for quotients. So, again we can see that, To differentiate products and quotients we have the Product Rule and the Quotient Rule.

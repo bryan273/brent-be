@@ -1,0 +1,1 @@
+The International Standard ISO 216 defines the A, B and C series. The ISO standard follows mathematically defined aspect ratios and each number is half the size of the preceding number, so you can cut an A0 sheet in half and you get two pieces of A1, each of which can in turn be cut in to two A2 sheets etc.

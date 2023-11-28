@@ -1,0 +1,1 @@
+XLSB disadvantages (XLSB vs. XLSX) 1  Compatibility – the XLSB Excel format is not supported by Excel 2003 and earlier versions, which frankly is less of a problem nowadays. 2  Security (VBA) – with the distinction between the XLSM and XLSX format you know which files may or not contain VBA macros.

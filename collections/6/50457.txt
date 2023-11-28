@@ -1,0 +1,1 @@
+You should also be aware that repeated saving in the JPG format causes more and more image degradation. To save you image as a JPG file, therefore, use → to open the “Save As” dialog. Figure 3.22. “Save As” Dialog. The dialog opens with the file name already typed in the Name box.

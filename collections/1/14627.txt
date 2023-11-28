@@ -1,0 +1,1 @@
+Genes, fms. Family of genes originally isolated from the Susan McDonough strain of feline sarcoma virus (SARCOMA VIRUSES, FELINE). The proto-oncogene fms (c-fms) codes for the MCSF receptor (RECEPTOR, MACROPHAGE COLONY-STIMULATING FACTOR). The oncogene fms (v-fms) codes for ONCOGENE PROTEIN GP140(V-FMS) which is a mutated form of the MCSF.

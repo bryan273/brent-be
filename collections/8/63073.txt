@@ -1,0 +1,1 @@
+An Efficient Unification Algorithm 259. Resolution, however, is not the only application of the unification algorithm. In. fact, its pattern matching nature can be exploited in many cases where symbolic. expressions are dealt with, such as, for instance, in interpreters for equation.

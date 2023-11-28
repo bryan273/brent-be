@@ -1,0 +1,1 @@
+This is an introduction to how to properly connect batteries and cells in series or parallel for greater voltage or current. I'll begin with an explanation of terms, then examples, then experiments. I will only deal here with direct current (DC) devices only. This page has been updated September 2, 2011.

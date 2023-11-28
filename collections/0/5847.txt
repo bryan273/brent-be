@@ -1,0 +1,1 @@
+changeover relay.. This type of relay will work for this application also, but you will not use pin 87a. In a changeover relay, the 87a. pin will be “HOT” anytime the 87 pin is OFF, so long as power is connected to pin 30. Thanks go to Bob Wilson (volvodad on Brickboard) for contributing to these differences.

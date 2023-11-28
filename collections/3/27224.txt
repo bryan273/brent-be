@@ -1,0 +1,1 @@
+Of the things which can go wrong at runtime in Java programs, null pointer exceptions are by far the most common.bject references are like pointers in C, but are much more constrained: a C pointer can point to an arbitrary store location, while a Java object reference can point to an object of known type, or be null.

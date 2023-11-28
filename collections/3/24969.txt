@@ -1,0 +1,1 @@
+1 Aside from that, we made these improvements: & 2 #x2022; Abbiamo localizzato l'applicazione per la lingua Italiana. & 3 #x2022; Fixed a few issues that may have caused occasional crashes. & #x2022; Made slight improvements to the user interface.

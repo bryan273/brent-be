@@ -1,0 +1,1 @@
+An auditor is assigned to perform a post-implementation review on a system for which the auditor participated in the design of controls during the system's design process.

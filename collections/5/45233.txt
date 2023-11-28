@@ -1,0 +1,1 @@
+Applications of reverse word dictionaries include: 1  Simple rhyme dictionaries, to the extent that spelling predicts pronunciation. 2  Finding words with a given suffix (i.e., meaningful ending), like -ment. 3  Finding words with the same ending as a given word, even if the sequence is not meaningful.

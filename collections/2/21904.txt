@@ -1,0 +1,1 @@
+Users are given the option of watching a selected movie now or watching it later. The first couple of seconds of every movie within the catalog are loaded onto the Vudu Box's hard drive, ensuring instant playback when the user chooses to watch a given film. The remainder of the movie is delivered to the box via an exclusive peer-to-peer network.

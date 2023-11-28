@@ -1,0 +1,1 @@
+EDIT: I got a weird solution - check the internet settings of the browser you DONT use (I use firefox) -&gt; my settings for Internet Explorer were set to connect to a proxy server -&gt; disabled it and it worked!

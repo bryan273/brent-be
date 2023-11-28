@@ -1,0 +1,1 @@
+All of that works perfectly when the WAN address is Static. The backup router is a DHCP client and the outside WAN ip changes from time to time. It's on a network with a /192 mask. We cannot get a static ip for the back up.

@@ -1,0 +1,1 @@
+In the above example the voltage across R 2 was computed using the current through R 2 and the resistance of R 2. The value of the voltage dropped by a resistor is determined by the applied voltage and is in proportion to the circuit resistances.

@@ -1,0 +1,1 @@
+Aspect Ratio. Aspect ratio refers to the shape, or format, of the image produced by a camera. The ratio is derived by dividing the width and height of the image by their common factor. The aspect ratio of a 35mm image (36 x 24mm) is found by dividing both numbers by their common factor: 12.

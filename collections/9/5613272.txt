@@ -1,0 +1,1 @@
+If each small box is equal to 0.04 seconds or 1 mm, then the standard ECG speed is 1 mm per 0.04 seconds or 25 mm per second. The standard approach to reading an ECG includes in this order: 1  Examining the rate.  Examining the rhythm.

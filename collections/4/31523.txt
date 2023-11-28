@@ -1,0 +1,1 @@
+The operating system's organization of our data can be enhanced by the use of cataloging programs, which make organizing and finding image files easier than simply relying on the computer's directory structure. Another feature of catalog programs is that they can streamline backup procedures for better file protection.

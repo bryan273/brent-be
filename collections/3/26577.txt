@@ -1,0 +1,1 @@
+BOARD GAME SOLVER powered by Anagrammer's Scrabble Word Finder. Words For Scrabble can be used for games like Scrabble, Words With Friends, Lexulous, Scrabulous, Scrabble finder and more.

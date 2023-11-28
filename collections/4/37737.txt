@@ -1,0 +1,1 @@
+BigTable enables the huge scalabilty of storage for Google. It consists of a cluster management system, which is the more like a distributed master system. At the atomic level, data is stored using the Google file system in millions of chunk servers.

@@ -1,0 +1,1 @@
+Vaccine Coding- Code the vaccine using the traditional CPT code that identiies the product you are using. vaccine used, and they will not pay a claim billed with the traditional CPT code 90658. (0.5 mL, trivalent, multidose vial) is billed with Q2038. vaccines, and the traditional CPT codes should be used.

@@ -1,0 +1,1 @@
+DIs are frequently used to connect an electric guitar, electronic piano, or electric bass to a mixing console’s microphone input. The DI performs level matching, balancing, and either active buffering or passive impedance bridging to minimize noise, distortion, and ground loops. DIs do not perform impedance matching.

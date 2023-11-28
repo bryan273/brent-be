@@ -1,0 +1,1 @@
+Sitemap is a list of pages on a website that is accessible to all users. An XML sitemap is a way for website owners to tell search engines about all the pages that exist on their website. WordPress XML sitemap also tells search engines which links on your website are more important than others and how frequently you update your website.

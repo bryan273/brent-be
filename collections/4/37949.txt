@@ -1,0 +1,1 @@
+1 Basic Bank Account Number (BBAN) - up to 30 alphanumeric characters that are country-specific.

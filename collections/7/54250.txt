@@ -1,0 +1,1 @@
+Absolute size: 1  Sets the text to a specified size. 2  Does not allow a user to change the text size in all browsers (bad for accessibility reasons) 3  Absolute size is useful when the physical size of the output is known.

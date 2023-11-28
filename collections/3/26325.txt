@@ -1,0 +1,1 @@
+Techopedia explains Open Enterprise Server (OES) Open enterprise server is a combination of two different operating system platforms, which provides the ability to take the functionality of both. Specifically, OES is strong on the networking capabilities from Netware and the server management expertise of Suse Linux.

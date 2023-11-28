@@ -1,0 +1,1 @@
+You can get the free version from safer-networking.org/mirrors. 4. Reboot your computer in Safe Mode. It will be easier for these anti-adware programs to scan when your computer is running in Safe Mode. 1  Reboot your computer.  Repeatedly hit F8 before the Windows logo appears.

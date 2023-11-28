@@ -1,0 +1,1 @@
+The industry is aiming to move to the 450 mm wafer size by 2018. As of March 2014, Intel expects 450 mm deployment by 2020. Additionally, there is a large push to completely automate the production of semiconductor chips from beginning to end. This is often referred to as the  lights-out fab  concept.

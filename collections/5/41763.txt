@@ -1,0 +1,1 @@
+In EDI terminology inbound and outbound refer to the direction of transmission of an EDI document in relation to a particular system, not the direction of merchandise, money or other things represented by the document.

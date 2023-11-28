@@ -1,0 +1,1 @@
+Honda engineers created ASIMO with 34 Degrees of Freedom that help it walk and perform tasks much like a human. One Degree of Freedom is the ability to move right and left or up and down. These degrees of freedom act much like human joints for optimum movement and flexibility.

@@ -1,0 +1,1 @@
+ISO 4406 Cleanliness Codes. The International Organization for Standardization created the cleanliness code 4406:1999 to quantify particulate contamination levels per milliliter of fluid at three sizes: 4µ[c], 6µ[c], and 14µ[c]. This ISO code is expressed in 3 numbers: 19/17/14.

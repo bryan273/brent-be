@@ -1,0 +1,1 @@
+TheModelforEnd-StageLiverDisease(MELD)isanumericalscale,ranging from6(lessill)to40(gravelyill),usedforlivertransplantcandidatesage12 andolder.Itgiveseachpersona‘score’(number)basedonhowurgentlyhe orsheneedsalivertransplantwithinthenextthreemonths.Thenumberis calculatedbyaformulausingthreeroutinelabtestresults:

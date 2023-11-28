@@ -1,0 +1,1 @@
+To convert UTC to local time, see the Converting UTC to Local Time section that follows. To convert UTC to the time in any time zone that you designate, call the ConvertTimeFromUtc method. The method takes two parameters: The UTC to convert. This must be a DateTime value whose Kind property is set to DateTimeKind.Utc or DateTimeKind.Unspecified.

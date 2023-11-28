@@ -1,0 +1,1 @@
+The widget below matches the wavelength of light (in nanometers) to a particular color of light. Explore by entering various values between 400 nanometers and 700 nanometers. Values outside this range are not visible and therefore not associated with human-perceived color.

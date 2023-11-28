@@ -1,0 +1,1 @@
+Using Discrete Random Variables. When given a discrete random variable, Z, you can establish the probability of each outcome with a probability function. For example, if you flip a coin and z1=heads and z2=tails, the probability function is as follows: f(z)= {1/2 for Z=z1, 1/2 for Z=z2.

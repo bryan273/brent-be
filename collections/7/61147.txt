@@ -1,0 +1,1 @@
+text/html 10/2/2012 2:28:34 PM Leslie1234567 0. Is there a way to force the approval comments to be required? Currently when a workflow approval is generated, the approval window offers two radio buttons for Approved or Rejected, while the Comments below and optional.

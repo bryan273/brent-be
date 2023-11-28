@@ -1,0 +1,1 @@
+Go premium and get the best of Plex, learn more. Enjoy your media on all your devices. All your movie, TV show, music, and photo collections at your fingertips, anywhere you go on all the devices you love. {{#if isSignedIn}} {{#unless user.subscription.active}} Go Premium {{/unless}} {{else}} Get Plex for Free {{/if}}.

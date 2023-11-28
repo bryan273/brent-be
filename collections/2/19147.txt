@@ -1,0 +1,1 @@
+Second Edition (April 2011) This edition applies to Version 5, Release 0 of IBM FileNet P8 Platform products. Note: Before using this information and the product it supports, read the information in. “Notices” on page xi.

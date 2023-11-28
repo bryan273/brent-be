@@ -1,0 +1,1 @@
+The Third Law of Thermodynamics. The third law of thermodynamics states that the entropy of a system approaches a constant value as the temperature approaches absolute zero. The entropy of a system at absolute zero is typically zero, and in all cases is determined only by the number of different ground states it has.

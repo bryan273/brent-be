@@ -1,0 +1,1 @@
+A lot of people think that JavaScript is a sort of simplified version or spin-off of Java. But in fact the similarity of the names is a coincidence, and the two are unrelated except that both are used to write computer programs that can run inside a web browser.

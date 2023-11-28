@@ -1,0 +1,1 @@
+Definition of backflow preventer. A backflow preventer is a check valve installed on potable water supply piping to prevent possible contamination of the water supply system by backflowing but contaminated water from the building into the outside public water supply mains.

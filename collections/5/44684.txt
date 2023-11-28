@@ -1,0 +1,1 @@
+This moon phases calendar tool or moon schedule is an easy way to find out the lunar phase for any given month. Simply select a month and year, and click Go, and it will show you what the moon will look like for any day that month. The internal phase calculator is very accurate, but the images are approximations.

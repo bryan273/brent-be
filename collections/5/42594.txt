@@ -1,0 +1,1 @@
+Capitalize the first word after a colon if the information following the colon requires two or more complete sentences. Example: Dad gave us these rules to live by: Work hard. Be honest.

@@ -1,0 +1,1 @@
+The range is the cells that are selected or used in some way. For example, a SUM function using a range of A2:A4 would add the values in A2, A3, and A4, or all of the cells wi … thin the range. Ranges can span many rows, columns, or both. They can be called a range or a block.

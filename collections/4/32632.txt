@@ -1,0 +1,1 @@
+Random Name Picker is an option that works best for small contests or contests that don’t integrate with the other tools. This works by picking a winner from a list of names, entered manually. Simply gather a list of names, or use a tool like Contest Capture.

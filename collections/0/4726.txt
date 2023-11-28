@@ -1,0 +1,1 @@
+The OpenSSL library for the VMware Client Integration Plug-in is updated to version openssl-1.0.1h to address OpenSSL security issues CVE-2014-0224, CVE-2014-0198, CVE-2010-5298, and CVE-2014-3470. After upgrading to vCloud Director 5.5.1.2, all users must update the Client Integration Plug-in.

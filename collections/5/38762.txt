@@ -1,0 +1,1 @@
+Each routing number is unique to a particular bank, large banks may have more than one routing number for different states. ACH Routing Number: ACH Routing Number stands for Automated Clearing House (ACH).

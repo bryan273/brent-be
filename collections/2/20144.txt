@@ -1,0 +1,1 @@
+If you want to have transparent images, you have to use PNG. The best way to get high quality decks is to design them in a program like Adobe Illustrator or Fireworks, and then upload your design to the Deck Generator. Full bleed for all decks is 9 x 33 inches at 150 DPI or above.

@@ -1,0 +1,1 @@
+Oracle Database uses a ROWID datatype to store the address (rowid) of every row in the database. 1  Physical rowids store the addresses of rows in ordinary tables (excluding index-organized tables), clustered tables, table partitions and subpartitions, indexes, and index partitions and subpartitions.

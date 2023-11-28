@@ -1,0 +1,1 @@
+Yik Yak is a social media smartphone application. It is available for iOS and Android and it allows people anonymously to create and view Yaks within a 5-mile radius.

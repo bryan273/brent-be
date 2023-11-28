@@ -1,0 +1,1 @@
+A hoop of radius 1.0 m is placed in the first quadrant of an xy-coordinate system with its rim touching both the x-axis and the y-axis. (1.0, 1.0) m.

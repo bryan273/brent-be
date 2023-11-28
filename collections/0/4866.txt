@@ -1,0 +1,1 @@
+The above program can be executed using the EditRocket Tools -> PHP -> Execute Program option, or you can execute it from a command prompt. To execute the script in the command prompt, use the cd command to cd to the directory where the hello.php file was saved, such as. cd C:\Scripts.

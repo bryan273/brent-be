@@ -1,0 +1,1 @@
+Definition: A rhombus is a quadrilateral with four congruent sides. Similar to the definition of a rectangle, we could have used the word parallelogram instead of quadrilateral in our definition of rhombus. Thus, rhombuses have all of the properties of parallelograms (stated above), along with a few others.

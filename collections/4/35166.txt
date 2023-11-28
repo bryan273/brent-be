@@ -1,0 +1,1 @@
+Java is still the most used programming language for JVM and with its upcoming Java 8 release it tries to keep up with the modern trends in syntax esthetics as well as with the requirements for multi-core programming.

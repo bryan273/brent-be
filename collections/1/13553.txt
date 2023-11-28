@@ -1,0 +1,1 @@
+AHCI stand for Advance Host Controller Interface. AHCI is a hardware mechanism that allows software to communicate with Serial ATA (SATA) devices (such as host bus adapters) that are designed to offer features not offered by Parallel ATA (PATA) controllers, such as hot-plugging and native command queuing (NCQ).

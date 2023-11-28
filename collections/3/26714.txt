@@ -1,0 +1,1 @@
+For patients with insurance that follows non-Medicare CPT rules, the instructions are even more obscure. If a patient is admitted after an ED consultation and is not seen on the unit (in the intensive care unit, for example) on the date of admission, only report the outpatient consultation codes (99241–99245).

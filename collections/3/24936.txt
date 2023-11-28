@@ -1,0 +1,1 @@
+Legend: How to use the interactive Time Zone Map. Search for any city in the search field above and place a black pin by that city on the map. If you place more than one pin, an extra line of information is added underneath the map with links to those cities' pages. You may add as many pins as you like.

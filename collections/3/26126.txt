@@ -1,0 +1,1 @@
+Since goldfish get their oxygen from the surface, you want a tank with a big surface area. The number of gallons is not nearly as important as the surface area. You can get this surface area by multiplying the tank's LENGTH by its DEPTH. For every inch of fish length, you must have 30 sq inches of surface area.

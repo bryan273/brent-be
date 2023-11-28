@@ -1,0 +1,1 @@
+In particular, the perimeter of a rectangle of width w {\displaystyle w} and length ℓ {\displaystyle \ell } equals 2 w + 2 ℓ . {\displaystyle 2w+2\ell .}. An equilateral polygon is a polygon which has all sides of the same length (for example, a rhombus is a 4-sided equilateral polygon).

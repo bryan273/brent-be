@@ -1,0 +1,1 @@
+Replication connections to SQL Server use the typical regular Database Engine ports (TCP port 1433 for the default instance, etc.) Web synchronization and FTP/UNC access for replication snapshot require additional ports to be opened on the firewall.

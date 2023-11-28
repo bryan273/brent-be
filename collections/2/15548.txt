@@ -1,0 +1,1 @@
+DNA polymerases need a primer oligonucleotide (RNA or DNA) - their substrates are an existing 3'-OH group and a dNTP. The primase however is a typical RNA polymerase, capable of initiating polynucleotide synthesis de novo by positioning a complementary ribonucleoside 5'-triphosphate opposite its complementary DNA base.

@@ -1,0 +1,1 @@
+If you prefer the top row of keys to always behave as standard function keys without holding the Fn key: 1  Choose System Preferences from the Apple menu. 2  Click Keyboard. 3  Click the Keyboard tab if it's not already highlighted.  Select Use all F1, F2, etc. keys as standard function keys.

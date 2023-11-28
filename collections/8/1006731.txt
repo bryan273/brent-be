@@ -1,0 +1,1 @@
+Coding CAD. The ICD-9-CM diagnosis codes for CAD are classified to subcategory 414.0x. Coding CAD requires documentation of the coronary artery involved and whether or not it is of a native artery, an artery of a transplanted heart, or a bypass graft. The fifth-digit subclassification identifies the coronary artery involved.

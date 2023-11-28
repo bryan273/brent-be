@@ -1,0 +1,1 @@
+If you don't have policy and procedure in place to test patches that go out, there's a myriad of problems where things could go wrong, and this is a prime example of that.. Until Microsoft engineers fix and reissue the faulty patch, solution providers say users remain exposed to the vulnerabilities.

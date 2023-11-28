@@ -1,0 +1,1 @@
+Transfer Order. Definition Document used for executing goods movements with the help of Warehouse Management (WM). Logical or physical goods movements or even stock changes can be the basis for a transfer order. Use As a rule, you create the transfer order with reference to a source document from WMS or other SAP application components.

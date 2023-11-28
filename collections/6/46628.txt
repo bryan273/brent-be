@@ -1,0 +1,1 @@
+1 Locate a video and click the Edit button. 2  Click the Custom thumbnail button and upload a thumbnail. 3  Once the thumbnail is uploaded, don't forget to click the Save Changes button.

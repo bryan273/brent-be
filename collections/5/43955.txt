@@ -1,0 +1,1 @@
+The active approach, on the other hand, offers much information about system and application vulnerabilities. Active scanning tools are used where constant vigilance is required. They have a specific area of focus that the product is programmed to monitor.

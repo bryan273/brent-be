@@ -1,0 +1,1 @@
+The value of LD 50 for a substance is the dose required to kill half the members of a tested population after a specified test duration. LD 50 figures are frequently used as a general indicator of a substance's acute toxicity. A lower LD 50 is indicative of increased toxicity.

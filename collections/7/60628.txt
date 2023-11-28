@@ -1,0 +1,1 @@
+Put similar items in the same column Design the data so that all rows have similar items in the same column. Keep a range of data separate Leave at least one blank column and one blank row between a related data range and other data on the worksheet. Excel can then more easily detect and select the range when you sort, filter, or insert automatic subtotals.

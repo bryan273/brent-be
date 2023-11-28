@@ -1,0 +1,1 @@
+Two types of pressure may be simulated: confining (hydrostatic), due to burial under rock overburden, and internal (pore), due to pressure exerted by pore fluids contained in void space in the rock. Directed applied stress, such as compression, tension, and shear, is studied, as are the effects of increased temperature introduced with depth in the Earth’s crust.

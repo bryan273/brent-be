@@ -1,0 +1,1 @@
+If reimbursement is based on actual usage, a log should be kept of all travel mileage, including non-business travel, plus actual car expenses such as gas and maintenance. The percentage of business to non-business use is then used to calculate the reimbursement amount.

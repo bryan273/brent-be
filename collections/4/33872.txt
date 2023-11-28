@@ -1,0 +1,1 @@
+KML is a file format used to display geographic data in a mapping application, such as Google Maps for mobile. You can create KML files to pinpoint locations, add image overlays, and expose rich data in new ways. KML is an international standard maintained by the Open Geospatial Consortium, Inc. (OGC) .

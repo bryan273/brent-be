@@ -1,0 +1,1 @@
+The “Save as JPEG” dialog uses default values that reduce size while retaining good visual quality; this is the safest and quickest thing to do. Figure 3.23. “Save as JPEG” dialog with poor quality. Reduce the image Quality to make the image even smaller.

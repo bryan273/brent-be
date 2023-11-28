@@ -1,0 +1,1 @@
+First some background... Rust is the result of an electro-chemical reaction between iron and oxygen and the end result is iron oxide. As with many chemical reactions we need a third element which in this case is water or H20.

@@ -1,0 +1,1 @@
+Reverse dictionary. A reverse dictionary is a dictionary organized in a non-standard order (usually referring to being in a so-called reverse order) that provides the user with information that would be difficult to obtain from a traditionally alphabetized dictionary.

@@ -1,0 +1,1 @@
+1 Connecting batteries in parallel increases total current capacity by decreasing total resistance, and it also increases overall amp-hour capacity. 2  All batteries in a parallel bank must have the same voltage rating. 3  Batteries can be damaged by excessive cycling and overcharging.

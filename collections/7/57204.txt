@@ -1,0 +1,1 @@
+Diabetes is diagnosed by any one of the following: 1  Two consecutive fasting blood glucose tests that are equal to or greater than 126 mg/dL. 2  Any random blood glucose that is greater than 200 mg/dL. 3  An A1c test that is equal to or greater than 6.5 percent. 4  A two-hour oral glucose tolerance test with any value over 200 mg/dL.

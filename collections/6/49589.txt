@@ -1,0 +1,1 @@
+The power level (or ‘Speed’) of the LED is maintained constant by the driver as the electrical properties change (amount of ‘gas’ or power needed) throughout the temperature increases and decreases (or ‘hills and valleys’) seen by the LED(s).

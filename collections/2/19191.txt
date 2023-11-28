@@ -1,0 +1,1 @@
+It not connected to an NVR.... TechHeather 2014-11-15 01:57:07 UTC #2. http://www.zmodo.com/media/downloader/ZH-IXA15-WC/IPCSearch1.0.13_Setup.exe application. Open the app and Seach your network to find the IP address of your camera. Open Internet Explorer and use that IP address to show your camera. You can then click on Settings and change the time there.

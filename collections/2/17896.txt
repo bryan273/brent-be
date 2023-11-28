@@ -1,0 +1,1 @@
+If you have a sample and wish to compare it with a known mean (e.g. national average) the single sample t-test is available. If both of your samples are not independent of each other and have some factor in common, i.e. geographical location or before/after treatment, the paired sample t-test can be applied.

@@ -1,0 +1,1 @@
+The cell plates most often expand due to overcharging of the battery. The battery may also expand due to shorting of the terminals of the battery. Both these situations results in heating up of the cell plates inside the battery. The lead of the cell plates has a high expansion rate when heated.

@@ -1,0 +1,1 @@
+Instrumental temperature record. For temperature changes on other time scales, see Temperature record. Global mean surface temperature change from 1880 to 2016, relative to the 1951–1980 mean. The black line is the global annual mean and the red line is the five-year lowess smooth. The blue uncertainty bars show a 95% confidence limit.

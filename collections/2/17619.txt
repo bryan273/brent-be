@@ -1,0 +1,1 @@
+The most popular Webopedia definitions of 2015. Java is a high-level programming language. This guide describes the basics of Java, providing an overview of syntax, variables, data types and... This second Study Guide describes the basics of Java, providing an overview of operators, modifiers and control Structures.

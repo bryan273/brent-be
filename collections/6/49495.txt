@@ -1,0 +1,1 @@
+Rockwell Automation will no longer provide machine translated versions of Knowledgebase answers. Total utilization of translated content is less than 0.3%. Due to this, we are announcing the discontinuation of answer translation - see this page for more information.

@@ -1,0 +1,1 @@
+The system takes this future BOD into account for planning. SPP considers the characteristics of each product during planning. It takes into account, for example, the locations at which you most need a certain product, whether a product is fast-moving or slow-moving, and the sales behavior of a product.

@@ -1,0 +1,1 @@
+OCS QAPI Snapshot Data Elements and Definitions Data Element Definition Details Nursing Visits Visits by Discipline - Nursing This does NOT include supervisors or other clinical administrators. Enter the number of visits by Nurses during the reporting period. A visit is defined as any patient visit that the staff member makes during a shift.

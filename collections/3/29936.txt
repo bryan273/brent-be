@@ -1,0 +1,1 @@
+Rational Method provides the peak discharge only and it cannot produce a hydrograph. If a more detailed pattern of runoff is required, unit hydrograph or other methods have to be used. The accuracy of rational method depends very much on our correct selection of runoff coefficient and delineation of catchment area.

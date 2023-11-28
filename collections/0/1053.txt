@@ -1,0 +1,1 @@
+OP-Option Pending means that the buyer has paid a fee for the unrestricted right to terminate the contract during the 'option period'. The buyer and seller agree on the amount of the fee and the length of time for the option period.

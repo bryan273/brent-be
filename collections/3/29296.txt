@@ -1,0 +1,1 @@
+1 Open the tools menu in your browser. This may be called “Tools” or use an icon like the cog or menu bars. 2  Select the option or tab named “Internet Options (Internet Explorer)”, “Options (Firefox)”, “Preferences (Safari)” or “Settings (Chrome)”.

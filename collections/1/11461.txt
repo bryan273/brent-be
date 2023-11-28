@@ -1,0 +1,1 @@
+What is KYC? KYC is an initialism that stands for know your customer.. It is a regulatory phrase that refers to the process used by a business for verification of merchants, customers, and other elements when it comes to a financial transaction. In WePay's case, we use it as the motivation behind our Trust Center.

@@ -1,0 +1,1 @@
+We can calculate the wavelength of sound waves that we can hear using the formula wavelength = velocity / frequency. In air sound travels at about 340 meters per second (the precise value depends on temperature, humidity, and pressure).

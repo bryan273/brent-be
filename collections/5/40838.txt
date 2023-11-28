@@ -1,0 +1,1 @@
+Features. 1  32-bit color support. 8-, 15-, 16-, and 24-bit color are also supported. 2  128-bit encryption, using the RC4 encryption algorithm, as of Version 6. 3  Audio Redirection allows users to process audio on a remote desktop and have the sound redirected to their local computer.

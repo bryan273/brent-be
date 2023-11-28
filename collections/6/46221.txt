@@ -1,0 +1,1 @@
+Finite shapes cannot have these types of symmetry. Classification of shapes based on symmetry. Shapes can be classified according to their symmetry. To do so (for finite shapes, like polygons), count the number of lines of (reflection) symmetry, if any, and determine the (smallest) angle of rotation symmetry, if any.

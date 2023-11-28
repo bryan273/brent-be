@@ -1,0 +1,1 @@
+Symbolic Links. A symbolic link is a file-system object that points to another file system object. The object being pointed to is called the target. Symbolic links are transparent to users; the links appear as normal files or directories, and can be acted upon by the user or application in exactly the same manner.

@@ -1,0 +1,1 @@
+Calculate the Sample Standard Deviation. 1  Calculate the mean or average of each data set. 2  To do this, add up all the numbers in a data set and divide by the total number of pieces of data. 3  For example, if you have found numbers in a data set, divide the sum by 4.

@@ -1,0 +1,1 @@
+Lets say you create a 5 year cash flow for 10,000 rentable SF using an 8% discount rate. Lets assume the PV of this cash flow is $1,000,000. Your rentable SF Net Effective Rate would be $24.17 per year. The calculation for the $24.17 appears just below in red. Right now I want to make sure you all understand what the NER represents.

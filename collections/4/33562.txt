@@ -1,0 +1,1 @@
+1 Router C is part of the 192.168.3.x subnet; it finds a match in it’s routing table and sends it directly to the PC. 2  The PC on the 192.168.3.x subnet sends data back to IP 192.168.111.55 but sees it is on another subnet. 3  It checks it’s routing table and finds the 0.0.0.0 entry.

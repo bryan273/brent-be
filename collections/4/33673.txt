@@ -1,0 +1,1 @@
+Procedure. 1  Measure the height of the tree you are studying. 2  Measure the diameter of the tree you are studying. 3  Remember the formula to find the area of a circle is (A=r2 x p). 4  Now use this number to calculate the area of your tree.  Don't relax 1  now! There are 12 board feet of lumber for every one cubic foot, so multiply cubic feet by  12.

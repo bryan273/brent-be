@@ -1,0 +1,1 @@
+There's no such thing as a compiled language or a non-compiled language.. Languages are just rules about how you can combine words, and what those words and combinations mean. You may make the computer understand those rules by either writing a compiler (which translates one language into another), or by using an interpreter.

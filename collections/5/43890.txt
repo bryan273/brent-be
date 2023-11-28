@@ -1,0 +1,1 @@
+In summary. Kerberos is an authentication standard that can be used in a mixed environment, with Windows domains (which are also Kerberos realms) co-existing with Unix/MIT Kerberos realms. Users in one realm can access resources in the other, through the implementation of two-way trusts and account mapping.

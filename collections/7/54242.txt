@@ -1,0 +1,1 @@
+Text size in pixels – iteration 1. The default text size of the base case is a good starting point, but for most people (designers, clients, and their customers) 16px is too large for body text. In our example, the body text was reduced to 14px, with the sidebar set at 12px. This first iteration does just that, setting the fonts in pixels:

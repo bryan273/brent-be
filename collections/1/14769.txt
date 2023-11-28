@@ -1,0 +1,1 @@
+Remove your password. If you want to remove your password, open the document and click the File menu again. Click Protect Document and select “Encrypt with Password”. There will be a password in the box, delete it and press OK.

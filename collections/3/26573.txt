@@ -1,0 +1,1 @@
+What is WordSolver? WordSolver rearranges letters into words and helps with anagram-based word games such as scrabble, words with friends, draw something and 4 pics 1 word. Although WordSolver is a scrabble solver, it can even help with boggle-like grid games, wordladder & crosswords too. See examples of how to solve Anagram, Grid, WordLadder,or Crossword puzzles.

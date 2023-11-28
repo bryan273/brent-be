@@ -1,0 +1,1 @@
+Using a 40% probability of rain as an example, it does not mean (1) that 40% of the area will be covered by precipitation at given time in the given forecast area or (2) that you will be seeing precipitation 40% of the time in the given forecast area for the given forecast time period. Let's look at an example of what the probability does mean.

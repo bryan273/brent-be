@@ -1,0 +1,1 @@
+Package Maintenance Rank: 169 of 223 packages with open bugs. Number of open bugs: 3 (11 total bugs) Average age of open bugs: 2658 days. Oldest open bug: 3346 days. Number of open feature requests: 1 (1 total feature requests)

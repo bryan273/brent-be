@@ -1,0 +1,1 @@
+In the example shown in the figure, cell C11 contains the following COUNTA function: The next formula in the sample worksheet calculates the number of numeric entries in the cell range sales_data. To do this, you use the COUNT function.

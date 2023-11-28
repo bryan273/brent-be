@@ -1,0 +1,1 @@
+In this context, three main areas are being covered in literature: 1  The integration of the internet with building energy management systems in order to create energy efficient and IOT driven “smart buildings”. 2  The possible means of real-time monitoring for reducing energy consumption and monitoring occupant behaviors.

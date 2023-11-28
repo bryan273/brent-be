@@ -1,0 +1,1 @@
+Then, launch Steam.exe from within the Steam installation folder, and not from a pre-existing shortcut. With Steam running, re-test the original issue. Today while I was starting Steam on my gaming rig I received a Steam error message that I had not seen before. It read: Could not connect to Steam network.

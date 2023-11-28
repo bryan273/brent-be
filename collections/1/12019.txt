@@ -1,0 +1,1 @@
+But when i dragged the tracks from my Purchased playlist into a new playlist and clicked Burn Playlist to CD, I got a warning telling me that some of the tracks were Apple Music and couldn't be burned.

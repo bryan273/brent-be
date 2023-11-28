@@ -1,0 +1,1 @@
+A speaker is usually comprised of three parts: a box, an optional passive crossover network and one or more drivers. This topic has covered many of their key characteristics and explained how they work together to create sound.

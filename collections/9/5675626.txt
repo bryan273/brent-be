@@ -1,0 +1,1 @@
+Cytogenetic location: 12p12.1 Genomic coordinates (GRCh38): 12:25,204,788-25,252,092 (from NCBI) The KRAS gene encodes the human cellular homolog of a transforming gene isolated from the Kirsten rat sarcoma virus. The RAS proteins are GDP/GTP-binding proteins that act as intracellular signal transducers.

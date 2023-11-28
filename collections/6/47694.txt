@@ -1,0 +1,1 @@
+Suppose a business has an asset with $1,000 original cost, $100 salvage value, and 5 years of useful life. First, the straight-line depreciation rate would be 1/5, i.e. 20% per year. Under the double-declining-balance method, double that rate, i.e. 40% depreciation rate would be used.

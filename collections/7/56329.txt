@@ -1,0 +1,1 @@
+If you look around on the fridge, you will find a metal plate which specifies how many amps or watts the fridge draws. Most fridges with a defrost cycle are something like 8 or 10 amps max; a just a couple amps if the fridge doesn't have a defrost cycle. A residential circuit can supply 15 or 20A (1800 or 2400W).

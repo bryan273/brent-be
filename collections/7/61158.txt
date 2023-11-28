@@ -1,0 +1,1 @@
+Also. 1  see response below from Reeza for how to find the code that PROC IMPORT generates. 2  Just use generic variable names: input col1 - col34 3  ; Another trick to stop IMPORT from changing its mind about the data types from month to month is to put in a dummy row in the spreadsheet with example data that SAS will interpret as the right data type.

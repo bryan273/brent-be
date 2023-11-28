@@ -1,0 +1,1 @@
+The control account manager (CAM) must be able to support the assessment of work package accomplishment. This is typically more difficult for work packages using the Percent Complete technique as defined in the company's Earned Value Management System Description.

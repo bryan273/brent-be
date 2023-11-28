@@ -1,0 +1,1 @@
+Customers may complain about a ticking noise, engine misfire and/or SES light. This may be the result of an AFM (Active Fuel Management for displacement-on-demand) lifter that unlocks as soon as the engine is started or one that is mechanically collapsed/stuck. This TSB applies to the following vehicles:

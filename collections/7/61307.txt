@@ -1,0 +1,1 @@
+1 An investigation of cracks and other deficiencies in the reinforced concrete frame using non-destructive evaluation showing continued deflection of main cantilever of up to 7 inches. 2  Finite Element Modeling to determine under-reinforcement of main cantilever causing deflection.

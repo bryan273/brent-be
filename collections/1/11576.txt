@@ -1,0 +1,1 @@
+Chart showing daily maximum temperatures for 2012, 1992, 1972 and 1952 at Observatory Hill in Sydney during the winter months. Data courtesy of the Bureau of Meteorology, chart Nick Lomb. In Australia seasons begin on the first of the appropriate month so that winter begins on the first of June.

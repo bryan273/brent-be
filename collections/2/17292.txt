@@ -1,0 +1,1 @@
+For example, if the first two computers that contact the KMS host are running Windows 7, the first receives an activation count of 1, and the second receives an activation count of 2. If the next computer is a Windows 7 virtual machine, it receives an activation count of 3, and so on.

@@ -1,0 +1,1 @@
+Getting all arguments and values passed to a Python function. I have a Python function, fetch_data, that goes and hits a remote API, grabs some data, and returns it wrapped in a response object. It looks a bit like the below: Now, it's possible that the response data says I have more data, call me with an incremented page parameter to get more.

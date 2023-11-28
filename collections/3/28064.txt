@@ -1,0 +1,1 @@
+Given: Quadrilateral ABCD is an isosceles trapezoid. Segment EF passes through point O (the point of intersection of the two diagonals), EF DC Prove: a. O O 1 2 = b. EO OF= 48. Given: Quadrilateral ABCD is an isosceles trapezoid, CE AB= (CE is the continuation of DC) Prove: DBE is isosceles. 49.

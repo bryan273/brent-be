@@ -1,0 +1,1 @@
+The UsabilityScorecard web-application will take raw usability metrics (completion, time, sat, errors and clicks) and calculate confidence intervals, z-scores, quality levels and graph the results automatically.

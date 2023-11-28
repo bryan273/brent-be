@@ -1,0 +1,1 @@
+Home In windows excel, Which key can you press to switch to Edit Mode. To answer your test and/or homework assignment, the choice is B (F2). This will put you into Edit Mode for the current active cell.F1 = HelpF4 = Print PreviewF6 = alternates displaying of menu/i... Read More ».

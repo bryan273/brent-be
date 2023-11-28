@@ -1,0 +1,1 @@
+Android's standard C library, Bionic, was developed by Google specifically for Android, as a derivation of the BSD 's standard C library code. Bionic itself has been designed with several major features specific to the Linux kernel.

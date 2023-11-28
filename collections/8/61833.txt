@@ -1,0 +1,1 @@
+Aspen Plus you use the module DSTWU for the shortcut method; you also use RK-Soave. as the physical property method, because it is a good one for hydrocarbons. The feed is. 100 lb. moles/hr of propane, 300 lb. moles/hr of i-butane, and the other chemicals as. listed in Table 5-1 or Table 6-6, at 138 psia and 75 ºF.

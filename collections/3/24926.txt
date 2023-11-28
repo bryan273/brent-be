@@ -1,0 +1,1 @@
+It is, of course, a CRT, and it's a 15khz display, meaning the highest resolution signal it accepts is 576 interlaced lines, or 576i. That limitation, however, makes it absolutely perfect for everything from the Nintendo Entertainment System to the first PlayStation. In fact, it may be a little too perfect.

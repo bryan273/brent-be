@@ -1,0 +1,1 @@
+Architectural drawings are made according to a set of conventions, which include particular views (floor plan, section etc.), sheet sizes, units of measurement and scales, annotation and cross referencing.

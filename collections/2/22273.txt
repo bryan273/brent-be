@@ -1,0 +1,1 @@
+You should see the typical DCIM/ folder with just .MISC and 100APPLE sub folders. Then you can track whether a third party app or just an accumulation of various photos is causing the folder structure to grow.

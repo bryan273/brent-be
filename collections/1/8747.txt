@@ -1,0 +1,1 @@
+Procedure The steps for displaying transfer orders are similar, regardless of how you want to select and group the transfer orders. To display a transfer order, choose the following path under the SAP menu: . Logistics → Logistics Execution → Internal Warehouse Processes →Stock Transfer → Display Transfer Order.

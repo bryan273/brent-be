@@ -1,0 +1,1 @@
+An Overview Of Vulnerability Scanners Page 2 of 15 SUMMARY A vulnerability scanner is software application that assesses security vulnerabilities in networks or host systems and produces a set of scan results.

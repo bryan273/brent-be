@@ -1,0 +1,1 @@
+Cryptography is the study of encryption. Encryption is converting information. to a secret format / cipher text. Decryption is conversion back to plain text. An. algorithm is a mathematical formula for encrypting or decrypting. An. algorithm plus a variable secret key is used to encrypt data. Cryptography.

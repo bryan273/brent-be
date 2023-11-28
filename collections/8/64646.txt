@@ -1,0 +1,1 @@
+Planetary gears solve the following problem. Let's say you want a gear ratio of 6:1. One way to create that ratio is with the following three-gear train: In this train, the red gear has three times the diameter of the yellow gear, and the blue gear has two times the diameter of the red gear (giving a 6:1 ratio).

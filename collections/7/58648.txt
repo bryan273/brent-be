@@ -1,0 +1,1 @@
+This chapter describes the fundamentals of the processes. used by National Semiconductor to assemble IC devices in. electronic packages. Electronic packaging provides the in-. terconnection from the IC to the printed circuit board (PCB). Another function is to provide the desired mechanical and. environmental protection to ensure reliability and perfor-. mance.

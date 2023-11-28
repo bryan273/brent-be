@@ -1,0 +1,1 @@
+The problem with Java arrays (and arrays in many languages) is the array is fixed in length. This means you can't easily remove elements from an array. To remove an array element at index i, you shift elements with index greater than i left (or down) by one element.

@@ -1,0 +1,1 @@
+Volcanic Potion: Increases spell power by 1200 for 25 sec. Potion of the Tol'vir: Increases your Agility by 1200 for 25 sec. Golemblood Potion: Increases your Strength by 1200 for 25 sec. Earthen Potion: Increases armor by 4800 for 25 sec. Potion of Concentration

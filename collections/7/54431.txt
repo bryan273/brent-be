@@ -1,0 +1,1 @@
+Each observation is a pair of values, for example (X3,Y3) is the. third observation. In a bivariate SRS, the observations are independent of each. other, but the two measurements within an observation may not. be (taller individuals tend to be heavier, proﬁtable companies.

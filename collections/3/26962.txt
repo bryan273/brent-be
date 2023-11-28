@@ -1,0 +1,1 @@
+Spoon Installer has the advantage of being small (using LZMA for compression), uninstalls are generated automatically, outputs one setup executable file - perfect for web installs and creating new installs is a piece of cake thanks to a visual selection. Spoon Installer Web Site.

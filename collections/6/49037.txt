@@ -1,0 +1,1 @@
+And the user can check the volume label by suing VOL command under DOS. For example, the command for checking volume label is vol c:, and do not forget to press Enter. In addition, some disk tools such as MiniTool Partition Wizard is not bad. Click DISK C, and choseSet label, What users can change is volume label.

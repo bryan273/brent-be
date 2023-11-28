@@ -1,0 +1,1 @@
+A package is a parcel (or box) less than 84 inches when you add the length plus girth. Length is the longest side of a package. Girth is the distance around the 2 smaller sides of a package. A thick envelope is a large envelope exceeding 3/4 inch thickness.

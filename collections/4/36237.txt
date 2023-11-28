@@ -1,0 +1,1 @@
+So if you upload anything that is MB it will be large enough to upload. 500kb is half of one MB. Any digital camera will take photos above 500kb as standard, so if you image is much smaller than that, it's probably been compressed and you should try and find the original photo.

@@ -1,0 +1,1 @@
+NUTRITION CALCULATOR. {{isUndefined(allNutritionValues[2].value) ? 00 : allNutritionValues[2].value}}{{allNutritionValues[2].uom}}{{isUndefined(allNutritionValues[2].value) ? 00 : allNutritionValues[2].value}} {{allNutritionValues[2].uomDescription}} Calories: {{allNutritionValues[2].adult_dv}}.

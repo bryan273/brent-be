@@ -1,0 +1,1 @@
+Control of flow rate with valves. There are eight types of flow-control valves: Orifices-A simple orifice in the line, Figure 1(a), is the most elementary method for controlling flow. (Note that this is also a basic pressure control device.) When used to control flow, the orifice is placed in series with the pump.

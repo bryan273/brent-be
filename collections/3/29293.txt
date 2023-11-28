@@ -1,0 +1,1 @@
+This may be called “Tools” or use an icon like the cog or menu bars. Select the option or tab named “Internet Options (Internet Explorer)”, “Options (Firefox)”, “Preferences (Safari)” or “Settings (Chrome)”. Look for a box or option labeled “Home Page (Internet Explorer, Firefox, Safari)” or “On Startup (Chrome)”.

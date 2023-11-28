@@ -1,0 +1,1 @@
+Target Audience. Microsoft® Certified Solutions Developer (MCSD®) certification is achieved by passing a set of related certification exams, which include Programming in C#, Essentials of Developing Windows® Store Apps Using C# Exam (70-484) and Advanced Windows® Store App Development Using C#.

@@ -1,0 +1,1 @@
+Overview. We no longer provide this extension because most features were made in NPAPI and NPAPI is no longer supported in Chrome.

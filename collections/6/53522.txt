@@ -1,0 +1,1 @@
+Systolic and Diastolic Blood Pressure. When your blood pressure is measured, you get two different numbers. These numbers represent the systolic blood pressure and the diastolic blood pressure. Both numbers reflect the pressure exerted by the blood flowing within your arteries.

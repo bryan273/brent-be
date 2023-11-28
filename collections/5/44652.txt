@@ -1,0 +1,1 @@
+It provides fleet and shore-based activities with the capability to maintain their inventory, perform calibration lab functions, print Metrology Equipment Recall and Report (METER) cards and METCAL forms, and generate production and ad-hoc reports.

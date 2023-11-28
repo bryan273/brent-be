@@ -1,0 +1,1 @@
+So technically it is not required that you use our public name servers in order to have your domain name hosted with us. If you already have access to directly modify your DNS records for your domain, you can simply modify your DNS records so they directly point to the IP address of the server you're using with us.

@@ -1,0 +1,1 @@
+Despite its elegance, Montague grammar was limited by the context-dependent variability in word sense, and led to several attempts at incorporating context, such as: 1  Situation semantics (1980s): truth-values are incomplete, they get assigned based on context.

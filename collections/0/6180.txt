@@ -1,0 +1,1 @@
+Your calculated z-score would be negative. Here is an example: 25% of pregnancies in the US are delivered by Cesarean by doctors. We know that this type of surgery increases recovery time and risks of infection for the mother. So we would really like to reduce that number.

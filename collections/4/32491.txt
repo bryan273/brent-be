@@ -1,0 +1,1 @@
+If you specify a negative scale, Oracle Database rounds the actual data to the specified number of places to the left of the decimal point. For example, specifying (7,-2) means Oracle Database rounds to the nearest hundredths, as shown in Table 26-1.

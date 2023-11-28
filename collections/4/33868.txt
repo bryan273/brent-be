@@ -1,0 +1,1 @@
+Creating and Sharing KML Files. You can create KML files with the Google Earth user interface, or you can use an XML or simple text editor to enter raw KML from scratch. KML files and their related images (if any) can be compressed using the ZIP format into KMZ archives.

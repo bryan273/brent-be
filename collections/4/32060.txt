@@ -1,0 +1,1 @@
+Currently the fee for using PayPal standard is 2.9% of each transaction plus a transaction cost of $0.30 per transaction. For example, a $100 donation through PayPal standard would cost you $2.90 plus $0.30 for a total of $3.20 – meaning PayPal would deposit into your bank account a total of $96.80. Current PayPal fees can be found at the PayPal fee page.

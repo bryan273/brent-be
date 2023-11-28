@@ -1,0 +1,1 @@
+A Clearinghouse takes in information from a healthcare entity, puts the data into a standard format, and then spits the information back out to another healthcare entity. They need to be HIPAA compliant too. Covered Entities are by and large ahead of the curve when it comes to HIPAA compliance.

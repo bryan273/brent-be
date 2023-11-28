@@ -1,0 +1,1 @@
+A pressure measurement can further be described by the type of measurement being performed. There are three types of pressure measurements: absolute, gauge, and differential. Absolute pressure measurement is measured relative to a vacuum (Figure 2).

@@ -1,0 +1,1 @@
+Many browsers support both the video element in HTML5 and either the H.264 video codec or the WebM format. These include: 1  Google Chrome. 2  Microsoft Internet Explorer. 3  Firefox. 4  Opera. 5  Apple Safari.

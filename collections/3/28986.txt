@@ -1,0 +1,1 @@
+1 11 depth settings for individual skin type. 2  Fast penetration speed – only takes a few milliseconds to penetrate the skin which prevents nerve damage. 3  6 pre-loaded lancets in a drum – no lancet handling.  Lever to easily change to a new lancet.

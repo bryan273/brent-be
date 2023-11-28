@@ -1,0 +1,1 @@
+The usage of cin is simple, too, and as cin is used for input, it is accompanied by the variable you want to be storing the input data in: std::cin >> Variable; Thus, cin is followed by the extraction operator >> (extracts data from the input stream), which is followed by the variable where the data needs to be stored.

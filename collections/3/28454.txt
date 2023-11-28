@@ -1,0 +1,1 @@
+dir(my_list)[36:] gets: ['append', 'count', 'extend', 'index', 'insert', 'pop', 'remove', 'reverse', 'sort'] Now, in the documentation of Python information can be found about these functions, but I would like to get info about these functions in the terminal/command-line. How should this be done? python function methods

@@ -1,0 +1,1 @@
+Remainder Theorem operates on the fact that a polynomial is completely divisible once by its factor to obtain a smaller polynomial and a remainder of zero. This provides an easy way to test whether a value a is a root of the polynomial P(x) .

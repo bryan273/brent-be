@@ -1,0 +1,1 @@
+So kajabla was right; the difference between sleep and the new Rapid Start Technology state is the one between S3 and S4, as you say, and it is just 0.001KW of difference; around $1 a year. From the article he linked, the data exposed: PC/Display Power: 0.008 KW avg. while in ACPI S3 Sleep.

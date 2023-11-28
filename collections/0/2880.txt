@@ -1,0 +1,1 @@
+In statistics, a random variable is a function of a probability space. In practical terms, a random variable is the result of an experiment. Random variables can either be discrete or continuous. When using a random variable in calculations, it is important to determine whether it is discrete or continuous, as this affects the mathematical outcomes.

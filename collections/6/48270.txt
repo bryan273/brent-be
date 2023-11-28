@@ -1,0 +1,1 @@
+However, word wrap may also occur following a hyphen inside of a word. This is sometimes not desired, and can be blocked by using a non-breaking hyphen, or hard hyphen, instead of a regular hyphen. A word without hyphens can be made wrappable by having soft hyphens in it.

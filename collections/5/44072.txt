@@ -1,0 +1,1 @@
+D&uuml;sseldorf or D&#252;sseldorf. HTML Entities and/or ISO Latin-1 codes can be placed in source code like any other alphanumeric characters to produce special characters and symbols that cannot be generated in HTML with normal keyboard commands.

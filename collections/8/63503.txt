@@ -1,0 +1,1 @@
+Each tile (each letter) has a number of points. The common letters such as A, B, T, etc. are worth one point. Unusual letters such as Q and Z are worth 10 points. There are also two blank tiles which can be used for any letter.

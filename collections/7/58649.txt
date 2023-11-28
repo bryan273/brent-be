@@ -1,0 +1,1 @@
+Chargaff Parity Rule 1. Chargaff Parity Rule 1 holds that a double-stranded DNA molecule globally %A = %T and %G = %C. The rigorous validation of the rule constitutes the basis of Watson-Crick pairs in the DNA double helix.

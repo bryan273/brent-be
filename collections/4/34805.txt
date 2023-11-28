@@ -1,0 +1,1 @@
+On the other hand, it's not surprising that the variance of the standard sample variance (where we assume that \(\mu\) is unknown) is greater than the variance of the special standard variance (in which we assume \(\mu\) is known). \(\var\left(S^2\right) \gt \var\left(W^2\right)\).

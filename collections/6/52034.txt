@@ -1,0 +1,1 @@
+1 DB4IoT delivers fresh insights by allowing users to easily recognize key spatial relationships and correlations within large data sets. 2  Visualize and analyze time-series IoT data with blazing-fast interactive maps, graphs, charts, dashboards and animations.

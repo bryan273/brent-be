@@ -1,0 +1,1 @@
+GIMP: Compressing a JPEG. [Return to the GIMP: LSU Overview]. If an image has the desired scale but still has a large filesize, the image's data can be compressed with little visual change in quality. The following steps will show the user how this can be accomplished using GIMP.

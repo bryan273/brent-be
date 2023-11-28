@@ -1,0 +1,1 @@
+One method used to characterize the secondary structure of a protein is circular dichroism spectroscopy (CD). The different types of secondary structure, α-helix, ß-sheet and random coil, all have characteristic circular dichroism spectra in the far-uv region of the spectrum (190-250 nm).

@@ -1,0 +1,1 @@
+However, there are plugins such as Regenerate Thumbnails that you can use to generate new sizes of all previously uploaded images. There is some criticism of this feature. Critics say that this feature can consume a lot of hard disk space if you have multiple image sizes and a lot of images on your site.

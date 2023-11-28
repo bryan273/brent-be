@@ -1,0 +1,1 @@
+The proper approach to deciding the best location would be to (1) select the site that could hold the most stores (2) select the site that would be the least expensive to develop (3) compare the problems, but not the benefits (4) compare the trade-offs of building at either location.

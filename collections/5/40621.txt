@@ -1,0 +1,1 @@
+Data resource quality is a measure of how well the organization’s data resource supports the current and the future business information demand of the organization. The data resource. cannot support just the current business information demand while sacrificing the future business information demand.

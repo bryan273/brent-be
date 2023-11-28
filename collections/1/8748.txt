@@ -1,0 +1,1 @@
+Applies to: This article applies to SAP WM module ECC 6.0 . Summary: When you display the critical processes for this object, the system lists all open transfer orders that were created but have not been confirmed within the time parameters defined in the system.

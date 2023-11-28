@@ -1,0 +1,1 @@
+Figure 1 – vCloud Director Solution Diagram. As the diagram shows, vCenter is what manages your vSphere virtual infrastructure hosts, virtual machines, and virtual resources (CPU, memory, storage, and network). As you can see from the diagram, vCloud Director is at a higher level in the cloud infrastructure.

@@ -1,0 +1,1 @@
+Once you download the file, run the downloaded .EXE file and it'll automatically install the latest virus definition files and will update Windows Defender offline without using Internet connection or Windows Update. NOTE: The above mentioned links should be used for Windows XP, Vista and Windows 7 only.

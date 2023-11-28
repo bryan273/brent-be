@@ -1,0 +1,1 @@
+With this, an IoT device can be remote controlled by any Windows device. However, this system has limitations. Any complex message filtering is currently not supported. Extending this solution to be cross platform (using Android or iOS devices) also proves to be difficult, as AMPQNetLite is not compatible with Xamarin.

@@ -1,0 +1,1 @@
+Some neurons, local interneurons, have short axons and make connections to cells in their immediate vicinity, while others, projection neurons, send their axons to distant targets. (Sanes; Development of the Nervous System, 111) Projection neurons tend to be idle in the absence of inputs.

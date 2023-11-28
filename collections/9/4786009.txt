@@ -1,0 +1,1 @@
+Latency refers to a short period of delay (usually measured in milliseconds) between when an audio signal enters and when it emerges from a system.

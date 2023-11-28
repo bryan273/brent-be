@@ -1,0 +1,1 @@
+Email Time Zone Indicator: -0500. An email sent from someone in the Central Daylight Time (CDT) time zone will have the time zone listed as -0500 in the headers of the email. (However, -0500 does not have to be in Central Daylight Time, as other time zones could have the same UTC offset). Alabama.

@@ -1,0 +1,1 @@
+If you compare the star with the Sun, you can cancel out the constants to get (star's radius)/(Sun's radius) = (Sun's temperature/star's temperature) 2 × Sqrt [star's luminosity/Sun's luminosity]. See the ``How do you do that?'' box below for an example.

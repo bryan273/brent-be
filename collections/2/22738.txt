@@ -1,0 +1,1 @@
+Clean installs all the way down. Once your Windows 10 upgrade activates, you can grab a Windows 10 install image, do a clean install, skip the screen asking for product keys, and you should just re-activate again after the install is complete.

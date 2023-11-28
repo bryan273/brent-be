@@ -1,0 +1,1 @@
+The first nine numbers are the numbers for the bank's code. The next ten numbers are your personal … account numbers. The last four to six numbers are the number of your checks, that is the number printed on the top of your check.

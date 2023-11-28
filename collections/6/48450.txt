@@ -1,0 +1,1 @@
+The first mechanical computer, created by Charles Babbage in 1822, doesn't really resemble what most would consider a computer today. Therefore, this document has been created with a listing of each of the computer firsts, starting with the Difference Engine and leading up to the computers we use today.

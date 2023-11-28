@@ -1,0 +1,1 @@
+A negative terminal is the grounded terminal on a car battery, typically marked by a minus (-) sign. It is usually color-coded black. The other terminal is positive, usually color-coded red or orange, and marked with a plus (+) sign. The grounded terminal connects to a grounded source on the vehicle, typically a bolt in the chassis.

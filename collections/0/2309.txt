@@ -1,0 +1,1 @@
+OpenLDAP is a widely used LDAP server in Linux environments. It can do a lot of things for all sorts of needs. Whilst Samba, running in 'classic' mode, can use it as a storage backend for accounts and mappings from Windows (TM) SIDs to unix UID/GID, it cannot be used if Samba is running as an AD DC. OpenLDAP can also be used to control mail delivery and other things.

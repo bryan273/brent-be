@@ -1,0 +1,1 @@
+Analysis of data obtained from discrete variables requires the use of specific statistical tests which are different from those used to assess continuous variables (such as cardiac output, blood pressure, or PaO 2) which can assume an infinite range of values.

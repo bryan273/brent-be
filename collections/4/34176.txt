@@ -1,0 +1,1 @@
+Download the rule package that corresponds to your snort version. wget https://www.snort.org/rules/snortrules-snapshot-2976.tar.gz?oinkcode=<oinkcode>. wget https://www.snort.org/rules/snortrules-snapshot-2982.tar.gz?oinkcode=<oinkcode>.

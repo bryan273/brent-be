@@ -1,0 +1,1 @@
+Scanlines on a CRT come in many different flavors, writes Fudoh. The biggest factor is the luminance blooming of the cathode ray beam. The higher the luminance, the more bloom you get and the more nondescript the scanlines get.

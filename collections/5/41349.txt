@@ -1,0 +1,1 @@
+To update a CRM picklist based on data coming from SAP, you need to use a text file which you can call it whatever you want (such as: sap_picklist.txt) but you must ensure the file is in the same folder as your scribe dts project file.

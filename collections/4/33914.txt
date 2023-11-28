@@ -1,0 +1,1 @@
+Each element contains only one kind of atom. The number of protons in an atom is called the atomic number. For example, all atoms with 6 protons are of the chemical element carbon, and all atoms with 92 protons are of the element uranium.

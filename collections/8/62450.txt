@@ -1,0 +1,1 @@
+The following values are also used in the discriminant field, vt, of the TYPEDESC structure specified in section 2.2.37. The meaning of each VARIANT type constant is specified as follows. The Context column specifies the context in which each constant is used.

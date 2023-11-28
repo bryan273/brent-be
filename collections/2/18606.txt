@@ -1,0 +1,1 @@
+The primary challenge of project management is to achieve all of the project goals within the given constraints. This information is usually described in a user or project manual, which is created at the beginning of the development process. The primary constraints are scope, time, quality and budget.

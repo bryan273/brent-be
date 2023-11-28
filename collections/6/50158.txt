@@ -1,0 +1,1 @@
+A meaningful and reliable measure of the maximum power output of an audio amplifier – or the power handling of a loudspeaker – is continuous average sine wave power. The peak value of a sine wave of RMS value X is √2*X; conversely, the RMS value of a sine wave of peak X is (1/√2)*X.

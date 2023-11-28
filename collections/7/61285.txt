@@ -1,0 +1,1 @@
+The Lotus Notes client is a desktop application that organizes and displays databases on a user's local workstation. The physical database files can be stored either on the workstation itself or on a server.

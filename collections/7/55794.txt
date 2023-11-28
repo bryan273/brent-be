@@ -1,0 +1,1 @@
+100/(2n) Half-life (abbreviated t1⁄2) is the time required for a quantity to reduce to half its initial value. The term is commonly used in nuclear physics to describe how quickly unstable atoms undergo, or how long stable atoms survive, radioactive decay.

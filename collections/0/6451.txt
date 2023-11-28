@@ -1,0 +1,1 @@
+Definition - What does Attenuation mean? Attenuation is a telecommunications term that refers to a reduction in signal strength commonly occurring while transmitting analog or digital signals over long distances. Attenuation is historically measured in dB but it can also be measured in terms of voltage.

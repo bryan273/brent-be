@@ -1,0 +1,1 @@
+After clicking on Email, it reports that there is no default email program set up in my computer. In Firefox I have set up Gmail as my default and whenever I click on an email address, it opens my Gmail account just fine. Windows Default Program page does not give a Gmail option. Sep 23, 2014, 1:05 PM. I have this same issue, also with a Brother laser printer.

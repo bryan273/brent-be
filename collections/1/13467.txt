@@ -1,0 +1,1 @@
+Static methods are conceptually the same as static variables, thus the reasons to use or not use them are similar. They belong to the class, not specific objects of that class. An example from the java API is Math, all the variables are static.

@@ -1,0 +1,1 @@
+If you're running iOS 4 through iOS 8, the process is slightly different. Here's what you need to do: Tap Settings. Tap General (in iOS 6 and higher; if you're on an older OS, skip this step) Tap Usage. Slide Battery Percentage to green (in iOS 7 and up) or On (in iOS 4-6).

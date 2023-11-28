@@ -1,0 +1,1 @@
+1 Using a switch is calledmicrosegmentation. 2  This allows computers to have dedicated bandwidth on apoint-to-point connection to the network and to therefore run in full duplex withoutcollisions.Role of Switches in NetworksSwitches may operate at one or more layers of the OSI model, including data link andnetwork.

@@ -1,0 +1,1 @@
+In other cases, an experimental control is used to prevent the effects of one variable from being drowned out by the known, greater effects of other variables.

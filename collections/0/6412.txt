@@ -1,0 +1,1 @@
+Alert me when new cards become available for [MERCHANT] that have a discount of at least %, a card value between $ and $, and are plastic or eCodesplastice-Codes. *It's possible you will receive an hourly email, if new inventory meets your configured settings, up to a maximum of 5 email alerts per day.

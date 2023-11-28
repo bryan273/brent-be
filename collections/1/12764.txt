@@ -1,0 +1,1 @@
+Bitcoins are stored in a “digital wallet,” which exists either in the cloud or on a user’s computer. The wallet is a kind of virtual bank account that allows users to send or receive bitcoins, pay for goods or save their money. Unlike bank accounts, bitcoin wallets are not insured by the FDIC.

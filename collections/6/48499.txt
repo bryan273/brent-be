@@ -1,0 +1,1 @@
+The highest sales price the stock has achieved during the regular trading hours, the intra-day high. The lowest sales price the stock has fallen to during the regular trading hours, the intra-day low. $ 10.84 / $ 10.64.

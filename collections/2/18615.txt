@@ -1,0 +1,1 @@
+It has all (and more) of the multidimensional data types, and calculation power of Express. The core functionality, including the Express Language (SPL) remains available inside Oracle Database (where it is called the OLAP DML and can be leveraged by OLAP developers).

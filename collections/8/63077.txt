@@ -1,0 +1,1 @@
+Everything started with a post by Samuele Pedroni to the Python development mailing list [1]. In his post, Samuele showed that the Python 2.2 method resolution order is not monotonic and he proposed to replace it with the C3 method resolution order.

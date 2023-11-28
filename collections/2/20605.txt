@@ -1,0 +1,1 @@
+Cabin pressurization - Cabin altitude. 1  The pressure inside the cabin is technically referred to as the equivalent effective cabin altitude or more commonly as the cabin altitude.

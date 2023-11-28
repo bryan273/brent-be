@@ -1,0 +1,1 @@
+In the Macro in drop-down, select Word commands. 4. In the Macro name box, scroll to find ListCommands and select it. 5. Click the Run button. 6. When the List Commands box appears, select Current menu and keyboard settings for an abbreviated list or All word commands for an exhaustive list. 7. Click the OK button. A table of the commands will appear in a new document.

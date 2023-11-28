@@ -1,0 +1,1 @@
+Fix the home if the average radon level is 4 pCI/L or more. Take an initial short-term test for at least 48 hours. After the first test has been completed, take a follow-up short-term test for at least 48 hours. Take two short-term tests at the same time in the same location for at least 48 hours.

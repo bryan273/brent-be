@@ -1,0 +1,1 @@
+iOS and Android are two different systems. The only way to run Android Apps on iOS would be with an emulator.

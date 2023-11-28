@@ -1,0 +1,1 @@
+To merge a group of cells and center the text, you can also use the Merge and Center button on the Excel tool bar. Again, this will only preserve the text in the upper-leftmost cell. Click the Merge and Center button on the toolbar.

@@ -1,0 +1,1 @@
+1 Two biome choices are given for each set of graphs, one is the correct answer. 2  Click to select which biome is correct for the city. 3  Once you click on your choice, an X indicates a wrong answer and a check indicates a correct answer.

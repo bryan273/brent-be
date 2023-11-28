@@ -1,0 +1,1 @@
+* Do not include sensitive information in the contact form such as account numbers, account information, usernames, and passwords. Please direct all account specific questions to your local Renasant branch, or call us at 1-800-680-1601.

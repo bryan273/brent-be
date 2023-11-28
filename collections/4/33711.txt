@@ -1,0 +1,1 @@
+Learn about this topic in these articles: in statistics: Residual analysis. The ith residual is the difference between the observed value of the dependent variable, y i, and the value predicted by the estimated regression equation, ŷ i. These residuals, computed from the available data, are treated as estimates of the model error, ε.

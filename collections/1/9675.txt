@@ -1,0 +1,1 @@
+16. This smaller box will identify the correct intersecting points that our ellipse must make contact with (Fig. 16). Keep in mind that the Ellipse Tool (L) in Adobe Illustrator is not capable of creating this type of ellipse.

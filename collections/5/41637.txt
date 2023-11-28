@@ -1,0 +1,1 @@
+The Remove-MailboxPermission cmdlet allows you to remove permissions from a user's mailbox, for example, removing full access to another user's mailbox. You need to be assigned permissions before you can run this cmdlet.

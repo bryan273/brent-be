@@ -1,0 +1,1 @@
+Just about 80% of the reactions in organic lab involve a step called refluxing. You use a reaction solvent to keep materials dissolved and at a constant temperature by boiling the solvent, condensing it, and returning it to the flask. For example, say you have to heat a reaction to around 80°C for 17 hours.

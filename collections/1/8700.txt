@@ -1,0 +1,1 @@
+You can download an early draft here: https://www.carlosag.net/downloads/PowerApps.pdf. Here is a copy of the current table of contents, and would love to hear from you: Contents; About the Author; Chapter 1 - Getting Started; What is PowerApps; Line of business mobile applications; Dataflow programming; Main components of PowerApps; Summary

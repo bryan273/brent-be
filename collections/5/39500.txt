@@ -1,0 +1,1 @@
+For oxygen, a molecule consists of two oxygen atoms, and has a weight of 2 x 16 = 32. For carbon dioxide, there is one carbon atom (weight 12) and two oxygen atoms (mass 16 x 2) for a total of 44. This means that carbon dioxide should be about 44/32 = 1.375 times as heavy as an equivalent volume of oxygen.

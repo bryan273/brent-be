@@ -1,0 +1,1 @@
+workbook (Workbook) The workbook element is the top level element. It contains elements and attributes that encompass the data content of the workbook. The workbook's child elements each have their own subclause references, and these are shown in the child elements table below. A partial list of the workbook's structures that these elements represent are:

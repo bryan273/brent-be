@@ -1,0 +1,1 @@
+In the SAP Menu, choose Logistics _ Logistics Execution _ Information System _ Warehouse _ Transfer Order and one of the menu items.Enter values in the selection criteria. Choose Execute if you want to display the report; choose Execute and print if you want to print the report.

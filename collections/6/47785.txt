@@ -1,0 +1,1 @@
+Mirroring the set of natural numbers (which can be thought of as positives) across zero (0) on the number line to create their negatives forms the complete set of integers. The set of integers is denoted by Z. The set of natural numbers and the set of whole numbers are subsets of the set of integers.

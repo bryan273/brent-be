@@ -1,0 +1,1 @@
+All-wheel drive is a lighter-duty system used for cars and car-based SUVs. AWD systems operate continuously, and they automatically vary power delivery to the front and rear wheels when needed. Some systems remain in front- or rear-wheel-drive mode until slip is detected, then power is routed to all four wheels. Other systems send power to all four wheels continuously.

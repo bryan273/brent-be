@@ -1,0 +1,1 @@
+Regression analysis is used to predict the value of one or. more responses from a set of predictors. It can also be used to estimate the linear association between. the predictors and reponses. Predictors can be continuous or categorical or a mixture of. both. We rst revisit the multiple linear regression model for one. dependent variable and then move on to the case where more.

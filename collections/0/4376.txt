@@ -1,0 +1,1 @@
+How to print payment records. While you are viewing the payment record you want to print, find the “If You Want to Print” button. That will format the document for you and let you preview how the printed page will look.

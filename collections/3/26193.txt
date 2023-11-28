@@ -1,0 +1,1 @@
+In most normal planes, the forward C.G. position will equate to a higher stall speed. Why? Remember that the normal situation in our airplanes (canards are different) is that the center of gravity is ahead of the center of lift. In order to “balance” the airplane, the tail generates a downforce in flight.

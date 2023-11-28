@@ -1,0 +1,1 @@
+The SMS Service is in BETA version, that means it is not fully deployed. It is important to us that you report any issues with this service by sending an email to support@voip.ms so that the developers can get involved if necessary. The SMS Service will be free until further notice.

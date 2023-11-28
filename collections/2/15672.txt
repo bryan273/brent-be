@@ -1,0 +1,1 @@
+information assurance field, and provides an insight to two common protocols used in Internet security. Though SSL and TLS are not the only secure protocols curr ently in use, they are very common for sites dealing with transactions that could involve sensitive data (ie: passwords, personal and financial information, etc.). INTRODUCTION:

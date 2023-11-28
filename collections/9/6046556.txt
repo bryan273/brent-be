@@ -1,0 +1,1 @@
+Make sure you have cheats ON and say /give (player name) command_block. After you get in in your inventory place 5 in a row. Then you right click the first one and put the command /give @a 306. Then exit out of that command block and right click the next one.

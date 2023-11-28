@@ -1,0 +1,1 @@
+Components with higher prices receive higher weightings in the composite. For example, take the follow list of five stocks: Stock A: price equals $3. Stock B: price equals $6. Stock C: price equals $30. Stock D: price equals $10. Stock E: price equals $1. The composite level would be found by summing the components and dividing by the number of components.

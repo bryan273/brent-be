@@ -1,0 +1,1 @@
+Then too, newer software may not yet be compatible. The free version of Bitdefender Antivirus, for example, is not supported on Windows 10. Likewise, Shadow Protect Desktop, a high end disk imaging program, does not yet support Windows 10. Or, Windows 10 may break some software.

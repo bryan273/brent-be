@@ -1,0 +1,1 @@
+Also, for the papers that discussed an application of process mining. in healthcare, it is indicated which type of questions have been asked by them. Note that the rst two questions relate to the discovery type of process mining, the third to conformance, and the last one to extension.

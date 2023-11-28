@@ -1,0 +1,1 @@
+dose, integral (integral absorbed dose, volume dose), n the total energy absorbed by a part or object during exposure to radiation. The unit of integral dose is the gram rad (100 ergs/gm).

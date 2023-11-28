@@ -1,0 +1,1 @@
+POP WARNER STRUCTURE. 1  National Pop Warner. 2  Regional Pop Warner (example Eastern) 3  League/Conference. ( 4 example Capital District) 5  Association. ( 6 example Albany) 7  Team (Division Pee Wee)

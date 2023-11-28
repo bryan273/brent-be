@@ -1,0 +1,1 @@
+Windows 8 booting. All versions of Microsoft Windows feature a boot screen, which is loaded during the startup process. With extra, third-party utilities, it is possible to replace the default Windows boot screen with custom images, text, and/or animations.

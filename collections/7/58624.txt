@@ -1,0 +1,1 @@
+Alien Dalvik, the software layer that allows all Android apps to run on the Android platform, is being ported to various different platforms, including BlackBerry’s PlayBook. More importantly, and certainly more interestingly, Apple’s iPad is also on the list of devices that will soon support Android apps….

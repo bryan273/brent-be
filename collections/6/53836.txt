@@ -1,0 +1,1 @@
+Best Answer: URL. (Uniform Resource Locator) The address that defines the route to a file on an Internet server (Web server, FTP server, mail server, etc.). URLs are typed into a Web browser to access Web pages and files, and URLs are embedded within the pages themselves as hypertext links.

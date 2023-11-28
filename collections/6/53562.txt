@@ -1,0 +1,1 @@
+When a cross-reference is created, a field is inserted into your document identifying the item you are referencing (e.g. a table, chart, heading). In the example (See Table A), you would type the brackets and the word See before inserting Table A as a field, as explained below.

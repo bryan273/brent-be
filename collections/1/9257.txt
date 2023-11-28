@@ -1,0 +1,1 @@
+A contract should not be dated until all parties who need to execute the contract have done so. If a party has dated a contract prematurely then the date should be amended to a date no earlier than the date on which the last signatory actually signed.

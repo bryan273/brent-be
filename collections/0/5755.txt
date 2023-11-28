@@ -1,0 +1,1 @@
+1 Now tap Yes to create a backup. 2  To restore backups, uninstall and reinstall WhatsApp. 3  Select Restore after verifying your phone number. 4  If you are trying to restore chat history on another Nokia S60 phone, remember to use the same microSD card that you used in the previous phone.

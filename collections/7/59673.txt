@@ -1,0 +1,1 @@
+The gene pool includes all genetic loci and all the alleles for each locus present in the population. The gene pool of a population can be described and characterized by certain statistical properties: Allele frequency (gene frequency) is the proportion of all alleles at a locus that are of a specified type.

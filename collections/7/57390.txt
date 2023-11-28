@@ -1,0 +1,1 @@
+Cells communicate by sending and receiving signals. These signals  come from the environment or other cells. In order to trigger a  response, these signals must be transmitt…ed across the cell  membrane.

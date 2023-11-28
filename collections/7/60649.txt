@@ -1,0 +1,1 @@
+Because it uses 24 hours to get from the origin of the Earth to now. Midnight to noon is 12 hours, and noon to midnight is another twelve. Look closer – the labels go from 0 to 12, then 0 to 12 again. Good point – it would have been easier to comprehend if it used “Zulu time”, e.g. single celled algae would be at 14:08.

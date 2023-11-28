@@ -1,0 +1,1 @@
+See how App Service Environments support a layered security approach using virtual networks and network security groups. Learn how to control direct Internet access to apps, while providing secure high-speed connectivity to back-end resources located in the same virtual network topology.

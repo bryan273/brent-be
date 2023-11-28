@@ -1,0 +1,1 @@
+He found the energy transfer from wind to water surface as a wave speed, c is proportional to the curvature of the velocity profile of wind Ua’’(y) at point where the mean wind speed is equal to the wave speed (Ua=c, where, Ua is the Mean turbulent wind speed).

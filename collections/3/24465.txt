@@ -1,0 +1,1 @@
+IMPORTANT: The YUI library is no longer actively maintained. Please see this announcement for more information. YUI is a free, open source JavaScript and CSS library for building richly interactive web applications.

@@ -1,0 +1,1 @@
+BMI values less than 18.5 kg/m² are considered underweight. BMI values from 18.5 kg/m² to 24.9 kg/m² are healthy. Overweight is defined as a body mass index of 25.0 to less than 30.0 kg/m². People with BMIs in this range have an increased risk of type 2 diabetes, hypertension, and cardiovascular disease. Obesity is defined as a BMI of 30.0 kg/m² or greater.

@@ -1,0 +1,1 @@
+To add a sitemap to your WordPress site, first thing you need to do is install and activate WordPress SEO by Yoast plugin. By default, WordPress SEO does not enable XML sitemap functionality, so you will have to turn it on. To do that go to SEO » XML Sitemaps and check the box to enable XML sitemap functionality.

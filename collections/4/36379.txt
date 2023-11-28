@@ -1,0 +1,1 @@
+If the specific gravity has a value of greater than 1, then the object sinks in water and if it is less than 1, then the object floats in water. If the specific gravity has a value equal to 1, then the object will neither sink nor float. The specific gravity is a very important factor in different industries.

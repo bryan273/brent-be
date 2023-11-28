@@ -1,0 +1,1 @@
+One bank may have many routing numbers, depending on things like the location of the account or the task it's being used for, but no two banks will ever have the same routing number. Routing numbers are used for lots of everyday tasks: 1  Direct deposit. 2  Automatic bill payments. 3  Check processing. 4  Wire transfers.

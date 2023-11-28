@@ -1,0 +1,1 @@
+This can also be stated as 30-70 hits/second or 1800-4200 hits/minute. If the average page size is 5K, then this translates to 175K-350K bytes per second which is more than a T-1. The fastest test that we have run with Coyote maxxed out at about 1400K/second which is faster than normal Ethernet.

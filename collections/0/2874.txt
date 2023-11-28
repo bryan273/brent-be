@@ -1,0 +1,1 @@
+A NALYSIS OF D ISCRETE V ARIABLES / 29 same, this is appropriate. When this is not the case, however, the calculation of the two-tailed Fisher’s exact test becomes more involved and the reader is referred to Glantz (reference 8) for further details. S UGGESTED R EADING 1. Fletcher RH, Fletcher SW, Wagner EH.

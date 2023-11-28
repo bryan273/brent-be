@@ -1,0 +1,1 @@
+The current time in Dothan including seconds is shown along with live date based on local timezone and difference from UTC/GMT/ZULU Offset. Providing information on whether Daylight saving time is observed and when DST begins and ends for Dothan, AL - along with what the local date is in order to change clocks for spring/summer or fall/winter in this part of Alabama, USA.

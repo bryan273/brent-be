@@ -1,0 +1,1 @@
+Please try again.Date Of Birth is required.Date Of Birth must be an integer.Selecting a security answer is required.Selecting your occupation is required.Selecting a Salutation is required.A valid LANR-Number is required to continue with the registration process.

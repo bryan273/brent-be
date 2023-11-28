@@ -1,0 +1,1 @@
+Minimum password age. Computer Configuration\Windows Settings\Security Settings\Account Policies\Password Policy. Description. Determines the period of time (in days) that a password must be used before the user can change it.

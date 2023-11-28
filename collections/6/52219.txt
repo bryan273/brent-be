@@ -1,0 +1,1 @@
+But, how do we measure them? There are four major scales (or types) of measurement of variables: nominal, ordinal, interval and ratio. The scale of measurement depends on the variable itself. Let's look closer at each of the four scales and what types of variables fall into each category. Nominal. You might have noticed a difference in our two variables.

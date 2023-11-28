@@ -1,0 +1,1 @@
+Retention on TLC plates is measured in Rf (retention factor), whereas in column chromatography, it is usually expressed in CV (column volumes): R f = (distance traveled by desired compound) / (distance traveled by solvent) CV = 1 / R f

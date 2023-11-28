@@ -1,0 +1,1 @@
+Many things can go wrong when a record collection is indexed. If you're having diffculty finding Koepka ancestors in a particular database at one site, try finding it on another and compare the results.

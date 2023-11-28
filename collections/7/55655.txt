@@ -1,0 +1,1 @@
+Bluetooth File Transfer for the PC is a file transfer utility and client which makes it extremely easy to share files between devices with a better laid out user interface than Windows' built-in file transfer program. The included file and folder manager gives you the ability to browse your computer or remote device.

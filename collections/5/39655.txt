@@ -1,0 +1,1 @@
+The first step is to use the voltometer to test the voltage of each individual battery. Then connect the different batteries in parallel. To do this, using aluminum foil, connect the positive end of the batter to the positive end of the other battery.

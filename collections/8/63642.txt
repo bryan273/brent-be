@@ -1,0 +1,1 @@
+BBC Weather's average conditions for London, United Kingdom. This includes readings of average sunlight, temperature, discomfort from heat and humidity, relative humidity, average Precipitation, and wet days.

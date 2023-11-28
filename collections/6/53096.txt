@@ -1,0 +1,1 @@
+To convert a time_t value back into a string, use date to get local time (that is, time according to the time zone set with date_default_timezone_set; you can ask PHP what that timezone is with date_default_timezone_get), or gmdate to get UTC. share | improve this answer. edited Sep 3 '12 at 20:00.

@@ -1,0 +1,1 @@
+The quantum state of the electron is described by its wave function. The Pauli exclusion principle demands that no two electrons within an atom may have the same values of all four numbers. The shapes of the first five atomic orbitals: 1 s, 2 s, 2 p x, 2 p y, and 2 p z. The colours show the phase of the wave function.

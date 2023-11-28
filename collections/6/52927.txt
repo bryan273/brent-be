@@ -1,0 +1,1 @@
+Particularly in copper, but in other metals as well, the thermal conductivity is a strong function of the purity and the condition of the metal. As a result, there is a considerable spread in the values of thermal conductivity reported in the literature, even for a specific alloy.

@@ -1,0 +1,1 @@
+JDK is Java Developer Kit -- the JDK is what you need to compile Java source code. JRE is Java Runtime Environment -- is what you need to run a java program -- it contains a JVM, among other things. OpenJDK is a specific JDK implementation.

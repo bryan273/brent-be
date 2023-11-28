@@ -1,0 +1,1 @@
+ASORTS database is to report and maintain unit status information; however, ASORTS also serves to register UICs/. DUICs and serves as the central registry and master database for Army organizations and units.

@@ -1,0 +1,1 @@
+Unlike with short-term memory, forgetting occurs in long-term memory when the formerly strengthened synaptic connections among the neurons in a neural network become weakened, or when the activation of a new network is superimposed over an older one, thus causing interference in the older memory.

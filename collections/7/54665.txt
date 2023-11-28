@@ -1,0 +1,1 @@
+SSMSE supports the standard Microsoft editing keyboard shortcuts. CTRL+C copies the selected text, CTRL+X cuts the selected text, CTRL+V pastes the contents of the clipboard, CTRL+Z undoes the most recent change, and CTRL+Y restores the last undo action. 1  F5--Run the Statement.

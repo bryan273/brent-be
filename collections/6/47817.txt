@@ -1,0 +1,1 @@
+Profit margin is calculated with selling price (or revenue) taken as base times 100. It is the percentage of selling price that is turned into profit, whereas profit percentage or markup is the percentage of cost price that one gets as profit on top of cost price.

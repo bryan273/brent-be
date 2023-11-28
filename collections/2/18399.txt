@@ -1,0 +1,1 @@
+Lines of Longitude define how far east or west a location is from the Prime Meridian, the focus of this lesson. The Prime Meridian is an imaginary line that, similar to the equator, divides the earth into eastern and western hemispheres. It is sometimes referred to as the Greenwich Meridian. All lines of latitude and longitude are measured in degrees.

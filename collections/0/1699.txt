@@ -1,0 +1,1 @@
+Amplitude decides the intensity ie energy content of the wave and frequency is different right from amplitude. If the maximum amplitude,E, i … s known then the instantaneous amplitude, e, can be found by e=E*sin(2*pi*f*t) where f is the frequency and t is the time in seconds from the start of the sine wave.

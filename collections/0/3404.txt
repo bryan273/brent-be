@@ -1,0 +1,1 @@
+So, the 2 types of frameshift mutations are insertion & deletion. A frameshift is always serious, because the entire genetic code is messed up from the point of insertion/deletion onward. A point mutation means that 1 single base is altered.

@@ -1,0 +1,1 @@
+Q or ℚ, denoting the set of all rational numbers (that is, the set of all proper and improper fractions): Q = {a/b : a, b ∈ Z, b ≠ 0}. For example, 1/4 ∈ Q and 11/6 ∈ Q. All integers are in this set since every integer a can be expressed as the fraction a/1 (Z ⊊ Q).

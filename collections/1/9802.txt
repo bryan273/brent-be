@@ -1,0 +1,1 @@
+You will also see the term big data when you encounter predictive analysis: in order to make predictive decisions, you need a LOT of data (customer, business, real-time, stored, etc.). Because predictive analysis is often used against big data, organizations purchase other software to help them extract and analyze the data.

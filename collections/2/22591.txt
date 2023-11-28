@@ -1,0 +1,1 @@
+https://prometheus.io/blog/2017/11/08/announcing-prometheus-2-0/ https://prometheus.io/docs/prometheus/2.0/migration/ [CHANGE] Completely rewritten storage layer, with WAL. This is not backwards compatible with 1.x storage, and many flags have changed/disappeared. [CHANGE] New staleness behavior.

@@ -1,0 +1,1 @@
+Since \(S^2\) is an unbiased estimator of \(\sigma^2\), the variance of \(S^2\) is the. , a measure of the quality of the estimator. \(\var\left(S^2\right) = \frac{1}{n} \left(\sigma_4 - \frac{n - 3}{n - 1} \sigma^4 \right)\).

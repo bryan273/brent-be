@@ -1,0 +1,1 @@
+If you want the gory details, read through the following steps: 1  Choose Customers→Receive Payments. 2  Identify the customer and, if necessary, the job. 3  Specify the payment date.  Enter the amount of the 1  payment. (Optional) Specify the payment method. ( Optional) Enter the check 1  number. (Optional) Add a memo description.

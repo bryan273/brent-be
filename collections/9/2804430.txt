@@ -1,0 +1,1 @@
+A Gene is a particular section of the chromosome's DNA string. There are many such sections on the DNA string-thus it contains (also calls 'codes') many genes-in humans between 500 and 4500 depending on what chromosome. One gene contains information for producing one particular protein.

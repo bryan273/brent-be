@@ -1,0 +1,1 @@
+Windows Defender works with Third Party Security Software. If you already have an existing Anti-Virus which you want to use, Windows 10 allows you to run third party security software to run smoothly on the system too, without disabling the Windows Defender. Its like a fail-safe.

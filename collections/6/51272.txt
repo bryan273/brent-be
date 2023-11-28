@@ -1,0 +1,1 @@
+Use the following steps find your model number using HP utilities. If your computer does not start into Windows, use Option 1: Use the product label. In Windows, press the fn + esc keys on the notebook’s keyboard to open the HP System Information window.

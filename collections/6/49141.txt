@@ -1,0 +1,1 @@
+Finally, divide your DPS value by the price per share for the stock you own to find your dividend yield (or, in other words, use the formula DY = DPS/SP). This simple ratio compares the amount of money you are paid in dividends to the amount of money you had to pay for the stock to begin with.

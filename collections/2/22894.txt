@@ -1,0 +1,1 @@
+Patients were stratified according to tumor PD-L1 status assessed in a central laboratory by immunohistochemical testing (positive vs. negative or indeterminate), BRAF mutation status (V600 mutation-positive vs. wild-type) and American Joint Committee on Cancer stage.[Level of evidence: 1iiA]

@@ -1,0 +1,1 @@
+VarType Function. Applies To: Access 2013 Developer Access 2016 Access 2013 Access 2010 Access 2007 Access 2010 Developer Access 2007 Developer More... Returns an Integer indicating the subtype of a variable. The required varnameargument is a Variant containing any variable except a variable of a user defined type.

@@ -1,0 +1,1 @@
+Optimization of the detection method, Mg2+ concentration, annealing temperature, enzyme concentration, PCR product. length, etc., are all ways of perfecting real-time assays. Another valuable tool in assay design is melt-curve analysis.

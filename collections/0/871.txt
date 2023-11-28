@@ -1,0 +1,1 @@
+A typical cellphone has enough power to reach a cell tower up to 45 miles away. Depending on the technology of the cellphone network, the maximum distance may be as low as 22 miles because the signal otherwise takes too long for the highly accurate timing of the cellphone protocol to work reliably.

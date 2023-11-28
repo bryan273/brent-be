@@ -1,0 +1,1 @@
+UpdatusUser folder is automatically created during Nvidia graphics driver installer and it is user for the updation of graphics driver whenever new drivers are available. A whole new user control is created and thus this separate UpdatusUser folder is shown in the Users folder.

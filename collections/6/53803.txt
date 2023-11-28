@@ -1,0 +1,1 @@
+Set iTunes to sync your iOS device over Wi-Fi. 1  Open iTunes. 2  Use the USB cable that came with your iOS device to connect it to your computer. 3  In iTunes, find and then click your iOS device.  On the Summary tab, select Sync with this [device] over Wi-Fi.. 1  Click Apply, then disconnect the USB cable.

@@ -1,0 +1,1 @@
+What are file extensions. A file extension, or file name extension, is the letters immediately shown after the last period in a file name. For example, the file extension.txt has an extension of .txt. This extension allows the operating system to know what type of file it is and what program to run when you double-click on it.

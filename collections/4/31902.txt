@@ -1,0 +1,1 @@
+Example: Using Fill Down with a Keyboard Shortcut. Type a number, such as 395.54 into cell D1 in Excel. Press and hold down the Shift key on the keyboard. Press and hold down the Down Arrow key on the keyboard to extend the cell highlight from cell D1 to D7. Release both keys.

@@ -1,0 +1,1 @@
+So let me get my little scratch pad out. So it's y is equal to 5x squared minus 20x plus 15. Now there's many ways to graph this. You can just take three values for x and figure out what the corresponding values for y are and just graph those three points. And three points actually will determine a parabola.

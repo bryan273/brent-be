@@ -1,0 +1,1 @@
+R = δ P Q {\displaystyle R={\frac {\Delta P}{Q}}}. where R is the pulmonary vascular resistance (fluid resistance), δP is the pressure difference across the pulmonary circuit, and Q is the rate of blood flow through it.

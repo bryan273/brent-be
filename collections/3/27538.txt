@@ -1,0 +1,1 @@
+Mass = measure of the amount of matter within an object Density = mass per unit of volume Example: Think of one pound of gold and one pound of aluminum, at sea level on earth. They contain the same mass, but the mass is more dense in the gold, because its volume is much smaller.

@@ -1,0 +1,1 @@
+A. Windows Defender — which is built into Windows 8 and replaces the free Microsoft Security Essentials program used by earlier versions of Windows — runs in the background and can help stop spyware, viruses and other malicious software from invading your computer.

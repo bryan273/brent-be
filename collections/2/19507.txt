@@ -1,0 +1,1 @@
+CVX codes are codes that indicate the product used in a vaccination. and Prevention, Immunization Information System Support Branch (IISSB) for use in HL7 data transmission. codes that indicate the manufacturer of a vaccine. immunization can be resolved to a trade name (the proprietary name of the product).

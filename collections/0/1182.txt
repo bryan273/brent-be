@@ -1,0 +1,1 @@
+SRS-Root is an easy to use solution for rooting your android device, the software contains multiple exploits to gain root access on your device. Let’s start with why you would want to root your Android smartphone. Sometimes apps require special permission that the Android OS, which is based on Linux doesn’t allow.

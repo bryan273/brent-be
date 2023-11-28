@@ -1,0 +1,1 @@
+With a VPN, you'll get secure access to your home network when you're on the go and can use it for secure web browsing when you're on public networks. Here's how to roll your own VPN with the Raspberry Pi.

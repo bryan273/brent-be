@@ -1,0 +1,1 @@
+Just as web browsers display HTML files, Earth browsers such as Google Earth display KML files. Once you've properly configured your server and shared the URL (address) of your KML files, anyone who's installed Google Earth can view the KML files hosted on your public web server.

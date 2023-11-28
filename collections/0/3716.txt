@@ -1,0 +1,1 @@
+These shortcuts allow you to perform basic PowerPoint functions during your presentation: 1  To start slideshow, press F5. 2  To move on to the next slide or animation sequence, press either N, Right Arrow, or Spacebar. 3  To return to the previous slide, press either P, Left Arrow, or Backspace. 4  To jump to a specific slide, press the slide number + Enter.

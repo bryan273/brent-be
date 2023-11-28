@@ -1,0 +1,1 @@
+Types of processes using process control. Processes can be characterized as one or more of the following forms: Discrete – Found in many manufacturing, motion and packaging applications. Robotic assembly, such as that found in automotive production, can be characterized as discrete process control.

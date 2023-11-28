@@ -1,0 +1,1 @@
+A passthrough connector is a second output, sometimes simply connected to the input connector, that delivers the input signal unchanged, to allow the DI unit to be inserted into a signal path without interrupting it. This is essential in many applications. Passthrough is common on active compared to passive DI units.

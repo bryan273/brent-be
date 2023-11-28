@@ -1,0 +1,1 @@
+Vanity name servers. A vanity nameserver is a name server that is branded to a website of your choice, instead of our public name servers. This can make your site appear more professional, by masking the fact you're using our name servers.

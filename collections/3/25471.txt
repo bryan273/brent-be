@@ -1,0 +1,1 @@
+Available Data. 1  Theaters: Get information on all theaters in the United States and Canada*. 2  Movies: Get information on all future, current, and historical movies in the Fandango system and narrow results to just movies playing in a particular area based on city/state, postal code, or lat/lon.

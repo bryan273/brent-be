@@ -1,0 +1,1 @@
+The lowest sales price the stock has fallen to during the regular trading hours, the intra-day low. /. Share Volume Share Volume is the number of shares of the stock traded on the listing exchange during current trading hours. It does not include after hours volume.

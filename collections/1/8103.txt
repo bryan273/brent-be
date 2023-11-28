@@ -1,0 +1,1 @@
+A virtual interface is a pointer to an actual interface in SystemVerilog. It is most often used in classes to provide a connection point to allow classes to access the signals in the interface through the virtual interface pointer. You can see some examples of how to use virtual interfaces in the UVM Cookbook.

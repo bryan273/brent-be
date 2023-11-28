@@ -1,0 +1,1 @@
+There are several configurations possible: A heptagonal pyramid: 8 faces, 8 vertices, 14 edges A hexagonal prism: 8 faces, 12 vertices, 18 edges A quadrilateral based dipyramid: 8 faces, 6 vertices, 12 edges (a regular octahedron is a special case of this shape). Source(s): M&M · 3 years ago. Thumbs up.

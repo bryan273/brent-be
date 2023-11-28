@@ -1,0 +1,1 @@
+Genome editing is the process of editing an organisms DNA by altering, removing or adding nucleotides to the genome. This process is accomplished through the use of engineered nucleases that can make a double stranded “cut” or a single stranded “nick” in an organism’s DNA.

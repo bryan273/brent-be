@@ -1,0 +1,1 @@
+For Medicare patients, if the patient is admitted to the hospital by the general surgeon, he or she should bill an initial hospital care code (99221–99223) and not an ED visit code.

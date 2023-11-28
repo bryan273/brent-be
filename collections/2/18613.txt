@@ -1,0 +1,1 @@
+The Express Relational Access Manager (RAM) is used to access Oracle and other ODBC data sources directly. This effectively turns the Express Server into a ROLAP analysis (Relational OLAP) engine. Configuration is done via the RAA (Relational Access Administrator) GUI utility.

@@ -1,0 +1,1 @@
+Apart from the Java language itself, the most common or well-known JVM languages are: 1  Clojure, a functional Lisp dialect. 2  Apache Groovy, a programming and scripting language.  Scala, an object-oriented and functional programming language.

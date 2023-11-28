@@ -1,0 +1,1 @@
+The case management flag automatically changes to “yes” when a new plan is created and when a worker updates the plan review date. A worker must change the case management flag to “yes” any other time a TCM-qualifying action is taken.

@@ -1,0 +1,1 @@
+The ASSESSMENT portion of the note highlights the diagnosis that is specific to this particular visit. Often a patient will have several diagnoses; however, in a SOAP note format, brevity rules, which means often doctors will only dictate their assessment of the patient's reason for visit on that particular day.

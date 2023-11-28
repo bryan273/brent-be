@@ -1,0 +1,1 @@
+It has a temperature sensor which it uses to detect overheat. The phone will cease operation until the device cools down. The sensor is not otherwise available to applications.

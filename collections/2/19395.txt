@@ -1,0 +1,1 @@
+Sample Problem #1. Determine the force of gravitational attraction between the earth (m = 5.98 x 10 24 kg) and a 70-kg physics student if the student is standing at sea level, a distance of 6.38 x 10 6 m from earth's center.

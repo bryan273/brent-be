@@ -1,0 +1,1 @@
+This page explains how updates work and where to get them. If you don't already have Microsoft security software, or you want to reinstall it, see our software download page. If you're using Windows XP, see our Windows XP end of support page. For a list of the latest updates see the change log. Windows will automatically download and install updates once a day for you.

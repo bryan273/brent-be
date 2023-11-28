@@ -1,0 +1,1 @@
+Gross Rating Point Definition. Gross rating point is the total of all weekly rating points for a given schedule of advertisements. Ratings points represent the total number of U.S. households participating in Nielsen ratings for the purpose of determining total viewership of television programs.

@@ -1,0 +1,1 @@
+Set a password in a Word document. To encrypt your file and set a password to open it: Click the Microsoft Office Button, point to Prepare, and then click Encrypt Document. In the Encrypt Document dialog box, in the Password box, type a password, and then click OK.

@@ -1,0 +1,1 @@
+All four examples you gave have two variables -- u and v. In each of those examples u is a function of v. tiny-tim already answered for a situation in which there are three variables, where, for example, z is a function of two variables, x and y. So du/dx = 2xy2, and du/dy = 2yx2.

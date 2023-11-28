@@ -1,0 +1,1 @@
+The four nucleotide bases in DNA are guanine, cytosine, adenine and thymine. The guanine base is always paired with the complementary cytosine base, and the adenine base is always paired with the complementary thymine base.

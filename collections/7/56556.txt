@@ -1,0 +1,1 @@
+Remove sasctxmn64.dll. sasctxmn64.dll has 4 known versions, the most recent one is 1, 0, 0, 1018. It adds a context menu to the Window's shell. The average file size is about 203.11 KB. It is an authenticode code-signed executable issued to SuperAdBlocker.com by the certification authority Thawte.

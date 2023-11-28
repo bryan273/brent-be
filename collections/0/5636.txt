@@ -1,0 +1,1 @@
+Apache Web server. Related Terms. Often referred to as simply Apache, a public-domain open source Web server developed by a loosely-knit group of programmers. The first version of Apache, based on the NCSA httpd Web server, was developed in 1995.

@@ -1,0 +1,1 @@
+Ensure that the client computer's network card has been set as the primary boot device within the system BIOS. When the client computer boots and is configured with the network card as the primary boot device, it requests a network service boot from the remote installation server on the network.

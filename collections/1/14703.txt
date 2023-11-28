@@ -1,0 +1,1 @@
+They are tests to confirm that your payment card account is active and has the funds available to complete your transactions. Authorization holds are removed by your financial institution shortly after your purchase clears. The time it takes to remove authorization requests varies by financial institution.

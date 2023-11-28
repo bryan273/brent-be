@@ -1,0 +1,1 @@
+Windows 7[edit] In Windows 7, the change of the boot screen, although possible through third-party utilities, is extremely risky and may cause the system to be unable to boot. Also the hidden Aurora bootscreen was removed.

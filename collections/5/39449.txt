@@ -1,0 +1,1 @@
+Okay, let’s make things easy. 1  Here’s everything you need to know: 2  There is only one processor chip. That chip can have one, two, four, six, or eight cores. 3  Currently, an 18-core processor is the best you can get in consumer PCs. 4  Each “core” is the part of the chip that does the processing work.

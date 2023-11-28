@@ -1,0 +1,1 @@
+Visit the Oracle Technology Network Java web site and our online Java tutorials for complete technical details relating to the Java platform and all of its aspects. What is the difference between the JRE and the Java SE platform? JRE (Java Runtime Environment) Java SE(Java Platform, Standard Edition) Who needs it?

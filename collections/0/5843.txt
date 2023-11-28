@@ -1,0 +1,1 @@
+The fuel returns from the filter housing rather than the heads. The fuel pump is controlled by a PCM-controlled relay through an old-fashioned Ford inertial switch and runs for 20 seconds at key on. If no rpm signal is evident after 20 seconds, the PCM shuts the fuel pump down.

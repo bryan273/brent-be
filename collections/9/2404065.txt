@@ -1,0 +1,1 @@
+The deceleration time is another simple means of evaluating the MV area, in which decay of the mitral inflow profile through a stenotic MV is examined. The following formula describes the relationship of the deceleration time to the MV area (19):

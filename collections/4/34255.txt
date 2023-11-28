@@ -1,0 +1,1 @@
+November 17, 2016: We’ve added discussion of the second-generation Echo Dot, which is essentially the same as the original Dot but with slightly different top-panel controls; it’s almost half the price of the original Dot. We’ve also added notes on our experience using the new Alexa skill for the Harmony Hub remote.

@@ -1,0 +1,1 @@
+If your browser is old your security may be compromised and allow attackers to hijack your web experience. We at HigherEdJobs care deeply about our users' security and will be transitioning away from supporting insecure, out-of-date browsers.

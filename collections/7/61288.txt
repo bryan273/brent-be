@@ -1,0 +1,1 @@
+OneNote Web App saves your notebook automatically while you work on it. You don’t have to save your changes. If you make changes that you don't want to keep, use the Undo command or press CTRL+Z (Windows) or ⌘+Z (Mac). If you want to see how your changes look in the notebook, switch to Reading view.

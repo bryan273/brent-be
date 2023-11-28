@@ -1,0 +1,1 @@
+What you have to do is to assign the CO-PA characteristic to a field from one of the following SD structures: KOMP, KOMK, VBAK or VBAP. From these tables the values for the characteristic are taken over. You can set a breakpoint to check whether SD provides a value for a characteristic.

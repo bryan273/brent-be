@@ -1,0 +1,1 @@
+where N is the number of full moons since the first full moon of 2000. The true time of a full moon may differ from this approximation by up to about 14.5 hours as a result of the non-circularity of the moon's orbit. See New moon for an explanation of the formula and its parameters.

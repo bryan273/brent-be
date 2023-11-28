@@ -1,0 +1,1 @@
+Standard Cell Potential. The standard cell potential (\(E^o_{cell}\)) is the difference of the two electrodes, which forms the voltage of that cell. To find the difference of the two half cells, the following equation is used:

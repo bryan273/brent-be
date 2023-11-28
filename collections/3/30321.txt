@@ -1,0 +1,1 @@
+The temperature and composition of the azeotrope is easily predicted from the vapor pressure of the pure components, without use of Raoult's law. The azeotrope is easily broken in a distillation set-up by using a liquid–liquid separator (a decanter) to separate the two liquid layers that are condensed overhead.

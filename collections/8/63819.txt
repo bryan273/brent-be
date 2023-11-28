@@ -1,0 +1,1 @@
+function f x is shown in the table at the right find the average rate of change over the interval 1 x 3 if the interval is 1 x 3 then you are examining the points 1 4 and 3 16 from the first point let a 1 and f a 4 from the second point let b 3 and f b 16

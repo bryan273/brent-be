@@ -1,0 +1,1 @@
+The Current National Weather Radar is shown below with a UTC Time (subtract 5 hours from UTC to get Eastern Time). The Current National Weather Forecast and National Weather Map are shown below. Tomorrow National Weather Forecast and Tomorrow National Weather Map are show below.

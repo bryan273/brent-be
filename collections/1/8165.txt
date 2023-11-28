@@ -1,0 +1,1 @@
+1 OpenCV has a C interface to matrix operations. 2  There are many alternatives that have a C++ interface (which is more convenient) and are as efficient as OpenCV. 3  Vectors are obtained in OpenCV as matrices having one of their dimensions as 1.

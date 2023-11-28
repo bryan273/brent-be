@@ -1,0 +1,1 @@
+You might have heard of the sequence of terms to describe data: Nominal, Ordinal, Interval and Ratio. They were used quite extensively but have begun to fall out of favor. These terms are used to describe types of data and by some to dictate the appropriate statistical test to use.

@@ -1,0 +1,1 @@
+As O'Reilly's 2013 Data Science Salary Survey suggests, the field of big data has ushered in the arrival of new, complex tools that relatively few people understand or have even heard of.. Knowing those tools is what yields such outsized salaries.

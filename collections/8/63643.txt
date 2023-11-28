@@ -1,0 +1,1 @@
+Weather forecast details for Thursday 18 August. Each column contains hourly forecast details for weather conditions, temperature, wind speed, wind direction, humidity, visibility and pressure.

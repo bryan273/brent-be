@@ -1,0 +1,1 @@
+Cloud service providers invest in the necessary infrastructure and management systems, and in return receive a time-based or usage-based fee from end users [17]. Cloud computing is emerging today as a commercial infrastructure that eliminates the need for maintaining expensive computing hardware.

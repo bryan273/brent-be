@@ -1,0 +1,1 @@
+The simplest case involves a patient the surgeon sees in the office and then schedules for surgery through the outpatient surgery department. Consultations for Medicare patients are reported with new patient (99201–99205) or established patient (99212–99215) Current Procedural Terminology (CPT) codes.

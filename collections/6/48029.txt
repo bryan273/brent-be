@@ -1,0 +1,1 @@
+User data can be stored in the following types of datasets: 1  Feature class. 2  Feature dataset. 3  Mosaic dataset. 4  Raster catalog. 5  Raster dataset. 6  Schematic dataset. 7  Table (nonspatial) 8  Toolboxes.

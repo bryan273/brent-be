@@ -1,0 +1,1 @@
+I am wondering if we can add new shortcut to the list of shortcuts already mentioned in the Shortcut tab. For example I want a shortcut for a command like. “select * from”. Suppose the short cut key is “Shift + S”. If I press the shortcut key then it should write “select * from” on the opened SQL file. Is this feature possible to implement.

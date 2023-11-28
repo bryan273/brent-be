@@ -1,0 +1,1 @@
+The simplest type of electric DC motor is the brushed type motor. As shown in figure 1 below, brushed DC motors typically have six parts: an armature (or rotor), commutator, carbon brushes, axle, field magnet and DC power supply.

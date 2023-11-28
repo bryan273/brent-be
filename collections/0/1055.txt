@@ -1,0 +1,1 @@
+If the seller and agent will not show or accept offers on a property for a period of time the status of the listing should be changed to “temporarily withdrawn” (status 8). This will indicate to the cooperating brokers and their client(s) that the seller is not actively soliciting offers and showings for the property.

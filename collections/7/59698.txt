@@ -1,0 +1,1 @@
+Length is the longest side of a package. Girth is the distance around the 2 smaller sides of a package. Note: For large UPS packages, you might need to enter dimensions to calculate costs correctly. You can only send packages with length plus girth between 130 inches and 165 inches through UPS.

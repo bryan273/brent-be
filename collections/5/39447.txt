@@ -1,0 +1,1 @@
+Increasing cores does not address the software problem of scaling. Scaling to cores is the theoretical ability of any software to assign the right tasks to the right cores, so each core is computing at its optimal speed. That’s not what happens in reality. In reality, tasks are split sequentially (which most multi-threaded software does) or randomly.

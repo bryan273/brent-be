@@ -1,0 +1,1 @@
+As opposed to the manual setup described above, you can also synchronize the system clock with a remote server over the Network Time Protocol (NTP). For the one-time synchronization only, use the ntpdate command: Firstly, check whether the selected NTP server is accessible: ~]# ntpdate -q server_address.

@@ -1,0 +1,1 @@
+A power inverter device which produces a multiple step sinusoidal AC waveform is referred to as a sine wave inverter. To more clearly distinguish the inverters with outputs of much less distortion than the modified sine wave (three step) inverter designs, the manufacturers often use the phrase pure sine wave inverter.

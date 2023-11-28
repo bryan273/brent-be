@@ -1,0 +1,1 @@
+There are many factors that could cause austenite to be retained. The first one is the steel’s carbon concentration. As the concentration of carbon increases, both temperature of Ms and Mf will be lowered (i.e. lower than room temp).

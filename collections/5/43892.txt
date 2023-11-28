@@ -1,0 +1,1 @@
+Kerberos is a system of authentication developed at MIT as part of the Athena project. Kerberos uses encryption technology and a trusted third party, an arbitrator, to perform secure authentication on an open network.

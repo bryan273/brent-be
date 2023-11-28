@@ -1,0 +1,1 @@
+One mode is STUN Basic, in which it looks for starting and delimiter of the frame [7e], and transports the frame to the other side. In this mode of operation, STUN doesn't care about the specific state of the session or detailed SDLC information, like the polling address. The other mode is STUN SDLC.

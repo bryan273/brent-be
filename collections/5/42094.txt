@@ -1,0 +1,1 @@
+There is a total of 5 errors on this form, details are below. 1  Please enter your name. 2  Please enter your email. 3  Your email is invalid. Please check and try again. 4  Please enter recipient's email. 5  Recipient's email is invalid. Please check and try again. 6  Agree to Terms required.

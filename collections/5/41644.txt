@@ -1,0 +1,1 @@
+All replies will be sent to the mailbox in the From field. One thing that is a bit strange about out Send As, is the sent message is kept in the Sent Items folder of the person who sent the message, not the shared mailbox. (This behavior changes in Outlook 2010).

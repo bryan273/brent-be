@@ -1,0 +1,1 @@
+Actually, the factory method is a way of circumventing following limitations of C++ constructor: 1  No return type. A constructor cannot return a result, which means that we cannot signal an error during object initialization. The only way of doing it is to throw an exception from a constructor. 2  Naming.

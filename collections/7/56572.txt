@@ -1,0 +1,1 @@
+Drive Manager software is the software bundled with various drives. Features include Backup, SecretZone, and Drive Lock (for drives that support the feature). The most common release is 1.00.0012, with over 98% of all installations currently using this version.

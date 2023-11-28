@@ -1,0 +1,1 @@
+The Migrator tool requires an iPhone backup tool which creates an unencrypted backup, after which the tool is used to merge that file with the chat log on an Android phone. Finally, uninstall and reinstall WhatsApp and follow the normal restore process as always.

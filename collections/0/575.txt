@@ -1,0 +1,1 @@
+Default email client is the email client your computer uses to send emails when you click on the send email option. There are various email softwares available from which you can choose to set as your default email program. However, if you find that the current email program is not the one which you use then you can change it right away.

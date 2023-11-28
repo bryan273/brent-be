@@ -1,0 +1,1 @@
+What is the difference between amplitude and frequency? • Amplitude strictly depends on the total energy of the system, whereas frequency of an oscillation depends on the properties of the oscillator itself. • For a given system, the amplitude can be changed but frequency cannot.

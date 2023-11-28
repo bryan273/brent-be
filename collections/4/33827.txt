@@ -1,0 +1,1 @@
+1 Amperage is a measure of the electrical current flowing through a circuit. 2  Current is measured in amperes or amps. 3  You must use the correct size wire for the amperage requirement of the circuit to prevent the wire from over heating.

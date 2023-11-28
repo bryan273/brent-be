@@ -1,0 +1,1 @@
+Sub-Categories. 1  Anemometers (vane and hot-wire) Anemometers are used to measure airflow and volume at registers and in ducts. Vane anemometers measure airflow independent of the air density making them ideal for many applications where measurement without the need for corrections is desired.

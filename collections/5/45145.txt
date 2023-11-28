@@ -1,0 +1,1 @@
+Set your default search engine. You can use the address bar (omnibox) as a search box. It automatically uses Google, but you can set another default search engine instead. If Google is normally your search engine and suddenly it’s not, you may have malware.

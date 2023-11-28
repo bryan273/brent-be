@@ -1,0 +1,1 @@
+Coding Guidelines: The –ET modifier should be applied to line item dates of service on their outpatient bill types 13X and 85X that are different from the date of service for revenue code. 0450 (Emergency Room).

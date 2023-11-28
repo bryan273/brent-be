@@ -1,0 +1,1 @@
+The function, denoted , is defined as the composite of the cube function and the secant function (which in turn is the composite of the reciprocal function and the cosine function). Differentiation. First derivative. We can differentiate this function as a composite function, using the chain rule for differentiation.

@@ -1,0 +1,1 @@
+US Fluid Ounce to Milliliter Conversion Example. 1  Task: Convert 75 US fluid ounces to milliliters (show work) Formula: US fl oz x 29.5735296 = mL Calculations: 75 US fl oz x 29.5735296 = 2,218.01472 mL Result: 75 US fl oz is equal to 2,218.01472 mL.

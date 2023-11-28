@@ -1,0 +1,1 @@
+Outdoor components of a residential air-source heat pump. A heat pump is a device that transfers heat energy from a source of heat to a destination called a heat sink. Heat pumps are designed to move thermal energy in the opposite direction of spontaneous heat transfer by absorbing heat from a cold space and releasing it to a warmer one.

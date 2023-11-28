@@ -1,0 +1,1 @@
+Google’s free open source framework TensorFlow is about to get more powerful. Last year Google opened TensorFlow to the entire world. This meant that any individual, company, or organization could build their own AI applications using the same software that Google does to fuel everything from photo recognition to automated email replies. But there was a catch.

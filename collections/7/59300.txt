@@ -1,0 +1,1 @@
+Now let’s briefly explain the valid fields: 1  The Fmt field, together with the Type field say this is a Memory Write Request. 2  The TD bit is zero, indicating that there is no extra CRC on the TLP data (TLP Digest). 3  The Length field has the value 0x001, indicating that this TLP has one DW (32-bit word) of data.

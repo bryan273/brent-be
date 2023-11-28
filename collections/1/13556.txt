@@ -1,0 +1,1 @@
+Advantage of AHCI. 1  Hot-Plugging (will not cover here as it will not affect computer performance) 2  Native Command Queuing (might improve computer/system/hard disk responsiveness, espcially in multi-tasking environment.

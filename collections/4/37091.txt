@@ -1,0 +1,1 @@
+In this article, we’ll break down how code gets translated from the code programmers write, to the code computers read, the difference between compiled and interpreted code, and what makes “just-in-time” compilers so fast and efficient. Human code vs. machine code.

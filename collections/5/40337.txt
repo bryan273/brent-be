@@ -1,0 +1,1 @@
+Starting with Windows 8, Microsoft Security Essentials became the default antivirus tool for all Windows PC — and it was renamed as Windows Defender. Now an official component of Microsoft Windows OS, it is packed with several features and is associated with protection sector of the OS.

@@ -1,0 +1,1 @@
+Well to find the z-score we need the standard deviation. #s.d. = sqrt(((.25)(.75))/100) = .043#. then the z-score is: #z = (.20 - .25)/.043 = -1.16#. so the sample is 1.16 standard deviations below the normal rate of Cesareans by 1.16 deviations.

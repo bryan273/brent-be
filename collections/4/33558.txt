@@ -1,0 +1,1 @@
+IP Routing Diagram. In the diagram above PC1’s default gateway is Router A, this is the same for PC2. All packets from either of these PC’s will be forwarded to Router A for destinations other than their own subnet.

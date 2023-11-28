@@ -1,0 +1,1 @@
+If a patient is in an intensive care area, but either the time spent is less than 30 minutes or the level of care does not meet the above criteria, the surgeon should use the appropriate level of E/M code for the encounter, such as 99233.

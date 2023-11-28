@@ -1,0 +1,1 @@
+DHCP Client Default Behavior. Cisco routers running Cisco IOS software include DHCP server and relay agent software, which are enabled by default. Your router can act as both the DHCP client and DHCP server. Use the ip address dhcp command to obtain IP address information for the configured interface.

@@ -1,0 +1,1 @@
+This book is concerned with post-computer communication networks and two of its. important streams: data communication and telecommunication. Data communication. refers to the communication between digital computers, facilitated by computer. networks.

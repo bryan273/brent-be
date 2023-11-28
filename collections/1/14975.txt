@@ -1,0 +1,1 @@
+SALT tokens, also known as membership tokens, are ERC20 tokens that you spend to become a member of the SALT lending platform. Furthermore, you can redeem these tokens to pay down loan interest, receive better rates on loans, and purchase items from SALT’s online store.

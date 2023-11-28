@@ -1,0 +1,1 @@
+public override Microsoft.VisualStudio.Text.Editor.EditorOptionKey<Microsoft.VisualStudio.Text.Editor.WordWrapStyles> Key { get; } member this.Key : Microsoft.VisualStudio.Text.Editor.EditorOptionKey<Microsoft.VisualStudio.Text.Editor.WordWrapStyles> Public Overrides ReadOnly Property Key As EditorOptionKey(Of WordWrapStyles) Property Value

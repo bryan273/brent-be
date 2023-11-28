@@ -1,0 +1,1 @@
+This is a discussion on Combining Multiple Columns into one column without any blank cells within the Excel Questions forums, part of the Question Forums category; I need to be able to combine 3 columns with ranges that may change into one column without any blank ... Dec 8th, 2012, 09:36 AM #1. New Member. Join Date.

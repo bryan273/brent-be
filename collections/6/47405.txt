@@ -1,0 +1,1 @@
+Always readjust the idle mixture (#2) and idle speed (#1) screws after making a jet change. To test the main jet, do a roll-on from 50-mph to 70-mph in 3rd gear. If the engine backfires or breaks up in the carb, increase the main jet size .004.

@@ -1,0 +1,1 @@
+/usr/share/openldap/migration/migrate_groups.pl /etc/openldap/groups.txt /etc/openldap/groups.ldif After I imported users, and groups, I used phpldapadmin to import shadow passwords. I opened /etc/shadow and copied the password field:

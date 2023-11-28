@@ -1,0 +1,1 @@
+Media player and more. VLC media player is the most stable, flexible and lightweight audio and video player around today, especially when compared to others that will play unusual formats after downloading a codec, or simply refuse to play things. The program handles tons of formats, from MPEG to FLV and RMBV files.

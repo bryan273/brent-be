@@ -1,0 +1,1 @@
+If the goal is to use Windows 8 as the primary OS and have the ability to simultaneously run Linux for certain functions, then I think that installing Virtualbox on Windows 8 is a better way forward. As for hardware, anything with 4 cores or more, and 8G or more of RAM would be adequate.

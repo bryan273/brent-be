@@ -1,0 +1,1 @@
+The solution is as follows: Sample Problem #2 Determine the force of gravitational attraction between the earth (m = 5.98 x 1024 kg) and a 70-kg physics student if the student is in an airplane at 40000 feet above earth's surface. This would place the student a distance of 6.39 x 106 m from earth's center.

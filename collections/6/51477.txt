@@ -1,0 +1,1 @@
+If the engine has been built with loose bearing clearances (rod and main bearing clearances of 0.0020 are preferred for the Jeep 4.0), a HV oil pump may be necessary to provide adequate oil pressure.

@@ -1,0 +1,1 @@
+Video resolution is essentially the number of pixels in your video. The more pixels you have, the clearer your picture will be. For webcams, 1080p is the best resolution available and should give you the clearest and most detailed images.

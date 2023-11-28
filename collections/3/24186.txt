@@ -1,0 +1,1 @@
+Here are basic word to pages conversions: 1  500 words is 1 page single spaced, 2 pages double spaced. 2  1,000 words is 2 pages single spaced 4 pages double spaced.  1,500 words is 3 pages single spaced, 6 pages double spaced.

@@ -1,0 +1,1 @@
+Calendar with 12 months. The Gregorian calendar is divided into 12 irregular months. Each month has either 28, 30, or 31 days during a common year, which has 365 days. During leap years, which occur nearly every 4 years, we add an extra (intercalary) day, Leap Day, on 29 February, making leap years 366 days long.

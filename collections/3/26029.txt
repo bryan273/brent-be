@@ -1,0 +1,1 @@
+The arctangent is the inverse tangent function. Since. tan π/4 = tan 45º = 1. The arctangent of 1 is equal to the inverse tangent function of 1, which is equal to π/4 radians or 45 degrees: arctan 1 = tan -1 1 = π/4 rad = 45º.

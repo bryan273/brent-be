@@ -1,0 +1,1 @@
+Defining a Discrete Random Variable. A discrete random variable is one in which all the outcomes are mutually exclusive and cannot be broken down into more precise measurements. Discrete random variables exist on either a finitely or infinitely countable continuum.

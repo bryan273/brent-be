@@ -1,0 +1,1 @@
+For a normal distribution $68\%$ percent of the distribution is within $1$ standard deviation. $95.4\%$ within $2$ standard deviations and over $99\%$ within $3$ standard deviations. The margin of error is expressed as a multiple of the standard deviation of the estimate. Variance and bias are measures of uncertainty in a random quantity.

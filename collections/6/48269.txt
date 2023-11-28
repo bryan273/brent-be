@@ -1,0 +1,1 @@
+Microsoft.VisualStudio.Text.Editor Microsoft.VisualStudio.Text.Editor Microsoft.VisualStudio.Text.Editor Assembly: Microsoft.VisualStudio.Text.UI.dll

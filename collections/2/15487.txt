@@ -1,0 +1,1 @@
+For every species of seed, there is an optimal soil temperature for germination, and at that temperature, the maximum number of seeds will germinate and in less time than at any other temperature. You can sow onion seeds at 32ºF and get 90% germination.

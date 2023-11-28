@@ -1,0 +1,1 @@
+Magnetic fields. 1  Electric fields arise from voltage. 2  Their strength is measured in Volts per metre (V/m) 3  An electric field can be present even when a device is switched off.  Field strength decreases with distance from the 1  source. Most building materials shield electric fields to some extent.  Magnetic fields arise from current flows.

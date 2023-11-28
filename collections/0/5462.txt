@@ -1,0 +1,1 @@
+One more thing to try: on page 2 of making a reservation (where you see the car classes), on the drop-down page up top, see if selecting This AWD - xxxxxxx instead of Lowest Rates makes a difference. I've seen that forcing an AWD sometimes is lower than their lowest rates for some reason.

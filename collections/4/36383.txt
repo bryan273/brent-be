@@ -1,0 +1,1 @@
+This table is a data information resource for the specific gravity of many common metals. While the data is extremely useful for design, actual individual samples will probably differ. Temperature and purity will often have a definite effect.

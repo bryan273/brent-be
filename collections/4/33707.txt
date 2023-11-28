@@ -1,0 +1,1 @@
+Microsoft Windows Subsystem for Linux. Microsoft Windows Subsystem for Linux is a series of Microsoft components that allow native Linux 64-bit Executable and Linkable Format (ELF64) binaries to run on the Windows kernel in the Windows 10 operating system.

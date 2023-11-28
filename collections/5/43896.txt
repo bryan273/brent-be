@@ -1,0 +1,1 @@
+Here’s how the log-on process works with Kerberos as the authentication method: 1  To log onto the network, the user provides an account name and password. 2  The Authentication Server (AS) component of the KDC accesses Active Directory user account information to verify the credentials.

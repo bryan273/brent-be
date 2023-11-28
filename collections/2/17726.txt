@@ -1,0 +1,1 @@
+If I care about grass density in my lawn I might count the number of stems from several small quadrats and then calculate the average number of stems. The numbers of stems in each of my individual quadrats will be greater than or less than the average. In other words there is variability in the raw data.

@@ -1,0 +1,1 @@
+In the classic Rhine experiments on ESP, the subject tries to guess or call the order of the five symbols when they are randomly arranged in a deck of 25 ESP cards. The likelihood of calling a card correctly by chance is one in five.

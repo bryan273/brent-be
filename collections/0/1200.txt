@@ -1,0 +1,1 @@
+One of the first responsibilities of the executive sponsor is to select the production acceptance process owner. The process owner should be a member of the infrastructure organization since most of the ongoing activities of operating and supporting a new production application fall within this group.

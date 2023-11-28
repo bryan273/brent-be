@@ -1,0 +1,1 @@
+Definition: An angle whose measure is less than 90° Try this Adjust the angle below by dragging an orange dot and see how the angle ∠ ABC behaves. Note that it is acute for all angles from zero to (but not including) 90° Acute angles are the smallest, being between (but not including) zero and 90° Note also that acute triangles are those where all the interior angles are acute.

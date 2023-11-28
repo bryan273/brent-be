@@ -1,0 +1,1 @@
+To call a method in java we need an object.Program execution starts from main method we dont have a object to call main method in the begining.When JVM sees main method in program it starts execution from there.Since main method is static we can execute it without creating an object.

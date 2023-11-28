@@ -1,0 +1,1 @@
+By convention, if the base sequence of a single strand of DNA is given, the left end of the sequence is the 5' end, while the right end of the sequence is the 3' end. The strands of the double helix are anti-parallel with one being 5' to 3', and the opposite strand 3' to 5'.

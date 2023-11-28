@@ -1,0 +1,1 @@
+Patch 6 for Dragon Age: Inquisition improves overall game stability, implements a number of bug fixes, and introduces some multiplayer improvements. The Katari multiplayer kit now has more HP and generates guard on hit.

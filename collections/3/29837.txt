@@ -1,0 +1,1 @@
+1 A motorcycle has more than a 150cc engine size, and no more than 3 wheels. 2  A motorcycle has to be registered and the driver must have a motorcycle license (M1).  M1 license holders may operate any motorized bicycle, moped or motor scooter without an M2 endorsement.

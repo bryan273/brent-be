@@ -1,0 +1,1 @@
+Measuring AHI. To determine AHI add the total number of Apnea events, plus Hypopnea events and divide by the total number of minutes of actual sleep time, then multiplied by 60. Remember AHI is an Average. The AHI of 14.3 is an index -- an AVERAGE calculated for the entire night.

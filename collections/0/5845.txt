@@ -1,0 +1,1 @@
+Strategy and load input; PCM uses this to monitor engine speed to determine engine state. and load, and cylinder position in order to control timing and fuel delivery; Hall Effect sensor. which generates a digital voltage signal; high, 12 volts, low, 1.5 volts.

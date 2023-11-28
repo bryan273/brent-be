@@ -1,0 +1,1 @@
+Currently Central Standard Time (CST), UTC -6 Daylight saving time (Central Daylight Time (CDT), UTC -5) starts March 11, 2018 The IANA time zone identifier for Dothan is America/Chicago. Read about Dothan in Wikipedia

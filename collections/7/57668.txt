@@ -1,0 +1,1 @@
+up vote 2 down vote accepted. To use any type of format, Excel needs to understand what the number means. There is no basis for Excel to know that 1-12 means Jan-Dec. This means that you need to add functions or some other basis to translate it if you want that cell to display it as a month.

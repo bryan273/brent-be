@@ -1,0 +1,1 @@
+ABA, IBAN, SWIFT / BIC and CLABE. Required banking codes for wires in: • US dollars require an ABA. • Foreign currency the SWIFT / BIC is needed. If the Payee bank is part of the European Community (see below list), the IBAN and SWIFT / BIC. are required.

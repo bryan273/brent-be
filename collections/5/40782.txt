@@ -1,0 +1,1 @@
+Azure Service Fabric (ASF) Platform. Service Fabric Platform is the next generation platform-as-a-service offering from Microsoft Azure. It has been released as a developer preview in May, 2015 and the expected GA release is early 2016.

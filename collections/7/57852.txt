@@ -1,0 +1,1 @@
+In the example above, note where the system curve intersects each head / capacity curve. When one pump is running, the maximum flow is 125 GPM at 147’. When both pumps are running the maximum flow is 250 GPM at 147’. The PRV maintains constant down stream pressure regardless of the actual head of the two pumps.

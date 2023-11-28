@@ -1,0 +1,1 @@
+Setting up your Pi as a VPN and web proxy server doesn't require any new or special hardware beyond the basics. You'll need: 1  A free LogMeIn account since we're using LogMeIn Hamachi to create our VPN. 2  Create your free account, if you don't have one already, before you get started.

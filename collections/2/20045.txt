@@ -1,0 +1,1 @@
+The Production Scheduling system continuously calculates accurate Job completion based on: 1  Production quantity scheduled. 2  Shift production schedule: 3  Current average cycle time or production rate.  Machine setup/change-over 1  time. Individual machine efficiency factors and constraints.  Planned preventive maintenance schedule.

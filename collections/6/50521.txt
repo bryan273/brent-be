@@ -1,0 +1,1 @@
+Place the value in liters/100 kilometer (represented by l/100 km in the formula) that you want to convert to miles/gallon to replace the blank space below. This is based on the fact that 1l/100km = 235.214mpg (that means that if 1 liter could go 100 km then 1 gallon would go 235.214 miles).

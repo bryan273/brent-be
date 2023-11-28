@@ -1,0 +1,1 @@
+SPP provides various forecast models. Planning for service parts takes place in distribution structures (abbreviation: BOD – bill of distribution), which contain all of our locations in as network. Locations can be, for example, distribution centers, contract packagers, or our customers and dealers.

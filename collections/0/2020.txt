@@ -1,0 +1,1 @@
+After the installation is complete, the user is prompted to log on to the network with an existing user account, password, and logon domain. At this point, you have successfully configured and installed a remote operating system using RIS. See below for additional information on configuration options.

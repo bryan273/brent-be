@@ -1,0 +1,1 @@
+Firth Generation Languages (5GL) Not commonly listed in the generations of software are the Fifth Generation programming languages. Connected closely with Artificial Intelligence research and expert systems, there are few commercially available 5GLs.

@@ -1,0 +1,1 @@
+(`A POSTERIORI' DEFINITION OF PROBABILITY): If a random experiment is repeated a large number of times, say n times, under. identical conditions and if an event A is observed to occur m times, then the probability of. the event A is defined as the LIMIT of the relative frequency m/n as n tends to infinitely. Symbolically, we write.

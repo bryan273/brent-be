@@ -1,0 +1,1 @@
+Ratio data is interval data with a natural zero point. For example, time is ratio since 0 time is meaningful. Degrees Kelvin has a 0 point (absolute 0) and the steps in both these scales have the same degree of magnitude.

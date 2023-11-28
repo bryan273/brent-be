@@ -1,0 +1,1 @@
+LOWER function. Applies To: Excel for Android phones Excel Mobile Excel Starter Excel 2016 Excel 2013 Excel 2010 Excel 2007 Excel 2016 for Mac Excel for Mac 2011 Excel Online Excel for iPad Excel for iPhone Excel for Android tablets More... Less. This article describes the formula syntax and usage of the LOWER function in Microsoft Excel.

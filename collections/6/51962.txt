@@ -1,0 +1,1 @@
+As a result, HTML5 developers need to make sure that audio content is create in different formats. Audio formats supported by major browsers matrix provided below: 1  Firefox supports: WAV, Ogg Vorbis. 2  Safari supports: WAV, MP3.

@@ -1,0 +1,1 @@
+So means, standard deviations, t-tests, regressions and ANOVA are run daily and the results are published without much concern for these categories (to the chagrin of a few purists). What this classification system does remind us of is to not make interval and ratio claims about ordinal data.

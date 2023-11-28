@@ -1,0 +1,1 @@
+Time lapse involves shooting frames at a speed much slower than the standard (let say 16 frames per second), perhaps as slow as one per day or much faster perhaps one per second. Then playing the frames at a normal rate of 16 per second or somewhat slower.

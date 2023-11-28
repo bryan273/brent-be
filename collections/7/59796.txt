@@ -1,0 +1,1 @@
+In mathematics, a set is a well-defined collection of distinct objects, considered as an object in its own right. For example, the numbers 2, 4, and 6 are distinct objects when considered separately, but when they are considered collectively they form a single set of size three, written {2,4,6}.

@@ -1,0 +1,1 @@
+UTC/GMT is 03:17 on Thursday, August 18, 2016. Pacific Daylight Time is seven hours behind the Coordinated Universal Time standard, written as an offset of UTC - 7:00. That means to find the standard time in the zone you must subtract seven hours from Coordinated Universal Time. Territories observing the time zone are primarily in North America.

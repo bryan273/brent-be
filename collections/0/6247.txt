@@ -1,0 +1,1 @@
+.xlsx contains all the information needed to make the Excel file look the way it does, including not just data, but formatting, cell widths, cell wrapping, etc. (A .xlsm can contain even more, because that can contain macros as well.) .csv contains two things only.

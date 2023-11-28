@@ -1,0 +1,1 @@
+In general the specific weight - γ - is constant for fluids. For gases the specific weight - γ - varies with the elevation. The pressure exerted by a static fluid depends only upon. 1  the depth of the fluid. 2  the density of the fluid.

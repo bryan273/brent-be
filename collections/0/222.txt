@@ -1,0 +1,1 @@
+For example, the pressure of electromagnetic radiation on an object derives from the transfer of photon momentum per unit time and unit area to that object, since pressure is force per unit area and force is the change in momentum per unit time.

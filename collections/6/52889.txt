@@ -1,0 +1,1 @@
+To complete a wire transfer, the sender must provide his bank name and account number of the recipient, the receiving account number, the city and state of the receiving bank and the bank's routing number.

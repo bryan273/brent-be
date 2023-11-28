@@ -1,0 +1,1 @@
+First the demise of Apple’s DVD Studio Pro…now Adobe Encore. Adobe has announced that the last version of Encore, CS6, will be its last. In addition, Dynamic Link between Encore and Premiere Pro is no longer supported. So much for the handy video editing to DVD creation workflow we reported on recently.

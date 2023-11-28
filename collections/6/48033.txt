@@ -1,0 +1,1 @@
+Before you can open a GDB file, you'll need to figure out what kind of file the GDB file extension refers to. Tip: Incorrect GDB file association errors can be a symptom of other underlying issues within your Windows operating system.

@@ -1,0 +1,1 @@
+A mass airflow sensor. A mass (air) flow sensor (MAF) is used to find out the mass flowrate of air entering a fuel-injected internal combustion engine. The air mass information is necessary for the engine control unit (ECU) to balance and deliver the correct fuel mass to the engine. Air changes its density as it expands and contracts with temperature and pressure.

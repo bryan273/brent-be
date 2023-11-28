@@ -1,0 +1,1 @@
+Forecast data from The Norwegian Meteorological Institute; Current conditions data from the National Weather Service. All historical data and normals © Weatherbase.

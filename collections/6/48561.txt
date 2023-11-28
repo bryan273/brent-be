@@ -1,0 +1,1 @@
+Such elements are typically short (6-15 bp), tolerate some degree of sequence variation and follow few known rules. To date, the majority have been found by experimentation, such as systematic mutation of individual promoter regions; the process is laborious and unsuited for genome-scale analysis.

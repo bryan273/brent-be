@@ -1,0 +1,1 @@
+Interpretation and compilation are properties of the implementation of a language. It’s not accurate to say that a language is interpreted or compiled because interpretation and compilation are both properties of the implementation of that particular language, and not a property of the language itself.

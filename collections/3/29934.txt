@@ -1,0 +1,1 @@
+Explanation: According to the Rational method, the storm water or runoff is defined by Q = K*A*I*R where, K is a constant and K =1/360, So, Q = A*I*R/360.

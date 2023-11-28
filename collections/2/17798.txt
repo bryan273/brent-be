@@ -1,0 +1,1 @@
+Power to the blower motor is fed through the blower motor resistor, so if it fails or has any issues power can be cut off to the motor. A blower motor without power will not be able to produce any air pressure, and as a result the heating and air conditioning system will be left with no air coming from the vents.

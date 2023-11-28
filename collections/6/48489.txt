@@ -1,0 +1,1 @@
+What is Network Encryption? Encryption is a popular and effective method for safeguarding network data. The process of encryption hides data or the contents of a message in such a way that the original information can only be recovered through a corresponding decryption process.

@@ -1,0 +1,1 @@
+To apply these formulas to your boat, just plug in its horsepower rating and multiply it by the specific fuel consumption average, then divide the product by the fuel specific weight. Another way is to take the total engine horsepower and divide it by 10 for gas engines or .06 for diesel engines.

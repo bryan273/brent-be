@@ -1,0 +1,1 @@
+Change the permissions for any Outlook folder that the delegate has access to. To send a message to notify the delegate of the changed permissions, select the Automatically send a message to delegate summarizing these permissions check box.

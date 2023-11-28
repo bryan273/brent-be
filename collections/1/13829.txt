@@ -1,0 +1,1 @@
+The motion of the motor is created by the interaction of the magnetism caused by the currents flowing the the stator and the rotor. This interaction causes the rotor to turn and provide the drive. The stator and the rotor of the DC motor are connected electrically.

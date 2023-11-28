@@ -1,0 +1,1 @@
+Wavelength is a measure of the distance between repetitions of a shape feature such as peaks, valleys, or zero-crossings, not a measure of how far any given particle moves.

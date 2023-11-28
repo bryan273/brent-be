@@ -1,0 +1,1 @@
+122. If water is flowing into the tank at the rate of 120gallons per hour and flowing out of the tank at aconstant rate of one gallon per minute, the waterlevel in the tank will(A) rise 1 gallon per minute.(B) rise 2 gallons per minute.

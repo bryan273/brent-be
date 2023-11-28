@@ -1,0 +1,1 @@
+5 the element, enabling native audio playback within the browser. We can take advantage of this now as all of the major browsers support it — currently Firefox, Chrome, Safari and Opera, and Internet Explorer 9+.

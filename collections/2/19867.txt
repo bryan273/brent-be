@@ -1,0 +1,1 @@
+Tips: 1  Hold the Alt key down while pressing Print Screen to capture only the active window. 2  Generally the PNG or GIF format works best when saving screen shots of application windows. 3  The JPEG format usually makes screen shots (especially those with text) blurry, blotchy and discolored.

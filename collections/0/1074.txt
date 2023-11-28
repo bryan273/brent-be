@@ -1,0 +1,1 @@
+For example, a motor with a 100 Horsepower (HP) nameplate rating which delivers 90 HP to a. dynamic load is said to be 90% loaded or 0.9 per unit. In this case, the per unit base is the nameplate. horsepower rating of 100. When the motor delivers 90 HP, 90/100 equals 0.9 per unit.

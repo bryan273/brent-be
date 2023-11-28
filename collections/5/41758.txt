@@ -1,0 +1,1 @@
+1 Standard format – Because EDI documents must be processed by computers rather than humans, a standard format must be used so that the computer will be able to read and understand the documents. 2  A standard format describes what each piece of information is and in what format (e.g. integer, decimal, mmddyy).

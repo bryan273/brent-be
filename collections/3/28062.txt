@@ -1,0 +1,1 @@
+In geometry, you will write a line segment using the letters for each of the end points and a line over the top of the letters. For example, if your end points were A and B, then you would write your line segment AB with a line over the top.

@@ -1,0 +1,1 @@
+Update 9/30/2016: This week Microsoft announced some really big and amazing changes to the Microsoft Certification program and how the Azure certification exams fit in with MCSD and MCSE certifications. As a result, you want to reference the 2016 Edition of Where to start with Azure Certification article instead.

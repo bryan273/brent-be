@@ -1,0 +1,1 @@
+Hi all. I've had a bit of a nightmare configuring this server, as though I've done a lot of SQL internal admin and DBA (security, backup policy etc), the network side is something I'm not very strong on. Anyway, this named instance SQL 2008 installation was set up to listen on a dynamic TCP port.

@@ -1,0 +1,1 @@
+(m) The area of the rhombus is a product of the lengths of the 2 diagonals divided by 2. (n) The lines joining the midpoints of the 4 sides in order, will form a rectangle whose length and width will be half that of the main diagonals. The area of this rectangle will be one-fourth that of the rhombus.

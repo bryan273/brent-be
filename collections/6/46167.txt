@@ -1,0 +1,1 @@
+WebCriminal provides information on pending criminal cases with future appearance dates for selected New York State Courts of criminal jurisdiction*. You may search for cases by Case Number or Party Name and produce calendars by Court and Part or Judge. *For a list of available Courts please refer to the WebCriminal FAQ.

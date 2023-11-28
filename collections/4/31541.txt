@@ -1,0 +1,1 @@
+Intel still calls it processors with an integrated graphics core a CPU. The APU is a AMD CPU with a entry level Radeon 6000 core (for the FM1) or an entry level Radeon 7000 core (for the FM2) GPU together. The APU can do much better graphics then any Intel CPU or regular AMD with integrated graphics.

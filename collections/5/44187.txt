@@ -1,0 +1,1 @@
+Frequency tables should be calculated for categorical variables only (or for quantitative variables with a very small number of unique values), while for quantitative variables one would use descriptive statistics like quartiles, mean etc., all of those being specific to the function summary(). I would use: lapply(df, function(x) {.

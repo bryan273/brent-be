@@ -1,0 +1,1 @@
+WeMo Motion lets you control the devices when motion is detected. Have the floor lamp go on when you enter the living room, and turn off when you leave. WeMo Switch, WeMo Light Switch and WeMo Motion are available at major retailers.

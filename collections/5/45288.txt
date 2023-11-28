@@ -1,0 +1,1 @@
+Navigate the the Drivers & Downloads site as detailed in the top section. 1  Download and extract Dell ControlVault Firmware update package. 2  This can be found within the Security Section. 3  Once all the files have been extracted to a floder on you system.  Click Start to start the upgrade process.

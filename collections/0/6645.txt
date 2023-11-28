@@ -1,0 +1,1 @@
+My thinking on velocity and Agile Estimation has evolved. 1  Simple estimation techniques work! 2  Story Points considered harmful, or why the future of estimation is really in our past. 3  A better way to predict project release date. 4  Focus on what matters, a #NoEstimates advocacy post. 5  The #NoEstimates how to.

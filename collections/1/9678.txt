@@ -1,0 +1,1 @@
+Note: The point of the inner square shown in Fig 16 is to show how an isometric ellipse (using Illustrator's Ellipse Tool) will not meet the requirements of a true perspective ellipse. It is not the size of the inner square that matters, but the fact that all four of its corners are capable of touching the ellipse.

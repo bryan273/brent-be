@@ -1,0 +1,1 @@
+{Saturation}. Saturation is a uniform bumping up the intensity of all colors in your shot, regardless of the starting point of the colors. This can result in clipping (over saturation of certain colors which results in loss of detail in those areas) and over saturation of skin tones leaving them looking too orange and unnatural. {Vibrance}

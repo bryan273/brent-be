@@ -1,0 +1,1 @@
+I’d also like to mention that a Memory Write TLP’s data payload may be significantly longer than a single 32-bit word, forming a PCIe write burst. The TLP’s size limits are set at the peripheral’s configuration stage, but typical numbers are a maximum of 128, 256 or 512 bytes per TLP.

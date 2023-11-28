@@ -1,0 +1,1 @@
+Custom Currency. This is a currency based on rarities of ores and the cost to process them. You can use this currency for RPG servers. Main Currency. 64 Music Discs = Slimeball 64 Slimeballs = 1 Slime Stack 64 Slimeball Stacks = 1 Sponge. Music Disc = MD. Slimeball = SB. Slimeball Stack = ST.

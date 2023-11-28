@@ -1,0 +1,1 @@
+Full Description: 1  I'm exporting with a filter for activity status started or complete. 2  I'm exporting the following columns task_code. status_code. 3  I then each activity and column accordingly. 4  I import back into Primavera. 5  I schedule to correct data date.

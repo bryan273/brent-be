@@ -1,0 +1,1 @@
+1 Direct Payment via ACH is the use of funds to make a payment. Individuals or organizations can make a Direct Payment via ACH as either an ACH credit or ACH debit.  A Direct Payment processed as an ACH credit pushes funds into an account.

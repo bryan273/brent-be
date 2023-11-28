@@ -1,0 +1,1 @@
+∠BAC = ∠CAD or ∠BDA = ∠BDC. 1  4. If all the parallelogram heights have equal lenght: 2  1. Formula of rhombus side in terms of area and height: 3  3. Formula of rhombus side in terms of area and inradius: 4  4. Formula of rhombus side in terms of it diagonals: 5  1. Formulas of rhombus longer diagonal in terms of side and cosine of any angle (cosα or cosβ)

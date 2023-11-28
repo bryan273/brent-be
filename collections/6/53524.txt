@@ -1,0 +1,1 @@
+The 1st Number: Systolic pressure is the blood pressure when the heart muscle contracts. The 2nd Number: Diastolic pressure is the blood pressure when the heart is relaxed. The BP numbers shown in the chart represent Typical systolic-diastolic pairs. There are many non-typical systolic/diastolic pairs, which I have analyzed statistically at Systolic-Diastolic Pairs.

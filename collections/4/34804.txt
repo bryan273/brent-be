@@ -1,0 +1,1 @@
+Standard deviation is the average or mean of all the averages for multiple sets of data. Scientists and statisticians use the standard deviation to determine how closely sets of data are to the mean of all the sets.

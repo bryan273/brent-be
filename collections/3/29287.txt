@@ -1,0 +1,1 @@
+Continuous average power is derived from the root mean square (RMS) of the AC voltage or current, often incorrectly referred to as RMS power, RMS watts, or watts RMS. The correct term is continuous average power, which is proportional to the RMS voltage, and specified by the FTC.

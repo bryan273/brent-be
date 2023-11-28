@@ -1,0 +1,1 @@
+This Theorem isn't repeating what you already know, but is instead trying to make your life simpler. When faced with a Factor Theorem exercise, you will apply synthetic division and then check for a zero remainder. 1  Use the Factor Theorem to determine whether x 1 is a factor of f (x) = 2x4 + 3x2 5x + 7.

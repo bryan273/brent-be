@@ -1,0 +1,1 @@
+This is because taper relief applies only to ‘chargeable’ gains, and the effect of roll-over relief is to reduce the amount of a chargeable gain. On a disposal of the new asset, any taper relief will be computed by reference to the period of ownership of the new asset only.

@@ -1,0 +1,1 @@
+We address this question by calculating the. value of a test statistic, i.e., a particular real-valued function of the data. To decide whether. the value of the test statistic is consistent with the null hypothesis, we need to know what. sampling variability to expect in our test statistic if the null hypothesis is true.

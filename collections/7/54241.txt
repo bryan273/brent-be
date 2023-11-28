@@ -1,0 +1,1 @@
+2 Responses to “CSS paragraph styles”. 1  The p class “first” is unnecessary. you can use a p + p selector instead: p {. text-indent: 0em; 2  Nice one. Just what I needed in order to make the correct indent .)

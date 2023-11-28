@@ -1,0 +1,1 @@
+Sometimes cleaning is followed by a sterilization, SIP. Usually the same equipment is used similar to CIP. With SIP the aim is not to clean the system, but to kill microorganisms that may have survived the CIP. For the sterilization, hot water, steam or chemicals are used.

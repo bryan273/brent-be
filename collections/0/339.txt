@@ -1,0 +1,1 @@
+1 You can only upload files of type PNG, JPG, or JPEG. 2  You can only upload files of type 3GP, 3GPP, MP4, MOV, AVI, MPG, MPEG, or RM. 3  You can only upload photos smaller than 5 MB.  You can only upload videos smaller than 600MB.

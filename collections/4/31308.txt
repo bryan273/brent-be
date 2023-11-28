@@ -1,0 +1,1 @@
+Notepad is a very basic text editor that's been part of Windows for a very long time. It's great for writing relatively short documents that you want to save as plain text, but that's not all you can do with it. If you haven't used Notepad much, you may be surprised by how easy it is to use.

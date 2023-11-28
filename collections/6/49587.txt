@@ -1,0 +1,1 @@
+The HV9910B includes a PWM dimming input that can accept an external control signal with a duty ratio of 0 - 100% and a frequency of up to a few kilohertz. It also includes a 0 - 250mV linear dimming input which can be used for linear dimming of the LED current. The HV9910B is ideally suited for buck LED drivers.

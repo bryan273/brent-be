@@ -1,0 +1,1 @@
+Basically the way the programs are run is always the same. The compiled code is interpreted. The way the programs are loaded differs. If there is a current pyc file, this is taken as the compiled version, so no compile step has to be taken before running the command.

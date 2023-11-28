@@ -1,0 +1,1 @@
+Notes: 1  Because FREQUENCY always returns an array, it needs to be entered as an array formula or with other functions that handle the array. 2  FREQUENCY always returns an array with one more item than the bins_array. This is by design, to catch any values greater than the largest interval in the bins_array.

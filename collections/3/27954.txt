@@ -1,0 +1,1 @@
+The selection of system voltages is crucial to successful power system design. Reference [1] lists the standard. voltages for the United States and their ranges. The nominal voltages from [1] are given in table 4-1. As can be seen, ANSI C84.1-1989 divides system voltages into “voltage classes.” Voltages 600 V and below are.

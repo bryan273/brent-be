@@ -1,0 +1,1 @@
+By overhauling processes such as Purchase to Pay, Order to Cash, Production, Logistics, Accounts Payable or Accounts Receivable with Process Mining, faults and/or inefficiencies in any of these areas can be immediately identified and resolved.

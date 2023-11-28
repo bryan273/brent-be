@@ -1,0 +1,1 @@
+Many have pointed out that a computer capable of running Windows 7 or 8, should also be able to run Windows 10. This glosses over some ugly details. For example, for a computer to be able to run Windows 10, it needs a graphics card that supports DirectX 9 or later with a WDDM 1.0 driver.

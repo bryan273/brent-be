@@ -1,0 +1,1 @@
+SIB = Skill Increase Bonus. While using a weapon in which you have not maxed out the learning curve, attacks per min, hit ability and crit hit ability, you will receive an increased number of skills gains. You can tell if a weapon is a SIB weapon or not by right clicking on it in game.

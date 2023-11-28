@@ -1,0 +1,1 @@
+Turn off syncing in iTunes. 1  Open iTunes. 2  Connect your device to your computer using the included USB cable. 3  Click on the device icon 4  . Under Settings on the left side of the iTunes Window, click the content type for which you want to turn off syncing.  In the main iTunes window, uncheck the box next to Sync.

@@ -1,0 +1,1 @@
+WordPress will continue to work with hosting providers to encourage them to upgrade their users to a current version of PHP and, when it’s reasonable, we will consider raising our minimum requirements. Regardless, WordPress continues to encourage all users to run the latest and greatest versions of PHP, including PHP7 upon its release. # php7

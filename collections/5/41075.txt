@@ -1,0 +1,1 @@
+Data Rate. The Data Rate (or bit rate) is the size of the video file per second of data, usually expressed in kilobits or megabits per second. When I say that ESPN distributes their video at 600Kbps, this means that each one-second chunk of audio and video comprises about 600 kilobits of data.

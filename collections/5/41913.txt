@@ -1,0 +1,1 @@
+The volume of a solid body is the amount of space it occupies. Volume has units of length cubed (i.e., , , , etc.) For example, the volume of a box (cuboid) of length , width , and height is given by. The volume can also be computed for irregularly-shaped and curved solids such as the cylinder and cone.

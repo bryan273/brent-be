@@ -1,0 +1,1 @@
+A rhombus is a quadrilateral having the following properties: (a) All sides are equal. (b) Opposite sides are parallel. (c) Opposite angles are equal. (d) Diagonals bisect each other at right angles. (e) Diagonals bisect the angles. (f) Any two adjacent angles add up to 180 degrees. (g) The sum of the four exterior angles is 4 right angles.

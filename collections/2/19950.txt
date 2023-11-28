@@ -1,0 +1,1 @@
+PHP Parser. This is a PHP 5.2 to PHP 7.1 parser written in PHP. Its purpose is to simplify static code analysis and manipulation. Documentation for version 3.x (stable; for running on PHP >= 5.5; for parsing PHP 5.2 to PHP 7.1). Documentation for version 2.x (unsupported; for running on PHP >= 5.4; for parsing PHP 5.2 to PHP 7.0). In a Nutshell.

@@ -1,0 +1,1 @@
+Currently, Azure IoT messaging involves two different APIs – Microsoft.Azure.Devices.Client is used in the app running on the device (it can send device-to-cloud and receive cloud-to-device messages) and Microsoft.Azure.Devices SDK and the ServiceBus SDK are used on the service side (it can send cloud-to-device messages and receive device-to-cloud messages).

@@ -1,0 +1,1 @@
+The number of square units it takes to completely fill an annulus. Try this Drag the orange dots to move and resize the circles. As the size of the circles change, the area is recalculated.

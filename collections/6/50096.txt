@@ -1,0 +1,1 @@
+The examples of 3GLs given above are all procedural languages because the programmer must list each instruction and indicate the order that these steps are to be executed through the use of logical control structures (Sequence-Selection-Iteration). Fourth Generation Languages are non-procedural languages.

@@ -1,0 +1,1 @@
+look at some of the broader application of formats. Topics include; building formats from data sets, using picture formats, transformations using formats, value translations, and using formats to perform table look-ups. KEYWORDS format, informat PROC FORMAT, picture format, format library INTRODUCTION Formats are used to map one value into another.

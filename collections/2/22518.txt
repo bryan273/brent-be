@@ -1,0 +1,1 @@
+Types of DI’s; active DI units and passive DI units. Passive DI Units. A passive DI unit typically consists of an audio transformer used as a balun. Typical turns ratio is about 500:1, to match a nominal 50 kΩ signal source such as the magnetic pickup of an electric guitar to a 100 ω input.

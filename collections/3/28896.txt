@@ -1,0 +1,1 @@
+In order to understand why some combinations of alkyl halides and nucleophiles give a substitution reaction, whereas other combinations give elimination, and still others give no observable reaction, we must investigate systematically the way in which changes in reaction variables perturb the course of the reaction.

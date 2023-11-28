@@ -1,0 +1,1 @@
+After adjustment for baseline and then time varying factors (year of treatment; tertial of lead-time category, baseline SOFA score category, and baseline APACHE IV risk of death category), there was a progressive increase in the mortality risk associated with iHD.

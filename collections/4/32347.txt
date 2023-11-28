@@ -1,0 +1,1 @@
+What They Do [About this section] [To Top]. Computer programmers write code to create software programs. They turn the program designs created by software developers and engineers into instructions that a computer can follow. Programmers must debug the programs—that is, test them to ensure that they produce the expected results.

@@ -1,0 +1,1 @@
+How we calculate your savings goal. First, we determine what your income will be at the time you retire by growing your current income at an annual rate of 3.8% (the inflation rate of 2.3%, plus the salary growth rate of 1.5%). We then assume you can live comfortably off of 85% of your pre-retirement income.

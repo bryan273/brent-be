@@ -1,0 +1,1 @@
+After the S(i) values were calculated at each SNP between any pair of founder and non-founder haplotypes, every 3 (or 5) SNPs were grouped into a cluster as one composite marker and a mean score was calculated for each cluster. The largest mean score was then used to assign haplotypes.

@@ -1,0 +1,1 @@
+Note: Excel 2010 uses only a user name, not initials. 1  In an open document, click the Office button , and then click the Options button at the bottom of the menu. 2  In the dialog box, change your user name and initials in the User Name and Initials boxes.

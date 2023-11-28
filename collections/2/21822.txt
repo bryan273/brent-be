@@ -1,0 +1,1 @@
+Estimating the BCWP when using the percent complete earned value technique was often based on the CAM’s best estimate of the total work performed against what was budgeted. This was often for work packages that were long in duration and the measurement was subjective.

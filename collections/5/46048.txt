@@ -1,0 +1,1 @@
+John Conway, the Princeton mathematician who discovered surreal numbers, calls Nash’s result “one of the most important pieces of mathematical analysis in this century.” Nash’s theorem stated that any kind of surface that embodied a special notion of smoothness could actually be embedded in a Euclidean space.

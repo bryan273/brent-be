@@ -1,0 +1,1 @@
+ORNL has an anonymous SharePoint server: info.ornl.gov (formerly wiki.ornl.gov). If you need to have an anonymous site set up, please fill out the Website Registration Request.

@@ -1,0 +1,1 @@
+An NPI is a 10 digit numerical identifier for providers of health care services. It is. national in scope and unique to the provider. Whereas in the past, a provider had a. different identification number for each payer, after May 23, 2007, a provider will. have a single identifier that will be used across all payers.

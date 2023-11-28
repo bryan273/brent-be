@@ -1,0 +1,1 @@
+Welcome to this seminar on differential scanning calorimetry – or DSC as it is usually called. DSC is the most frequently used technique in thermal analysis. It is used to study the behavior of materials as a function of temperature or time.

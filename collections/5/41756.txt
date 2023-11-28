@@ -1,0 +1,1 @@
+1 Business partners – The exchange of EDI documents is typically between two different companies, referred to as business partners or trading partners. 2  For example, Company A may buy goods from Company B. Company A sends orders to Company B. Company A and Company B are business partners.

@@ -1,0 +1,1 @@
+EDI documents generally contain the same information that would normally be found in a paper document used for the same organizational function. For example, an EDI 940 ship-from-warehouse order is used by a manufacturer to tell a warehouse to ship product to a retailer.

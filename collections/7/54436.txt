@@ -1,0 +1,1 @@
+What is a SOAP Note? A SOAP note is information about the patient, which is written or presented in a specific order, which includes certain components. SOAP notes are used for admission notes, medical histories and other documents in a patient’s chart.

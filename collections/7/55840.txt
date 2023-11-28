@@ -1,0 +1,1 @@
+I have a Dell 17R laptop running Windows 8.1 Macrium backup sees 6 partitions. I can image 5 of the 6 successfully so VSS seems to be functioning normally. It will not create an image when the first partition labeled ESP is selected.

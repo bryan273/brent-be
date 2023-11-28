@@ -1,0 +1,1 @@
+TIBCO EMS (Enterprise Messaging Service) is used for communication between processes and applications through a centralized EMS Server. EMS simplifies as well as standardizes integration of complex applications in an enterprise environment. In this post, I am going to talk about TIBCO EMS Top Interview Questions and Answers based on my experience in this domain.

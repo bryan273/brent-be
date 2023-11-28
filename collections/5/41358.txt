@@ -1,0 +1,1 @@
+Scribe provides a native business application adapter for Microsoft Dynamics CRM as well as standard connectivity adapters for Open Database Connectivity (ODBC), SQL Server, OLE DB, Web Services and XML. Hence, whatever your SAP setup is, you should be able to access it smoothly from within Scribe.

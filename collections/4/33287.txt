@@ -1,0 +1,1 @@
+This type of hygrometer uses two basic mercury thermometers, one with a wet bulb one with a dry bulb. Evaporation from the water on the wet bulb causes its temperature reading to drop, causing it to show a lower temperature than the dry bulb. Humidity is important for our comfort and our health.

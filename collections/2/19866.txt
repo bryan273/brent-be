@@ -1,0 +1,1 @@
+The problem that I am experiencing though, is that I can only locate screenshots taken by going to: Local Disc (C:), Users, User’s name, My pictures, Screenshots. I can’t see any screenshots taken by going to the Pictures app on the Home screen on Windows 8.

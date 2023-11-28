@@ -1,0 +1,1 @@
+Clicking “count syllables” will count the # of syllables on each line. ← You'll see it on the left. Click any word to see its synonyms & rhymes.

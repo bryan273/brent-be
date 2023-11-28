@@ -1,0 +1,1 @@
+The Java Virtual machine (JVM) is the virtual machine that run the Java bytecodes. The JVM doesn't understand Java typo, that's why you compile your *.java files to obtain *.class files that contain the bytecodes understandable by the JVM.

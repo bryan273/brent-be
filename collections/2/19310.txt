@@ -1,0 +1,1 @@
+The following COUNT function example uses one argument -- a reference to cells A1:A5. 1  Enter the sample data on your worksheet. 2  In cell A7, enter an COUNT formula, to count the numbers in column A: =COUNT(A1:A5). 3  Press the Enter key, to complete the formula. 4  The result will be 3, the number of cells that contain numbers.

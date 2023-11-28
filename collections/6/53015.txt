@@ -1,0 +1,1 @@
+This communication defined cloud computing, highlighted all the service models of cloud computing and discussed the features of public, private, hybrid and community cloud computing. Also, cloud security issues were raised and discussed.

@@ -1,0 +1,1 @@
+Computer Configuration\Windows Settings\Security Settings\Account Policies\Password Policy. Determines the period of time (in days) that a password must be used before the user can change it. You can set values between 1 and 999 days, or you can allow changes immediately by setting the number of days to 0.

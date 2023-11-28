@@ -1,0 +1,1 @@
+Benchmark existing power device packaging technologies, including package configuration, materials characterization, processing, and thermal and electrical performance. evaluations. Determine the “weak links”.

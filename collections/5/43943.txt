@@ -1,0 +1,1 @@
+First question: If the IPALL TCP Dynmaic Ports setting is a specific number (say 1971) does that signify that you have a static port of 1971 or a dynamic port that is currently 1971 and may change at some point in the future. Second question: This is the one I'm most curious about.

@@ -1,0 +1,1 @@
+Network Management Prof. Dr.-Ing. Alexandru Soceanu Terminology Vulnerability is a weakness which is inherent in every network and device. This includes routers, switches, desktops, servers, and even security devices themselves. Threats are the people eager, willing, and qualified to take advantage

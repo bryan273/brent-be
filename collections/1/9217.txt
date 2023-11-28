@@ -1,0 +1,1 @@
+This free haiku syllable counter counts the syllables for each line in a Haiku (or other form of poem). It's the best Haiku Syllable Counter in the world. Login | Join PoetrySoup

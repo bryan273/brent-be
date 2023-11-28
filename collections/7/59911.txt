@@ -1,0 +1,1 @@
+Serial Tunneling (STUN) is the tunneling of SDLC frames across a WAN. In the traditional systems network architecture (SNA) world, remote controllers are attached to the front-end processor (FEP) through a set of modems attached over POTS (Plain Old Telephone Service) or leased lines.

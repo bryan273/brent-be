@@ -1,0 +1,1 @@
+Beginning of a dialog window, including tabbed navigation to register an account or sign in to an existing account. Both registration and sign in support using google and facebook accounts. Escape will close this window.

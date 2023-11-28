@@ -1,0 +1,1 @@
+Debian and Ubuntu are the most influential Linux distributions ever. Of the 290 active distributions currently listed on Distrowatch, 131 are derived from Debian, including Ubuntu, and another 58 are derived directly from Ubuntu -- roughly two-thirds. Yet the experience of using them differs in just about every aspect.

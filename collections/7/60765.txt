@@ -1,0 +1,1 @@
+To change the password and other settings for an existing Keychain: 1  In the Finder, from the menu, select . In the Finder window that opens, double-click 2  . From the menu, select or as appropriate, where [NAME] is the name of your Keychain.

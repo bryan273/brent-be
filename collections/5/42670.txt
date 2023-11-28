@@ -1,0 +1,1 @@
+Regarding digital security, the cryptological meaning and application of non-repudiation shifts to mean: A service that provides proof of the integrity and origin of data. An authentication that can be asserted to be genuine with high assurance. Proof of data integrity is typically the easiest of these requirements to accomplish.

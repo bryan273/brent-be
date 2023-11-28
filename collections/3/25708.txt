@@ -1,0 +1,1 @@
+The feature is currently still in Beta, and is currently available in the Salesforce1 mobile browser app (except on BlackBerry devices), the Salesforce1 downloadable app for Android devices, version 6.0 and later, and the Salesforce1 downloadable app for iOS devices, version 6.0.2 and later.

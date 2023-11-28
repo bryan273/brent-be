@@ -1,0 +1,1 @@
+e and the Natural Log are twins: 1  e^x is the amount of continuous growth after a certain amount of time. 2  Natural Log (ln) is the amount of time needed to reach a certain level of continuous growth.

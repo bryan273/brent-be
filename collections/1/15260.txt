@@ -1,0 +1,1 @@
+Example: You live and run your business in Las Vegas, NV 89165 which has a sales tax rate of 8.10%. You ship a product to your customer in Carson City 89701, which has a sales tax rate of 7.72%. You would charge your customer the 7.72% rate.

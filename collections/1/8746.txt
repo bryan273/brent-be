@@ -1,0 +1,1 @@
+I haven't used SAP in a while. But I remember there is a tcode to display transfer orders that are not shown in LT24. I can't remember the code though. I have extra product in the warehouse but don't see all the transactions or movements using LT24. It shows it being received in the warehouse, transferred to location, no orders have been picked.

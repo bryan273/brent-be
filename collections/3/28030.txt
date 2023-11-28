@@ -1,0 +1,1 @@
+You’ll need a CD, DVD, or USB flash drive to install and run Windows Defender Offline. The Microsoft Safety Scanner is a free security tool that can provide an on-demand scan to help remove viruses, spyware, and other malicious software. It can work alongside other security software on your computer.

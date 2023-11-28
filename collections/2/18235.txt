@@ -1,0 +1,1 @@
+The speed of sound in air depends on the type of gas and the temperature of the gas. On Earth, the atmosphere is composed of mostly diatomic nitrogen and oxygen, and the temperature depends on the altitude in a rather complex way.

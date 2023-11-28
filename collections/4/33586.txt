@@ -1,0 +1,1 @@
+Illness - expressed as the rate of illness in a given population. Death - Expressed as a rate of death in a given population. Infection Set 11: Define epidemiology, incidence, prevalence, endemic, epidemic, pandemic, reservoir, morbidity, mortality, infectious dose.

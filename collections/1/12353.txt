@@ -1,0 +1,1 @@
+Overtime Pay Calculation. Overtime is a 50% multiplier that is added to an employee’s base wage for hours worked over 40 hours in a work week. The intent behind paying overtime is to compensate employees for excessive work hours. How to Calculate Overtime Pay.

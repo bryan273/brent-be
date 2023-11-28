@@ -1,0 +1,1 @@
+This item should betaken from the payment ledger. If no payments have been made, enter the date in Item 7(Due Date of the First Payment to Principal and Interest). Note that the date in this item willalways be the first of the month. Item 9 Date of Possession and Acquisition of Marketable Title.

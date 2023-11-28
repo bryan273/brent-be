@@ -1,0 +1,1 @@
+If your computer is behind a router with a firewall, you must open the ports that Steam uses to connect to the Internet. Most embedded firewalls require you to open ports manually (they do not automatically learn your used ports).

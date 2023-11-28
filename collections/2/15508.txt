@@ -1,0 +1,1 @@
+‘The longer it takes for rehydration to be initiated, the more likely it is that oliguric renal failure (less than 500 ml of urine per day) or anuric renal failure (less than 50 ml of urine per day) will be established.’

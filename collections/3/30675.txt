@@ -1,0 +1,1 @@
+Cohesion. In computer programming, cohesion refers to the degree to which the elements of a module belong together. Thus, it is a measure of how strongly-related each piece of functionality expressed by the source code of a software module is.

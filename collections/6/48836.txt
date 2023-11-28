@@ -1,0 +1,1 @@
+Knowing your income tax rate can help you calculate your tax liability for unexpected income, retirement planning or investment income. This calculator helps you estimate your average tax rate for 2014, your 2014 tax bracket, and your marginal tax rate for the 2014 tax year. Javascript is required for this calculator.

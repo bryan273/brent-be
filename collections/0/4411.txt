@@ -1,0 +1,1 @@
+The role of computers in control. 1  Computers can respond very rapidly to change. 2  Systems can run 24 hours a day, 365 days a year.  Control systems can operate in places that humans would find dangerous or awkward.

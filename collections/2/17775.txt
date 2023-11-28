@@ -1,0 +1,1 @@
+First we will consider connecting batteries in series for greater voltage: We know that the current is equal at all points in a series circuit, so whatever amount of current there is in any one of the series-connected batteries must be the same for all the others as well.

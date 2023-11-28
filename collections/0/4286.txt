@@ -1,0 +1,1 @@
+When the export is finished, choose OK to exit the Outlook Options box. Go to the location on your computer where you saved your contacts, for example, in the Documents folder. If you exported your contacts as a .csv file, you can use Excel to see what was exported from Outlook.

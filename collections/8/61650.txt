@@ -1,0 +1,1 @@
+median house prices, with floors and ceilings based on the conforming loan limits set by the Federal Housing Finance Agency for Fannie Mae and Freddie Mac. The changing rules for one-unit properties in the continental

@@ -1,0 +1,1 @@
+IaaS is the pillar on which a cloud computing architecture is built. With the advancement of technologies in communications, computing, and storage devices, IaaS has emerged as a highly efficient platform to construct Software-as-a-Service and Platform-as-a-Service layer on top of it.

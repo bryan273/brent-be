@@ -1,0 +1,1 @@
+Again, the sample mean and variance are uncorrelated if \(\sigma_3 = 0\) so that \(\skew(X) = 0\). Our last result gives the covariance and correlation between the special sample variance and the standard one. Curiously, the covariance the same as the variance of the special sample variance.

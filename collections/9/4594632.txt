@@ -1,0 +1,1 @@
+(a) The specific heat capacity at constant volume (c v) is defined as the quantity of heat required to raise the temperature of 1 kg of the gas by 1 K if the volume of the gas remains constant.he molar heat capacity at constant volume (C V) is the quantity of heat required to raise the temperature of 1 mole of the gas by 1 K if the volume of the gas remains constant.

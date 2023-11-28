@@ -1,0 +1,1 @@
+PPI Seasonal Factor Tables: 1  FD-ID aggregation index seasonal factors for 2012-2016. 2  Commodity index seasonal factors for 2012-2016. 3  2017 seasonal factors for all seasonally adjusted commodity items.

@@ -1,0 +1,1 @@
+Reliability refers to the consistency of a measure. 1  A test is considered reliable if we get the same result repeatedly. For example, if a test is designed to measure a trait (such as introversion), then each time the test is administered to a subject, the results should be approximately the same.

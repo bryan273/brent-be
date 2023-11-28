@@ -1,0 +1,1 @@
+The Diagnostic Report shows data from a specific time period. You can use either a marking period that has been set up by a district administrator/school administrator for your school, or you can set your own range by choosing a starting and ending date.

@@ -1,0 +1,1 @@
+Load and parse objects and headers. Extract metadata (author, description, keywords, ...) Extract text from ordered pages. Support for compressed pdf (and not) Support of charset encoding (WinAnsi, MacRoman) Handling of hexa and octal content encoding. PSR-0 compliant (autoloader) Compatible with Composer.

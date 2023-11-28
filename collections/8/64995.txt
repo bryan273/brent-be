@@ -1,0 +1,1 @@
+Quick Answer. A bad mass air flow sensor in a vehicle makes starting difficult and affects the performance of the engine because he engine-control unit uses data from the MAF sensor to balance the fuel ratio the injectors deliver to the engine.

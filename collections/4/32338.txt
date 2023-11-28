@@ -1,0 +1,1 @@
+Essential Information. A video game programmer is a software engineer who creates the code that makes a video game run. Due to the complexity of today's video games, most programmers specialize in one area of game programming, such as audio or graphics.

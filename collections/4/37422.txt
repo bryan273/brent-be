@@ -1,0 +1,1 @@
+1 This is a modal window. 2  This is a modal window. This modal can be closed by pressing the Escape key or activating the close button. 3  This is a modal window. This modal can be closed by pressing the Escape key or activating the close button. 4  Beginning of dialog window. Escape will cancel and close the window.

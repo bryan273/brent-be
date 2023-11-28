@@ -1,0 +1,1 @@
+Note: We've converted the range to a Python list, as range() returns a generator-like object that only prints the output on demand. However, the range object returned by the range constructor can also be accessed by its index. It supports both positive and negative indices. You can access the range object by index as: rangeObject[index]

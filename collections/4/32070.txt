@@ -1,0 +1,1 @@
+This is because the power rating of a speaker is merely the thermal power handling of the voice coil, which is a simply a coil of wire like that in an electric heater. As over 95% of the power going into a speaker is wasted as heat that voice coil gets very hot, just like an electric heater.

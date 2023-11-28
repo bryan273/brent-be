@@ -1,0 +1,1 @@
+Using the ratings of the generator as base values determine the generated per unit voltage that is required to produce a full load current under short circuit condition. thanks a lot……….com/2011/06/per-unit-system-practice-problem-solved-for-easy-understandi... 1380v generator has an internal impedance Zg of j6 ohms.

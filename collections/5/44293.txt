@@ -1,0 +1,1 @@
+According to The APA Style Guide to Electronic References, 6th edition, you should use the DOI format which the article appears with. So, if it is using the older numeric string, use that as the DOI. If, however, it is presented as the newer alpha-numeric string, use that as the DOI.

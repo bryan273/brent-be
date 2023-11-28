@@ -1,0 +1,1 @@
+1 They are called variable groups. 2  There are 20 different variable groups --- so there are 20 different amino acids. 3  So what I am trying to say is that the basic structure of all amino acids is the same except for the variable group (R) spot.

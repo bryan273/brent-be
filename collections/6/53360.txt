@@ -1,0 +1,1 @@
+Diverging (negative) lenses and convex mirrors do not focus a collimated beam to a point. Instead, the focus is the point from which the light appears to be emanating, after it travels through the lens or reflects from the mirror.

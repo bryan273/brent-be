@@ -1,0 +1,1 @@
+Major drawback of ultrasound is the fact that it cannot be transmitted through a gaseous medium (like air or lung tissue), in clinical echo certain windows are used to image the heart and avoid the lungs. As ultrasound transverses tissue, its energy decreases.

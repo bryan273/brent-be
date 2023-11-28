@@ -1,0 +1,1 @@
+You can also capture specific windows or sections of your screen by pressing Command, Shift, and 4 simultaneously (toggle between crosshair selection or window selection by pressing spacebar). Screenshots are automatically placed on your desktop by default.

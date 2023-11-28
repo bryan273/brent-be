@@ -1,0 +1,1 @@
+This will display the battery life percentage indicator in iOS, alongside the battery icon in the status bar at the top of an iPhone, iPad, or iPod touch: 1  Open the Settings app on the iPhone, then go to “General”. 2  Choose “Usage” and toggle the switch next to “Battery Percentage” to ON. 3  Exit out of Settings as usual.

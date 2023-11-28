@@ -1,0 +1,1 @@
+2016 2017 Billable/Specific Code. 1  G45.9 is a billable/specific ICD-10-CM code that can be used to indicate a diagnosis for reimbursement purposes. 2  This is the American ICD-10-CM version of G45.9. 3  Reimbursement claims with a date of service on or after October 1, 2015 require the use of ICD-10-CM codes.

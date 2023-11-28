@@ -1,0 +1,1 @@
+Related: In this article we'll explain what a name server is, and how name servers are used to direct the traffic of your website to a specific web server at a web host. We'll also go over InMotion Hosting's public name servers, vanity name servers, and custom name servers.

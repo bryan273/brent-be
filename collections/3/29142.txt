@@ -1,0 +1,1 @@
+Surface Area of a cube is equal to the sum of the area of it sides. Each of its sides are square of side length a. Each side has area of a2. There are 6 sides on a cube.… a2 + a2+ a2+ a2+ a2+ a2 = 6a2 Therefore: Surface area of a cube is 6a2.

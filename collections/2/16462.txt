@@ -1,0 +1,1 @@
+Looks like we’ll be having to start testing our plugins for the newest version! WordPress should add this on the plugin and theme description pages. Show what version of PHP they have been tested up to.

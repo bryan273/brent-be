@@ -1,0 +1,1 @@
+Figure 1.1: LDAP directory tree (traditional naming). The tree may also be arranged based upon Internet domain names. This naming approach is becoming increasing popular as it allows for directory services to be located using the DNS. Figure 1.2 shows an example LDAP directory tree using domain-based naming.

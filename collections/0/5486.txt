@@ -1,0 +1,1 @@
+Assigning a desired device name is pretty much the same like that of Bluetooth. Let’s see how you can do it. 1  Again, to edit WiFi settings, you will have to enable it first. 2  Go to your device’s Settings panel and tap on the toggle slider to enable it.

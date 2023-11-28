@@ -1,0 +1,1 @@
+Density is a measure of how much mass something has per unit of volume. Therefore, if you increase the mass of an object without increasing it's volume, it's density will also … increase. Likewise, decreasing the mass of an object that keeps a constant volume leads to a decrease in density.

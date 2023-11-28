@@ -1,0 +1,1 @@
+Service Definition Authorization Parameters Clinical Policy reference Age 1 2 3 4 5 6 Medicaid MH/SA/IDD Acute Service Utilization Review Guidelines Authorization Guidelines: LOCUS/CALOCUS Level Non-state Hospital: MHSA Inpatient RC101 SAR, Certificate of Need (CON) if under 21 years old for free-standing psychiatric facility. Prior approval

@@ -1,0 +1,1 @@
+When cells divide, the new cells produced must have a full set of genes in order to function correctly. Genes are made of DNA so it is necessary to replicate (copy) the DNA before the cell divides.

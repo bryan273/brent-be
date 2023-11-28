@@ -1,0 +1,1 @@
+# of 6's PROBABILITY (SUM IS 6) is approximately ----------- # of tosses 5 = ---- = .1 50. In general, the probability of an event can be approximated by the relative frequency , or proportion of times that the event occurs.

@@ -1,0 +1,1 @@
+Microsoft Office and Adobe Photoshop are examples of proprietary software. Open source software is different. Its authors make its source code available to others who would like to view that code, copy it, learn from it, alter it, or share it. LibreOffice and the GNU Image Manipulation Program are examples of open source software.

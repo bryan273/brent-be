@@ -1,0 +1,1 @@
+1 Genetic transfer is the mechanism by which DNA is transferred from a donar to a recipient. 2  Once donar DNA is inside the recipient, crossing over can occur. 3  The result is a recombinant cell that has a genome different from either the donar or the recipient.

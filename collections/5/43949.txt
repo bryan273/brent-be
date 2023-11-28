@@ -1,0 +1,1 @@
+By default, named instances (including SQL Server Express) use dynamic ports. That means that every time that the Database Engine starts, it identifies an available port and uses that port number. If the named instance is the only instance of the Database Engine installed, it will probably use TCP port 1433.

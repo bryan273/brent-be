@@ -1,0 +1,1 @@
+Microsoft has pulled one of its August 2014 Patch Tuesday updates. MS14-045, which fixes various security holes in the Windows kernel, can cause a Blue Screen of Death (BSoD), thus forcing a reboot. Apparently, the BSoD is caused by incorrect handling of the Windows font cache file-and because that happens during boot-up, you end up stuck in a reboot loop.

@@ -1,0 +1,1 @@
+“What is known as “Print Screen” in the Windows world is called screen captures or screenshots in Mac OS X. You’ve probably noticed there is no ‘Print Screen’ button on a Mac keyboard, this is to both simplify the keyboard and also because it’s unnecessary.

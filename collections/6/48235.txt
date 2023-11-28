@@ -1,0 +1,1 @@
+Perhaps we could place a fair rental value on the property and discount that year by year to present value, but even if we do that we might find the life tenant's interest exceeding 100% of the value of the fee (if the life expectancy is long enough and we use a low enough discount rate).

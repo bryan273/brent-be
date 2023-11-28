@@ -1,0 +1,1 @@
+One of the drawbacks of having so many commands and options available is that it can be difficult learning what and where they all are. Fortunately, Microsoft has included a macro in Word 2003 that will display a list of all the commands, their locations, and their shortcut keys.

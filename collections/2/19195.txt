@@ -1,0 +1,1 @@
+You can right click mouse to choose the switch between the windows. The system date, time and channel name are shown in each viewing window. The surveillance video and the. alarm status are shown in each window.

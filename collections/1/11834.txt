@@ -1,0 +1,1 @@
+Connecting a device using the WPS button. Connecting a device using its WPS PIN. Connecting a device using the router’s WPS PIN. NOTE: The Wi-Fi Protected Setup™ configures one device at a time. The WPS button is located either on the front or back panel of your Linksys device. Some Wireless-G routers may not have a WPS feature.

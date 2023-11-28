@@ -1,0 +1,1 @@
+Hence, if a continuous data falls in the range 0 to 5, the data points can take any real number value in between 0 and 5. For example, if we measure the height of the students in a class, then the data points can take any real number value within the range of height of humans.

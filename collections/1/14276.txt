@@ -1,0 +1,1 @@
+This tutorial explains the difference between the SUMIF and SUMIFS functions in terms of their syntax and usage, and provides a number of formula examples to sum values with multiple AND / OR criteria in Excel 2013, 2010, 2007, 2003 and lower.

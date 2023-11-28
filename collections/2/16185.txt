@@ -1,0 +1,1 @@
+Some default apps can be uninstalled easily from the Start menu. To do this, find the default app you want to uninstall in the Start menu, right-click on the app, and choose Uninstall from the drop-down menu that appears.

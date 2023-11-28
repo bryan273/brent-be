@@ -1,0 +1,1 @@
+A point mutation will change only one particular base of the codon, so it will only cause a change in one of the amino acids that will make up the protein. A deletion mutati…on will completely remove a base- causing a change in every amino acid that follows the deletion.

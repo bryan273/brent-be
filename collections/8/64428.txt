@@ -1,0 +1,1 @@
+Drag the icon to the Quick Launch toolbar. If you cannot see the Quick Launch toolbar, then follow these steps: Right-click the taskbar, select Toolbars and select the Quick Launch option.

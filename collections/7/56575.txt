@@ -1,0 +1,1 @@
+Services are specialized programs that perform functions to support other programs. Before starting your Adobe application, disable other applications, including startup items (items that start automatically with Windows), and services using Selective Startup.

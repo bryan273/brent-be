@@ -1,0 +1,1 @@
+The 10th to 17th positions are used as the 'vehicle identifier section' (VIS). This is used by the manufacturer to identify the individual vehicle in question. This may include information on options installed or engine and transmission choices, but often is a simple sequential number.

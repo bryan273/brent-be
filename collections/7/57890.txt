@@ -1,0 +1,1 @@
+The most important part of an optical disc drive is an optical path, placed in a pickup head (PUH), usually consisting of semiconductor laser, a lens for guiding the laser beam, and photodiodes detecting the light reflection from disc's surface.

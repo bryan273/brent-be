@@ -1,0 +1,1 @@
+While the Dow value is not the actual average of the prices of its component stocks, the formula generates a consistent value for the index. Because the DJIA is made up of large, frequently traded stocks, the price of the DJIA is based on many recent transactions, increasing market indication accuracy.

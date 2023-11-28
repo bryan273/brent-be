@@ -1,0 +1,1 @@
+We will start out by drawing a perfectly round circle with a 90 degree (1:1) width to height ratio Fig. 1, using Adobe Illustrator's 'Ellipse Tool' (L). Our circle is positioned inside a square box (blue line) with equal height and width, created using Illustrator's 'Rectangle Tool' (M).

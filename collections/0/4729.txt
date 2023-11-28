@@ -1,0 +1,1 @@
+What's New. This release of vCloud Director 5.5.1.2 addresses the OpenSSL security vulnerability in the Client Integration Plug-In documented in the Resolved Issues section. Customers using vCloud Director 5.5.0, 5.5.1, or 5.5.1.1 should immediately upgrade to 5.5.1.2. System Requirements and Installation.

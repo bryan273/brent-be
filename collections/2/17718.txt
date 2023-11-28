@@ -1,0 +1,1 @@
+The scale is. appropriate to the data; if the averages were 150 and 200, I might start the axis at 100 rather. than zero. Important: You should replace the numbers on the horizontal axis with names of sites or treatments (see example under adding error bars handout).

@@ -1,0 +1,1 @@
+In simple terms, IP which stands for Internet Protocol is the method with which two computers are connected via internet and the IP address is the unique code which is used to identify your internet connection and network.

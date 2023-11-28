@@ -1,0 +1,1 @@
+Get percentage of total. To calculate percent of a total (i.e. calculate a percent distribution), you can use a formula that simply divides an amount by the total. Note: you must format the result using the Percentage number format in Excel to see 25%, 10%, etc. How the formula works.

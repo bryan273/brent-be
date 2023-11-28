@@ -1,0 +1,1 @@
+Primaries and primary coverts are numbered from the innermost (primary 1) to the outermost (primary 9 or 10), secondaries and the greater coverts are numbered from the outermost (secondary 1) to the innermost tertial, and rectrices are numbered from the central pair (rectrix 1) to the outermost pair (rectrix 5 or 6).

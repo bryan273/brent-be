@@ -1,0 +1,1 @@
+Press the button on the WNR3500 router for over 5 seconds. For information about the WPS button light, see the NETGEAR Wireless Router Setup Manual. The green button light begins to blink in a regular pattern. While the light is blinking, you have 2 minutes to enable WPS on the client that you are trying to connect to the router.

@@ -1,0 +1,1 @@
+Software is the set of programs,but the set of program is used only in application software, software is of two types: 1. Application software, 2. machinery software. Where application software is nothing but designing the data by using front end software and back end software. Eg: java and oracle,where many of them use java as front end and oracle as back end.

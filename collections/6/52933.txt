@@ -1,0 +1,1 @@
+The thermal conductivity of this metal is, like electrical conductivity, determined largely by the free electrons. Suppose now that the metal has different temperatures at its ends. The electrons are moving slightly faster at the hot end and slower at the cool end.

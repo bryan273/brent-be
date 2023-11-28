@@ -1,0 +1,1 @@
+virtual interfaces come into play when using classes to defer at a later stage the definition of the physical interface to the one being worked on in the class. The other advantage is that a class can be instanced multiple times and connect to different physical interfaces.

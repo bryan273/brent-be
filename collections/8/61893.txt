@@ -1,0 +1,1 @@
+where S ab is the saturation, L* the lightness and C* ab is the chroma of the color. CIECAM02 The square root of the colorfulness divided by the brightness: = / This definition is inspired by experimental work done with the intention of remedying CIECAM97s's poor performance.

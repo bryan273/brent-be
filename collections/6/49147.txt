@@ -1,0 +1,1 @@
+2. Determine the DPS of the stock. Find the most recent DPS value of the stock you own. Again, the formula is DPS = (D-SD)/S where D = the amount of money paid in regular dividends, SD = the amount paid in special, one-time dividends, and S = the total number of shares of company stock owned by all investors.

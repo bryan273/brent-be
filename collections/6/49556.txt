@@ -1,0 +1,1 @@
+   A heavier plane has more momentum (when thrown at the same speed),  but it's also got more downward force acting on it. If it has the  same wing area, though, it has the same lift, so it drops more  quickly than a light plane (objects fall at the same speed only in  the absence of air resistance).

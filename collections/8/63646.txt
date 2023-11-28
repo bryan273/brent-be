@@ -1,0 +1,1 @@
+Excel-How to Merge Cells. This document explains how to merge cells within all versions of Microsoft Excel. Merging cells is often used when a title is to be centered over a particular section of a spreadsheet.

@@ -1,0 +1,1 @@
+Every operating system has a helpful feature called symbolic links. This offers you a lot of benefits when combined with other applications or techniques. The ability to create symbolic links is a feature unknown to most computer users, but understanding the concept isn’t very difficult.

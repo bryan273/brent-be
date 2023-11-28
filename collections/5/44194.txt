@@ -1,0 +1,1 @@
+To create a frequency distribution using FREQUENCY: 1  Enter numbers that represent the bins you want to group values into. 2  Make a selection the same size as the range that contains bins, or one greater if want to include the extra item. 3  Enter the FREQUENCY function as an array formula using Control+Shift+Enter.

@@ -1,0 +1,1 @@
+In order to do that, you must screen different solvent mixtures by TLC. Solvent mixtures in column chromatography are usually binary mixtures (ternary in rare cases) of a less-polar and a more-polar solvent. Typical chromatography solvents can be grouped in those two categories (sorted by increasing polarity):

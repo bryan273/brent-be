@@ -1,0 +1,1 @@
+The typical Wi-Fi setup contains one or more Access Points (APs) and one or more clients. An AP broadcasts its SSID (Service Set Identifier, Network name) via packets that are called beacons, which are broadcasted every 100ms.

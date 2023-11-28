@@ -1,0 +1,1 @@
+works fine in my Excel. I just downloaded your file, renamed it to .xml and opened it. Sorry, I attached the wrong file - here's the one that's giving me the problem. The error is: Problems came up in the following areas during load: Worksheet Setting. The error log shows the following: XML ERROR in Worksheet Setting.

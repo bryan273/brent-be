@@ -1,0 +1,1 @@
+This chapter will help you to understand the nature and use of cloud-hosted services and applications. It describes the benefits and the typical design issues, and the constraints and technology considerations often encountered when building and consuming these kinds of applications.

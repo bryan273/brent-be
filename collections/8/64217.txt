@@ -1,0 +1,1 @@
+For example: 1  The cause code provided by the PSTN gateway that generated the failure. 2  Peer FQDN, port, and Winsock errors for connectivity failures. 3  Names being looked up for DNS resolution failures.

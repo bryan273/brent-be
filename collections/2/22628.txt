@@ -1,0 +1,1 @@
+If for some reason, your Windows Defender will not update automatically, or if you wish to download and save the definition updates in order to maybe update Windows Defender offline, on different installations of Windows 8, then this post will be of interest to you.

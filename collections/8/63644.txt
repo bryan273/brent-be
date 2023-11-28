@@ -1,0 +1,1 @@
+This example scans a column of data named myRange.. If a cell has the same value as the cell immediately above it, the example displays the address of the cell that contains the duplicate data.

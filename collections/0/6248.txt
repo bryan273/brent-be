@@ -1,0 +1,1 @@
+XLSX and CSV serve different purposes. XLSX is mainly for Excel operations, much beyond plain data. You have formulas, formats, pivot tables, charts, and VBA code in it. It’s not designed as a common data format for further data manipulation outside of Excel, although other tools can read plain data from it.

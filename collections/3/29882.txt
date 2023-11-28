@@ -1,0 +1,1 @@
+An organism is said to be homozygous for a trait when both the alleles of a gene pair are the same. lt can be homozygous dominant (TT) or homozygous recessive (It). When the two alleles in a gene pair are not the same, for example, when the genotype is Tt, the organism is heterozygous, or hybrid for that trait.

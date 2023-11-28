@@ -1,0 +1,1 @@
+Founded in 1985 by a National Science Foundation grant, the NCSA provides supercomputer resources to hundreds of universities and organizations engaged in scientific research. It was also the birthplace of the first Web server (HTTPd) and the Mosaic browser. See also NCSC.

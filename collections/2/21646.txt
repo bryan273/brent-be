@@ -1,0 +1,1 @@
+Exercises 3.4. Find the derivatives of the functions in 1--4 using the quotient rule. Ex 3.4.1 $\ds {x^3\over x^3-5x+10}$ (answer). Ex 3.4.2 $\ds {x^2+5x-3\over x^5-6x^3+3x^2-7x+1}$ (answer). Ex 3.4.3 $\ds {\sqrt{x}\over\sqrt{625-x^2}}$ (answer). Ex 3.4.4 $\ds {\sqrt{625-x^2}\over x^{20}}$ (answer).

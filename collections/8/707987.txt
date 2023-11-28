@@ -1,0 +1,1 @@
+1 The ACH Network processes two types of transactions: Direct Deposits via ACH and Direct Payments via ACH.  Direct Deposit via ACH is the deposit of funds for payroll, employee expense reimbursement, government benefits, tax and other refunds, and annuities and interest payments.

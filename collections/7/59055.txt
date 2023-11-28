@@ -1,0 +1,1 @@
+In A-Fib, electrical signals from other parts of the heart disrupt your heart's normal rhythm and cause the atria to beat or quiver rapidly on their own. However, only a small number of these atrial beats make it through the AV Node (which acts like a gate) to the ventricles.

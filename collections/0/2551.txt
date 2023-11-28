@@ -1,0 +1,1 @@
+One thing you need to know, Intel Rapid Start Technology is different from normal Sleep/Standy. Intel® Rapid Start Technology transitions a system that is in Sleep or Standby, an S3 power state that keeps memory and other components powered, to a hardware power state that does not do so, an S4 power state.

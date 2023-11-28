@@ -1,0 +1,1 @@
+A turntable has a moment of inertia of 3.0 ´ 10-2 kg×m2 and spins freely on a frictionless bearing at 25 rev/min.

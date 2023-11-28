@@ -1,0 +1,1 @@
+Test mode: Test mode creates a randomized quiz of the flashcard terms, with short answer, matching, multiple choice, and true/false questions. You can control the types of questions, grading, and whether the prompt is the term or the definition with the configuration menu on the right.

@@ -1,0 +1,1 @@
+Define Phase (DMAIC) Use this phase to qualify a project to see if it is worth doing, if it is a good fit for the Six Sigma approach, and to set the stage for the project. Like a good reporter, learn the background of what is being asked and focus on the 5Ws – Who, What, When, Where, and Why.

@@ -1,0 +1,1 @@
+Figure 1 Percent Complete Screen Shot. %Complete = [(50%*(5 days) + 30%*(7 days) + 65%*(3 days)]/(5 days + 7 days + 3 days) %Complete = 43.6667%. Microsoft Project will round to the nearest whole integer, 44%.

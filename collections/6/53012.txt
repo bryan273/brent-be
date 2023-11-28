@@ -1,0 +1,1 @@
+A public cloud is hosted on the internet and designed to be used by any user with an internet connection to provide a similar range of capabilities and services [13]. Public cloud users are typically residential users and connect to the public internet through an internet service provider’s network [82].

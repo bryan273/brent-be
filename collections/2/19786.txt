@@ -1,0 +1,1 @@
+As the wave reaches the first wall of the eye, some of the ultrasound is reflected back into the probe. The returned wave is recorded on the line as a bump. The stronger is the returned wave, higher the height of the bump. The height of the bump is called Amplitude which is what the “A” of “A scan” stands for.

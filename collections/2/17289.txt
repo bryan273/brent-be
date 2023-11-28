@@ -1,0 +1,1 @@
+Tiander Turpijn Sr. Update: Follow up blog post on a PowerShell module for Azure Automation can be found here The availability of the OMS Search API has enabled automation scenarios which involves alerting, notification and potential remediation based on log analytics data in Operations Management Suite (OMS).

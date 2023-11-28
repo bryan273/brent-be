@@ -1,0 +1,1 @@
+1 HDMI or composite cable: To connect the Pi to a television or monitor. 2  Once you've completed this project, you can disconnect the Pi from your display and use it as a headless server, since you can connect to the Pi over VPN.

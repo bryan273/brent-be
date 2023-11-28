@@ -1,0 +1,1 @@
+Password Policy: Minimum Password Age. Configuring Vista Password Policy Settings. Minimum Password Age determines the period of time (in days) that a password must be used before the user can change it. You can set a value between 1 and 998 days, or you can allow changes immediately by setting the number of days to 0.

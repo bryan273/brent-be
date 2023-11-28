@@ -1,0 +1,1 @@
+Open a new tab for a SQL script in the Code Editor. File | Open File. CTRL+O. Open a file from Windows Explorer. File | Save to File. CTRL+S. Save the file. Tip: This option is enabled once the file has a name. For an Untitlted tab, save the file using File | Save to File As first.

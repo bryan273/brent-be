@@ -1,0 +1,1 @@
+How to combine two columns in 4 simple steps. 1  Download and install Merge Cells for Excel. 2  Select all cells from 2 columns that you want to merge, and go to the Ablebits.com Data tab. 3  Select the following options on the Merge Cells dialog box: Merge selected cells: row by row.  Now just click the Merge button.

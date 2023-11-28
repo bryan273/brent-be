@@ -1,0 +1,1 @@
+Mac OS is characterized by its monolithic system. From its original release through System 4, it ran only one application at a time. Even so, it was noted for its ease of use. Mac OS gained cooperative multitasking with System 5, which ran on the Macintosh SE and Macintosh II.

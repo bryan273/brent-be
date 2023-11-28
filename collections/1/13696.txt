@@ -1,0 +1,1 @@
+A set X has the least-upper-bound property if and only if every non-empty subset of X with an upper bound has a least upper bound (supremum) in X. The least-upper-bound property is one form of the completeness axiom for the real numbers, and is sometimes referred to as Dedekind completeness.

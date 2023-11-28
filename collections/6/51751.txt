@@ -1,0 +1,1 @@
+1 Click the Reset Firefox… button in the upper-right corner of the Troubleshooting Information page. 2  To continue, click Reset Firefox in the confirmation window that opens.To continue, click Reset Firefox in the confirmation sheet that slides down.  Firefox will close and be reset.

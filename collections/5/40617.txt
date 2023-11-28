@@ -1,0 +1,1 @@
+Once the update was applied, however, the patch caused some systems to crash in the Blue Screen of Death condition. Other users reported incorrectly rendered system fonts or fonts that failed to load into an active session.

@@ -1,0 +1,1 @@
+PL/SQL uses SQL to use, manipulate and save data to the database. If I wanted to create my own, very short, definition of PL/SQL it would be this: PL/SQL is the Oracle native programming language that provides database-centric application development. It can natively call static SQL and provides multiple methods of calling dynamic SQL.

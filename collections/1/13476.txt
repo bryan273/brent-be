@@ -1,0 +1,1 @@
+n1 sin θ1 = n2 sin θ2 (1) Where n1 and n2 are the refractive indices of medium 1 and medium 2, respectively and θ1 and θ2 are the angle of incidence and angle of refraction, respectively. Thus if we know, the angle of incidence and the refractive indices of both media, we can predict the angle of refraction.

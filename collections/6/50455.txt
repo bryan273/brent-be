@@ -1,0 +1,1 @@
+Save your image by using the file, save menu. The program will automatically try to save it with the default GIMP .xcf file extension. In order to save it as a .jpg or .jpeg file you'll need to include that extension in your file name when requested.

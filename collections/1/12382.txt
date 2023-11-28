@@ -1,0 +1,1 @@
+Why is it done? An ECG gives two major kinds of information. First, by measuring time intervals on the ECG, a doctor can determine how long the electrical wave takes to pass through the heart. Finding out how long a wave takes to travel from one part of the heart to the next shows if the electrical activity is normal or slow, fast or irregular.

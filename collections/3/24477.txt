@@ -1,0 +1,1 @@
+Instability results from difference between the adiabatic lapse rate of an air mass and the ambient lapse rate in the atmosphere. If the adiabatic lapse rate is lower than the ambient lapse rate, an air mass displaced upward cools less rapidly than the air in which it is moving.

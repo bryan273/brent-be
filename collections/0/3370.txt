@@ -1,0 +1,1 @@
+Handedness is an enormously influential parameter in protein structure; most features for which handedness can be defined prefer one sense to the other, and the α-helix is only the first of many examples we will encounter.

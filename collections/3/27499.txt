@@ -1,0 +1,1 @@
+Perimeter simply measures the distance around an area. It can be measured in inches, feet, yards, miles, centimeters, meters, kilometers, and so on (any standard distance measurement). You can measure the perimeter of nearly any shape, you just add together the measure of each of its sides.

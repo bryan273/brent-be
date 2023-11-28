@@ -1,0 +1,1 @@
+Visual Studio Team Foundation Server 2012.4 is a source code control, project management, and team collaboration platform at the core of the Microsoft suite of Application Lifecycle Management tools, which help teams be more agile, collaborate more effectively, and deliver quality software. Details.

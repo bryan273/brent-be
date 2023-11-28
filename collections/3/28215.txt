@@ -1,0 +1,1 @@
+Applies To: Windows Server 2008. The Server Message Block (SMB) protocol is what Windows uses to share files, printers, serial ports, and communicate this information between computers. The service must be configured correctly for the server to properly manage shared resources.

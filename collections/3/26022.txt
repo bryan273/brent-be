@@ -1,0 +1,1 @@
+This work follows the convention of Abramowitz and Stegun (1972, p. 79) and the Wolfram Language, taking to have range, a discontinuity at, and the branch cut placed along the line segment.

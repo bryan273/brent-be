@@ -1,0 +1,1 @@
+Non-repudiable vs non-refutable vs non-reputable in computer security. up vote 0 down vote favorite. In computer security there is a concept known as: non-repudiation. Non-repudiation refers to a state of affairs where the purported maker of a statement will not be able to successfully challenge the validity of the statement or contract..

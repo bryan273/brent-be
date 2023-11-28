@@ -1,0 +1,1 @@
+1 Allows the switching fabric access layer to extend and expand all the way to the server hypervisor as your business grows. 2  Helps enable operational simplicity at scale, with a single point of management and policy enforcement on the access parent switch across more than 1000 10 Gigabit Ethernet ports.

@@ -1,0 +1,1 @@
+When surface imperfections are smaller than the wavelength of the incident light, as in the case of a mirror, virtually all of the light is reflected. However, in the real world most objects have convoluted surfaces that scatter incident light. Thus, the reflection of light can be roughly categorized into two types.

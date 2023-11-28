@@ -1,0 +1,1 @@
+ax = the total number of individuals observed in the population in stage x. lx = survivorship to stage x. dx = proportion of the original cohort dying during stage x. qx = mortality rate for individuals in stage x. kx = killing power of stage x (log10 ax – log10 ax+1) Fx = number of offspring produced in stage x.

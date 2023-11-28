@@ -1,0 +1,1 @@
+What is the purpose of the Boolean operators? I’m trying to teach myself python using this site called code academy and I can’t wrap my head around the concept of Boolean Operators. The site isn't explaining very well on what the and, or and not concepts truly mean. They then provide some practice problems to do and I don’t understand it at all.

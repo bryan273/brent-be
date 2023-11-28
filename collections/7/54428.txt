@@ -1,0 +1,1 @@
+The simplest regression model is the bivariate one, in which there is one response or dependent variable, and one predictor or independent variable, and the relationship between the two is represented by a straight line.

@@ -1,0 +1,1 @@
+Yahoo!'s addresses span several different IP ranges. How to Ping Yahoo.com. The address that shows up from the tracert command is the one you can ping to get to Yahoo!. Tip: The ping command can also be used in reverse in order to find the IP address of a website. Identifying Yahoo! Web Crawlers.

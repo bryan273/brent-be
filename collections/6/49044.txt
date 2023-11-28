@@ -1,0 +1,1 @@
+Or it can be given an internal name (volume label). The volume label can be composed of 1to 11 characters. The user can name it or skip. But if the command Format under MS-DOS is applied to format disk, the system will not remind the user to input the original volume label unless the format process is finished.

@@ -1,0 +1,1 @@
+A series of alternating 1s and 0s to help the caller ID box get the timing down. A series of 180 1s. A byte representing the type of message. A byte representing the length of the message. Month, day, hour and minute, each represented with a pair of bytes. The 10 digit phone number in 10 bytes.

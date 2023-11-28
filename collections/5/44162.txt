@@ -1,0 +1,1 @@
+1 The document should include the beginning date and whether it’s a month-to-month tenancy or a lease. 2  If it’s a lease, the ending date should also be specified. 3  Leases often have a term of one year. 4  Rent.

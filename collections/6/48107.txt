@@ -1,0 +1,1 @@
+So, a hypothesis is a guess as to how the world works. A theory is what it becomes once you've gathered evidence to support it and shown that it's at least nontrivial to disprove. Both statements should make predictions about how the world works (and how it doesn't work), and this allows you to test them.

@@ -1,0 +1,1 @@
+Assuming that the potential changes linearly over the entire thickness of the membrane (~3 nm), the force needed to extract a transmembrane protein is ~160 pN, which is much larger than the measured rupture forces.. 3 nm.

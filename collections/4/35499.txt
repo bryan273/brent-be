@@ -1,0 +1,1 @@
+In computer operation with binary values, Boolean logic can be used to describe electromagnetically charged memory locations or circuit states that are either charged (1 or true) or not charged (0 or false).

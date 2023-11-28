@@ -1,0 +1,1 @@
+Then, to add to the confusion, there's a question in one of the progress tests on the effects of moving the centre of gravity forward, including whether the stall speed would be increased or decreased. But the notes don't actually discuss the stall speed, only the tendency to stall.

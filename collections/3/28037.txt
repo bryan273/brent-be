@@ -1,0 +1,1 @@
+Click .Reset to reset Internet Explorer to default and remove AdChoices. You will be prompted to restart your computer. 6. Open Firefox (if applicable). AdChoices infects all of your browsers, so open up Firefox if you have it installed, even if you don't use it. If you don't have it, skip down to the next browser.

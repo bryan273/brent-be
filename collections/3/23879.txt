@@ -1,0 +1,1 @@
+The payee of a payment made to a disregarded entity is the owner of the entity. If the owner of the entity is a foreign person, you must apply NRA withholding unless you can treat the foreign owner as a beneficial owner entitled to a reduced rate of withholding.

@@ -1,0 +1,1 @@
+The Cisco Wireless Location Appliance software contains a default password for the 'root' administrative account. A user who logs in using this username has complete control of the device.

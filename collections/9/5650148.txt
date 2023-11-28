@@ -1,0 +1,1 @@
+DON’T use quotation marks to open and close a block quote. The block quote format takes the place of that open and close quote. In the example above, quotation marks aren’t necessary to understand it’s Kidd speaking.

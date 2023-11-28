@@ -1,0 +1,1 @@
+The purpose of an IMEI goes beyond simple identification and the number can be used to block devices from accessing the cellular network. If your phone is stolen and you notify your service provider, they will block the device from their network and in some regions other networks too.

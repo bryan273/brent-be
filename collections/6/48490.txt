@@ -1,0 +1,1 @@
+Exploring XOR Decryption Methods. The use of XOR encryption to keep anti-virus, web filters, and even researchers at-bay have been used for many years. While there are stronger encryption algorithms, the XOR cipher is very easy to add to a project, has low overhead, and is still quite effective even today.

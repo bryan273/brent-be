@@ -1,0 +1,1 @@
+For example, if you have a Japanese version of a browser, the browser typically assumes that you prefer pages in Japanese, and sends this information to the server. The details below tell you how to discover and change the language preferences if you need to.

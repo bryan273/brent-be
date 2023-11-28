@@ -1,0 +1,1 @@
+The marginal revenue curve is the first derivative of the total utility curve. If it is a straight line, it takes the form of k - 2sQ, where k is the intercept, s the slope, and Q the quantity, while the total revenue function is kQ-sQ. 1.

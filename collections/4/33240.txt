@@ -1,0 +1,1 @@
+The similarly named reaching definitions is a data-flow analysis which statically determines which definitions may reach a given point in the code. Because of its simplicity, it is often used as the canonical example of a data-flow analysis in textbooks.

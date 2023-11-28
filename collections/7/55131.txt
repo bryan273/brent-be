@@ -1,0 +1,1 @@
+1 The song's tempo is 96BPM. 2  You multiply by four, because 60 seconds divided by 15 seconds = 4. 3  To increase accuracy, count beats for longer periods of time and calculate the rate accordingly.

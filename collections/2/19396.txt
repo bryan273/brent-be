@@ -1,0 +1,1 @@
+According to the law of universal gravitation, the attractive force (F) between two bodies is directly proportional to the product of their masses (m 1 and m 2), and inversely proportional to the square of the distance, r, (inverse-square law) between them:

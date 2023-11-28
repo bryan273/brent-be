@@ -1,0 +1,1 @@
+I've never heard of monotonic being used for two (input) variables, but I suppose it would mean that, for each fixed value of y, u is a monotonic function of x, and for each fixed value of x, u is a monotonic function of y (and I expect they'd need to be either both monotonic increasing or both monotonic decreasing).

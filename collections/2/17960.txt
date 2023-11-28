@@ -1,0 +1,1 @@
+The DNS lets you surf the Internet with your web browser using URLs, which are far more handy and easy to remember than IP-addresses, but it also helps our emails find their way to the proper recipients. So in short, the DNS is absolutely essential for everyone using the Internet.

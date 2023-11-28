@@ -1,0 +1,1 @@
+If you find limitations then consider re-writing your queries using the raw data and using Prometheus functions to get the desired chart. Install Grafana and graph to your heart’s content Finally we make it to Grafana!

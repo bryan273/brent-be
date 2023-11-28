@@ -1,0 +1,1 @@
+Term: TO_DATE. The Oracle TO_DATE function will convert either a character string or an expression into a date value. If no format is specified Oracle will assume the default date format has been supplied in char. Note that the return value of TO_DATE can be influenced by setting the NLS_DATE_LANGUAGE and NLS_CALENDAR parameters.

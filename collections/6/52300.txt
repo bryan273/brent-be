@@ -1,0 +1,1 @@
+Certain transactions are exempt from roundtrip violations. 1  These include: 2  Trades for $1,000 or less. (Please note that if more than one buy order or sell order for a given fund is executed on the same day in the same account, the $1,000 threshold is based on the total dollar value of all orders for that fund.)

@@ -1,0 +1,1 @@
+In this section we define the words 'robot' and 'robotics' and look a little at the history of robots. A reprogrammable, multifunctional manipulator designed to move material, parts, tools, or specialized devices through various programmed motions for the performance of a variety of tasks.

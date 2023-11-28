@@ -1,0 +1,1 @@
+The security update impacts all currently supported versions of Windows and Windows Server 2003, and 2008 and 2012. Microsoft also lists two other known issues with the update in which system fonts render incorrectly or are installed in a location other than the default fonts directory.

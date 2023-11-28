@@ -1,0 +1,1 @@
+Q: Importing pst.files to Mac outlook from PC. I have all my outlook messages from my previous PC windows outlook stored as pst files on a cd, but seem unable to upload/import them to my outlook for Mac (the version is office:mac 2011).The windows outlook version used on my former PC was updated to the newest version in 2010.

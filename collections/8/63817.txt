@@ -1,0 +1,1 @@
+the average rate of change of any function gives the average rate at which one function varies with respect to the other in simple words it calculates slope frac dy dx from point a to b where f a and f b are given two functions

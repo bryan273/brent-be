@@ -1,0 +1,1 @@
+a framshift mutation does not occur in multiples of threes. if you know, three nucleotide makes up an amino acid. so if there are a deletion or insertion in the middle, that means that all the nucleotides from that mutation on is 'shifted' in a very incorrect fashion. frameshift mutation is thus very harmful.

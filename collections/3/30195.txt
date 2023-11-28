@@ -1,0 +1,1 @@
+Once the user is registered for the online payment website, making a payment is a simple process. 1  After logging on to the site, select the online payment option. 2  Input the amount of the payment. 3  Select a date for the payment to be processed. 4  Verify checking account information.  Submit the request.

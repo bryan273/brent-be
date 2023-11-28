@@ -1,0 +1,1 @@
+First discharge capacitor. To check capacitor, set volt-ohm meter to RX100 scale and touch its probes to capacitor terminals. If capacitor is OK, needle will jump to zero ohms, and drift back to high. Steady zero ohms indicates a short circuit; steady high ohms indicates an open circuit.

@@ -1,0 +1,1 @@
+Molecular orbitals are obtained from the combination of atomic orbitals, which predict the location of an electron in an atom. A molecular orbital can specify the electron configuration of a molecule: the spatial distribution and energy of one (or one pair of) electron(s).

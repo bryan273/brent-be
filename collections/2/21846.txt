@@ -1,0 +1,1 @@
+Reboot the system and the user account should be gone. If it isn't gone, you're going to have to reinstall the NVIDIA Update, reboot, then go right back in and uninstall it again. That should solve the problem. I know, a pain in the butt, but keep the end result in mind -- and this should solve the problem.

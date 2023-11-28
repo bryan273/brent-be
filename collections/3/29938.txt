@@ -1,0 +1,1 @@
+In addition, In Rational Method the runoff coefficient is independent of rainfall intensity and this does not reflect the actual situation. This question is taken from book named – A Self Learning Manual – Mastering Different Fields of Civil Engineering Works (VC-Q-A-Method) by Vincent T. H. CHU.

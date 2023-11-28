@@ -1,0 +1,1 @@
+Exothermic reactions are reactions or processes that release energy, usually in the form of heat or light. In an exothermic reaction, energy is released because the total energy of the products is less than the total energy of the reactants. For this reason, the change in enthalpy, $\Delta H$, for an exothermic reaction will always be negative.

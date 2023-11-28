@@ -1,0 +1,1 @@
+TopA Rhombus is a type of a quadrilateral which has its all sides of equal length. We can say that the all squares are rhombus but all rhombuses are not a Square, because a square has all its angle as right angles or all the angles are of 90 degree but in a rhombus two pairs of angles are equal.

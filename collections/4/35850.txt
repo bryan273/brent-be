@@ -1,0 +1,1 @@
+To send caller ID information you your home, the phone company uses an FSK technique identical to a 1,200 baud modem and it sends ASCII character data to the caller ID box. The modem message is sent between the first and second ring (see How Telephones Work for a description of how the ring signal works).

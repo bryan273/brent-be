@@ -1,0 +1,1 @@
+Pinnacle Data Exchange. Pinnacle Data Exchange. Pinnacle Data Exchange is an application that allows third party systems to update the Pinnacle cardholder database.Basically, a third party system that can output a text file in the specified format and, in the specified location, will make changes to the. Pinnacle cardholder database.

@@ -1,0 +1,1 @@
+Due to Windows file system restrictions, creating symbolic links with MKLINK requires an NTFS volume. The file/directory names in Link and Target can be fully or partially qualified. MKLINK will also copy an existing description to the link. If you don't specify any arguments, MKLINK will display its command dialog.

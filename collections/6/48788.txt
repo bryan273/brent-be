@@ -1,0 +1,1 @@
+For Windows Vista and Windows 7 follow these steps: 1  Click Start, click All Programs, click Accessories, right-click Notepad, and then click Run as administrator. If you are prompted for an administrator password or for a confirmation, type the password, or click Allow or Yes.

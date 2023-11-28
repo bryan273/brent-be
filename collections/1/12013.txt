@@ -1,0 +1,1 @@
+Do not discharge Li-ion too low; charge more often. A random or partial charge is fine. Li-ion does not need a full charge. Limit the time the battery resides at 4.20/cell (full charge), especially if warm. Moderate the charge current to between 0.5C and 0.8C for cobalt-based lithium-ion.

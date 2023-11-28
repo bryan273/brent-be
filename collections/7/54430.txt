@@ -1,0 +1,1 @@
+The linear regression model for the jth sample unit has the. form. Yj= 0 + 1zj1 + 2zj2 + :::+ rzjr+ j; where  is a random error and the i;i= 0;1;:::;r are un-. known (and xed) regression coecients.  0 is the intercept and sometimes we write 0zj0, where.

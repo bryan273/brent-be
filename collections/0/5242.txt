@@ -1,0 +1,1 @@
+In any seven-day period, the truck can be on the road for 60-77 hours, and in an eight-day period, the truck can be driven between 70-88 hours. If the truck and its driver have been off the road for two and a half days continuously, they then can start their week at zero hours.

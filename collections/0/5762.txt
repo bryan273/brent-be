@@ -1,0 +1,1 @@
+WhatsApp takes regular backups of your messages and chat history and copies them to your SD card (in /sdcard/WhatsApp/) you need to copy this directory from your old phone your new one.

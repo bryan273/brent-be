@@ -1,0 +1,1 @@
+Method 2 Hello World Program. 1. We will first create a program that prints Hello World.. In your text editor, create a new file and save it as HelloWorld.java. HelloWorld is your class name and you will need your class name to be the same name as your file. 2. Declare your class and your main method.

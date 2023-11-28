@@ -1,0 +1,1 @@
+The following example uses one argument -- a reference to cells A1:A5. 1  Enter the sample data on your worksheet. 2  In cell A7, enter a COUNTA formula, to count the numbers in column A: =COUNTA(A1:A5). 3  Press the Enter key, to complete the formula.

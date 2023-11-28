@@ -1,0 +1,1 @@
+Bluetooth File Transfer offers an efficient way to exchange files from one Android device to another and browse the contents of virtually any Bluetooth enabled device. Users may easily select a file from their device and send it to a device of their choosing, or find the specific file on another device and download it.

@@ -1,0 +1,1 @@
+N scale locomotives are powered by DC motors which accept a maximum of 12 V DC. In traditional DC control, the speed of the train is determined by the amount of voltage supplied to the rails. The direction of the train is determined by the polarity of the power to the rails.

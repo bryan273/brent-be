@@ -1,0 +1,1 @@
+In our project, we had SAP as the data source and Dynamics CRM as the target of the integration. Configuring the source fields is very important for the mapping process between source and target fields later.

@@ -1,0 +1,1 @@
+Desktop virtualization. Desktop virtualization is software technology that separates the desktop environment and associated application software from the physical client device that is used to access it.

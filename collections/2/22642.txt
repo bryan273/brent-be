@@ -1,0 +1,1 @@
+Implement HP JetAdvantage solution Capture and Route in one department, and then expand across the business as needed. This solution is supported by HP Web Jetadmin. Integrates seamlessly with HP Access Control for authentication, authorization, accounting and secure pull printing.

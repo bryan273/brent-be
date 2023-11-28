@@ -1,0 +1,1 @@
+(Note that some things in the Internet of things will be sensors, and sensor location is usually important.) The GeoWeb and Digital Earth are promising applications that become possible when things can become organized and connected by location.

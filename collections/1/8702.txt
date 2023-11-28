@@ -1,0 +1,1 @@
+Connect to eight new services. 1  Azure Resource Manager - Azure Resource Manager exposes the APIs to manage all of your Azure resources. 2  Azure Queues - Azure Queue storage provides cloud messaging between application components. Queue storage also supports managing asynchronous tasks and building process work flows.

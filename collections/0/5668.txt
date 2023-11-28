@@ -1,0 +1,1 @@
+Sample Standard Deviation. 1  Step 1. Work out the mean. 2  Step 2. Then for each number: subtract the Mean and square the result. 3  Step 3. Then work out the mean of those squared differences. 4  Step 4. Take the square root of that:

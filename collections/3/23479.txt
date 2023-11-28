@@ -1,0 +1,1 @@
+Here are the main requirements: 1  The Medicare recipient must enter the nursing home no more than 30 days after a hospital stay (meaning admission as an inpatient; observation status does not count) that itself lasted for at least three days (not counting the day of discharge).

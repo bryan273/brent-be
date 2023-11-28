@@ -1,0 +1,1 @@
+Source #2 is your modem, which could be malfunctioning. Source #3 is your wireless router, which could also be malfunctioning. And Source #4 is your computer. Fix it: To check if your ISP is having an outage, go to DownDetector (on your phone, since you don’t have Internet access) and click on your provider.

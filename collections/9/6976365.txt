@@ -1,0 +1,1 @@
+A full block style format for a letter means all the text is left justified. This varies from a semi-modified block style format in which some elements are right justified. Full block format is a... A full block style format for a letter means all the text is left justified.

@@ -1,0 +1,1 @@
+Check valves prevent backflow, but not back pressure. It is not possible to discharge low pressure condensate into a higher pressure line. Even if a check valve is installed after a steam trap, condensate will not flow if the pressure upstream of the trap is lower than the downstream (return) side.

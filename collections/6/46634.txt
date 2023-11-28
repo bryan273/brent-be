@@ -1,0 +1,1 @@
+To upload a custom thumbnail when you upload a video: 1  Record or upload your video. 2  At the end of the video processing stage in the upload interface, you will see an option to choose a Custom thumbnail under the Video thumbnails section. 3  Go to your channel Video Manager.

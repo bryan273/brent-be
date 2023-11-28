@@ -1,0 +1,1 @@
+Lab#: 238719 0 20000 214337 03/06/01 03/05/01. Unit ID is a way for the customer to uniquely identify the units being tested and their location. It is important to be. consistent when identifying the unit, as the history of sampling will be linked to that particular unit name.

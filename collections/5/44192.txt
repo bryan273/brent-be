@@ -1,0 +1,1 @@
+2-Way Frequencies: The Cross-Tabulated Format vs. The List-Format. To get a 2-way frequency table (i.e. a frequency table of the counts of a data set as divided by 2 categorical variables), you can display it in a cross-tabulated format or in a list format. In R, the xtabs() function is good for cross-tabulation.

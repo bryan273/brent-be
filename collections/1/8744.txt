@@ -1,0 +1,1 @@
+Report for List of Transfer orders in warehouse management. hi, i want generate a report for list of transfer order orders in warehouse management. is there any report with you guys kindly help me, or any standard report is there to display list of transfer orders in warehouse management. Thanks, Rajesh. Edited by: rajesh kumar kandagatla on Feb 11, 2009 9:27 PM.

@@ -1,0 +1,1 @@
+BOOL WINAPI StartService( _In_ SC_HANDLE hService, _In_ DWORD dwNumServiceArgs, _In_opt_ LPCTSTR *lpServiceArgVectors ); A handle to the service. This handle is returned by the OpenService or CreateService function, and it must have the SERVICE_START access right. For more information, see Service Security and Access Rights.

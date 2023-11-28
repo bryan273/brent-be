@@ -1,0 +1,1 @@
+Relative Frequency Histogram A relative frequency histogram uses the same information as a frequency histogram but compares each class interval to the total number of items. For example, the first interval ($1 to $5) contains 8 out of the total of 32 items, so the relative frequency of the first class interval is (see Table 1).

@@ -1,0 +1,1 @@
+Step 2. Divide the annual interest rate expressed as a percentage by 12 to calculate the monthly interest rate expressed as a percentage. For example, if you have an annual interest rate of 7.8 percent, divide 7.8 by 12 to find the monthly interest rate is .65 percent.

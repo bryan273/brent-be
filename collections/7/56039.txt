@@ -1,0 +1,1 @@
+Some states allow admission on motion, but only for attorneys coming from states with “reciprocity” to that state. Therefore, if State A allows attorneys from State B to waive in, then attorneys from State B can “reciprocally” waive in to State A.

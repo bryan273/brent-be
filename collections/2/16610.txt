@@ -1,0 +1,1 @@
+If the sample space is the set of possible numbers rolled on two dice, and the random variable of interest is the sum S of the numbers on the two dice, then S is a discrete random variable whose distribution is described by the probability mass function plotted as the height of picture columns here.

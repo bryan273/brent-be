@@ -1,0 +1,1 @@
+1 analogue Continuous data which can have a range of values. 2  data Values, typically letters or numbers.  digital Information stored as discrete values usually represented as numbers. This contrasts with analogue data which is represented by continuous data, usually in waves.

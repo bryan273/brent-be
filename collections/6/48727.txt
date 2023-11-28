@@ -1,0 +1,1 @@
+In Excel, the underlying value is always stored in decimal form. So, even if you’ve used number formatting to display something as a percentage (10%), that’s just what it is — formatting, or a symbolic representation of the underlying value. Excel always performs calculations on that underlying value, which is a decimal (0.1).

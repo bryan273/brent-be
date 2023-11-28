@@ -1,0 +1,1 @@
+Word 2010 - Creating a Cross-Reference. Introduction. Cross-references are commonly used in indexes and within long documents to direct the reader's attention to another part of the document, such as an image or related table. Cross-references can appear anywhere within the document and often take the form of: (See Table A).

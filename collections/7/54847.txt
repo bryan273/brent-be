@@ -1,0 +1,1 @@
+The credit card BIN numbers are the numbers that tell the bank which issued the card. These Bank Identification Numbers (BIN) are usually the first 6 digits amongst the credit card number embedded on the card.

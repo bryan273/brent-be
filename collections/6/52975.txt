@@ -1,0 +1,1 @@
+A network switch is a multiport network bridge that uses hardware addresses to process and forward data at the data link layer (layer 2) of the OSI model.

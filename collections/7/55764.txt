@@ -1,0 +1,1 @@
+Well, Excel has three functions that can be used to change the case of text. The first one is the upper function and it converts all lower case letters to upper case. The second is the lower function, which removes capital letters.

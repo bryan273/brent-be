@@ -1,0 +1,1 @@
+This joint gains movement through the contacting point with the surrounding bones, which is common among most of the other joints. There are structural and functional differences that will distinguish the synovial joints from all of the rest of the joints.

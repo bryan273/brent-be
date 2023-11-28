@@ -1,0 +1,1 @@
+Always remember this when troubleshooting IP routing issues. Here is a classic of example of how you can get it wrong. Let’s say you are troubleshooting a network problem and suspect the cause is related to IP routing. You decide to use the PING command to test that routing is configured correctly.

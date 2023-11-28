@@ -1,0 +1,1 @@
+A job order costing system is used when a job or batch is significantly different from other jobs or batches. Cost accounting is usually fairly simple in these systems. Labor and materials are entered on a job ticket. Overhead is usually added to the amount the customer will be charged for labor and materials.

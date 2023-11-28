@@ -1,0 +1,1 @@
+The region at which radiation becomes considered as ionizing is not well defined, since different molecules and atoms ionize at different energies. The usual definitions have suggested that radiation with particle or photon energies less than 10 electronvolts (eV) be considered non-ionizing.

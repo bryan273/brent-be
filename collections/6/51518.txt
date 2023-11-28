@@ -1,0 +1,1 @@
+In the Registry Editor, select the acrobat_sl.exe-related key (eg. Adobe Acrobat) you want to back up. From the File menu, choose Export. In the Save In list, select the folder where you want to save the Adobe Acrobat backup key. In the File Name box, type a name for your backup file, such as Adobe Acrobat Backup.

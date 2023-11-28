@@ -1,0 +1,1 @@
+When used in reference to time, date almost exclusively refers to a specific 24 hour period that begins at midnight and ends at 11:59pm. When used this way, the date will be specified with a year (CE or BCE), the name of the month, and the number of the day within that month.

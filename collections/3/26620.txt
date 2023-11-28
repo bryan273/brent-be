@@ -1,0 +1,1 @@
+Arguments that fit these two invalid argument forms are considered fallacious, because they each meet the two main requirements for a fallacy: 1) They are commonplace types of reasoning, and 2) they are likely to fool people.

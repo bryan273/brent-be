@@ -1,0 +1,1 @@
+To the left, I state a conventional definition of the derivative of the function in question. When x is negative as it is on the second line of the derivation, the numerator (|x + dx| - |x|) is -dx because dx is always a positive number. Thus the derivative is -1. On the third line when x is positive, this simplifies to +1.

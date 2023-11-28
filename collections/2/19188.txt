@@ -1,0 +1,1 @@
+Input time (h/m/s) in the time column and then click play. Local zoom ： When the system is in single-window full-screen playback mode, you can drag your mouse in the screen to select a section and then left click mouse to realize local zoom.

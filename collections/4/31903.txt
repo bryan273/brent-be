@@ -1,0 +1,1 @@
+Time Saving Shortcuts. The Formatting Shortcuts add-in will save you a lot of time if you are currently using the mouse to format cells. Again, this includes any type of formatting and is not just limited to font and fill colors. The image below shows some common tasks that we all do in Excel to format cells.

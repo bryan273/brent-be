@@ -1,0 +1,1 @@
+Electronic Data Interchange (EDI) is the computer-to-computer exchange of business documents in a standard electronic format between business partners.

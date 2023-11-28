@@ -1,0 +1,1 @@
+By default, Windows associates any file with a .txt extension with Notepad, so double clicking on it automatically opens it in Notepad, and that is the default format (plain text) for the files that you save. However, you can also use Notepad to create HTML files.

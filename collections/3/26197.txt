@@ -1,0 +1,1 @@
+If we're just talking stalling speed then an aft cg reduces stall speed. In level flight, approaching the stall in this case, the moment produced by the wing lift about the cg must be balanced by the up or down force from the tail. If the cg is behind the wing centre of pressure then the tailplane must always be producing an up force to balance it.

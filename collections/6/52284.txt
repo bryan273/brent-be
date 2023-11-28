@@ -1,0 +1,1 @@
+For a given plane the approach and landing speed may vary and depends on aircraft weight, flaps setting and other factors. Also note that KIAS is airspeed, i.e. speed at which the airfoil meets the air. It equals ground speed (i.e. speed over the ground) in calm wind. Normally airplanes land upwind to reduce the ground speed and ground roll.

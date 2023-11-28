@@ -1,0 +1,1 @@
+There are two specific aims in this paper: 1) to compare the IC provided by STRPs, evenly spaced SNPs, and composite markers derived from tightly linked SNPs; and 2) to investigate the influence of inter-SNP distance on linkage analysis.

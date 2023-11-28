@@ -1,0 +1,1 @@
+In general regular cds that are wav files and recent ones will play mp3 burned to data cd. For really old cars, the old audio cd format will do. It's a certain type of cd that reads like a vinyl and with only *.cda files to mark the start and end of each track. You can burn one using Nero and other similar tools.

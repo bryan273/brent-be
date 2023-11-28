@@ -1,0 +1,1 @@
+The simplest parabola is y = x2, whose graph is shown at the right. The graph passes through the origin (0,0), and is contained in Quadrants I and II. This graph is known as the Parent Function for parabolas, or quadratic functions. All other parabolas, or quadratic functions, can be obtained from this graph by one or more transformations.

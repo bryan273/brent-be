@@ -1,0 +1,1 @@
+Differential scanning calorimetry measures the heat flow produced in a sample when it is heated, cooled, or held isothermally at constant temperature. A sample may undergo one or more phase changes during heating or cooling. A good example of a phase change is the melting of ice. The picture on the left is a winter view of Lake Sihl in Switzerland.

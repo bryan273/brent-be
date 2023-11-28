@@ -1,0 +1,1 @@
+Although it is called a 12-lead ECG, it uses only 10 electrodes. Certain electrodes are part of two pairs and thus provide two leads. Electrodes typically are self-adhesive pads with a conducting gel in the center. The electrodes snap onto the cables connected to the electrocardiograph or heart monitor.

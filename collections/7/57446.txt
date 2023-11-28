@@ -1,0 +1,1 @@
+This is a problem with some of the equations on the site unfortunately. It is especially true for some exponents and occasionally a double prime 2nd derivative notation will look like a single prime. You can click on any equation to get a larger view of the equation.

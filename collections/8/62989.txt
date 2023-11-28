@@ -1,0 +1,1 @@
+Prism provides guidance in the form of samples and documentation that help you easily design and build rich, flexible, and easily maintained Windows Presentation Foundation (WPF) desktop applications.

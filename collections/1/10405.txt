@@ -1,0 +1,1 @@
+Common questions that arise in traffic accident reconstructions are What was the vehicle's initial speed given a skid length? and What distance is required to stop from this speed?. You will be able to answer these questions by simply entering the road surface type, units, and speed or distance below.

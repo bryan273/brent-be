@@ -1,0 +1,1 @@
+ArcGIS for Desktop has tools for converting KML to an ArcGIS data format, so you can view, edit, and analyze the geographic data contained in any KML file. There are also tools for creating KML, so you can convert any of your data or maps into a KML file that can be easily shared.

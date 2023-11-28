@@ -1,0 +1,1 @@
+For the Fingerprint Reader to function you will need to install the drivers & software on your system. Table of Contents: For information on how to use the Dell Support Site to identify and install the drivers for your Dell PC. 1. Dell Data Protection|Security Tools (DDP|ST)

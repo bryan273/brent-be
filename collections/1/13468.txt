@@ -1,0 +1,1 @@
+Since main method is static Java virtual Machine can call it without creating any instance of class which contains main method. 2. Since C and C++ also has similar main method which serves as entry point for program execution, following that convention will only help Java.

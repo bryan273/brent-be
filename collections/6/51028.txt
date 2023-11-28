@@ -1,0 +1,1 @@
+A poor analogy might be a process is like a day job, a project is like a contract. In laymans terms a process is a bunch of tasks that need to be performed again and again to keep your organisation running. These tasks may be performed manually (by people in their day jobs) or automatically (by IT).

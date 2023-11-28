@@ -1,0 +1,1 @@
+A way of expressing the first law of thermodynamics is that any change in the internal energy (∆E) of a system is given by the sum of the heat (q) that flows across its boundaries and the work (w) done on the system by the surroundings:

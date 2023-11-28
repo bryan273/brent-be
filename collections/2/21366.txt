@@ -1,0 +1,1 @@
+Visualizing your task time data is an essential step in understanding its distribution and computing accurate confidence intervals. This calculator creates a dot-plot of your task times, transforms the raw data to adjust for non-normality and computes the intervals.

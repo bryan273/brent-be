@@ -1,0 +1,1 @@
+timezone values can be given in several formats, none of which are case sensitive: 1  The value 'SYSTEM' indicates that the time zone should be the same as the system time zone. 2  The value can be given as a string indicating an offset from UTC, such as '+10:00' or '-6:00'.

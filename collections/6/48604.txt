@@ -1,0 +1,1 @@
+The default admin password, the wireless network name (SSID) and wireless password key is printed on the settings card at the back of the Mini Hub. If you lose or forget your password, you can reset the Mini Hub to its factory settings.

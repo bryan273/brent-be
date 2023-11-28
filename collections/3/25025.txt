@@ -1,0 +1,1 @@
+Select a File. You may download rate and boundary data for Nebraska for each quarter, beginning with the most current. The file you download contains one rate and one boundary file, each comma-separated and created according to Streamlined Sales and Use Tax (SST) Agreement specifications.

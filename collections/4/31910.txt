@@ -1,0 +1,1 @@
+Unfortunately, there are no built-in keyboard shortcuts in Excel for font or fill colors. There are a few “workaround” methods that I explain in another blog post, 5 Excel Keyboard Shortcuts for Font & Fill Colors. But these built-in methods are either slow, or do not provide a direct solution.

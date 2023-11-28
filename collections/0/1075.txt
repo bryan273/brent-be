@@ -1,0 +1,1 @@
+1. Transformers and per unit systems. The reason the per unit system is employed is because it simplifies calculation of currents. Imagine a 3-phase system with a generator, a transformer, a T-line, another transformer, and a load. Every time you cross the transformers, the currents and voltages change.

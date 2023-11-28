@@ -1,0 +1,1 @@
+It is the ratio of the transformer’s voltage rating on the primary or secondary side to the system nominal voltage on the same side. 10/10/2014 .(1) For T-Line 1: = 484 Ohms For T-Line 2: = 121 Ohms For 3-phase load: = 1...Per Unit System .(2) ………………………………..

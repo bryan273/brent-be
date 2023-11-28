@@ -1,0 +1,1 @@
+The higher the number of frames playing per second, the smoother the video playback appears to the user. Lower rates result in a choppy playback. (As a reference point, film uses 24 frames per second to allow the viewer to perceive smooth playback.) Several factors affect the actual frame rate you get on your computer.

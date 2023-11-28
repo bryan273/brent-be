@@ -1,0 +1,1 @@
+I need to get the profit segment details from a billing document item record. in order to fetch PA characteristics when creating a debit memo order with. reference to a billing document. I have looked at VBRP-PAOBJNR but this number does not exist in any of my pa. tables (CE1, CE4).

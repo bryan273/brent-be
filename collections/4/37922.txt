@@ -1,0 +1,1 @@
+Simple volumes can only be accessed by Windows2000, WindowsXP Professional, and . You should create basic volumes on basic disks if the computer also runs MS-DOS, Windows95, Windows98, WindowsMe, WindowsNT 4.0, or WindowsXP Home Edition because these operating systems cannot access dynamic volumes.

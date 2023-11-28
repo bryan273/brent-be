@@ -1,0 +1,1 @@
+1 This will display the dropdown with suggested places in Texas (US); Select the desired Address /Place /City /Village /Town /Airport from both the dropdown lists. 2  Click the Get Distance & Directions button to get the distance between the selected addresses /places /cities /towns /villages /airports in Texas (US).

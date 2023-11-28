@@ -1,0 +1,1 @@
+text/html 11/5/2013 7:34:29 AM v-Ada 0. Hi, This is the task scheduler service under Windows Vista and Windows 7. It is responsible for keeping track of tasks set to run at a time predetermined by the user, and to invoke them when necessary. And the taskeng.exe file is located in the folder C:\Windows\System32.

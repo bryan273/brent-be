@@ -1,0 +1,1 @@
+Synaptics touchpad/ erratic cursor problem. My cursor still behaves erratically despite downloads, reinstalls, adjustments, & virus/malware scans--suggestions? My HP Pavilion dv6704nr notebook is a little over a year old. The Synaptics touchpad was working very well until about two weeks ago. I tinkered with the pointer appearance and things went south.

@@ -1,0 +1,1 @@
+Both Are Influenced by the Programming Community. Java uses the Java Community Process to accept input on what to include in the language in the form of Java Specification Requests. Oracle, the current owner of Java, uses these to determine the official implementation of the language.

@@ -1,0 +1,1 @@
+Then divide the total floor space by the USF to get the load factor. Example: A 100,000 square foot building has 15,000 square feet of shared space. The usable square footage is 85,000 square feet. The load factor would be 1.176 (100,000 / 85,000). That would also be the same as saying the building has a load factor of 17.6%.

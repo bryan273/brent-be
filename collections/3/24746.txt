@@ -1,0 +1,1 @@
+To add a site to the Compatibility View list. 1  Open Internet Explorer, select the Tools button , and then select Compatibility View settings.  Under Add this website, enter the URL of the site you want to add to the list, and then select Add.

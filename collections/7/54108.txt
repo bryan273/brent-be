@@ -1,0 +1,1 @@
+Like all ChartIQ markers, the object itself is managed by the chart, so when you scroll the chart the object moves with you. It is also destroyed automatically for you when the symbol is changed. Like all ChartIQ markers, the object itself is managed by the chart, so when you scroll the chart the object moves with you.

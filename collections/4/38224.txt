@@ -1,0 +1,1 @@
+1. Pressure is defined as force per unit area that a fluid exerts on its surroundings.[1] For example, pressure, P, is a function of force, F, and area, A. P = F/A. A container full of gas contains innumerable atoms and molecules that are constantly bouncing of its walls.

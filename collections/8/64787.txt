@@ -1,0 +1,1 @@
+SAP HANA (high-performance analytic appliance) is an application that uses in-memory database technology that allows the processing of massive amounts of real-time data in a short time. The in-memory computing engine allows HANA to process data stored in RAM as opposed to reading it from a disk.

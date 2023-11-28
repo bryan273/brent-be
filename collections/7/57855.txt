@@ -1,0 +1,1 @@
+A check valve prevents the higher pressure water from returning to the source when the pump is not operating. Now, this type of booster operates exactly like a domestic water well system except that, in this example, it is used to boost the existing pressure of some water source rather than drawing water from a well.

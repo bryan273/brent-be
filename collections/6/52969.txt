@@ -1,0 +1,1 @@
+Some vendors provide firewall, network intrusion detection, and performance analysis modules that can plug into switch ports. Some of these functions may be on combined modules. In other cases, the switch is used to create a mirror image of data that can go to an external device.

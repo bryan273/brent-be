@@ -1,0 +1,1 @@
+The Atlantic ocean separates these two time zones. When converting from EST to GMT, there is a five hour difference. The former is UTC -5:00 while the latter is UTC 0:00, it is where the prime meridian is located and represents the zero-point from which the other zones are drawn. An example for you:

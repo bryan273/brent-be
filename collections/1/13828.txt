@@ -1,0 +1,1 @@
+The most general classification for electric motors is according to the type of power supplied: AC or DC. AC stands for alternating current, which is the type of power produced in an industrial power plant and distributed to commercial and residential buildings via high voltage power cables.

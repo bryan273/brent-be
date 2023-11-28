@@ -1,0 +1,1 @@
+Multisoft Virtual Academy conducts Essentials of Developing Windows® Store Apps Using C# online training to help candidates gain comprehensive knowledge of Microsoft® Windows® Store apps products. This training is based on the Microsoft® Certified Solutions Developer (MCSD®) certification.

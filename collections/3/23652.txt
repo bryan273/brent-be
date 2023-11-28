@@ -1,0 +1,1 @@
+Actually, it's both. The English units for mass are also the units of weight for that mass in a standard gravitational field (9.80665 m/s2 exactly). This part of the English system should probably be called the French system since so many of the units have their origins in France. There were two paths: avoirdupois and troy.

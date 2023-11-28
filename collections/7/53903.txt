@@ -1,0 +1,1 @@
+Download the Momentics IDE. for BlackBerry. Use the Momentics IDE to download the BlackBerry 10 Native SDK, and get ahold of all the tools and libraries that you need for developing an application for BlackBerry 10. Momentics IDE 2.1.2.

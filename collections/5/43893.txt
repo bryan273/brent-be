@@ -1,0 +1,1 @@
+Windows 2000 and later uses Kerberos as its default authentication method. Some Microsoft additions to the Kerberos suite of protocols are documented in RFC 3244 Microsoft Windows 2000 Kerberos Change Password and Set Password Protocols. RFC 4757 documents Microsoft's use of the RC4 cipher. While Microsoft uses the Kerberos protocol, it does not use the MIT software.

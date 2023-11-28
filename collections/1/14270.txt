@@ -1,0 +1,1 @@
+You type the advanced criteria in a separate criteria range on the worksheet and above the range of cells or table that you want to filter. Microsoft Office Excel uses the separate criteria range in the Advanced Filter dialog box as the source for the advanced criteria.

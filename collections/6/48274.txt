@@ -1,0 +1,1 @@
+<code>word-break: normal</code></p> <p class=normal narrow>This is a long and Supercalifragilisticexpialidocious sentence. 次の単語グレートブリテンおよび北アイルランド連合王国で本当に大きな言葉</p> <p>2. <code>word-break: break-all</code></p> <p class=breakAll narrow>This is a long and Supercalifragilisticexpialidocious sentence.

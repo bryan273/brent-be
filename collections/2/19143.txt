@@ -1,0 +1,1 @@
+Server operating systems (eDiscovery Manager system) The eDiscovery Manager server requires one of the following operating systems, depending on the hardware platform. Requires IBM C Compiler V9.0.0.1 or later. To determine the version of C runtime libraries that you have, enter this command:

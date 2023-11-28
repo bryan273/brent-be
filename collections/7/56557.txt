@@ -1,0 +1,1 @@
+Note: Any malware can be named anything - so you should check where the files of the running processes are located on your disk. If a non-Microsoft .exe file is located in the C:\Windows or C:\Windows\System32 folder, then there is a high risk for a virus, spyware, trojan or worm infection! Check it out!

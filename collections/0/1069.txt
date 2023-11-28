@@ -1,0 +1,1 @@
+The new per unit impedance is obtained by converting the old per unit impedance on old base values to new ones.Practice Problem Solved For Easy Understanding | Power Systems Eng..2 pu For transformer T1: = 0.15 pu For transformer T3: = 0.16 pu For transformer T4: = 0..1495+j1.

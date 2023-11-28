@@ -1,0 +1,1 @@
+If the points on the graph all seem really close to our line of best fit, then we say there is strong correlation between the two things we measured e.g. strong positive correlation between foot size and height would mean that it is *very* likely that you will have bigger feet, if you are a taller person.

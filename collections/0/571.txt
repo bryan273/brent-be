@@ -1,0 +1,1 @@
+There’s no need to go through the preceding set of steps. 1  Internet Explorer is the preferred web browser in Windows. Sometimes, it runs because Windows wants it to run, regardless of which browser you set up as the default web browser.

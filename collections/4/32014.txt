@@ -1,0 +1,1 @@
+Short Message Service (SMS). This feature will allow you to send and receive messages with your DID Number (US and Canada DID Numbers Only). Currently it is in beta and will remain free until further notice. Please note that this feature is for regular customer usage.

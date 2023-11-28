@@ -1,0 +1,1 @@
+Open Microsoft Publisher. Like all other programs you can do this by opening the program from the Start menu, or, if you have a shortcut icon on your desktop, double clicking on it. When Publisher opens, two windows appear; a Catalog window and a main window.

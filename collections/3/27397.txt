@@ -1,0 +1,1 @@
+Soldering crimp connectors is a bad thing, and it’s something I’ve fired people over. A properly done crimp with the right tool is not improved by soldering. And anyone using superglue to hold a wire falls under crimp solderers. Crimping connectors is faster with the right tools.

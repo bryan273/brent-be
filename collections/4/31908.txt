@@ -1,0 +1,1 @@
+The Fill Color and Font Color menus can be added to the Quick Access Toolbar (QAT). This will help make the keyboard shortcut to access them shorter. Instead of pressing Alt+H+H, you could put the Fill Color menu in position #1 of the QAT and use the shortcut Alt+1 to open the Fill Color menu.

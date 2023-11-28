@@ -1,0 +1,1 @@
+Open the PNG file you exported earlier in Photoshop and drag it into your skateboard PSD. Now in the layers palette you will see a layer called design layer, you have to move your graphic layer to just under that layer, this is so that the shadows and highlighting of the template is effective on your graphics.

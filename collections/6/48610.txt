@@ -1,0 +1,1 @@
+Share the Article: Network Name (SSID) is basically the device's wireless network name and is one way of securing your wireless network. The SSID is shared by all devices in your wireless network and therefore, has to be unique since this will identify your wireless network from the rest.

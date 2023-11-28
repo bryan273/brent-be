@@ -1,0 +1,1 @@
+To format a selected range of cells in Excel, click on Format in the cell section of the top menu bar. Next, click on Format cells in the drop-down menu. This will bring u … p a box. Click on the Number tab, then choose Currency. Choose from a large range of symbols. The $ is the symbol for US currency.

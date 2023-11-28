@@ -1,0 +1,1 @@
+This is a list of programming languages for the Java virtual machine aside of Java itself and for Javascript execution. The source code of a program executed in the Java VM has to have a syntax different to Java to be included in this list. This list is manually compiled from the net.

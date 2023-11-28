@@ -1,0 +1,1 @@
+Build and submit a sitemap: 1  Decide which pages on your site should be crawled by Google, and determine the canonical version of each page. 2  Decide which sitemap format you want to use. You can create your sitemap manually or choose from a number of third-party tools to generate your sitemap for you.

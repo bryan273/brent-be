@@ -1,0 +1,1 @@
+Following fields are displayed for Paris, Ile-de-France Monthly Yearly averages: Max, Min and Average Temperature(°C/°F) Visibility (km or miles) Pressure (mb or inches) Cloud (%) Humidity (%) Max and Avg Wind Speed (km/h, mph, knots or m/s) Avg Wind Gust (km/h, mph, knots or m/s)

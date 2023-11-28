@@ -1,0 +1,1 @@
+Linear Algebra: Find bases for the kernel and range for the linear transformation T:R^3 to R^2 defined by T(x1, x2, x3) = (x1+x2, -2x1+x2-x3). We solve by finding the corresponding 2 x 3 matrix A, and find its null space and column span. We check our work using the Rank Equation.

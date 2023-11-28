@@ -1,0 +1,1 @@
+Determining the optimal amount of silica needed is usually the hardest and most important factor in the success of a flash chromatography. Using too little silica will result in poor separation with mixed fractions and implies a second purification; too much silica will result in very long purification time and wasting of solvent, silica and test tubes.

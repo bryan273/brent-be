@@ -1,0 +1,1 @@
+Switches and hubs plug into other switches and hubs. This 5-port Ethernet switch connects to the Ethernet switch above and to set-top boxes and other equipment in this home theater rack.

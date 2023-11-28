@@ -1,0 +1,1 @@
+In Windows 7, Notepad is found in the Accessories folder in the Start Menu. But there's no need to navigate to that folder when you can just type notepad into the Start Menu search box. To find Notepad in Windows 8.1, either type notepad on the Start screen, or bring up the charms and type into the search box.

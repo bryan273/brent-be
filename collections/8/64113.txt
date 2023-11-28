@@ -1,0 +1,1 @@
+For example, you may have a Chart with two existing Areas for Candlesticks and Volume. To add MACD, click 'Add indicator to new area', select MACD, close the details popup, and then 'Apply...' and the Chart will be extended to show MACD.

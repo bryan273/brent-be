@@ -1,0 +1,1 @@
+Also the firmware running on the client Wi-Fi card is of influence. Say two AP's of the same SSID are in range of the client, the firmware may decide based on signal strength (Signal-to-noise ratio) to which of the two AP's it will connect.

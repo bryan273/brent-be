@@ -1,0 +1,1 @@
+Though each bitcoin transaction is recorded in a public log, names of buyers and sellers are never revealed – only their wallet IDs. While that keeps bitcoin users’ transactions private, it also lets them buy or sell anything without easily tracing it back to them.

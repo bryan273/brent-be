@@ -1,0 +1,1 @@
+Performance of VIX (left) compared to past volatility (right) as 30-day volatility predictors, for the period of Jan 1990-Sep 2009. Volatility is measured as the standard deviation of S&P500 one-day returns over a month's period.

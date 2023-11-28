@@ -1,0 +1,1 @@
+If a large correlation exists, the points concentrate near a straight line. Scatter plots are useful data visualization tools for illustrating a trend. Besides showing the extent of correlation, a scatter plot shows the sense of the correlation:

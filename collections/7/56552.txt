@@ -1,0 +1,1 @@
+Recommended: Scan your system for invalid registry entries. sasctxmn.dll is a SASCTXMN.DLL belonging to SUPERAntiSpyware Context Menu Extension from SUPERAntiSpyware.com Non-system processes like sasctxmn.dll originate from software you installed on your system.

@@ -1,0 +1,1 @@
+Nothing happens at all when I press control-click. I can press shift+f4 but the data tab is not present on that screen which is what I am trying to get to quickly. I think we are going to test a dual Java installation so we can get to SQL Developer 4. Thanks for your help.

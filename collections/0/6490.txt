@@ -1,0 +1,1 @@
+Run Windows applications just like Mac applications. Say goodbye to the Windows desktop and use the VMware Fusion Launch Palette or Spotlight to easily launch your Windows applications. Switch between all your Windows and Mac applications using Expose.

@@ -1,0 +1,1 @@
+To display an accented character in a JavaScript alert message or a confirm dialog box, use the hexadecimal code of the character, for example: The following table lists the HTML entities, character codes, and URL-encodings for accented Latin letters and ligatures.

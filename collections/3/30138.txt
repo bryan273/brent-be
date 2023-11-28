@@ -1,0 +1,1 @@
+Comodo SSL Certificate. SSL, or Secure Sockets Layer, is a standard security technology used to establish a secure, encrypted link between a server and a client. For example, SSL can be used between a web server and a browser, or a mail server and a mail client like Outlook and Thunderbird.

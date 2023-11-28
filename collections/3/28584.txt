@@ -1,0 +1,1 @@
+The Range function The built-in range function in Python is very useful to generate sequences of numbers in the form of a list. The given end point is never part of the generated list; range(10) generates a list of 10 values, the legal indices for items of a sequence of length 10.

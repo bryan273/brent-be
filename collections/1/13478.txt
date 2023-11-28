@@ -1,0 +1,1 @@
+Internal transmittance refers to energy loss by absorption, whereas (total) transmittance is that due to absorption, scattering, reflection, etc.

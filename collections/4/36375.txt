@@ -1,0 +1,1 @@
+Specific gravity is a dimensionless quantity; that is, it is not expressed in units. To find the sp gr of a solid or liquid, you must know its density in kilograms per meter cubed (kg/m 3) or in grams per centimeter cubed (g/cm 3). Then, divide this density by the density of pure water in the same units.

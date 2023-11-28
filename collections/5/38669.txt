@@ -1,0 +1,1 @@
+A reasonably accurate estimation of body fat can be obtained by means of a two compartment model of the human body which is based upon two simplifying assumptions: 1. Human fat has a density of 0.9 grams/ml, and 2. The lean (non-fat) components of the human body have an overall density of 1.1 grams/ml.

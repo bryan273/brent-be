@@ -1,0 +1,1 @@
+Learn all about Argus in our Patch 7.3 - Week 1 Survival Guide and the Comprehensive Argus Guide. 1  Level: 31. 2  Requires level 27. 3  Loremaster: Desolace. 4  Side: Horde. 5  Start: Ancient Vortex Runestone. 6  End: Cerelia. 7  Not sharable. 8  Difficulty: 27 29 34 39. 9  Added in patch 4.0.3.13277.

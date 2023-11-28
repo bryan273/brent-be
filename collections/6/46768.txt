@@ -1,0 +1,1 @@
+Most times each section of a binary piece is repeated, but that doesn’t have to be the case. If a piece uses the same melodic material at the beginning of each section and delineates form by some other means. Most times we’ll label the form like this: ||: A :||: A’ :||.

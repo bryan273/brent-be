@@ -1,0 +1,1 @@
+The crypto-fuel for the Ethereum network. Ether is a necessary element -- a fuel -- for operating the distributed application platform Ethereum. It is a form of payment made by the clients of the platform to the machines executing the requested operations.

@@ -1,0 +1,1 @@
+Train Stations. 1  San Bernardino Station: 10-min drive, 5.6 mi/8.9 km. 2  Riverside Downtown Station: 11-min drive, 6.8 mi/11 km. 3  Rialto Station: 17-min drive, 8.9 mi/14.4 km. 4  Fontana Station: 19-min drive, 12.5 mi/20.1 km. 5  Riverside Pedley Station: 21-min drive, 14.8 mi/23.8 km.

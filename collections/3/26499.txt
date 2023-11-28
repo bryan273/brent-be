@@ -1,0 +1,1 @@
+How a Turbo Works. Turbos provide enhanced fuel economy and performance. A turbo is a basic air pump that pushes a volume of air into the engine, which increases the power output. This turbo is driven by a turbine in the exhaust system, connected by a direct shaft to an impeller in the intake system. The more exhaust that flows, the more air is pumped into the engine.

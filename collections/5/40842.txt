@@ -1,0 +1,1 @@
+remote desktop - Computer Definition (1) Generically, a user's computer in a remote location. (2) Specifically, a feature in high-end versions of Windows (XP Pro, Vista Business, Win7 Pro, etc.) that allows the machine to be run remotely from another Windows machine over any dial-up or TCP/IP connection (LAN or Internet).

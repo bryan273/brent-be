@@ -1,0 +1,1 @@
+An enzyme complex called DNA polymerase walks down the DNA strands and adds new nucleotides to each strand. The nucleotides pair with the complementary nucleotides on the existing stand (A with T, G with C). A subunit of the DNA polymerase proofreads the new DNA.

@@ -1,0 +1,1 @@
+The Smiths decide that they’re going to throw caution to the wind and do it themselves. They invest 60% of their money in an S&P 500 index fund (we use the expense ratio of VFINX, 0.17%, to account for expenses) and 40% of their money in a corporate bond index fund (we use the expense ratio of VBLTX, 0.20%, to account for expenses).

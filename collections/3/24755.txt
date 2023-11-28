@@ -1,0 +1,1 @@
+Access the View menu. If you're suddenly missing your bookmarks tool bar or some other component that you're used to seeing, a simple fix may be found in the View menu. It's located in the upper left part of your screen, along the top menu bar.

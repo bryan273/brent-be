@@ -1,0 +1,1 @@
+Check for operating system info in Windows 8.1 or Windows RT 8.1. 1  Swipe in from the right edge of the screen, tap Settings, and then tap Change PC settings. 2  Tap or click PC and devices, and then tap or click PC info. 3  Look under Windows for the version and edition of Windows that your PC is running.

@@ -1,0 +1,1 @@
+The total voltage across a series circuit that consists of more than one resistor is also equal to the applied voltage, but consists of the sum of the individual resistor voltage drops. In any series circuit, the SUM of the resistor voltage drops must equal the source voltage.

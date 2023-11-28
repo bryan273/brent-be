@@ -1,0 +1,1 @@
+In 1994, the Secure Sockets Layer Protocol (SSL) was invented by Netscape Communications to secure communications between clients and server applications over an unprotected network, such as the Internet and it has been de facto standard for cryptographic protocol since then.

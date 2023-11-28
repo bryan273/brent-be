@@ -1,0 +1,1 @@
+To put it another way, ether is the incentive ensuring that developers write quality applications (wasteful code costs more), and that the network remains healthy (people are compensated for their contributed resources). If you just want to test the technology, you probably don't need real ether.

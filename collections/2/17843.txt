@@ -1,0 +1,1 @@
+The average distance from the Earth to the Sun is about 149,600,000 km. (Astronomers call this an astronomical unit, or AU for short.) Therefore, in one year, the Earth travels a distance of 2×π×(149,600,000 km). This means that the speed is about: speed = 2×π×(149,600,000 km)/(1 year)

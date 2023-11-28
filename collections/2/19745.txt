@@ -1,0 +1,1 @@
+Before beginning development for the IBM FileNet P8 Platform, it is important to. review the platform itself, the core engines that comprise a IBM FileNet P8. deployment, the application programming interface (API) available for each. engine, and how they communicate with each other.

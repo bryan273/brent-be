@@ -1,0 +1,1 @@
+Fix it: Restart your PC in Safe Mode. To boot into Safe Mode, restart your computer and press the F8 key repeatedly—don’t just hold it down continuously—until you see the Advanced Boot Options menu. Use the arrow keys to choose Safe Mode with Networking and press Enter.

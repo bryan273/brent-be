@@ -1,0 +1,1 @@
+In AML, B7-H1 is a candidate molecule for inhibition of T cells. In a mouse model of AML, expression of B7-H1 allowed dormant tumor cells to escape from CTLs [4, 5, 6] [7, 8]. B7-H1 (also known as PD-L1 or CD274) is a B7 family member, and it is a ligand for PD-1 (programmed death-1, a member of the CD28 family) and B7.1 [9, 10, 11, 12].

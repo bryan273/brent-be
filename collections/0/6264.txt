@@ -1,0 +1,1 @@
+Controlling flow of a fluid-power system does not necessarily mean regulating volume per unit of time from a valve. Flow rate can be specified three different ways, so it is important to be aware of how flow is to be specified or measured: Volumetric flow rate, Qv, expressed in units of in.

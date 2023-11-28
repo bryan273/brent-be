@@ -1,0 +1,1 @@
+In simple words it contains behavior that class will implement. Being interpreted or compiled is not relative terms to interface rather it is related to implementation. So considering Python, which is merely an interface cannot be compiled or interpreted.

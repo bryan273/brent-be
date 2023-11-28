@@ -1,0 +1,1 @@
+Root access is even needed if you want to install trivial things like certain custom fonts, and can unlock new features in certain apps and launchers. The actual method required to root your phone will vary from model to model, so we can’t possibly cover them all.

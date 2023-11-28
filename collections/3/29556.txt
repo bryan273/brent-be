@@ -1,0 +1,1 @@
+The difference between absorbed dose in tissue and equivalent dose: 1  Absorbed dose tells us the energy deposit in a small volume of tissue. 2  Equivalent dose addresses the impact that the type of radiation has on that tissue.

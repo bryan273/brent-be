@@ -1,0 +1,1 @@
+In 2015, the company launched SAP S/4HANA, the newest generation of the SAP Business Suite. It was written natively for the SAP HANA platform.

@@ -1,0 +1,1 @@
+Count the total number of cells in a range by using functions. Suppose you want to determine the size of a large worksheet to decide whether to use manual or automatic calculation in your workbook. To count all the cells in a range, use a formula that multiplies the return values from the ROWS and COLUMNS functions.

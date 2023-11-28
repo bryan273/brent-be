@@ -1,0 +1,1 @@
+Convert air miles to land miles. The formula is one air mile equals approximately 1.15 land miles. To illustrate, the air mile flying distance between Anchorage, Alaska, and Moscow, Russia, is 3,793 nautical miles. 3,793 times 1.15 equals 4,364. Therefore, Anchorage is 4,364 land miles from Moscow.

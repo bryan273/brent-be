@@ -1,0 +1,1 @@
+It's a purpose build 3 tb seagate USB 3.0 external drive. I tried on every usb port and the result is the same. All the ports on my mobo are 3.0 so I dunno about if it works on on 2.0's . Btw my mobo is gigabyte Z87X UD3H. I also updated the BIOS and all the drivers via appcenter still no difference.

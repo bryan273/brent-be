@@ -1,0 +1,1 @@
+Excel can then use these labels to create reports and to find and organize data. Use a font, alignment, format, pattern, border, or capitalization style for column labels that is different from the format that you assign to the data in the range. Format the cells as text before you type the column labels.

@@ -1,0 +1,1 @@
+A lack of formatting makes .txt and similar files tiny in comparison to document files: a 100,000-word novel can be saved as a .txt file that’s only half a megabyte large. 1  A game’s video settings file saved as plain text. 2  Notepad in the original Windows release, 1985. 3  The original WordPad, running in Windows 95.

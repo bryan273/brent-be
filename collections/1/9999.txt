@@ -1,0 +1,1 @@
+Definition of:Ethernet switch. A central hub wired to every computer and network device in an Ethernet. In the home and small office, an Ethernet switch is built into the router (see wireless router). 10/100 and 10/100/1000.

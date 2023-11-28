@@ -1,0 +1,1 @@
+We are given a figure that is projected to be a rhombus that is a quadrilateral that has 4 equal sides. in this case, the length of the sides is equal to sqrt (a2 + b2) through the distance formula. There are four equal sides so the perimeter is equal to D) 4√(a^2 + b^2) Comments. Report.

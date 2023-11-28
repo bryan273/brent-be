@@ -1,0 +1,1 @@
+LOCUS CALOCUS Electronic Report Descriptions . Level of Care Utilization Report Parameters . Reports the number of consumers who have utilized each level of care by year and facility. New Patient Report Parameters . Reports specific consumer level of care data by monthly, year or period. Data provided

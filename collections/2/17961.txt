@@ -1,0 +1,1 @@
+There is also a DNS troubleshooting guide to help you interpret the potential errors and status messages for your DNS check. We hope you will find this test helpful. If you got any questions regarding the test you can read about it here, about the test.

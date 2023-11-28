@@ -1,0 +1,1 @@
+Time-lapse video is one of the new camera features in iOS 8. It's a video recording mode that captures video at a very low frame rate-around one to two frames per second, although this depends on the length of the recording-which means that when you play it back at 30 frames per second it has been sped up.

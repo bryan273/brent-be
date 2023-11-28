@@ -1,0 +1,1 @@
+LED Drivers. 1  At the heart of every LED lighting system is a specialized power supply called a driver. Just like fluorescent lights need ballasts to function properly, and low voltage lights need transformers, your LED lights need an LED driver. 2  At the heart of every LED lighting system is a specialized power supply called a driver.

@@ -1,0 +1,1 @@
+** Provider does not support calling stored procedures with parameters. Note: This article has been ported over from http://ssis.wik.is/ Note: If you were the owner of above article, please update it to the latest or with other appropriate information.

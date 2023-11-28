@@ -1,0 +1,1 @@
+Mutations that result in single amino acid substitutions in an enzyme. A) can have no effect on the activity or properties of the enzyme. B) will almost always destroy the activity of the enzyme. C) will often cause a change in the substrate specificity of the enzyme.

@@ -1,0 +1,1 @@
+Manage data of your OBEX ready device that supports File Transfer Profile (FTP) , using a PC with Bluetooth. Download, upload, browse, delete, create files and folders on a target device with this easy, fast and straightforward .NET app!

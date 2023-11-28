@@ -1,0 +1,1 @@
+For a resistive load, the average power is the product of the RMS current and RMS voltage. Harmonic distortion increases with power output; the maximum continuous power output of an amplifier is always stated at a given percentage of distortion, say 1% THD+N at 1 kHz.

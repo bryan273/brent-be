@@ -1,0 +1,1 @@
+SSL versus TLS. TLS (Transport Layer Security) and SSL (Secure Sockets Layer) are protocols that provide data encryption and authentication between applications and servers in scenarios where that data is being sent across an insecure network, such as checking your email (How does the Secure Socket Layer work?).

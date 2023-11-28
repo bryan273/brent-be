@@ -1,0 +1,1 @@
+Create a TDE enabled Database with the key stored in the Azure Key Vault. Now that the key vault is installed and configured inside SQL server, we now need to create a login, map it to the credential, create a key and enable a database for TDE. Create your database which is to use TDE.

@@ -1,0 +1,1 @@
+The code indicating the ABA number to be used to route or send ACH items to the RFI. 1  0 = Institution is a Federal Reserve Bank. 2  1 = Send items to customer routing number. 3  2 = Send items to customer using new routing number field.

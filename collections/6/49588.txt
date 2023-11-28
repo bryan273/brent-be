@@ -1,0 +1,1 @@
+The HV9910B is an open loop, current mode, control LED driver IC. The HV9910B can be programmed to operate in either a constant frequency or constant off-time mode. It includes an 8.0 - 450V linear regulator which allows it to work from a wide range of input voltages without the need for an external low voltage supply.

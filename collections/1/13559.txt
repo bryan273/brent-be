@@ -1,0 +1,1 @@
+The non-NCQ hard drive on the right requires a full two and three quarters rotations to execute the same four commands (A, B, C, and D) as a result of poor ordered operations. NCQ provides higher performance in heavy transactional workloads traditionally found in high performance workstations, network servers, multi-media servers and editing workstations.

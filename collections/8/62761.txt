@@ -1,0 +1,1 @@
+Draw a line of best fit on the scatter graph. Scattergraphs are used to compare two quantities. Let’s say someone’s interested in whether taller people have bigger feat, they can measure the height and shoe size for a whole bunch of people, then plot them on a scattergraph.

@@ -1,0 +1,1 @@
+Amplitude vs Frequency. Amplitude and frequency are two of the basic properties of periodic motions. A proper understanding in these concepts is required in the study of motions such as simple harmonic motions and damped harmonic motions.

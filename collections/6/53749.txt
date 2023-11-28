@@ -1,0 +1,1 @@
+NOTE: Incoming wires from parties outside of the U.S. should use PNC's SWIFT ID: PNCCUS33. routing instructions Please enter the first two numbers of your PNC Bank Demand Deposit account number in the box below, and we'll show you the ABA Routing Number. Your account at PNC contains 10 digits.

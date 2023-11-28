@@ -1,0 +1,1 @@
+“The Synaptics device driver is customized to meet the specific requirements of your device manufacturer. To ensure that you get the appropriate device driver for your system, download your Synaptics...” More about Synaptics Pointing Device Driver.

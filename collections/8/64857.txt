@@ -1,0 +1,1 @@
+Particles in transverse waves vibrate perpendicular to the direction of the wave and those in longitudinal waves vibrate parallel to the direction of the wave. Light waves are transverse waves while sound waves are longitudinal. <br /> In general waves are quaternion and contain a real /longitudinal wave and a vector/transverse wave.

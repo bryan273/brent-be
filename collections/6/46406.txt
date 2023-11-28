@@ -1,0 +1,1 @@
+Windows Update (WU), a service offered by Microsoft, provides updates for Windows components. It can be replaced with Microsoft Update, an expanded version of the service which provides for other Microsoft software as well, such as Microsoft Office, Windows Live Essentials and Microsoft Expression Studio.

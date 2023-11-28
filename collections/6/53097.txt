@@ -1,0 +1,1 @@
+If at all possible, do not attempt to do your own time zone conversions. The rules tend to change. Right now, local time for me is four hours earlier than UTC; in a couple months, it will be 5 hours earlier. Moreover, the rules for when that change happens are different this year than they were five years ago.

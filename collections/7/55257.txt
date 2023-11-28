@@ -1,0 +1,1 @@
+DHCP server keeps a record of all leased IP addresses and stores them into a file called dhcpd.leases which can be found in /var/lib/dhcp directory ( location of this file may vary depending on Linux system in use ).

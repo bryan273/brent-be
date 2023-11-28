@@ -1,0 +1,1 @@
+Automatically save a backup copy of a workbook. 1  On the File tab, click Save As. 2  In Excel 2013 or Excel 2016, click on the location where the spreadsheet is located, and click Browse. 3  Click the dropdown arrow next to Tools, located next to the Save button, and then click General Options. 4  Select the Always create backup check box.

@@ -1,0 +1,1 @@
+The reason the lag pump is brought on line at 150’ rather than at system pressure is to avoid the possibility of a pressure drop that could be followed by a surge from the higher capacity lag pump. Either a flow or pressure switch can accomplish this task.

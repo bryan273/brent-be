@@ -1,0 +1,1 @@
+Set up values for REC01, REC02, and REC03 in UDC table 09/21. Use the Review and Revise Accounts program (P0901) to assign the category code values to accounts in your chart of accounts. For category code 21, assign the value REC01 for notes receivable accounts, REC02 for interest receivable accounts, and so on.

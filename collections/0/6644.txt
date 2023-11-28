@@ -1,0 +1,1 @@
+Part of the Agile, Scrum, XP glossary: Velocity is a metric that predicts how much work an Agile software development team can successfully complete within a two-week sprint (or similar time-boxed period).

@@ -1,0 +1,1 @@
+UpdateContext function in PowerApps. 11/08/2015; 5 minutes to read; Contributors. In this article. Creates or updates context variables of the current screen. Overview

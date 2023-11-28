@@ -1,0 +1,1 @@
+Touch Key Light Duration This feature allows you to set the length of time the Menu and Back touch keys on the front of your phone remain lit after you tap them. Press and then tap > Settings > My device.

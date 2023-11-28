@@ -1,0 +1,1 @@
+The Death Index contains a listing of persons who had a Social Security number, who are deceased, and whose death was reported to the Social Security Administration. (The information in the Death Index for people who died prior to 1962 is sketchy since SSA's death information was not automated before that date.

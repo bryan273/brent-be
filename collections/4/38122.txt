@@ -1,0 +1,1 @@
+The 'Mean' (Average) is 18.75. (Often rounded to 19) The Median is the 'middle value' in your list. When the totals of the list are odd, the median is the middle entry in the list after sorting the list into increasing order.

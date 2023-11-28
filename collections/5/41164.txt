@@ -1,0 +1,1 @@
+Particle behavior in the human respiratory tract is well understood and can be used to (1) estimate particle deposition in all regions of the respiratory tract for any aerosol respired at any pattern, and (2) optimize targeting of all regions of the respiratory tract in respiratory drug delivery.

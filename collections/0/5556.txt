@@ -1,0 +1,1 @@
+Based on ship time, the Titanic struck the iceberg at approximately 11:40 pm on April 14, 1912, sinking at approximately 2:20 am on April 15, 1912, two hours and forty minutes later. Those are the dates and times we see reguarly, but very rarely will we see a conversion to GMT or Zulu time.

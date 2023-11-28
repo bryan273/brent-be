@@ -1,0 +1,1 @@
+HTTP vs HTTPS. The significance of S: Http or the hypertext transfer protocol is something we use when we access the internet. Though we seldom notice it if at all, it plays a very essential role. Http defines the methodology and rules of transporting data from the servers of the site we like to view down to our computer and vice versa.

@@ -1,0 +1,1 @@
+There must be flow to the primary circuit for this type of valve to function-if the primary circuit is blocked, the valve will cut off flow to the secondary circuit. Pressure-compensated, variable flow valves-This flow control is equipped with an adjustable variable orifice placed in series with a compensator.

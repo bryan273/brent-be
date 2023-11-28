@@ -1,0 +1,1 @@
+If you have ever had a medical checkup, you have probably heard about the Body Mass Index (BMI) that it supposed to have an optimal value around 25. Probably you were told to take your weight in pounds, divide it by the square of your height in inches and multiply the result by 703 to find your BMI.

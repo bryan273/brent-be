@@ -1,0 +1,1 @@
+Recently, Sudhat read my Introduction to Basic SQL and had this to say: The article is very interesting. Too Good! And also please describe what is the difference between SQL and Oracle and PL/SQL. Sudhat, thanks for the comments. I love to hear feedback. And your question is a common one so I thought I would address it as a blog entry instead of a reply to your comment.

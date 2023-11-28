@@ -1,0 +1,1 @@
+An interpreted computer language generally outputs a program in a manner that is not directly understood by the computer CPU. It must be turned into machine readable binary (compiled) when you run it. The file is often human readable and understandable, but is not understood by the computer.

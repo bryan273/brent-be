@@ -1,0 +1,1 @@
+Windows Management Instrumentation (WMI) functions that use time information, such as the ClearPasswordHistory Method function or the ClearRuns Method function, require that you use Coordinated Universal Time (UTC, also known as Greenwich Mean Time).

@@ -1,0 +1,1 @@
+Sometimes word wrap is undesirable between adjacent words. In such cases, word wrap can usually be blocked by using a hard space or non-breaking space between the words, instead of regular spaces. Word wrapping in text containing Chinese, Japanese, and Korean

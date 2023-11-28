@@ -1,0 +1,1 @@
+PRIVATE CLOUD The cloud infrastructure is operated solely for an organization. It may be managed by the organization or a third party and may exist on premise or off premise [9]. The cloud infrastructure is accessed only by the members of the organization and/or by granted third parties.

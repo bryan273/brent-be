@@ -1,0 +1,1 @@
+Amtrak.com cannot make reservations with more than four different passenger types in one reservation. Reduce the number of passenger types and try again. You can add a maximum of 8 passengers in a reservation. Add at least one Adult or Senior to this trip. Call 1-800-USA-RAIL to make reservations for 9 to 14 people.

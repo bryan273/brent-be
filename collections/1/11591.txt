@@ -1,0 +1,1 @@
+Open Internet Explorer, select the Tools button and select Internet options. Select the General tab, and then, under Appearance, select Colors. Clear the Use Windows colors check box. For each color that you want to change, select the color box, select a new color, and then select OK.

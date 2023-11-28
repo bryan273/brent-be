@@ -1,0 +1,1 @@
+Best Answer: The energy required for one atom = 801 x 1000 / 6.02 x 10^23 = 1,33*10^-18 J E = hf = 1,33*10^-18 J f = 2*10^15 Hz = 2*10^15 s^-1

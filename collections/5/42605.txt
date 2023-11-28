@@ -1,0 +1,1 @@
+976 CHAPTER 40 Scheduling Appointments Blocked Times in the appointment matrix when physi-cians are not available to see patients. Clustering Scheduling similar types of patients or exami-nations on the same day or part of the day.

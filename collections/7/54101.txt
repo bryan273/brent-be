@@ -1,0 +1,1 @@
+The vertical axis is used to represent one factor, such as price, while the horizontal axis is used to represent a second factor, such as quantity. The curve of market demand is negatively sloped from right to left, representing the law of demand, while the aggregate curve represents additional factors.

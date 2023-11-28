@@ -1,0 +1,1 @@
+S&P Dow Jones Indices publishes many stock market indices such as the Dow Jones Industrial Average, S&P MidCap 400, the S&P SmallCap 600, and the S&P Composite 1500. It is a free-float capitalization-weighted index, and has many ticker symbols, such as: ^GSPC, INX, and $SPX.

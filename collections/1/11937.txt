@@ -1,0 +1,1 @@
+The core piece in ROBLOX is called a part which is what we will be using to build most of our games. To add a part, we can either click on the Part button at the top of the screen, or we can right click on the screen and select Insert Part on the menu that pops up. This will add a 2 x 4 block into our place.

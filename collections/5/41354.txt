@@ -1,0 +1,1 @@
+Scribe has made it so easy to do it. Go to step2 if you are not in already. Scroll down until you see a field named vfPrimary. This field, when set to true, would go back to the step1 and update the primarycontactid field of the account record with recently updated/created contact record GUID.

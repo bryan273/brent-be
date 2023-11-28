@@ -1,0 +1,1 @@
+Subject test scores range from 1 to 36; all scores are integers. The English, mathematics, and reading tests also have subscores ranging from 1 to 18. (The subject score is not the sum of the subscores.) The composite score is the average of all four tests.

@@ -1,0 +1,1 @@
+, so. [ z ] is equal to. [1/ z ]. A different but common convention (e.g., Zwillinger 1995, p. 466; Bronshtein and Semendyayev, 1997, p. 70; Jeffrey 2000, p. 125) defines the range of as, thus giving a function that is continuous on the real line.

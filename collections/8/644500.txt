@@ -1,0 +1,1 @@
+A single gene determines several traits and certain traits are determined by few genes. Some traits are observable (ex: hair color, skin color, eye color, etc.) and some are not (ex: blood group, risk for specific diseases, etc.). Observable traits also are called phenotypic traits.

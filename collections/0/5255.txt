@@ -1,0 +1,1 @@
+- A blue circle means your message is sending. - A blue circle with a check means your message has been sent. - A filled-in blue circle with a check means your message has been delivered. - A small version of your friend or contact's photo will pop up below the message when they've read it.

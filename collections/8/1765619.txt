@@ -1,0 +1,1 @@
+Partitions as live load (variable action) There are three main differences if partitions are considered as ‘movable’ (live) as opposed to ‘heavier’ (dead): • Live load is not always present (hence pattern loading) • Live load is differently factored.

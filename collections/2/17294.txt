@@ -1,0 +1,1 @@
+With the release of the OMS Search API a number of automation scenarios have become available based on OMS analytics data. The solution sample in this blog post is just a simple example how to connect to OMS and start leveraging the rich analytics data in OMS.

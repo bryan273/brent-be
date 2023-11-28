@@ -1,0 +1,1 @@
+Moreover, pressure does not have to be measured along the wall of a container but rather can be measured as the force per unit area along any plane. Air pressure, for example, is a function of the weight of the air pushing down on Earth. Thus, as the altitude increases, pressure decreases.

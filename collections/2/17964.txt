@@ -1,0 +1,1 @@
+Specify you'd just like to see NS (Name Server) records of the domain by typing in the following: set q=NS. Hit Enter to be dropped to the next line, and here is where you'll type in your domain name: inmotionhosting.com.

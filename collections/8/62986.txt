@@ -1,0 +1,1 @@
+Learn: If you are new to Prism, this is a good place to start. You should also read through the remaining content in this topic. 1  Learn about Prism Capabilities: Introduction. 2  See how to consume the Prism Library in source code. 3  Learn the Prism concepts.

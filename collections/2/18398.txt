@@ -1,0 +1,1 @@
+Prior to 1884, some countries utilized local “prime meridians” to establish their coordinate systems within their country and around the world. 1  In order to have any x,y system of coordinates, as latitude and longitude are, there must be a starting place for both the north-south and the east-west axes.

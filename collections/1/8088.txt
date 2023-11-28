@@ -1,0 +1,1 @@
+Or, you can uninstall Microsoft XNA Framework Redistributable from your computer by using the Add/Remove Program feature in the Window's Control Panel. 1  On the Start menu (for Windows 8, right-click the screen's bottom-left corner), click Control Panel, and then, under Programs, do one of the following:

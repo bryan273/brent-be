@@ -1,0 +1,1 @@
+Here are some advantages of having a DHCP server connected to network: No IP address conflicts. DHCP can guarantee that all hosts on the network will have unique IP address. DHCP server keeps a record of all IP addresses assigned and cross reference them with host's MAC addresses.

@@ -1,0 +1,1 @@
+Some examples are: 1  high-throughput and high-fidelity quantification and sub-cellular localization (high-content screening, cytohistopathology, Bioimage informatics) 2  morphometrics. 3  clinical image analysis and visualization. 4  determining the real-time air-flow patterns in breathing lungs of living animals.

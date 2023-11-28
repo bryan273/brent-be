@@ -1,0 +1,1 @@
+The generalized volatility σ T for time horizon T in years is expressed as: Therefore, if the daily logarithmic returns of a stock have a standard deviation of σ SD and the time period of returns is P, the annualized volatility is. A common assumption is that P = 1/252 (there are 252 trading days in any given year). Then, if σ SD = 0.01 the annualized volatility is.

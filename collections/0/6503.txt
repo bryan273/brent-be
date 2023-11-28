@@ -1,0 +1,1 @@
+Right click at the top of your browser and make sure the “Menu Bar” option is selected. Select “Tools” from the menu bar and then select “Compatibility View settings”. In the pop-up menu uncheck all three boxes and click “Close”. Your browser window will automatically refresh and you’ll be ready to go. For Consumer.

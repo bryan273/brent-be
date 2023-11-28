@@ -1,0 +1,1 @@
+So, What sum(max_over_time(node_memory_ MemFree[2m])) will do is it will first find maximum from all the nodes. So, the answer will be the sum of all the maximum values of all the nodes, which I don't want.

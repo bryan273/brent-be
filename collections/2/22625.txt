@@ -1,0 +1,1 @@
+1 Update Windows Defender even when Automatic Windows Updates is disabled in Windows 10 / 8 / 7. 2  Fix: Windows Defender is turned off or not working. 3  Fix: Unable to turn on Windows Defender in Windows 10 / 8 / 7.  Add Scan With Windows Defender To Context Menu In Windows 10 / 8 / 7.

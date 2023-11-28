@@ -1,0 +1,1 @@
+The wet bulb and ambient temperatures can be used together to calculate relative humidity or dew point. For example, the wet bulb temperature is used in air conditioning applications where it is compared to the dry bulb temperature to determine the cooling capacity of evaporative coolers.

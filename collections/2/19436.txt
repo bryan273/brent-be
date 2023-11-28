@@ -1,0 +1,1 @@
+The benefit of using ExifTool is that even if you aren’t sure what the EXIF data string is for the shutter count on your particular camera brand/model (or if it exists at all) you can try various queries to narrow it down.

@@ -1,0 +1,1 @@
+So I developed an add-in that allows you to create keyboard shortcuts to change the font & fill colors. This add-in also lets you create keyboard shortcuts to apply other cell formatting properties like number formatting, borders, font size, protection alignment, etc.

@@ -1,0 +1,1 @@
+Now you have your Privoxy server set up on the Pi, running over the secure VPN via Hamachi. All that's left to do is set Privoxy as your proxy server on your other computers. To do that: Then enter the IP address of the Raspberry Pi, as assigned by Hamachi, in the proxy adress. The port is 8118.

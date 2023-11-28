@@ -1,0 +1,1 @@
+turnout — model railroad term for a track switch. This was adopted to avoid confusion with electric switches. turnout number — the ratio of the number of units along the center line of a switch frog traversed for each unit the frog spreads to the sides.

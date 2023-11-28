@@ -1,0 +1,1 @@
+The RRR value is the ratio of the electrical resistivity at 4.2K to the electrical resistivity at 273K. This allows the thermal conductivity to be characterized, because there is a close correspondence between electrical and thermal conductivity in metals.

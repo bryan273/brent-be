@@ -1,0 +1,1 @@
+VLC media player makes it easy to add subtitles to your video files too - just add the SRT file to the folder where your video is kept, and it will automatically play with subtitles. Finally, the interface in VLC media player has been somewhat improved in version 2 although it remains strictly functional.

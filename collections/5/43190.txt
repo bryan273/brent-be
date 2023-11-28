@@ -1,0 +1,1 @@
+Logistics Product Data. This standard defines logistics product data generated during the requirements definition and design of an industry or government system, end item or product. It makes use of the Extensible Markup Language (XML) through the use of entities and attributes that comprise logistics product data and their definitions.

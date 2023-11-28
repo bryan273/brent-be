@@ -1,0 +1,1 @@
+In our book printing world we express paper dimensions in inches because we work with both non-standard and standard size books. 5.5 x 8, 7 x 10, 8.5 x 11 are all common book printing sizes, but since we can produce books of any size, it’s easier to stick with inches rather than only working with standard paper sizes.

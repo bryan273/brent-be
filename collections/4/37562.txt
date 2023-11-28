@@ -1,0 +1,1 @@
+When working with an Oracle database, you must use the Microsoft OLE DB Provider for Oracle provided with Visual Database Tools. This driver has been tested to ensure that it works properly with the Database Designer.

@@ -1,0 +1,1 @@
+Fuel consumption rate. Kilowatt-hours is an energy unit for electricity. This value tells you how many kilowatt-hours the vehicle would use to travel 100 miles. Like gallons per 100 miles, this kilowatt-hours per 100 miles value relates directly to the amount of electricity used, and thus to cost.

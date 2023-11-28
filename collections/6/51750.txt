@@ -1,0 +1,1 @@
+Disable IE auto refresh. 1  Close all windows of Internet Explorer.  Click on Custom Level. If you cannot find the Custom Level option, see if you have already set the security for Internet to Custom Level. If that is the case, you will have to click on Default Level button. Once you do this, the Custom Level button would be available.

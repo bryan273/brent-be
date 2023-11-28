@@ -1,0 +1,1 @@
+Site map may also be spelled sitemap. When the site map is for users, it's just a plain HTML file with a listing of all the major pages on a site. In the context of search engines, the site map, also known as a sitemap.xml file, helps search engine crawlers index all pages on the site.

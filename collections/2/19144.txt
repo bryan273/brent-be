@@ -1,0 +1,1 @@
+This document provides details of the system requirements for IBM eDiscovery Manager Version 2.2.

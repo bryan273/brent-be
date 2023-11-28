@@ -1,0 +1,1 @@
+The Remainder Theorem states that when you divide a polynomial P(x) by any factor (x-a) ; which is not necessarily a factor of the polynomial; you'll obtain a new smaller polynomial and a remainder, and this remainder is the value of P(x) at x = a, i.e P(a).

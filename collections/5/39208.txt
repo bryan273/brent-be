@@ -1,0 +1,1 @@
+What is the geometric shape of the football? The proper mathematical object is the complex projective space CP1 quotiented out by the group action of Z mod 2 i.e. (CP^1)/(Zmod2)=CP^1/(+-1) Taking the Riemann Sphere, we … identify antipodal points.

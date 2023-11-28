@@ -1,0 +1,1 @@
+In order to capture whole screen at once, you need to just press Windows Key + PrintScreen or Windows Key + Fn + PrintScreen key combination on keyboard. While capturing screenshots, your laptop dims and then you can find the screenshot captured in the Screenshots folder under the Pictures library.

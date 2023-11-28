@@ -1,0 +1,1 @@
+Five minutes later, when your friend calls you back, your Bluetooth-enabled home phone rings instead of your cell phone. The person called the same number, but your home phone picked up the Bluetooth signal from your cell phone and automatically re-routed the call because it realized you were home.

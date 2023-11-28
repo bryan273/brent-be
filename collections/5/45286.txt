@@ -1,0 +1,1 @@
+Open the DigitalPersona software by clicking on the fingerprint icon in your Windows taskbar. Click on Profile in the Options pane on the left of the program window. Select the Fingerprints tab and select the finger or finger you'd like to register. Swipe your finger slowly and smoothly over the scanner four times.

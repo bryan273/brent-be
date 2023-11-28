@@ -1,0 +1,1 @@
+To ensure that the activation threshold is met, a KMS host counts the number of computers that are requesting activation on the network. For computers running Windows Server 2008 or Windows Server 2008 R2, the activation threshold is five.

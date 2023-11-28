@@ -1,0 +1,1 @@
+What Are Confidence Bounds? One of the most confusing concepts to a novice reliability engineer is estimating the precision of an estimate. This is an important concept in the field of reliability engineering, leading to the use of confidence intervals. This subject can be confusing, as confidence is the probability of a probability..

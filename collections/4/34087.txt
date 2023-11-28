@@ -1,0 +1,1 @@
+Your Internet Protocol (IP) address is a unique number devices use to communicate and identify with each other through the internet network, similar to a mailing address. Data and information passes through from one device to another after identifying the IP address' of both sender and receiver.

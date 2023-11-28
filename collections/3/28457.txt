@@ -1,0 +1,1 @@
+In Python, how do I get a function name as a string without calling the function? def my_function(): pass print get_function_name_as_string(my_function) # my_function is not in quotes should Stack Overflow

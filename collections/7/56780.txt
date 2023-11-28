@@ -1,0 +1,1 @@
+Unloaded Vehicle Weight Rating. This is the weight of the vehicle (usually a trailer) including fluids (fuel, coolant, lubricants) and any standard equipment installed by the factory. It does not include passengers, cargo, dealer or aftermarket installed equipment. (see Base Curb Weight)

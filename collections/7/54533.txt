@@ -1,0 +1,1 @@
+Tactical Equipment includes all equipment that can harm another player, but not kill them unless they're extremely weak and get directly hit by a throwable piece of equipment. All non-grenade Tactical Equipment can be set down and picked back up at any time. Tactical Equipment includes:

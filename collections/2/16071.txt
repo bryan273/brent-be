@@ -1,0 +1,1 @@
+Check valves are necessary if there is a risk of condensate backflow. For example, when a trap discharges into a common condensate collection line, there is the potential risk of backflow from condensate discharged from other traps, so as a rule a check valve should be installed.

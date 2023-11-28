@@ -1,0 +1,1 @@
+From these two measurements a forester can determine how much lumber is in a tree, and thereby predict how much wood is in a particular timber area. The unit of wood that a forester wants to know is called a 'board foot'. A board foot is one foot by one foot by one inch thick.

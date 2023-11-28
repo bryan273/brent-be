@@ -1,0 +1,1 @@
+SSI payments are usually dated and delivered on the first day of the month that they are due. However, if the first falls on a Saturday, Sunday, or Federal holiday, they are dated and delivered on the first day preceding the first of the month that is not a Saturday, Sunday, or Federal holiday.

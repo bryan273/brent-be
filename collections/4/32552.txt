@@ -1,0 +1,1 @@
+1. If you use Mac or Linux, Chrome's menu button is as far as possible from the other window controls: close, minimize, maximize. Additionally, most menus, links and buttons appear on the left side of the browser. This makes you have to move your mouse further (on average) when you need to access the menu.

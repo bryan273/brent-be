@@ -1,0 +1,1 @@
+For a valve, we also need to know the pressure drop and the fluid density. But in addition to the dimensions of pipe diameter and orifice size, we need to know all the valve passage dimensions and all the changes in size and direction of flow through the valve.

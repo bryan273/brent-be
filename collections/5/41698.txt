@@ -1,0 +1,1 @@
+The potential damage from an absorbed dose depends on the type of radiation and the sensitivity of different tissues and organs. The sievert (Sv) is a unit of radiation weighted dose also called the effective dose. It is a way to measure ionizing radiation in terms of the potential for causing harm.

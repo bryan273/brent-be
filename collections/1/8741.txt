@@ -1,0 +1,1 @@
+Hello SD/MM experts. We would like to display open Stock Transport Order(STO) which means the STO doesn't have a outbound delivery document as a subsequent order. Would you know the flag or something that is manage the status of outbound delivery document creation as a subsequent order. Please help.

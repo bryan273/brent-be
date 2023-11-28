@@ -1,0 +1,1 @@
+According to Faraday's law, since the same magnetic flux passes through both the primary and secondary windings in an ideal transformer, a voltage is induced in each winding, according to eq. (1) in the secondary winding case, according to eq. (2) in the primary winding case.

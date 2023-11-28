@@ -1,0 +1,1 @@
+On most HP and Compaq notebook computers, it is necessary to press and hold the function key (fn) while pressing one of the f1 through f12 keys to activate the default functions; such as, increasing or decreasing the brightness of the display, the sound volume, sleep, keyboard lock, etc.

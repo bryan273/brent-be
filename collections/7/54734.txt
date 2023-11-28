@@ -1,0 +1,1 @@
+The blueprints for proteins are stored in DNA and decoded by highly regulated transcriptional processes to produce messenger RNA (mRNA). The message coded by an mRNA is then translated into a protein.

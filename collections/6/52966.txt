@@ -1,0 +1,1 @@
+Avaya ERS 2550T-PWR, a 50-port Ethernet switch. A network switch (also called switching hub, bridging hub, officially MAC bridge) is a computer networking device that connects devices together on a computer network, by using packet switching to receive, process and forward data to the destination device.

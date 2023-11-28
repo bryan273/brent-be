@@ -1,0 +1,1 @@
+Reflection of Light Explore how light of varying incident angle and wavelength is reflected from a smooth surface. The amount of light reflected by an object is highly dependent upon the texture of its surface.

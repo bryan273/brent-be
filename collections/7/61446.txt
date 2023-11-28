@@ -1,0 +1,1 @@
+Configure user settings for Office 2013 - Configure user settings. 1  To start the OCT, from the root of the network installation point, type the following at the command prompt: setup.exe /admin. 2  In the Select Product dialog box, select the product that you want to configure, and then choose OK.

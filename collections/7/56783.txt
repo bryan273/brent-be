@@ -1,0 +1,1 @@
+Trailer hitches have Gross Trailer Weight ratings, for the maximum towed vehicle weight allowed. Each component (receiver, drawbar and ball) of a ball-type hitch has its own rating. A ball is rated by its towing capacity. A hitch is rated by its towing capacity but also by the tongue weight.

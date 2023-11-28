@@ -1,0 +1,1 @@
+1. Re: Windows 10 and Intel Rapid Start Technology. Please be aware that Intel SRT is not supported under Win 10 at this point. My recommendation at this point is to check with Dell directly and confirm if they have any step to install and make the Intel SRT work under win 10.

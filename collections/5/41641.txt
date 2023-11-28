@@ -1,0 +1,1 @@
+To send mail “As” another user, you would click on the “From” and then choose the user from the GAL: As you continue to use Outlook to send mail As another mailbox owner, the “From” field keeps a Most Recently Used (MRU) list.

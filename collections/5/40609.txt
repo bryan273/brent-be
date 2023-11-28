@@ -1,0 +1,1 @@
+Microsoft reissued a security update Wednesday after pulling it from distribution to investigate reports that it had caused problems for some users, including the notorious Blue Screen of Death condition.

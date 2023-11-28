@@ -1,0 +1,1 @@
+This will search the star registry for your information and display your star's photo, your name, your dedication date and the telescopic coordinates of your star. Once you have found your star, you also have the option of including a picture of your loved one in the registry by uploading a digital photograph of them.

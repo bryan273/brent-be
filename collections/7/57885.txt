@@ -1,0 +1,1 @@
+Compared to a CD's 1.2 mm layer of polycarbonate, a DVD's laser beam only has to penetrate 0.6 mm in order to reach the recording surface. This allows a DVD drive to focus the beam on a smaller spot size and to read smaller pits.

@@ -1,0 +1,1 @@
+The susceptible method to finding the brightest spot in an image is to use the cv2.minMaxLoc function without any pre-processing. This function requires a single argument, which is our grayscale image.

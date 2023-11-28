@@ -1,0 +1,1 @@
+Many types of sensors use capacitive sensing, including sensors to detect and measure proximity, position or displacement, humidity, fluid level, and acceleration. Human interface devices based on capacitive sensing, such as trackpads, can replace the computer mouse.

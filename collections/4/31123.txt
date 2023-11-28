@@ -1,0 +1,1 @@
+here, too. EDIT: I got a weird solution - check the internet settings of the browser you DONT use (I use firefox) -> my settings for Internet Explorer were set to connect to a proxy server -> disabled it and it worked! Also check your date and time! Mine was set to 2012 for some reason 0_o worked after I fixed it.

@@ -1,0 +1,1 @@
+This declares that the file is an XML document adhering to the 1.0 version of the XML spec. It should always be found at the top of all your XML files. Next add the root element for the document. XML files always have one and only one root element that contains the rest of the document.

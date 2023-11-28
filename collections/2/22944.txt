@@ -1,0 +1,1 @@
+NOTE: You must be an administrator to perform this solution. NOTE: Solution steps are based on the Windows Operating System. In a Redhat or Solaris Environment you will need to open a terminal, change into the Xerox/Docushare/bin directory and the run the command ./start_docushare.sh resetpassword.

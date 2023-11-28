@@ -1,0 +1,1 @@
+Lego Worlds is a sandbox video game which allows player to build a world made up of Lego bricks. The player is rewarded for collecting objects spread across the map with studs, an in-game currency. The player can then build using the items they have encountered.

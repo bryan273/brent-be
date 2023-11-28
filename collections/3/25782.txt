@@ -1,0 +1,1 @@
+The Health Insurance Portability and Accountability Act (HIPAA) is a law that was passed in 1996, designed primarily to modernize the flow of health information. At the time, most medical records were in paper form, but it was becoming clear that health data would become digital in the future.

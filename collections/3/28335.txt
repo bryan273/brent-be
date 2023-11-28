@@ -1,0 +1,1 @@
+Static Methods: 1  Simple functions with no self argument. 2  Work on class attributes; not on instance attributes. 3  Can be called through both class and instance. 4  The built-in function staticmethod()is used to create them.

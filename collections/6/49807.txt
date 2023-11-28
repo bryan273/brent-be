@@ -1,0 +1,1 @@
+The lower the pH reading, the more acidic the solution. Readings from 0–7 are considered acidic, and numbers from 7.0–14 are considered basic, or alkaline. Pure water, in the very middle of the (logarithmic) pH scale, has a pH of 7.0, which is considered neutral.

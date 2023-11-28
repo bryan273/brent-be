@@ -1,0 +1,1 @@
+1. Deleting local files. One of the things that you can do is delete local Steam files to have the software re-download them during connection. You need to be careful with the files and folders that you delete though, as you would not want to delete your gaming folder with the download games for instance.

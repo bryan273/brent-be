@@ -1,0 +1,1 @@
+Definition of: RPM (1) (Revolutions Per Minute) With electric and electronics devices, RPM measures the rotational speed of the motor's spindle. Floppy disks rotate at 300 RPM, while hard disks rotate from 3,000 to 15,000 RPM. CD and DVD platters typically rotate in the range of 2,000-5,000 RPM.

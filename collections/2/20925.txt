@@ -1,0 +1,1 @@
+You measure mass by observing it's acceleration response to force (i.e by applying Newton's second law). Now, because it is impractical to accurately measure straight-line accelerations over a wide range, we actually use periodic motions and measure frequency.

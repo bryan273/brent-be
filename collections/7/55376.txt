@@ -1,0 +1,1 @@
+1 34 ATP are made from the products of 1 molecule of glucose. 2  The process is a stepwise movement of electrons from high energy to low energy that makes the proton gradient. 3  The proton gradient powers ATP production NOT the flow of electrons. 4  This electron transport chain only occurs when oxygen is available.

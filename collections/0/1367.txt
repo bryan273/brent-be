@@ -1,0 +1,1 @@
+Education Enrollment (Population Age 3+): The data represents the percentage of people in the area over age 3 who are currently enrolled at each type of learning institution. Index score: (100 = National Average) for an area is compared to the national average of 100.

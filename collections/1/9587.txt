@@ -1,0 +1,1 @@
+A number of classification systems are used for gradation of osteoarthritis: 1  WOMAC scale, taking into account pain, stiffness and functional limitation. 2  Kellgren-Lawrence grading scale for osteoarthritis of the knee. 3  Tönnis classification for osteoarthritis of the hip joint, also using only projectional radiography features.

@@ -1,0 +1,1 @@
+To specify which programs are set up in Windows 7 and Windows Vista, follow these steps: 1  Open the Control Panel. 2  Choose Programs, and then beneath the heading Default Programs, click the link Set Your Default Programs. 3  Choose from the list the program you want to use as your web browser. 4  Choose the option Set This Program As Default.

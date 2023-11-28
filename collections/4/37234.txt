@@ -1,0 +1,1 @@
+1 Find the average weekly hours with the equation (30 + 25 + 35 + 40) / 4 = 32.5. 2  If you earn $19 per hour, then calculate your annual salary with the equation (32.5 x $19) x 52 = $32,110. 3  Keep track of your weekly hours with spreadsheet software or a time-tracking app.

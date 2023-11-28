@@ -1,0 +1,1 @@
+The XtraGrid control provides a built-in Check-Box Row Selector providing you with a handy way to select multiple rows. Check this video for an introduction of this feature.

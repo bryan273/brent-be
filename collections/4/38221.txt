@@ -1,0 +1,1 @@
+Gauge and differential measurement methods are relative to some other dynamic pressure. In the gauge method, the reference is the ambient atmospheric pressure. This means that both the reference and the pressure of interest are acted upon by atmospheric pressures.

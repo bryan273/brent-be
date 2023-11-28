@@ -1,0 +1,1 @@
+The SetSecurityInfo function sets specified security information in the security descriptor of a specified object. The caller identifies the object by a handle. To set the SACL of an object, the caller must have the SE_SECURITY_NAME privilege enabled. C++.

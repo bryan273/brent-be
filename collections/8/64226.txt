@@ -1,0 +1,1 @@
+For example: 1  The cause code provided by the PSTN gateway that generated the failure. When an outgoing call fails on the PSTN network, an ISDN User Part (ISUP) cause code is automatically generated. 2  Peer FQDN, port, and Winsock errors for connectivity failures. 3  Names being looked up for DNS resolution failures.

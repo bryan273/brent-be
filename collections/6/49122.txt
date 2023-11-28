@@ -1,0 +1,1 @@
+The second is a spreadsheet used by pay pool panels to carry out such tasks as generating salary increase and bonus amounts based on the DCIPS algorithm and creating a one-page summary of payout information for each pay pool member. The third is a spreadsheet used to analyze pay pool process results.

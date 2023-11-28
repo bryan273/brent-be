@@ -1,0 +1,1 @@
+Comments5 Share. Saddles are Items that allow the player to ride Pigs, horses, mules and donkeys after they are saddled. As of 1.4.2, the pig can be controlled by a Carrot on a Stick. Saddles can also be placed on horses.

@@ -1,0 +1,1 @@
+Since the cup is insulated, the heat has to come from the 100 grams of water at 20°C. The amount of heat required to melt the ice and to increase the temperature of the resulting water to the final temperature is equal to the heat lost by the 100 grams of water. This can be expressed by an equation: Wi×Hf + Wi×Sh×(Tf - 0°C) = Ww×Sh×(Twi-Tf). Where.

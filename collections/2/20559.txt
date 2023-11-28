@@ -1,0 +1,1 @@
+The table.remove function removes (and returns) an element from a given position in an array, moving down other elements to close space and decrementing the size of the array. When called without a position, it removes the last element of the array.

@@ -1,0 +1,1 @@
+Symptoms. 1  The virtual machine remote console (VMRC) plug-in fails and does not connect in vCloud Director. 2  Though the plug-in is already installed, it repeatedly asks to install the plug-in.

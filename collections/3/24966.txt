@@ -1,0 +1,1 @@
+Belkin’s WeMo system is home automation made easy. The WeMo Switch is WeMo’s main building block. Plug anything you want to control into the WeMo Switch. Connect.

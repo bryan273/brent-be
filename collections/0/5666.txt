@@ -1,0 +1,1 @@
+Both the variance and the standard deviation meet these three criteria for normally-distributed (symmetric, bell-curve) data sets. The variance (σ2) is a measure of how far each value in the data set is from the mean. Here is how it is defined: Subtract the mean from each value in the data.

@@ -1,0 +1,1 @@
+The camera is required for the Stroboscope mode, the microphone is used to measure sound intensity and Media file is used to save a .csv file with the data. The key permission that you will not find is internet, the app does not have access to the internet.

@@ -1,0 +1,1 @@
+Vulnerability scanning is an inspection of the potential points of exploit on a computer or network to identify security holes. Download this guide to become a Web App Security superhero.

@@ -1,0 +1,1 @@
+“DST” is displayed if there is Daylight Saving Time at the moment. Click on any red dot and go to that city's page with time, weather, sunrise/set, moon phases and lots more. Hover your mouse over the map to highlight time zones. (Doesn't work in older versions of IE – IE8 and below.)

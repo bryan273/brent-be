@@ -1,0 +1,1 @@
+A check valve is a type of valve that allows fluids to flow in one direction but closes automatically to prevent flow in the opposite direction (backflow). Check valves are used in a wide variety of locations, but the focus of the discussion in this tutorial will be the installation of check valves at the steam trap outlet side.

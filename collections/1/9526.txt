@@ -1,0 +1,1 @@
+Traits that only require one copy of the same gene to show up are called “dominant” while traits that require two copies of the same gene are called “recessive.” Real world example: Red-headedness is a trait that is linked to a gene for the production of a protein being a little bit busted.

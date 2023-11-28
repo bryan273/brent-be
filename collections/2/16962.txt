@@ -1,0 +1,1 @@
+A date on the other hand usually has the month and the year along with the day: the 21st February 2011. It also has a fixed quality I think. I was wondering if there are any other differences between day and date, and when it's correct to choose one over the other.

@@ -1,0 +1,1 @@
+While support for .NET Core and CoreCLR remains in the works for Service Fabric, the benefit when that support comes online is clear. Running ASP.NET 5 on top of .NET Core 5 provides a lightweight .NET framework and CoreCLR runtime with a very small memory footprint compared to the traditional .NET 4.x.

@@ -1,0 +1,1 @@
+MOPP protection levels Each MOPP level corresponds to an increasing level of protection. The readiness level will usually be dictated by the in-theatre commander.

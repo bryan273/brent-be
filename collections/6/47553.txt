@@ -1,0 +1,1 @@
+Make a Payment. 1  WebPay - (An electronic payment taken from your checking or savings account) 2  Credit Card - The credit card service provider will assess a convenience fee. 3  ACH Credit - Specially formatted (Tax Payment (TXP) Addendum (CCD+) Format) electronic payment that you initiate with your bank.

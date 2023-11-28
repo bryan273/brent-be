@@ -1,0 +1,1 @@
+If so, this should be done after installation of DDP | ST. Refer to how to update ControlVault firmware. 1  Download & install Dell Dell Data Protection|Security Tools (DDP|ST) Driver. 2  This can be found within the Security Section of the Drivers & Downloads site.

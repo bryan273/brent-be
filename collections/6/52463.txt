@@ -1,0 +1,1 @@
+As a result, the term categorical variable is often reserved for cases with 3 or more outcomes, sometimes termed a multi-way variable in opposition to a binary variable. It is also possible to consider categorical variables where the number of categories is not fixed in advance.

@@ -1,0 +1,1 @@
+Factory Pattern. 1  Factory pattern is a creational design pattern. 2  Idea of the factory patterns is to localize the object creation code. 3  This prevents disturbing the entire system for a new type introduction.

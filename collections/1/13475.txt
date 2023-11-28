@@ -1,0 +1,1 @@
+Transmittance of the surface of a material is its effectiveness in transmitting radiant energy. It is the fraction of incident electromagnetic power that is transmitted through a sample, in contrast to the transmission coefficient, which is the ratio of the transmitted to incident electric field.

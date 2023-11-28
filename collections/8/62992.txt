@@ -1,0 +1,1 @@
+Example: What is the surface area of a prism where the base area is 25 m 2, the base perimeter is 24 m, and the length is 12 m: (Note: we have an Area Calculation Tool). The Volume of a prism is the area of one end times the length of the prism.

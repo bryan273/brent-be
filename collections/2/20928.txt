@@ -1,0 +1,1 @@
+1 Measure the centripetal force on a centrifuge. $ 2 F = m \frac{v^2}{r} = m \omega^2 r$, is the naive approach, but on the surface of the planet you have to be a little more clever (adding the centripetal force to the existing weight). 3  Here you would put a scale between the test mass and the centrifuge to get $F$.

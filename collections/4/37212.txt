@@ -1,0 +1,1 @@
+- an overview, summary, or tutorial giving the basics of the way the TETRA mobile radio communications system works as a terrestrial trunked radio system in its application as a PMR, Private Mobile Radio system. TETRA Radio Tutorial Includes.

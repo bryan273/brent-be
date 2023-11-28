@@ -1,0 +1,1 @@
+Microsoft Outlook 2010 blocks attachments that exceed 20 megabytes (20480 KB). If your attachments exceed this limit, the error message “ The attachment size exceeds the allowable limit ” appears.

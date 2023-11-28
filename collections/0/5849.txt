@@ -1,0 +1,1 @@
+The PCM can control fuel delivery to the injectors by increasing the IPR duty cycle. which increases fule pressure through the injector nozzels. PID: IPR (% of duty cycle), MFDES. Mass Fuel Desired an internal PCM calculation based on load demand.

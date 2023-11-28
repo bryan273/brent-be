@@ -1,0 +1,1 @@
+(Or website) Any computer on the Internet running a World-Wide Web server process. A particular website is usually identified by the hostname part of a URL. Multiple hostnames may actually map to the same computer in which case they are known as virtual servers.

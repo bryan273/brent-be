@@ -1,0 +1,1 @@
+exists and is an alternate of . Verizon uses CDMA(Code Division Multiple Access). It sometimes will connect to GSM(Global Standard for Mobile Communication) if used in countries with providers that Verizon has negotiated an agreement with that uses GSM technology. Roaming charges will apply!

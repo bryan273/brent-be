@@ -1,0 +1,1 @@
+Some laboratories report a ratio of total cholesterol to HDL cholesterol. The ratio is obtained by dividing the total cholesterol by the HDL cholesterol. For example, if a person has a total cholesterol result of 200 mg/dL and an HDL cholesterol level of 50 mg/dL, the ratio would be stated as 4 (or 4:1). A desirable ratio is below 5 (5:1); the optimum ratio is 3.5 (3.5:1).

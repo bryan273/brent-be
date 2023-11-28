@@ -1,0 +1,1 @@
+Oracle Express was a multi-dimensional database and application development environment for building OLAP applications. Normal relational databases store data in two-dimensional tables and analytical queries against them can be very slow.

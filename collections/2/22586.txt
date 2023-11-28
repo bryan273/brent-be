@@ -1,0 +1,1 @@
+To learn more about Prometheus's query language, including how to do compute percentiles from histograms, how to deal with timestamp-based metrics, or how to query for service instance health, head on to How To Query Prometheus on Ubuntu 14.04 Part 2.

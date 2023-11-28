@@ -1,0 +1,1 @@
+The Rankine temperature scale uses the same size degree as Fahrenheit, but has its zero set to absolute zero. To convert from Fahrenheit to Rankine, add 459.67 to the Fahrenheit reading. To convert from Kelvin to Rankine, multiply the Kelvin temperature by 9/5.

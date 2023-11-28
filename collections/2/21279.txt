@@ -1,0 +1,1 @@
+Protractor: It is a semicircle with the number of degrees marked on it between 0 and 180. We'll show you how to use it to measure angles. Notice that 90 degrees is straight up--a 90 degree angle is a right angle. Straight-edge: The bottom of your protractor doubles as a straightedge. You use it to draw lines with.

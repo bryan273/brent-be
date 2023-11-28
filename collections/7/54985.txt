@@ -1,0 +1,1 @@
+1 Screen for breast cancer in women without symptoms. 2  Detect breast cancer in women with symptoms. 3  Symptoms of breast cancer may include a lump or thickening in the breast, nipple discharge, or dimpling of the skin on one area of the breast.

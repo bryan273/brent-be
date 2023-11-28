@@ -1,0 +1,1 @@
+The VARENUM enumeration constants are used in the discriminant field, vt, of the VARIANT type specified in section 2.2.29.2. When present, the VT_BYREF flag MUST be in an OR relation with another value to specify the byref argument for the VARIANT.

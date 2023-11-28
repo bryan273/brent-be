@@ -1,0 +1,1 @@
+1 While viewing a route, click on the EXPORT tab in the right side panel. 2  Click on one of the file types. In this example, I will select TCX COURSE. 3  By default, my browser has placed the TCX Course file in my DOWNLOADS folder.  Plug in your Garmin device into your computer via USB.

@@ -1,0 +1,1 @@
+UpdatusUser is a direct result of installing the NVIDIA Update Service and is installed automatically unless the Custom install is selected when the drivers are installed. In order for UpdatusUser not to be installed you must select the Custom driver installation and uncheck the box next to NVIDIA Update Service.

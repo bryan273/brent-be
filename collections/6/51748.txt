@@ -1,0 +1,1 @@
+1 Click Finish and Firefox will open.  Click this Refresh Firefox button directly, if you are viewing this page in Firefox (it won't work if you are using a different browser or on a mobile device). You will also find a Refresh button on the top right corner of the Firefox about:support Troubleshooting Information page.

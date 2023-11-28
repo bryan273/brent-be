@@ -1,0 +1,1 @@
+A central problem in motor control, in the representation of space, and in the perception of body schema is how the brain encodes the relative positions of body parts. According to psychophysical studies, this sense of limb position depends heavily on vision.

@@ -1,0 +1,1 @@
+In general, to parse someone's writing or speech simply means to interpret it. In computers, to parse is to divide a computer language statement into parts that can be made useful for the computer.

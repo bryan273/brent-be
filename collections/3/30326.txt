@@ -1,0 +1,1 @@
+1 Extractive distillation is defined as distillation in the presence of a miscible, high boiling, relatively non-volatile component, the solvent, that forms no azeotrope with the other components in the mixture.

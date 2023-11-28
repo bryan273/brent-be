@@ -1,0 +1,1 @@
+The speed at which light propagates through transparent materials, such as glass or air, is less than c; similarly, the speed of radio waves in wire cables is slower than c.

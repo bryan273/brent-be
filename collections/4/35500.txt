@@ -1,0 +1,1 @@
+Their purpose is to implement Boolean Logic. You might notice the correspondence to Binary Semantics and thus Binary (number system) logic & mathematics. Special fun: OR and XOR (exclusive OR).

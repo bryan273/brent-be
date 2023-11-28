@@ -1,0 +1,1 @@
+Except they're not... On my Chrome menu (mac) is File Edit View History etc. Under File you get: new tab, new window, new incognito window, reopen closed tab, open file open location and more... under the no-longer existing confusing 'wrench' menu icon you get the first three options but nothing else.

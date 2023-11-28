@@ -1,0 +1,1 @@
+Useful in the diagnosis of toxicity due to Arsenic, Lead or Mercury. LOINC®' Code(s) The Result and LOINC information listed below should not be used for electronic interface maintenance with Quest Diagnostics. Please contact the Quest Diagnostics Connectivity Help Desk for more information at 800-697-9302.

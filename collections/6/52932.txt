@@ -1,0 +1,1 @@
+Metals are good electrical conductors because there are lots of free charges in them. The free charges are usually negative electrons, but in some metals, e.g., tungsten, they are positive 'holes.' For purposes of discussion, let's assume we have free electron charges.

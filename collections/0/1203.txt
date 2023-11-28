@@ -1,0 +1,1 @@
+This chapter. deﬁnes the process of production acceptance and describes many of the. beneﬁts this process provides to a variety of groups both inside and out-. side of IT. The middle sections of this chapter discuss each of the 14. steps required to design and implement an effective production accept-. ance process.

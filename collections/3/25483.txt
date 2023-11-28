@@ -1,0 +1,1 @@
+Now, if the water can wet the surface, it sticks to it. It has found a way to reduce the tension by reducing the surface area further, since now the water next to the surface has very little tension, so it does not really 'count', and the rest of the area is less than the original sphere. Thus it sticks to the surface.

@@ -1,0 +1,1 @@
+Line of Best Fit. We can also draw a Line of Best Fit (also called a Trend Line) on our scatter plot: Try to have the line as close as possible to all points, and as many points above the line as below. A Scatter Plot of Sea Level Rise:

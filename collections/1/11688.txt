@@ -1,0 +1,1 @@
+DailyMed will deliver this notification to your desktop, Web browser, or e-mail depending on the RSS Reader you select to use. To view updated drug label links, paste the RSS feed address (URL) shown below into a RSS reader, or use a browser which supports RSS feeds, such as Safari for Mac OS X.

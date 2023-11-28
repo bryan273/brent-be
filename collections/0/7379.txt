@@ -1,0 +1,1 @@
+Where power inverter devices substitute for standard line power, a sine wave output is desirable because many electrical products are engineered to work best with a sine wave AC power source. The standard electric utility power attempts to provide a power source that is a good approximation of a sine wave.

@@ -1,0 +1,1 @@
+Network Management Prof. Dr.-Ing. Alexandru Soceanu What is Expected from Network Security (CIA Model) 1. Confidentiality: Ensure that the secrecy is enforced and the information is not read by unauthorized users. Cryptography and encryption may ensure the confidentiality of the transferred data. 2.

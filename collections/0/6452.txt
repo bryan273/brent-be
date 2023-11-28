@@ -1,0 +1,1 @@
+Attenuation is a general term that refers to any reduction in the strength of a signal. Attenuation occurs with any type of signal, whether digital or analog. Sometimes called loss, attenuation is a natural consequence of signal transmission over long distances. The extent of attenuation is usually expressed in units called decibels (dBs).

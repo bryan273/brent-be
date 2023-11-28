@@ -1,0 +1,1 @@
+We also introduce major expansion products that extend IBM FileNet P8 functionality in the areas of content ingestion, content accessing through connectors and federation, the application framework, and discovery and compliance. IBM FileNet P8 Platform supports enterprise content management.

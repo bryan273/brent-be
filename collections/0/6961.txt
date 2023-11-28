@@ -1,0 +1,1 @@
+Tips for Data Backup. There are many ways to backup data on your computer - the least effective of which (for obvious reasons) is having the only backup location on your actual hard drive. Instead, use external hardware such as a disk, CD, zip drive, or memory stick.

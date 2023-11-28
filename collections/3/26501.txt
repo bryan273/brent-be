@@ -1,0 +1,1 @@
+By altering the geometry of the turbine housing to help the engine accelerates, the turbo's aspect ratio can be maintained at its optimum. Because of this, VGTs have a minimal amount of lag, have a low boost threshold, and are very efficient at higher engine speeds. VGTs do not require a wastegate.

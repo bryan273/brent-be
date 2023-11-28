@@ -1,0 +1,1 @@
+Hyperlink keyboard shortcuts. Use these shortcuts to access a hyperlink on your slide: To select a link, press TAB (If you have several links in a single slide, continue pressing TAB until you reach the one you want to access) To return to a previous link, press SHIFT + TAB; To open a hyperlink, press ENTER; Keyboard shortcuts for Pointer Options

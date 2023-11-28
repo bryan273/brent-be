@@ -1,0 +1,1 @@
+When authoring expressions, it's useful to keep these tips in mind: 1  Intellisense is your friend. As you type, intellisense will suggest properties and values. 2  The “!” symbol (exclamation mark, or bang) is how you reference the properties of a visual.

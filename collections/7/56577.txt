@@ -1,0 +1,1 @@
+Disable startup items and non-Microsoft services. 1  Quit all applications. 2  Choose Start > Run, and type msconfig in the Open box. 3  Write down all deselected items under the Startup and Services tabs.  Click the General tab, and choose Selective 1  startup. Click the Startup tab and select Disable  All.

@@ -1,0 +1,1 @@
+Quick Answer. There are two main types of software: system software and application software. System software refers to a program that makes the computer’s hardware work, while application software is software that accomplishes a specific task or several related tasks.

@@ -1,0 +1,1 @@
+All copies have a scanning phase where the image is retrieved from the page. The difference between a monochrome and a color copy is how the image is processed and how many different color toners/inks/dyes are used. There are several commonly used techniques for making photocopies.

@@ -1,0 +1,1 @@
+Excel SUMIFS function - syntax & usage. You use SUMIFS in Excel to find a conditional sum of values based on multiple criteria. The SUMIFS function was introduced in Excel 2007, so you can use it in all modern versions of Excel 2013, 2010 and 2007. Compared to SUMIF, the SUMIFS syntax is a little bit more complex:

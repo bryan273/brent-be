@@ -1,0 +1,1 @@
+Learn more at devexpress.com Copyright © 2008 Developer Express Inc ALL RIGHTS RESERVED ASP.NET Grid – How to Select Rows That Contain a Specified Value In this video, you will learn how to automatically select specific rows based on a value entered by the end-user at runtime.

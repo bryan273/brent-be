@@ -1,0 +1,1 @@
+Garmin connect has no function to do this directly, but it is easy to download a file, edit it, and upload it back. 1. 'Export' the file from Garmin Connect as a TCX file. This is Garmin's proprietary XML file and contains heart rate etc. 2. Open the file in the free to download Garmin Training Centre app.

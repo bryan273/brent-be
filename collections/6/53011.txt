@@ -1,0 +1,1 @@
+The capability provided to the consumer is to use the provider’s applications running on a cloud infrastructure. The capability provided to the consumer is to use the provider’s applications running on a cloud infrastructure. The applications are accessible from various client devices through a thin client interface such as a web browser (e.g., web-based email).

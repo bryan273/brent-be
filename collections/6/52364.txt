@@ -1,0 +1,1 @@
+Statistics, thus attempts to infer the properties of a large collection of data from inspection of a sample of the collection thereby allowing educated guesses to be made with a minimum of expense. There are basically three kinds of averages commonly used in statistics. They are: mean, median, and mode.

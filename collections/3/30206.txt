@@ -1,0 +1,1 @@
+The area of the annulus is the area of the ring-shaped space between the two circles that define it. In the figure above it is the number of gray square units it takes to fill the annulus. This area is the area of the entire disk, minus the area of the 'hole' in the middle. ( See Area of a Circle): Where:

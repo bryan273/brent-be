@@ -1,0 +1,1 @@
+In our enhanced one-way ANOVA guide, we show you how to correctly enter data in SPSS Statistics to run a one-way ANOVA (see here). You can learn about our enhanced data setup content in general here. Alternately, we have a generic, quick start guide to show you how to enter data into SPSS Statistics, available here.

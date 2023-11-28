@@ -1,0 +1,1 @@
+For Domestic Transfer wire one needs to provide following information: 1  Beneficiary Name. 2  Beneficiary Account number. 3  ABA/Routing Number. 4  Beneficiary Bank Name and Address.

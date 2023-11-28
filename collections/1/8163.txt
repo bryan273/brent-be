@@ -1,0 +1,1 @@
+1 WINDOW_NORMAL on Qt you may use this to allow window resize. 2  The image will resize itself according to the current window size. 3  By using the | operator you also need to specify if you would like the image to keep its aspect ratio (WINDOW_KEEPRATIO) or not (WINDOW_FREERATIO).

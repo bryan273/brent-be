@@ -1,0 +1,1 @@
+Question: How do I use the to_date function to store data into a DATE datatype. Answer: The to_date function is used to convert character data to the date datatype. Like to_char, this function can be called with a single parameter, much like. which returns a value of type date.

@@ -1,0 +1,1 @@
+NCQ is a feature that is designed into the Serial ATA interface. To take advantage of NCQ, both the host controller/chipset and hard drive need to support the feature. The NCQ-enabled hard drive on the left can execute four commands (A, B, C, and D) in a total of one and a quarter complete rotations due to proper ordering of the operations.

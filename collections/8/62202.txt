@@ -1,0 +1,1 @@
+Use the Character Styles panel to create, name, and apply character styles to text within a paragraph; use the Paragraph Styles panel to create, name, and apply paragraph styles to entire paragraphs. Styles are saved with a document and display in the panel each time you open that document.

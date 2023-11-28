@@ -1,0 +1,1 @@
+Similarly in physics or maths when we try to define a location of our object we need another point from which we will tell the distance or direction or both to pin point the location. The another point is the reference point. In physics reference is often replaced with observer. Its that case when observer locates the object by starting from himself.

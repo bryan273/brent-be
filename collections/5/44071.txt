@@ -1,0 +1,1 @@
+& + letter + accent code + ; The letters that can be accented this way are a, c, e, i, n, o, u, and y, in both their lower-case and upper-case forms. The possible accent codes are grave, acute, circ (circumflex), tilde, and uml (umlaut).

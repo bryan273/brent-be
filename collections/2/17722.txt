@@ -1,0 +1,1 @@
+Standard deviation expresses the variability in your sample and is calculated in MS Excel using this Formula 1. = stdev(A1:A6)…………………………………………….Formula 1. The formula calculates the standard deviation from the raw data you entered in the cells A1 through A6 in the spreadsheet.

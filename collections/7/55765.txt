@@ -1,0 +1,1 @@
+To correct such problems, Excel has a number of specialized functions such as: 1  the LOWER function - which converts text to all lower case (small letters); 2  the UPPER function - which converts text all to upper (capital letters); 3  the PROPER function, which converts text to title form by capitalizing the first letter of each word.

@@ -1,0 +1,1 @@
+In linguistics, entailment is the relationship between two sentences where the truth of one (A) requires the truth of the other (B). Example: (A) The president was assassinated. entails (B) The president is dead.

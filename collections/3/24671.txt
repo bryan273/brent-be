@@ -1,0 +1,1 @@
+Term: TO_DATE. Definition: The Oracle TO_DATE function will convert either a character string or an expression into a date value. Example Syntax. These all show valid date formats for February 16th, 2009: to_date('16-Feb-09', 'DD-Mon-YY') to_date('02/16/09', 'MM/DD/YY') to_date('021609', 'MMDDYY')

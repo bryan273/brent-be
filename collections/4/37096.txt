@@ -1,0 +1,1 @@
+Can a compiled implementation of a language do the same things as an interpreted implementation of a language? Yes, you can accomplish exactly the same things with both interpreted and compiled languages. But, in general terms there are advantages and disadvantages of both compiled and interpreted languages.

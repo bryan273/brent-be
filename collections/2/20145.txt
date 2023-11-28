@@ -1,0 +1,1 @@
+Generally what you want to do is to make your logo in a vector program such as Illustrator so that you can scale it up to any size you want. If you prefer to use Photoshop though what I typically do is set it to a size that is fairly large (say 2000x1500) then zoom out to 50% so that it's comfortable to work at it on your screen.

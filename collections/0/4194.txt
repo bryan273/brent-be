@@ -1,0 +1,1 @@
+Stations. 1  The total number of dialysis stations the facility operates. 2  Indicates whether the facility offers hemodialysis services on site. 3  Indicates whether the facility offers hemodialysis training at patients' place of residence. 4  Indicates whether the facility has a shift starting at 5:00 PM or later.

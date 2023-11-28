@@ -1,0 +1,1 @@
+Selection of sequence targets for detection of microorganisms. sequences: NCBI or published literature. molecular methods: sequence hybridization or recognition using known NA sequences (primers, probes) homologous sequences: can cross react over a range of organism; not used for target sequence.

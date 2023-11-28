@@ -1,0 +1,1 @@
+A bit late to the party, but this also works if you have the week number. For example, if you have week number 23, you can determine the month with the following modification to the formula: =TEXT(A1*7,mmm). Follow the same logic presented in the above table, just swap the numbers as needed.

@@ -1,0 +1,1 @@
+Draw ellipses. Select the Ellipse tool. Click and hold the rectangle tool to see and choose the ellipse tool. For more information on selecting tools see Select a tool. Do one of the following: Drag diagonally until the ellipse is the desired size.

@@ -1,0 +1,1 @@
+Student's t-Test for Independent Samples (MacFarland) Describes how and why to use a t-test. t-Test Problem (Polamar.edu) Provides an example of how to calculate a t-test. t-Test for Dependent and Independent Samples (Statsoft.com) Describes the concepts and methods.

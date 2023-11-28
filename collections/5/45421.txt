@@ -1,0 +1,1 @@
+Ribbon commands require more space than toolbar commands, so they use tabs to scale. This use of tabs makes ribbons modal, requiring users to change modes occasionally to find commands. However, within a tab most commands are either direct or use a single split button or menu button, not a hierarchy.

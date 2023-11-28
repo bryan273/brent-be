@@ -1,0 +1,1 @@
+In other cases, each parent provides a different allele of a given gene, and the offspring is referred to as heterozygous (hetero meaning different) for that allele. Alleles produce phenotypes (or physical versions of a trait) that are either dominant or recessive.

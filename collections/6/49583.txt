@@ -1,0 +1,1 @@
+PWM dimming response is limited only by the rate of rise and fall of the inductor current, enabling very fast rise and fall times. The HV9910B requires only three external components (apart from the power stage) to produce a controlled LED current making it an ideal solution for low cost LED drivers.

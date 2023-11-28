@@ -1,0 +1,1 @@
+Finally go to My ARTIK Cloud to connect a new Flame Sensor device: 1  Sign into My ARTIK Cloud. 2  On the dashboard, click to connect a new device. 3  Click Connect Device…. 4  Click the Settings icon of the device you just added. 5  Copy the device ID and device token on this screen.

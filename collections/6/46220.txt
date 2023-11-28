@@ -1,0 +1,1 @@
+To show triangles are congruence they are four ways. 1  If all three sides of triangle are same then they are congruent. (SSS) 2  If two sides of triangle and the angle connecting them are the same ( SAS) 3  Two angles and a corresponding side (ASA or AAS) 4  Right angled triangles only the hypotenuse and one side are the equal (RHS)

@@ -1,0 +1,1 @@
+The energy of a system that emits a photon is decreased by the energy E {\displaystyle E} of the photon as measured in the rest frame of the emitting system, which may result in a reduction in mass in the amount E / c 2 {\displaystyle {E}/{c^{2}}} .

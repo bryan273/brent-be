@@ -1,0 +1,1 @@
+Benefits of Static Methods: 1  It localizes the function name in the classscope. 2  It moves the function code closer to where it is used. 3  More convenient to import versus module-level functions since each method does not have to be specially imported. @staticmethod def some_static_method(*args, **kwds): pass.

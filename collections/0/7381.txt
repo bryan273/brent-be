@@ -1,0 +1,1 @@
+The modified sine inverter is different from a pure sine power inverter because the wave is in more of a step wave and because appliances are not specifically designed to work with this type of inverter. Although many appliances will still work with a modified sine inverter, some may not work as efficiently.

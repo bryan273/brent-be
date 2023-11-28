@@ -1,0 +1,1 @@
+For NCQ to be enabled, it must be supported and turned on in the SATA host bus adapter and in the hard drive itself. The appropriate driver must be loaded into the operating system to enable NCQ on the host bus adapter.

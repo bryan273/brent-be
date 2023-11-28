@@ -1,0 +1,1 @@
+How do I set my browser to auto refresh? I need to set my browser to auto refresh, and I'd like to do it as fast as possible. I can use either IE or Firefox. Update: This isn't for browsing use, I have a reason to need to refresh my browser 700 times and I don't want to sit there clicking F5 that many times. I'll consider writing my own program that does it though.

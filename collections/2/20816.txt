@@ -1,0 +1,1 @@
+For an object of mass the energy required to escape the Earth's gravitational field is GMm / r, a function of the object's mass (where r is the radius of the Earth, G is the gravitational constant, and M is the mass of the Earth, M =5.9736×10 24 kg).

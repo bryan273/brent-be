@@ -1,0 +1,1 @@
+The magnitude of the projection of the electron's spin along an arbitrary axis is 1 2 ℏ {\displaystyle {\tfrac {1}{2}}\hbar } , implying that the electron acts as a Fermion by the spin-statistics theorem. Like orbital angular momentum, the spin has an associated magnetic moment, the magnitude of which is expressed as.

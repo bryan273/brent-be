@@ -1,0 +1,1 @@
+Magnetic fields arise from the motion of electric charges. The strength of the magnetic field is measured in amperes per meter (A/m); more commonly in electromagnetic field research, scientists specify a related quantity, the flux density (in microtesla, µT) instead.

@@ -1,0 +1,1 @@
+This maximum rate is based on the person's age. An estimate of a person's maximum age-related heart rate can be obtained by subtracting the person's age from 220. For example, for a 50-year-old person, the estimated maximum age-related heart rate would be calculated as 220 - 50 years = 170 beats per minute (bpm).

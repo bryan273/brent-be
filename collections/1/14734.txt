@@ -1,0 +1,1 @@
+A bootsplash, also known as a bootscreen, is a term for a graphical representation of the boot process of the operating system. A bootsplash can be a simple visualisation of the scrolling boot messages in the console, but it can also present graphics or some combinations of both.

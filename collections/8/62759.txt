@@ -1,0 +1,1 @@
+Also called: scatter plot, X–Y graph. The scatter diagram graphs pairs of numerical data, with one variable on each axis, to look for a relationship between them. If the variables are correlated, the points will fall along a line or curve. The better the correlation, the tighter the points will hug the line. When you have paired numerical data.

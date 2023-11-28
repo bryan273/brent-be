@@ -1,0 +1,1 @@
+RMS is peak power. So if a manufacturer claims that something is 700watts RMS; they are saying that it can push that much wattage for a few seconds at a time. It cant hold that much power continuously. 700 watts RMS is probably more like 450 watts steady. That figure isnt science just an educated guess. Its just a way for manufacturers to claim a few more watts to boost sales.

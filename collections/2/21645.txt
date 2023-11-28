@@ -1,0 +1,1 @@
+Introduction to the Quotient Rule. The quotient rule is the last of the main rules for calculating derivatives, and it primarily deals with what happens if you have a function divided by another function and you want to take the derivative of that. So let's start with f(x) = x / x ^2.

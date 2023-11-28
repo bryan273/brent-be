@@ -1,0 +1,1 @@
+To turn off Error Alerts: 1  Select all the data validation cells. 2  On the Ribbon, click the Data tab, and click Data Validation. 3  Click the Error Alert tab.  Remove the check mark from Show error alert after invalid data is 1  entered. Click OK to close the Data Validation  box.

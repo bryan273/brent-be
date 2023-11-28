@@ -1,0 +1,1 @@
+If you don't want to use the Notes client to access a Notes database, you can also access it on a Notes server via a web browser. Since version 4.5, the Notes server software has shipped with a web server component called Domino, which translates Notes data into web pages and serves them up as a web site.

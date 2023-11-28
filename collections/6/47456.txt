@@ -1,0 +1,1 @@
+1 Red blood cell indices. 2  There are three red blood cell indices: mean corpuscular volume (MCV), mean corpuscular hemoglobin (MCH), and mean corpuscular hemoglobin concentration (MCHC). 3  They are measured by a machine, and their values come from other measurements in a CBC.

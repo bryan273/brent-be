@@ -1,0 +1,1 @@
+For example, if your feed rate is too low, you'll generate long, stringy chips and they won't be self-breaking. That constitutes an immediate warning signal for unattended turning. On the other hand, if the feed rate is too high, you'll get thicker chips, resulting in chip crowding and a warning signal.

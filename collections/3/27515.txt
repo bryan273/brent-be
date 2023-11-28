@@ -1,0 +1,1 @@
+The Gregorian calendar has 4 months that are 30 days long and 7 months that are 31 days long. February is the only month that is 28 days long in common years and 29 days long in leap years. Our current Gregorian calendar and its predecessor, the Julian calendar, both have 12 months.

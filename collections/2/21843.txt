@@ -1,0 +1,1 @@
+While doing a backup I have found out the existence of an account called UpdatusUser on my Windows 7 box. It doesn't appear in the account management section of the control panel. Searching on the web it appears to be related to some Nvidia driver.

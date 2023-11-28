@@ -1,0 +1,1 @@
+From Free Open Source Software. Free Open Source Software (FOSS), also called just Open Source or Free Software, is licensed to be free to use, modify, and distribute. Most FOSS licenses also include a kind of legal Golden Rule, requiring any changes - such as fixes and enhancements - be released under the same license.

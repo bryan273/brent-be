@@ -1,0 +1,1 @@
+In a failover event, Quota Failover type of jobs have to be run manually AFTER the target cluster file system is writeable as a result of SyncIQ failover. Open Jobs window and select the quota job of interest, click Select a bulk action and Run Now. You can follow the Job progress in the Running Jobs window.

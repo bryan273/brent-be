@@ -1,0 +1,1 @@
+The filesystem in a digital camera contains a DCIM (Digital Camera Images) directory, which can contain multiple subdirectories with names such as 123ABCDE that consist of a unique directory number (in the range 100…999) and five alphanumeric characters, which may be freely chosen and often refer to a camera maker.

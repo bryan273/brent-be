@@ -1,0 +1,1 @@
+A class is a style of gameplay which determines the role of a character (defense, offense, or support), type of weapon (Twin swords, lance, axe, greatsword, disc, bow, staff, arcannon, powerfists, scythes, shuriken or scepter), armor (metal, leather or cloth) and skills available for a character of use.

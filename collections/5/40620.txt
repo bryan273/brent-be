@@ -1,0 +1,1 @@
+A new data resource management direction emphasizes the development of an integrated data resource within one organization-wide, subject oriented common data architecture. A data model is developed. using a subset of the data resource data for a specific business activity for a specific audience.

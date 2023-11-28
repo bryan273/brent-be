@@ -1,0 +1,1 @@
+where k is a constant for a given temperature and C is the concentration in the compartment from which the flux is occurring. In Figure 1-1, the side where the salt was put is numbered 1; the other side is numbered 2.

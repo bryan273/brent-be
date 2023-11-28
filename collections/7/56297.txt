@@ -1,0 +1,1 @@
+The helium–neon laser (HeNe) is able to operate at a number of different wavelengths, however the vast majority are engineered to lase at 633 nm; these relatively low cost but highly coherent lasers are extremely common in optical research and educational laboratories.

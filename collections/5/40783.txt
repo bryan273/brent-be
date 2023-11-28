@@ -1,0 +1,1 @@
+A microservice in Azure Service Fabric can be almost any process in the server you want to create, whether it’s the .NET Framework, Node.js, Java or C++. Currently only the .NET and C++ libraries of the Service Fabric API are available.

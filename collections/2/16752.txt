@@ -1,0 +1,1 @@
+R f = (distance traveled by desired compound) / (distance traveled by solvent) CV = 1 / R f. To get a good separation, you will need to find a solvent system in which the compound of interest has an Rf of 0.25±0.1.

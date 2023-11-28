@@ -1,0 +1,1 @@
+Attached is the Chrome menu to the left and the Firefox menus to the right. Anything in the Firefox menu that is not explicitley shown in the Chrome menu requires at least 1 extra mouse click, plus visual search time to locate.

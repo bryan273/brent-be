@@ -1,0 +1,1 @@
+The Application button and Quick Access Toolbar provide commands that are useful in any context, thus reducing the need to change tabs. While these three components are logically independent, a ribbon must always have an Application button and Quick Access Toolbar.

@@ -1,0 +1,1 @@
+A directory is a specialized database specifically designed for searching and browsing, in additional to supporting basic lookup and update functions. Note: A directory is defined by some as merely a database optimized for read access.

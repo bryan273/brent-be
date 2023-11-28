@@ -1,0 +1,1 @@
+Given any sequence we have the following. 1  We call the sequence increasing if for every n. 2  We call the sequence decreasing if for every n. 3  If is an increasing sequence or is a decreasing sequence we call it monotonic.  If there exists a number m such that for every n we say the sequence is bounded below.

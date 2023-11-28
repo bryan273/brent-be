@@ -1,0 +1,1 @@
+Large End Diameter: Enter the measured diameter at the large end of the log in inches (centimeters if metric). Do not use decimal values (unless entering metric values), do not include any bumps or other protruberances in the measured diameter. Length: Enter the length in feet (meters if metric).

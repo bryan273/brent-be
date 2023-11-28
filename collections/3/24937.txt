@@ -1,0 +1,1 @@
+During DST the time is shifted forward by 1 hour to Eastern Daylight Time (EDT); which is 4 hours behind Greenwich Mean Time ( GMT-4 ). After the Summer months Eastern Time is shifted back by 1 hour to US Eastern Standard Time (EST) or (GMT-5).

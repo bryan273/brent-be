@@ -1,0 +1,1 @@
+Further, the holding period could be modified such that when one of the top ten falls into the bottom twenty group, it could be replaced with the stock that rose into the top ten. The following table can be ranked by yield (highest to lowest) to facilitate implementation of the Dogs of the Dow strategy.

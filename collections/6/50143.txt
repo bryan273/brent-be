@@ -1,0 +1,1 @@
+With the hs-CRP test, a result of lower than 1.0 mg/L is associated with a low risk of developing cardiovascular disease; average risk of developing cardiovascular disease is associated with a level between 1.0 and 3.0 mg/L; and high risk for cardiovascular disease is linked to hs-CRP above 3.0 mg/L.

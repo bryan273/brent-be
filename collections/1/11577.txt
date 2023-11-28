@@ -1,0 +1,1 @@
+Let us look at the data for winter temperatures in Sydney. According to climate data from the Bureau of Meteorology, the average mean temperature at Observatory Hill in June is 16.9°, in July it is 16.3° and in August it is 17.8°. This clearly indicates July as the coldest month.

@@ -1,0 +1,1 @@
+Flow-control valves. The purpose of flow control in a hydraulic system is to regulate speed. All the devices discussed here control the speed of an actuator by regulating the flow rate. Flow rate also determines rate of energy transfer at any given pressure.

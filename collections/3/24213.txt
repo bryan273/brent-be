@@ -1,0 +1,1 @@
+Mklink Command Syntax. MKLINK has 3 options /D, /H and /J. You also need to specify the path to the new symbolic link and the path to the original file or directory. The Syntax: /D – used to create symbolic links for directories (d for directory) /H – used to create hard links (h for hard link) /J – used to create directory junction (j for junction.

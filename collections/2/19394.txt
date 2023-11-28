@@ -1,0 +1,1 @@
+Determine the force of gravitational attraction between the earth (m = 5.98 x 10 24 kg) and a 70-kg physics student if the student is in an airplane at 40000 feet above earth's surface.

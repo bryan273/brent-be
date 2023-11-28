@@ -1,0 +1,1 @@
+SSL and TLS: A Beginners Guide. This practical serves to explain the Secure Sockets Layer (SSL) and Transport Layer Security (TLS) protocols, how they can be applied to a web application, and the requirements necessary to create a secure link between a. server and a client machine.

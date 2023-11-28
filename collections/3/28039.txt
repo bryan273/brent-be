@@ -1,0 +1,1 @@
+How to remove AdChoices add-ons and extensions. Use the instructions to remove AdChoices add-ons, extensions, plug-ins, and toolbars. Please note, it may be necessary to remove multiple third-party items. 1. Click on the Customize icon (wrench or 3 bar icon) next to the address bar and navigate to Tools > Extensions.

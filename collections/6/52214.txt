@@ -1,0 +1,1 @@
+some aspect of a concept that varies, from which we select more concrete indicators. A variable is any observation that can take different values: Gender, Age, Religion, Ethnicity are variables. Variables have attributes or values.

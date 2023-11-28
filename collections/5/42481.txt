@@ -1,0 +1,1 @@
+To define work day defaults. 1  In the Organization window, query the Business Group or HR Organization if it does not already appear there. 2  Click in the field of the Additional Organization Information window to open the Work Day Information window. 3  Enter the normal start and end times in 24 hour format.

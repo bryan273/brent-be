@@ -1,0 +1,1 @@
+Download all Wisconsin sales tax rates by zip code. The Waushara County, Wisconsin sales tax is 5.50% , consisting of 5.00% Wisconsin state sales tax and 0.50% Waushara County local sales taxes.The local sales tax consists of a 0.50% county sales tax.

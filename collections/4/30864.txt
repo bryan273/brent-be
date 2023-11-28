@@ -1,0 +1,1 @@
+The first computer that could store a program (software) was the Manchester Small Scale Experimental Machine, nicknamed the Baby. This was in 1948 at the University of Manches…ter in England. Tom Kilburn wrote the first program to be executed on the Baby. So it could be argued that: Tom Kilburn invented the software.

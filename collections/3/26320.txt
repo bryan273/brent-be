@@ -1,0 +1,1 @@
+SCO OpenServer Rel 5.0.7 box set. Xinuos OpenServer, previously SCO UNIX and SCO Open Desktop (SCO ODT), is a closed source computer operating system developed by Santa Cruz Operation (SCO), later acquired by SCO Group, and now owned by Xinuos. Early versions of OpenServer were based on UNIX System V, while the later OpenServer 10 is based on FreeBSD.

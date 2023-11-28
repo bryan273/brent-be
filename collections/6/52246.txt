@@ -1,0 +1,1 @@
+This is a small chip with just a few pins of electrical connection. Later we'll see a bigger chip with hundreds of pins. Inside the plastic package is a fingernail sized silicon chip with transistors and other components etched on its surface. Tiny wires connect the chip to the outside.

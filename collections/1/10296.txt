@@ -1,0 +1,1 @@
+2D Shapes Definition. '2D' stands for 2-dimensional. A 2D shape is any shape that has two dimensions. Think about what it means to have two dimensions for a moment. If we had only one dimension to work with, we could only move backwards or forwards in a line. A line is one-dimensional.

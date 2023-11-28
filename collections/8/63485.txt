@@ -1,0 +1,1 @@
+This Financial Data Schedule (FDS) Line Definition Guide supersedes the Financial Data Schedule Line Definition Guide that was issued in May 2012. The 2012 Guide was issued to add and delete FDS lines resulting from the issuance of Governmental Accounting Standards Board (GASB) #54 -Fund Balance Reporting and Governmental Fund Type Definitions.

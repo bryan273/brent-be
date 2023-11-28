@@ -1,0 +1,1 @@
+Choosing a Language. 1  1. Choose a programming language. Computer programming is done as essentially a set of written instructions that the computer follows (also known as binary coding). 2  2. Consider C, C++, C# and related languages. These languages are mainly used for creating standalone computer applications such as games.

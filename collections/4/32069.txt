@@ -1,0 +1,1 @@
+In this tutorial post, I’ll show you how to create a PayPal business account so that you can connect PayPal to your website and begin taking online payments and online donations directly on your website. It’s a fairly simple process, but some information will be required on your side, including: Name. Business Address.

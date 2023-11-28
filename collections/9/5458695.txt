@@ -1,0 +1,1 @@
+For example, some banks allow customers to place ACH stops either by phone or in person, while others accept a faxed stop payment form. To process a stop, the customer provides account information, the name of the merchant and the exact amount of the payment. The fee for stopping checks varies between institutions.

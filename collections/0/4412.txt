@@ -1,0 +1,1 @@
+A control system consists of a microprocessor which needs a control program to handle data from sensors. Signals are sent from an output device to an interface box which converts signals between them.

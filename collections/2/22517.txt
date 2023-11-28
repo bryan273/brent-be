@@ -1,0 +1,1 @@
+If passive, the amp or preamp should have a one megohm (one million ohms, also expressed as 1M or 1Mohm) or higher input impedance. Ultra High impedance pickups are most often found plugged into instrument amplifiers and preamps that have a 1 MegOhm or higher input impedance.

@@ -1,0 +1,1 @@
+Response bias (also known as “self-selection bias”) occurs when only certain types of people respond to a survey or study. When this occurs, the resulting data is biased towards those with the motivation to answer and submit the survey or participate in the study.

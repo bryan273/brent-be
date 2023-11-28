@@ -1,0 +1,1 @@
+In any event, the square root \(s\) of the sample variance \(s^2\) is the sample standard deviation. It is the. and is also a measure of the spread of the data with respect to the mean. Both measures of spread are important.

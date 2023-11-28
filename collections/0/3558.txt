@@ -1,0 +1,1 @@
+Start Case. I too thought it is simply Title Case, until I read more in the Wikipedia article about letter cases - Letter case. Looks like Title Case does not capitalize certain parts of speech, (basically there are exceptions). A simple variant of that called Start Case, simply capitalize all the first letters of all the words.

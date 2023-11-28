@@ -1,0 +1,1 @@
+Variables are examined to see if there is a correlation between them. 1  When a change in one variable coincides with a change in another variable there is a correlation. This does not necessarily indicate that changes in one variable causes a change in another variable, however, just that they are associated.

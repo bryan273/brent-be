@@ -1,0 +1,1 @@
+Volatility as described here refers to the actual current volatility of a financial instrument for a specified period (for example 30 days or 90 days). It is the volatility of a financial instrument based on historical prices over the specified period with the last observation the most recent price.

@@ -1,0 +1,1 @@
+CSS paragraph styles. Following on from my post on CSS styles for headings, I’ll now go through some options for paragraph styles. As you’ll now know, paragraphs in HTML are based around the <p> … </p> tags.

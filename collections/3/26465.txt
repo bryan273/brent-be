@@ -1,0 +1,1 @@
+true level on the measure. You might think of reliability as the proportion of truth in your measure. Now, we don't speak of the reliability of a measure for an individual -- reliability is a characteristic of a measure that's taken across individuals. So, to get closer to a more formal definition, let's restate the definition above in terms of a set of observations.

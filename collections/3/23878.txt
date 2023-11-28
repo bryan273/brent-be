@@ -1,0 +1,1 @@
+When SSA determines a beneficiary is incapable of managing his or her own benefit payments, SSA searches for a suitable rep payee. SSA regulations give preference to family members over friends, third parties, and organizational rep payees.

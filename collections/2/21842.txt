@@ -1,0 +1,1 @@
+And a bit more: Beginning with Release 270 drivers for desktops, when NVIDIA Update is installed, the software creates the UpdatusUser account. This account runs the NVIDIA Update service for updating application profiles through the NVIDIA server.

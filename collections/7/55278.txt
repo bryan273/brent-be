@@ -1,0 +1,1 @@
+The 7-Way, on its own, will not engage electric brakes. You would need to add a brake controller. I would suggest a proportional unit as it will detect how hard you are braking in the truck and adjust the braking power on the trailer to match. It will yield a smoother braking system.

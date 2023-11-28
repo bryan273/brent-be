@@ -1,0 +1,1 @@
+The central part of a fab is the clean room, an area where the environment is controlled to eliminate all dust, since even a single speck can ruin a microcircuit, which has features much smaller than dust. The clean room must also be dampened against vibration and kept within narrow bands of temperature and humidity.

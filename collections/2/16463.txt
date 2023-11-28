@@ -1,0 +1,1 @@
+The following PHP versions and modules are available on our servers: Currently available PHP versions Currently you can choose among 5 PHP versions and easily switch to the one that is compatible with the apps you wish to use. We keep always up-to date the latest versions: PHP 7.1, PHP 7, PHP 5.6 and PHP 5.5.

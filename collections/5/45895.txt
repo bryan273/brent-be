@@ -1,0 +1,1 @@
+Traditionally, software has been divided into two different categories: systems software and applications software. However, in addition to those, an entire new batch of wares has entered the computer vernacular in recent years. For years people understood the term software to refer to computer instructions; meaning the programs or data.

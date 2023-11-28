@@ -1,0 +1,1 @@
+Plotting the total number of sunspots observed in a year reveals a pattern showing the number of sunspots in a cycle. The number of sunspots increase and decrease over an 11-year cycle, known as the sunspot cycle.

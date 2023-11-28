@@ -1,0 +1,1 @@
+ASUS Battery Information Center. The battery pack's service life will depend on the environment temperature, humidity, and notebook PC usage. The battery capacity usage versus cycle performance attenuation follows a linear type curve. Lithium-ion (Li-ion) batteries typically have a lifespan of between 300 and 500 cycles.

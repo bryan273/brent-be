@@ -1,0 +1,1 @@
+A maximum of 40 bills can be dispensed at one time from the ATM. There may also be limits based on account type and availability of funds. All 3 factors are considered when determining how much cash can be withdrawn from an ATM.

@@ -1,0 +1,1 @@
+stat is a Unix system call that returns file attributes about an inode. The semantics of stat vary between operating systems. As an example, the Unix command ls uses it to retrieve information on: ⁕atime: time of last access, ⁕mtime: time of last modification, and ⁕ctime: time of last status change. see more ».

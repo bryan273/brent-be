@@ -1,0 +1,1 @@
+But once you get it working, you will be amazed that you can actually receive signals through so crude a device. This design has survived mostly thanks to the article Build a World War II Foxhole Radio by Lance Borden, as it appeared in the Electronics Handbook vol. XVII, p. 47.

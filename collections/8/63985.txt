@@ -1,0 +1,1 @@
+Ubuntu, like Debian, is a free software project which is open to anyone to participate. However, it differs from Debian in that many key project resources, including servers, bandwidth and a number of core developers, are provided by Canonical.

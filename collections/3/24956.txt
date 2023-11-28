@@ -1,0 +1,1 @@
+SQL Server 2008 R2. The topics in this section provide the information to help you understand the concepts of partitioned tables and indexes and the reasons for implementing partitioning, and an overview of how partitioned tables and indexes are implemented in the AdventureWorks2008R2 sample database.

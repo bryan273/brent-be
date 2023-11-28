@@ -1,0 +1,1 @@
+Often, one of the first steps in analyzing data is to organize it in a table. A table is an orderly presentation of data aligned in columns and rows. In the table below the data are organized in 2 columns and 6 rows.

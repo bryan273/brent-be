@@ -1,0 +1,1 @@
+Calhan Radar. Weather radar map shows the location of precipitation, its type (rain, snow, and ice) and its recent movement to help you plan your day.

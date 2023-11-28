@@ -1,0 +1,1 @@
+For example, a à is encoded &as; . Agrave the general pattern for constructing AN html entity for an accented letter. & + is + letter accent + ; Code the letters that can be accented this way are, a, c, e, i, n, o, u and, y in both their-lower case and-upper case. forms

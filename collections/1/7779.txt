@@ -1,0 +1,1 @@
+It hardly takes a couple of seconds to repair Excel file, and the file will be opened without having any issue. But this solution may fail in severe corruption. If the Excel file contains a very crucial chart, but you can’t open the file due to corruption, you can try a manual solution to extract the source data of the chart.

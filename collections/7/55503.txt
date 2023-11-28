@@ -1,0 +1,1 @@
+Don't mess with the battery cables unless it's absolutely necessary. The cable is not as important as the anode. The spark happened because the wrench closed the circuit between the cathode and the anode. Not knowing the make-up of your battery I could only guess on the cause of the spark.

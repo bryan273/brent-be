@@ -1,0 +1,1 @@
+Step # 4 -- Try to send any email through your default Email Program In the last step, try to check your default email program. In order to do so, right click on any file and select the Send to option. Now click on the Mail Recipient option from the menu and your default email client program will open in front of your screen.

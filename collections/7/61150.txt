@@ -1,0 +1,1 @@
+Thank you Amit, I followed your instructions but I still can not make the approval field required as shown in the Approve Reject box below. Please note we are using Nintex workflows so I also went into the List Settings for Nintex Workflow Task and updated the value for ApproverComments to required.

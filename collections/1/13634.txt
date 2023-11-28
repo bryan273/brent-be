@@ -1,0 +1,1 @@
+4) You don’t want anyone who finds your VPN server address to be able to connect. So next, we’re going to make a key for the server address. It’s just like keeping the door to your house locked. OpenVPN comes with Easy_RSA, a light and easy package for using the RSA encryption method.

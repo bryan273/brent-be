@@ -1,0 +1,1 @@
+Instrumentation is the heart of the CIP/SIP process; not only for process control, but also for the documentation that the cleaning was successful. Temperature is the most important parameter. Inductive measurement of the concentration and the flow measurement are the additional parameters that need to be documented.

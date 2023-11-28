@@ -1,0 +1,1 @@
+cookies have six parameters that can be passed to them the name of the cookie the value of the cookie the expiration date of the cookie this determines how long the cookie will remain active in your browser the path the cookie is valid for this sets the url path the cookie us valid in

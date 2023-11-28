@@ -1,0 +1,1 @@
+Example 23-20 Specifying a Default Language and a Date Format. The following statements set the default language to Spanish and specify a new date format. The NLS_DATE_LANGUAGE option, when used in the TO_DATE function, allows the American month name to be translated. The date is translated from American to Spanish and displayed in the new date format.

@@ -1,0 +1,1 @@
+Serial ATA (Serial Advanced Technology Attachment or SATA) The SATA storage protocol transmits data in serial fashion between hard drives and computer systems. The nonprofit SATA-IO industry consortium authors the design specification.

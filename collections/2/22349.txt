@@ -1,0 +1,1 @@
+The simplest Quadratic Equation is: f(x) = x2. And its graph is simple too: This is the curve f(x) = x2. It is a parabola. Now let us see what happens when we introduce the a value: f(x) = ax2. Larger values of a squash the curve inwards.

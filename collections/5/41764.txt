@@ -1,0 +1,1 @@
+The EDI process looks like this – no paper, no people involved: 1  Business documents – These are any of the documents that are typically exchanged between businesses. 2  The most common documents exchanged via EDI are purchase orders, invoices and Advance Ship Notices.

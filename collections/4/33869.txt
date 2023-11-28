@@ -1,0 +1,1 @@
+KML is a common format for sharing geographic data with non-GIS users as it can be easily delivered on the Internet and viewed in a number of free applications, including Google Earth and ArcGIS Explorer.

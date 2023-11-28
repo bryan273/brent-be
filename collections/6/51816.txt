@@ -1,0 +1,1 @@
+Three Methods: Label Axes in Excel 2013 Label Axes in Excel 2007 Label Axes in Excel 2003. When you create a chart in Microsoft Excel, labeling the axes will make it much easier for your readers to understand your data.

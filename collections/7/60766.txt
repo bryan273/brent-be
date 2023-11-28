@@ -1,0 +1,1 @@
+Checking on the iPhone / iPad / iPod Touch. Though there is no direct way to see “Other” space in iOS, you can get a rough idea by taking a peak at general space usage stats: Open Settings, go to “General”, then go to “Usage”.

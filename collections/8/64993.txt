@@ -1,0 +1,1 @@
+Vane Air Flow Meters. A vane air flow meter (also known as a “flap style” meter and a VAF sensor) is an early type of air flow meter that measures air intake volume. This type of meter uses a spring-loaded flap that is attached to a variable resistor. As air enters, it pushes against the flap or plate opening it.

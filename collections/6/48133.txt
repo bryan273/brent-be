@@ -1,0 +1,1 @@
+If the noise is lower, the AC service may be the cause. Magnetic fields from transformers can cause humming. Mains transformers typically cause an AC magnetic field around them. This magnetic field can be copled to wiring, electronics or signal transformers and cause humming.

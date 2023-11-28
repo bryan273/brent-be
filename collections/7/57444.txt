@@ -1,0 +1,1 @@
+To solidify our understanding of what a monotonic function is, let's consider what a non-monotonic function is. A non-monotonic function is a function that is increasing and decreasing on different intervals of its domain. For example, consider our initial example f(x) equals x 2.

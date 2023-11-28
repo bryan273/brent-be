@@ -1,0 +1,1 @@
+P total = watts. and the power delivered to the load resistor R L is. P out = watts. The load then receives % of the total power. The voltage divider is a very important basic circuit, and exploring the calculation above with various values can give you insight into a large number of practical circuit applications.

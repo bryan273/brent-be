@@ -1,0 +1,1 @@
+The centers of the faces of an octahedron form a cube, and the centers of the faces of a cube form an octahedron (Steinhaus 1999, pp. 194-195). Faceted forms of the octahedron include the cubitruncated cuboctahedron and tetrahemihexahedron. Let an octahedron be length on a side.

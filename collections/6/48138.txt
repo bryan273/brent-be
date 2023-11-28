@@ -1,0 +1,1 @@
+correct, proceed to identify the trouble using this Troubleshooting Guide. All motors are suitable for full voltage or across-the-line start. See the motor nameplate for proper connection diagrams. Some standard Lincoln Electric motors are also capable of PWS, YDS or both as indicated in the following chart.

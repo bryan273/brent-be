@@ -1,0 +1,1 @@
+Dis-advantages of PRI lines: 1  A PRI line is economical only if the minimum rental charged by the service provider for a PRI line is more than the average value of calls with analog trunk lines every month in an organization. 2  A PRI line is not so economical for long distance/ international calling.

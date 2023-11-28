@@ -1,0 +1,1 @@
+Verge Currency is a blockchain-based cryptocurrency acknowledged for its importance on being secure and anonymous, built with a focus on privacy and daily use. It handles multiple anonymity-centric networks (Tor, I2P), which confuses IP addresses to make transactions untraceable.

@@ -1,0 +1,1 @@
+Microsoft routinely releases security updates on the second Tuesday of each month (Patch Tuesday), but can provide them whenever a new update is urgently required to prevent a newly discovered or prevalent exploit targeting Windows users.

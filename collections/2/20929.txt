@@ -1,0 +1,1 @@
+On the Earth's surface W = m*g. We can convert weight to mass if our measuring scale is calibrated, usually with an object of known mass. This would work for any planet. Even though the weight would change from planet to planet, the mass would not. But we would need to bring along a known mass to calibrate our scale on the new planet.

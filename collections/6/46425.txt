@@ -1,0 +1,1 @@
+This setting located at <Computer and/or User Settings> | Administrative Templates | Windows Components | Internet Explorer | Internet Control Panel | Advanced Page. After rebooting, IE's SSL/TLS settings were still disabled, but now the following settings are set: SSL 2.0 : off. SSL 3.0 : on.

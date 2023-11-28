@@ -1,0 +1,1 @@
+DO: Use a 10GbE network for data traffic. DO: Use sockets and minimize usage of cores. DO: Use Paravirtual SCSI controller type and place the file share on a separate SCSI controller than the boot disk. DO: Use different subnets to separate the VMstore Admin, Data and Replication Networks.

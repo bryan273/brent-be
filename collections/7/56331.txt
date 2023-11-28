@@ -1,0 +1,1 @@
+Receptacle Type. The receptacle on a dedicated fridge circuit must be the same amperage as the circuit wiring -- either 15-A or 20-A. A standard grounded receptacle is recommended for this appliance due to the frequent spikes in power draw caused by the fridge compressor starting up.

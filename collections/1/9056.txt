@@ -1,0 +1,1 @@
+The baseline for RAM in a computer is 4GB; that’s how much you can expect from a budget model, and it’ll just about do the job — just don’t expect to be running high-intensity programs or to have several applications open at the same time without performance taking a hit.

@@ -1,0 +1,1 @@
+Creating Rectangles and Ellipses. The Illustrator Tools panel includes several tools for quickly creating simple geometric vector shapes. They are easy to use; you just click and drag on the Stage to create the shapes. The Rectangle tool creates rectangles with square or rounded corners. The Ellipse tool creates circular shapes such as ovals and circles.

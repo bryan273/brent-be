@@ -1,0 +1,1 @@
+Copy features - Standard Post Process Inserter: Inserts pre-printed offset and xerographic color documents in a post fuser manner - The dual head scanner scans at 100 images per minute for both simplex and duplex documents - 40 GB Hard Drive with 14.6 GB for document storage - 10.4 color, touch screen flat panel display

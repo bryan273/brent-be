@@ -1,0 +1,1 @@
+VMware vCloud Director enables service providers to build differentiated cloud services that are inherently hybrid-aware and ideal for enterprise-class organizations. It is available through the vCloud Air Network Program. Find information on vCloud Director for Enterprise users.

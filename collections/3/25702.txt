@@ -1,0 +1,1 @@
+Moderated Chat. When a room is Moderated, Moderator, Admin and users with Speaker privilege can send messages to all users in the room - messages from non-speakers go to Moderator only. --- nice little GUI popup to help Moderators grant and revoke Speaker privilege as needed.

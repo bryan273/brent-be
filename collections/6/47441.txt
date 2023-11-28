@@ -1,0 +1,1 @@
+Monthly Price(per user) Annual Price(per user) 1 user: £23.99 per user per month: £19.99 per user per month: 2-19 users: £18.99 per user per month: £14.99 per user per month: 20-99 users: £17.99 per user per month: £13.99 per user per month: 100+ users: £16.99 per user per month: £12.99 per user per month

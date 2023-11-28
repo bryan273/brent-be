@@ -1,0 +1,1 @@
+Tag out is a labelling process that is always used when lockout is required. The process of tagging out a system involves attaching or using an indicator (usually a standardized label) that includes the following information: Why the lockout/tag out is required (repair, maintenance, etc.).

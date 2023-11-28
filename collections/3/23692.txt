@@ -1,0 +1,1 @@
+Basic Control Strategies Used in Industrial Control System. How well the process parameters are controlled depends on the control strategy implemented for that process. Basic control strategies used in most of the industries are. ON – OFF Control. Open-Loop Control. Feed- Forward Control. Closed-Loop control.

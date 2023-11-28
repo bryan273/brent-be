@@ -1,0 +1,1 @@
+This section describes how to view and/or modify the BIOS Setup Utility screens in the Sun Fire X4450 server. The BIOS Setup utility reports system information and can be used to configure the server BIOS settings. The Basic Input/Output System (BIOS) has a Setup utility stored in the BIOS flash memory.

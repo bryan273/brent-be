@@ -1,0 +1,1 @@
+In a nut shell, an APU is onboard power for an aircraft, usually a small turbine in the tail, a GPU is just what the initials stand for, ground power for the aircraft. The main difference is one is portable and one is built in. The ground unit never leaves the ground.

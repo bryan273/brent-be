@@ -1,0 +1,1 @@
+Power Stroke’s high oil pressure is controlled by the PCM by way of the ICP regulator, using a 0-65% duty cycle. The higher the duty cycle, the higher the pressure, but the high pressure pump contains a relief valve that limits the pressure so that it goes no higher than 3,750 psi.

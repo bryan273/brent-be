@@ -1,0 +1,1 @@
+up vote 3 down vote. 1  Excel is a spreadsheet application that saves files into its own format while CSV is a standard of saving tabular information into a delimited text file. 2  CSV is a very old method of saving tables compared to Excel. 3  CSV files cannot store other information like formatting while this comes standard in Excel.

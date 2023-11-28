@@ -1,0 +1,1 @@
+A battery is a collection of electrochemical cells. If the cells are connected in series, the voltage of the battery will be the sum of the cell voltages. For example, a 12 volt car battery contains six 2-volt cells connected in series.

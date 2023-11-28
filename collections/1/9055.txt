@@ -1,0 +1,1 @@
+The maximum amount of RAM that can be installed and utilised is the minimum of the following: 1  Maximum amount of memory supported by the memory controller for the Nehalem microarchitecture the memory controller is part of the CPU. Older systems usually had the memory controller on the motherboard.

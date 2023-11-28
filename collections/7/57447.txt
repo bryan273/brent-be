@@ -1,0 +1,1 @@
+Montonic Function. When a function is increasing on its entire domain or decreasing on its entire domain, we say that the function is strictly monotonic, and we call it a monotonic function. For example, consider the function g(x) equals x 3: Notice the graph of g is increasing everywhere. Therefore, this is a monotonic function.

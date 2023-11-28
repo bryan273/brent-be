@@ -1,0 +1,1 @@
+They all check that the results and constructs measured by a test are correct, and the exact. type used is dictated by subject, size of the data set [4] and resources. Split-Halves Test. The split halves test for internal consistency reliability is the easiest type, and involves dividing. a test into two halves.

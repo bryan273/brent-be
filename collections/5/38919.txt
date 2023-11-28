@@ -1,0 +1,1 @@
+If it cannot be avoided, ‘bn’ may be used as an abbreviation for billion, but ‘mn’ should be avoided for million, as it has another meaning in the ISO system. Spelling and use of euro and EUR

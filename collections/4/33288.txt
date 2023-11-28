@@ -1,0 +1,1 @@
+For example, in a room with an RH of 50% and a temperature of 20°C, increasing the temperature of the room to 25°C will decrease the RH to about 37%, even though the partial pressure of the water vapor remains the same. Pressure will also change relative humidity.

@@ -1,0 +1,1 @@
+The free image editing software GIMP has a feature that allows you to compress a photo. Compressing the photo file makes the file size smaller while keeping the photo's dimensions the same, allowing you to display large photos on your business's website, or send them to a client via email.

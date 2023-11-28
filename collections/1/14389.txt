@@ -1,0 +1,1 @@
+The ntpd program is an operating system daemon that synchronizes the system clock to remote NTP time servers or local reference clocks.

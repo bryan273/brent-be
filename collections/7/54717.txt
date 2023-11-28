@@ -1,0 +1,1 @@
+Digital I/O: 1  8 buffered LED indicators. 2  8 SPDT toggle switches 0-5V. 3  2 debounced momentary switches 0-5V. 4  Normally Hi and normally Lo levels both available. 5  TTL level clock slaved to generator: 0-5V, risetime < 400nsec.

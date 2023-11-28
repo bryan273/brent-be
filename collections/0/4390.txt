@@ -1,0 +1,1 @@
+Change the printer paper size. On the File menu, click Page Setup. On the Print Setup tab, under Paper size, click the paper size you want. The printer paper size is set for the current page.

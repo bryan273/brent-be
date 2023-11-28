@@ -1,0 +1,1 @@
+The distance calculator helps you figure out how far it is to fly from Amsterdam, Netherlands to London, United Kingdom. It does this by computing the straight line flying distance (as the crow flies). It uses the great circle formula to compute the total travel mileage.

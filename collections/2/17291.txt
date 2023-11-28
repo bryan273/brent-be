@@ -1,0 +1,1 @@
+KMS hosts on the network need to install a KMS key, and then be activated with Microsoft. Installation of a KMS key enables the Key Management Service on the KMS host. After installing the KMS key, complete the activation of the KMS host by telephone or online. Beyond this initial activation, a KMS host does not communicate any information to Microsoft.

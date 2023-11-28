@@ -1,0 +1,1 @@
+Depends: Eye color has complex inheritance but brown vs blue is not too difficult. If the father is dark brown due to having both genes brown, then the child must get one brown from his dad and he will have brown eyes. If mom is true blue, she has both genes blue and her child will get only that color ...Read more.

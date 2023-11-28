@@ -1,0 +1,1 @@
+Let's look at Decentralized system first, in a company with Decentralized System of Data Management, there are two major problems 1  –. Data is maintained locally at the individual departments. 2  Departments do not have access to information or data of other departments.

@@ -1,0 +1,1 @@
+1 Edit a search engine: If a search engine is listed, select it and edit the fields. 2  Delete a search engine: Select the search engine and click the X that appears at the end of the row.  Set a default search engine: Hover over the search engine and click Make Default.

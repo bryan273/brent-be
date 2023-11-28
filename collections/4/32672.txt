@@ -1,0 +1,1 @@
+One of the most important scenarios in any traffic system are bottlenecks, i.e. (local) flow limitations. Typical examples are a reduction in the number of lanes on a highway, local speed limits or narrowing corridors or exits in pedestrian dynamics. The identification of bottlenecks gives important information about the performance of the system.

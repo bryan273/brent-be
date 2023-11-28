@@ -1,0 +1,1 @@
+Figure 1. Setting the Data Rate for the file at 468 kbps. As you can see in the Figure, you set data rate along with other configuration options during the encoding process. Note that to a large degree, data rate is the most important factor in streaming video quality.

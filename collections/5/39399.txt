@@ -1,0 +1,1 @@
+For example: 1  e^3 is 20.08. After 3 units of time, we end up with 20.08 times what we started with. 2  ln(20.08) is about 3. If we want growth of 20.08, we’d wait 3 units of time (again, assuming a 100% continuous growth rate).

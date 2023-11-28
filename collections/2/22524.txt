@@ -1,0 +1,1 @@
+Input impedance values vary, but some typical values are 44K, 220K, 60K (usually active) and 800K, 100K (typically passive). It's ok to plug high impedance instruments and devices into ultrahigh impedance (1MegOhm and higher) inputs.

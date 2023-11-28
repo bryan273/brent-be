@@ -1,0 +1,1 @@
+Repair a corrupted workbook manually. 1  Click the Microsoft Office Button , and then click Open. 2  In the Open dialog box, select the corrupted workbook that you want to open. 3  Click the arrow next to the Open button, and then click Open and Repair. 4  Do one of the following: To recover as much of the workbook data as possible, click Repair.

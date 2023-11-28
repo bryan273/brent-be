@@ -1,0 +1,1 @@
+The JVM languages fall into three categories: They have features that Java doesn’t have, they are ports of existing languages to the JVM, or they are research languages. The first category describes languages that include more features than Java and aim to let developers write code in a more concise way.

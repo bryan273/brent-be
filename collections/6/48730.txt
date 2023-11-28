@@ -1,0 +1,1 @@
+If B2 is the sale price, and C2 is 0.75, which is 100% minus the 25% discount (in decimal form), you can enter the formula =B2/C2 in D2 to find the original price: This formula divides the sale price by the percentage paid to find the original price.

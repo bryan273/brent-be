@@ -1,0 +1,1 @@
+Wix websites will still be viewable on IE8. What won’t be viewable are new features that will be added to the Wix editor. We know the stats on how many internet users are using IE8, we know that people will eventually stop using this version and we need to do what’s best for our users.

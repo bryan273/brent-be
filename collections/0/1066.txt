@@ -1,0 +1,1 @@
+Step 3: Calculate the base impedance. Step 4: Calculate the per unit impedance. The voltage ratio in equation (3) is not equivalent to transformers voltage ratio. It is the ratio of the transformer’s voltage rating on the primary or secondary side to the system nominal voltage on the same side.

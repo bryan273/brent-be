@@ -1,0 +1,1 @@
+A network is a group of two or more computer systems or other devices that are linked together to exchange data. Networks share resources, exchange files and electronic communications. For example, networked computers can share files or multiple computers on the network can share the same printer.

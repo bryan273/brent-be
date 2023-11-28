@@ -1,0 +1,1 @@
+Predictive analysis is about predicting the future: data mining information from data sets and analyzing it in order to find patterns and predict future events or trends. It is a forecasting tool. There are many examples of it being used today: In fact, the Oakland A's used it (long before it was cool) in the early 2000s to improve team performance.

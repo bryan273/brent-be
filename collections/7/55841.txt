@@ -1,0 +1,1 @@
+• Connect and install secondary drive.• Boot into Windows.• Open Computer Management and select Disk Management.• Initialize, Partition and Format the drive. Note: Even though you can see the drive in Disk Management it will not be visible in Windows Explorer until it has been initialized and partitioned. 1.

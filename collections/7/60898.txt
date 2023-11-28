@@ -1,0 +1,1 @@
+52 Week High/Low 52 Week High is the highest sales price the stock has achieved during the regular trading hours during the most recent 52 week period. 52 Week Low is the lowest sales price the stock has fallen to during the regular trading hours during the most recent 52 week period.

@@ -1,0 +1,1 @@
+PHP7 is currently targeted for release on November 12, 2015. Coincidentally, this is also the date that WordPress intends to officially fully support PHP7. 😃 While WordPress doesn’t officially support unreleased versions of PHP, you are encouraged to test and report any issues you find with PHP7 before the its official release.

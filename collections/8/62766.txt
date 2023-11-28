@@ -1,0 +1,1 @@
+A scatter plot is a set of points plotted on a horizontal and vertical axes. Scatter plots are important in statistics because they can show the extent of correlation, if any, between the values of observed quantities or phenomena (called variables).

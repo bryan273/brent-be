@@ -1,0 +1,1 @@
+First Generation Languages (1GL) The earliest computers were based on vacuum tube technology and hardware design was in its infancy. The only way to program these computers was to enter the machine language instructions directly into the hardware. Machine languages were different for every type of computer.

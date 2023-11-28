@@ -1,0 +1,1 @@
+Finally go to My ARTIK Cloud to connect a new Smart Light device: 1  Sign into My ARTIK Cloud using the same account that you used to sign into the ARTIK Cloud Developer Dashboard. 2  On the dashboard, click to connect a new device. 3  Click Connect Device…. 4  Click the Settings icon of the device you just added.

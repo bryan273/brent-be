@@ -1,0 +1,1 @@
+Task: Convert 500 pounds to short tons (show work) Formula: lb ÷ 2,000 = short tons Calculations: 500 lb ÷ 2,000 = 0.25 short tons Result: 500 lb is equal to 0.25 short tons.

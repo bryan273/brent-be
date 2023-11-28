@@ -1,0 +1,1 @@
+When you exceed message sending limits, you might see the following alert messages depending on how you view iCloud Mail: 1  iOS: A copy has been placed in your Outbox. 2  OS X: Cannot send message using the server iCloud. 3  iCloud webmail: 550 5.7.1 membername@icloud.com: You have exceeded your daily sending limit.

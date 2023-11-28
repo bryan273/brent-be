@@ -1,0 +1,1 @@
+Why main method is public static and void in Java. This is very famous core Java interview question, and appeared on many fresher and experience level interviews. Though ever java programmer uses main method not every one is familiar with reason why main is static or why main is public in Java.

@@ -1,0 +1,1 @@
+Excel vs CSV. Ever since the advent of personal computers, it has been used to process paperwork. Ordinary documents like letters were stored in a plain text format which contained nothing more than a list of characters. Spreadsheets are a little bit more difficult because values are arranged in a tabular form.

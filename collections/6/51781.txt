@@ -1,0 +1,1 @@
+Check whether the Eyeglass SCA service is running. 1  Secure Shell to the Eyeglass appliance. 2  Login as admin or root user. 3  If logged in as admin, sudo to root user by typing sudo su - root where prompted.  Type service sca status to check the status of the Eyeglass SCA service.

@@ -1,0 +1,1 @@
+To ensure that LEDs function properly, the driver converts AC line power (120V or 277V) to the appropriate DC voltage (most commonly 12V DC or 24V DC) or regulates the current (most commonly 350 or 700 milliamps or mA) for your lights. LED light drivers might also include components to make them dimmable.

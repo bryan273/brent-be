@@ -1,0 +1,1 @@
+Any angle. Then using your compass and straightedge, figure out how to bisect the angle--that means figure out how to draw a line that cuts your angle in half. Note: Do this without using your protractor until the end, when you can check your work by measuring both angles.

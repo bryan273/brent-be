@@ -1,0 +1,1 @@
+A pressure switch does this by applying the process pressure to a diaphragm or piston to generate a force which is compared to that of a pre-compressed range spring. A pressure switch is used to detect the presence of fluid pressure.

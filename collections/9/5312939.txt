@@ -1,0 +1,1 @@
+Given the equilibrium equation: H2(g) + Br2(g) 2HBr(g) If the partial pressure of H2 is increased, the equilibrium will shift to the right. If the partial pressure of H2 is decreased, the equilibrium will shift to the left. If the partial pressure of HBr is increased, the equilibrium will shift to the left.

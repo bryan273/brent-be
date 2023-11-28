@@ -1,0 +1,1 @@
+Here is some information about the average temperature in Italy for a few cities, with charts listing high and low average temperatures – in both Fahrenheit and Celsius – as well as the average number of wet days in each city below.

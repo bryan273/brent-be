@@ -1,0 +1,1 @@
+Get the names and default values of a Python function’s arguments. A tuple of four things is returned: (args, varargs, keywords, defaults). args is a list of the argument names (it may contain nested lists). varargs and keywords are the names of the * and ** arguments or None.

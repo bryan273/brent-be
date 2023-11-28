@@ -1,0 +1,1 @@
+Here are the contents of my /etc/network/interfaces as reference: Now change your network's DHCP settings such that the default gateway/router is your Pi. This likely means changing the settings on your existing ADSL router box. In my example above, my Pi's IP address is 192.168.1.1.

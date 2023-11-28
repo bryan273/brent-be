@@ -1,0 +1,1 @@
+regression - the relation between selected values of x and observed values of y (from which the most probable value of y can be predicted for any value of x)

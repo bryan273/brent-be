@@ -1,0 +1,1 @@
+Page R1.1. R TUTORIAL, #1: DATA, FREQUENCY TABLES, and HISTOGRAMS. The (>) symbol indicates something that you will type in. A bullet (•) indicates what the R program should output (and other comments). ENTERING DATA. > Type (in the R Console window): scores <- c(42, 8, 59) > Press RETURN or ENTER on your computer.

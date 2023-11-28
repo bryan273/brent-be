@@ -1,0 +1,1 @@
+The remainder is zero, so the Factor Theorem says that: x + 4 is a factor of 5x4 + 16x3 15x2 + 8x + 16. In practice, the Factor Theorem is used when factoring polynomials completely. Rather than trying various factors by using long division, you will use synthetic division and the Factor Theorem.

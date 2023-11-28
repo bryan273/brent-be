@@ -1,0 +1,1 @@
+They are not categorical (like male and female), that are not discrete (like number of people in a single car; you would not typically think about 3.5 people in a car).

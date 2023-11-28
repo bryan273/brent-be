@@ -1,0 +1,1 @@
+While relative masses are nice if you want to compare protons, neutrons and electrons to one another, it doesn't tell you what the actual masses of these particles are. In kilograms, the masses are: Neutron = 1.6749286*10-27 kg.

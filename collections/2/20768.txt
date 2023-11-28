@@ -1,0 +1,1 @@
+1. Trim your startup items. Before we get going, we should explain why computers take forever to start, and why they get worse over time. The more information that your computer has to move, the longer your computer takes to start. And as your computer ages, more information builds up.

@@ -1,0 +1,1 @@
+Four Types of Actuators. An actuator is a kind of motor that controls or moves mechanisms or systems. It takes hydraulic fluid, electric current or other sources of power and converts the energy to facilitate the motion.

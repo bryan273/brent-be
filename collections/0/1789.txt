@@ -1,0 +1,1 @@
+1 Do. 2  Computer security is fundamentally a practitioner's art, and that requires practice. 3  This means using what you've learned to configure security systems, design new security systems, and -- yes -- break existing security systems.

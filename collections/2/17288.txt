@@ -1,0 +1,1 @@
+With the demand of organizations needing to manage their cloud environments and workloads deployed, IT Reap leverages Operations Management Suite (OMS) and created a management pack to fully optimize the use of this new hybrid management tool by Microsoft.

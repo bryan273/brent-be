@@ -1,0 +1,1 @@
+The goal of beacons is data that can be used to send notifications that influence consumer behavior. This changes how and when customers interact with retailers and gives retailers a insight into what drives customers to a particular store.

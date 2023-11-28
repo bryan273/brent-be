@@ -1,0 +1,1 @@
+1 When you find the program Intel(R) Rapid Storage Technology, click it, and then do one of the following: 2  Windows Vista/7/8: Click Uninstall. 3  Windows XP: Click the Remove or Change/Remove tab (to the right of the program).  Follow the prompts.

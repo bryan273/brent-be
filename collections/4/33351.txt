@@ -1,0 +1,1 @@
+Change the Exceptions pop-up to Only, and in the text box below, enter Microsoft Excel (if you use Excel 2008) or Excel (if you use Excel 2004). If you use both programs, enter Microsoft Excel,Excel in the box.

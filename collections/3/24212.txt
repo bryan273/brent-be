@@ -1,0 +1,1 @@
+A joy about symbolic links is that they maintain the folder structure in which the symbolic link is contained. So, for example, let’s say a file named HelloWorld.txt was in the MakeUseOf folder and located at /home/danny/MakeUseOf/HelloWorld.txt.

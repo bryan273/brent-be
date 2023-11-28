@@ -1,0 +1,1 @@
+Very cheap to maintain: essentially all you need for C. elegans research is a microscope and an incubator, no expensive animal house costs. Temperature sensitive: the worms grow at different speeds depending on the temperature. See life cycle. Present no biohazard: not much paperwork and no IRB necessary.

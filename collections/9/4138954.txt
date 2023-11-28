@@ -1,0 +1,1 @@
+Tests for type 1 and type 2 diabetes and prediabetes. 1  Glycated hemoglobin (A1C) test. 2  This blood test indicates your average blood sugar level for the past two to three months. 3  It measures the percentage of blood sugar attached to hemoglobin, the oxygen-carrying protein in red blood cells.

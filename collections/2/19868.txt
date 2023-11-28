@@ -1,0 +1,1 @@
+1 Go to the Edit menu and choose Paste. 2  If prompted to enlarge the image, choose Yes. 3  Optional: Use your image editor's crop tool to crop out unnecessary portions of the screen shot. 4  Go to the File Menu and choose Save As. 5  Navigate to the folder where you want to save the image.

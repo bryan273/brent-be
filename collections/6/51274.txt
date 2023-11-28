@@ -1,0 +1,1 @@
+Using HP Support Assistant. If you have the HP Support Assistant software installed, you can use it to quickly find your computer's model number. Click the Windows Start button and type HP in the Search field. Choose HP Support Assistant from the displayed results.

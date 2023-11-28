@@ -1,0 +1,1 @@
+SAP Basis is the systems administration of SAP software applications. SAP software applications are inter-enterprise applications used primarily by large businesses to manage data. These systems manage financial and asset data, cost accounting, and help manage operations, materials and plants.

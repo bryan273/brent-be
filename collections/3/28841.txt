@@ -1,0 +1,1 @@
+QNatal Advanced is a lab-developed test developed and validated by Quest Diagnostics using massively parallel shotgun sequencing (MPSS), a type of next-generation sequencing technology, with GC correction.

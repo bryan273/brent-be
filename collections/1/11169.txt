@@ -1,0 +1,1 @@
+Most of the new stuff is effective for plan years beginning after 12/31/2001, but the DB 415 limit increases seem to be effective for plan years ending after 12/31/2001. This is despite the fact that, according to the joint committee report, both the House and Senate legislation proposed effective dates for years beginning after 12/31/2001.

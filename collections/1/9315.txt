@@ -1,0 +1,1 @@
+mixed language programs written in both C++ and FORTRAN. 1.2 Requirements for successful re-use When writing mixed language programs, one must make sure it is done in a way which does not add new constraints or increase complexity, as compared to writing the programs in one language only.

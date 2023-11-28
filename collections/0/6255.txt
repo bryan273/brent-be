@@ -1,0 +1,1 @@
+The flow is the same whether the system pressure is low or high, so long as the difference between the inlet and outlet pressures is the same. This equation shows the relationship: The water flow graphs (pages 8 and 9) show water flow as a function of pressure drop for a range of C v values.

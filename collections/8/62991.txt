@@ -1,0 +1,1 @@
+This topic provides a brief overview of the Prism concepts with links to associated source code and documentation. If you are considering upgrading from Prism 4.1 to Prism 5.0 we include a What’s New and Upgrading from Prism 4.1 topic that you should read.

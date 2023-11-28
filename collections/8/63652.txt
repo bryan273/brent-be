@@ -1,0 +1,1 @@
+An excel cell range is the parameters you give Excel. For example, the cell range is =$D$4:$L$28. That means the parameters are from columns D to L, rows 4 to 28. If you want to be more specific, like a few cells and a few cells there; here is an example.

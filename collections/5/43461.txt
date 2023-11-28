@@ -1,0 +1,1 @@
+In contrast most of North America shifts at 02:00 local time, so its zones do not shift at the same instant; for example, Mountain Time is temporarily (for one hour) zero hours ahead of Pacific Time, instead of one hour ahead, in the autumn and two hours, instead of one, ahead of Pacific Time in the spring.

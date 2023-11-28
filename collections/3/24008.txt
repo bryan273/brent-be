@@ -1,0 +1,1 @@
+Of course, all seven games are not played if a team has already won four. Thus, what we want you to find out is how many games do you expect to be played before a team wins four games and becomes the champion? Predicting how long a series will take is not easy.

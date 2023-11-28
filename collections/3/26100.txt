@@ -1,0 +1,1 @@
+Introduction to Spintronics. and Spin Quantum Computation. Spintronics, or spin electronics, refers to the study of the role played by electron (and more generally nuclear) spin in solid state physics, and possible devices that specifically exploit spin properties instead of or in addition to charge degrees of freedom.

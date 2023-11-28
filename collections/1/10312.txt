@@ -1,0 +1,1 @@
+In this case, a single. score is used to indicate a student’s level of understanding on a particular topic. However, the purpose of the exam is not simply to determine how many items students. answered correctly on a particular test, but to measure how well they know the content. area.

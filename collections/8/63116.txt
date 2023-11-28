@@ -1,0 +1,1 @@
+Once you register and fix appointment for passport, it can be rescheduled thrice before it gets elapsed. 1  After fixing appointment, if your process is stalled due to lack of documents, then system counts it as first appointment over.

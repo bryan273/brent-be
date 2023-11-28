@@ -1,0 +1,1 @@
+Oracle Key Vault—Encryption Key Management. Oracle Key Vault enables customers to quickly deploy encryption and other security solutions by centrally managing encryption keys, Oracle Wallets, Java Keystores, and credential files. The challenges of key management. Oracle Key Vault high-level architecture.

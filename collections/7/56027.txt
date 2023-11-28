@@ -1,0 +1,1 @@
+The structure of the anticodon of tRNA helps to explain the degeneracy of the genetic code. Previously, in the SparkNote on the Genetic Code, we saw that more than one codon could specify a particular amino acid. However, now we know that tRNA acts as a go between for the codons of mRNA and amino acids.

@@ -1,0 +1,1 @@
+If the business is a sole proprietorship, the owner’s Social Security number acts as the EIN since the business’s taxes are filed on the owner’s tax return, but if the business is another type of entity, the IRS will assign the business a new number for use on business tax returns.

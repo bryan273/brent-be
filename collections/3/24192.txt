@@ -1,0 +1,1 @@
+Below are basic pages to words conversions: 1  1 page is 500 words single spaced, 250 words double spaced. 2  2 pages is 1,000 words single spaced, 500 words double spaced. 3  3 pages is 1,500 words single spaced, 750 words double spaced.  4 pages is 2,000 words single spaced, 1,000 words double spaced.

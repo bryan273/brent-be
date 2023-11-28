@@ -1,0 +1,1 @@
+With this approach, each subcontractor is assigned an expected claim level or claim experience target based on its loss history, for claim categories that have a credible volume of information for actuarial projections.

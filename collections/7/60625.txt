@@ -1,0 +1,1 @@
+All of the preceding formulas must be consistent for a formula to be extended. For more information, see Fill data automatically in worksheet cells. Use an Excel table format to work with related data You can turn a contiguous range of cells on your worksheet into an Excel table.

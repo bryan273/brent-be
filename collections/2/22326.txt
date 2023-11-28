@@ -1,0 +1,1 @@
+Prometheus rate functions and interval selections. I am doing some monitoring with prometheus and is trying to understand how to properly use the rate functions. Premise is this; I have a counter, configuration for this is set to ingest new values every 15s.

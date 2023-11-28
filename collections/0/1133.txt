@@ -1,0 +1,1 @@
+Security experts view Internet of things as a threat to the traditional Internet. Some argue that market incentive to secure IoT devices is insufficient and increased governmental regulation is necessary to make the Internet of things secure. The overall understanding of IoT is essential for basic user security.

@@ -1,0 +1,1 @@
+How many cards are in uno flash? 108 cards as as follows: -76 numbered cards(four suits: blue, red, green, and yellow.) -8 skip cards(2 of every suit) -8 slap cards(2 of every suit) -8 draw 2 cards(2 …of every suit) -4 wild cards -4 wild draw 4 cards.

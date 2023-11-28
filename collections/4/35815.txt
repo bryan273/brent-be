@@ -1,0 +1,1 @@
+Take a regular tetrahedron of edge one. Also take a square-based pyramid, whose edges are all one (therefore the side faces are equilateral triangles of same size as the faces of the tetrahedron). Glue a face of the tetrahedron to a triangular face of the pyramid so that their edges match up.

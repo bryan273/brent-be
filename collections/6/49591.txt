@@ -1,0 +1,1 @@
+Think of an LED driver as ‘Cruise Control’ (like in a car) for the LED, and the temperature changes of the LED are the hills and valleys it is ‘driving’ over.

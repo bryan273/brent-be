@@ -1,0 +1,1 @@
+Crime rates in Saltillo (2011): 1  0 murders (0.0 per 100,000) 2  1 rape (21.0 per 100,000) 3  1 robbery (21.0 per 100,000) 4  6 assaults (125.8 per 100,000) 5  48 burglaries (1,006.3 per 100,000) 6  63 thefts (1,320.8 per 100,000) 7  0 auto thefts (0.0 per 100,000) 8  City-data.com crime rate = 171.5 (higher means more crime, US average = 259.9)

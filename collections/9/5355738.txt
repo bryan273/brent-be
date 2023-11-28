@@ -1,0 +1,1 @@
+The oil pressure relief valve is located at the pulley end of the engine, near the oil pump (on the right in the above schematic). When the oil is cold and thick, the resulting increased oil pressure forces the valve down against spring tension. This allows oil from the oil pump to go directly to the engine bearings.

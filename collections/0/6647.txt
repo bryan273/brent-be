@@ -1,0 +1,1 @@
+At a project/progam level, velocity is the rate at which the whole project is burning the User Stories (or requirements) from the backlog. Also, without knowing your team/project's velocity you can not make longer term planning (over 1 sprint) or even release planning.

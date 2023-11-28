@@ -1,0 +1,1 @@
+Times are updated throughout the journey. So anyone who is trying to follow the Titanic sinking in real time will need to first understand the ship's time, and then do another calculation based on their timezone.

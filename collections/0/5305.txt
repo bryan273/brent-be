@@ -1,0 +1,1 @@
+City rating based on comparing Sparta to other North Carolina cities. State rating based on comparing North Carolina to other U.S. states. All ratings are segmented into quintiles (very low, low, average, high, very high). Data provided by the 2010 U.S. Census.

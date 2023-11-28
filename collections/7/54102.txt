@@ -1,0 +1,1 @@
+The Current Value for the amount entered is shown. Optionally enter number amounts for Purchase Price and/or Future Value per unit of weight chosen. The Current and Future Gain/Loss will be calculated. Totals for Gold and Silver holdings including the ratio percent of gold versus silver will be calculated.

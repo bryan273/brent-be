@@ -1,0 +1,1 @@
+Desktop virtualization can be used in conjunction with application virtualization and user profile management systems, now termed user virtualization, to provide a comprehensive desktop environment management system.

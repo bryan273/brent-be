@@ -1,0 +1,1 @@
+The “Other” storage space is generally a combination of local caches from apps, browsers, mail, Messages, Reading List, saved games, app-specific documents and data, notes, and voice memos. Knowing this, it’s actually pretty easy to recover most of the space consumed in that category by targeting those things specifically.

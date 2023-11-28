@@ -1,0 +1,1 @@
+These Terms of Service apply to the executable code version of Google Chrome. Source code for Google Chrome is available free of charge under open source software license agreements at http://code.google.com/chromium/terms.html.

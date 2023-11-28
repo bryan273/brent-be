@@ -4,63 +4,119 @@ from gensim.models import LsiModel
 from gensim.corpora import Dictionary
 from scipy.spatial.distance import cosine
 from data_preparator import DataPreparator
+from sentence_transformers import SentenceTransformer
+from sklearn.preprocessing import normalize
+from tqdm import tqdm
 
 class Ranker:
     def __init__(self, num_latent_topics=200):
         self.dictionary = Dictionary()
         self.data_preparator = DataPreparator()
         self.num_latent_topics = num_latent_topics
-        self.model = None
         self.ranker = None
+        self.sentence_model = SentenceTransformer("m-aliabbas1/tiny_bert_29_medicare_intents")
     
-    def create_lsi_model(self, documents):
-        """
-        Fungsi untuk membuat model LSI
-        """
-        bow_corpus = [self.dictionary.doc2bow(doc, allow_update=True) for doc in documents.values()]
-        self.model = LsiModel(bow_corpus, num_topics=self.num_latent_topics, random_seed=42)
-
-    def vector_representation(self, text):
-        """
-        Fungsi untuk mengubah representasi teks menjadi vektor dengan LSI
-        """
-        rep = [topic_value for (_, topic_value) in self.model[self.dictionary.doc2bow(text)]]
-        return rep if len(rep) == self.num_latent_topics else [0.] * self.num_latent_topics
-
-    def features(self, query, doc):
+    def features(self, query, doc, is_batch=False):
         """
         Fungsi untuk membangun fitur untuk training model
         X: fitur, Y: target
         """
 
-        # Hasil LSI
-        v_q = self.vector_representation(query)
-        v_d = self.vector_representation(doc)
-        
-        # Fitur tambahan cosine dan jaccard
-        cosine_dist = cosine(v_q, v_d)
-        jaccard = len(set(query) & set(doc)) / len(set(query) | set(doc))
-        return v_q + v_d + [jaccard, cosine_dist]
+        if not is_batch:
+            # Hasil BERT
+            v_q = normalize(self.sentence_model.encode(query)).flatten().tolist()
+            v_d = normalize(self.sentence_model.encode(doc)).flatten().tolist()
+            
+            # Fitur tambahan cosine dan jaccard
+            cosine_dist = cosine(v_q, v_d)
+            jaccard = len(set(query.split()) & set(doc.split())) / len(set(query.split()) | set(doc.split()))
+            return v_q + v_d + [jaccard, cosine_dist]
+        else:
+            # Handle batch queries and documents
+            # print(query, doc)
+            batch_features = []
+            v_q = normalize(self.sentence_model.encode(query)).tolist()
+            v_d = normalize(self.sentence_model.encode(doc)).tolist()
+                
+            for i, (query, doc) in enumerate(zip(query, doc)):
 
-    def prepare_data_train(self, dataset):
-        """
-        Persiapan data training (X,Y)
-        """
+                cosine_dist = cosine(v_q[i], v_d[i])
+                jaccard = len(set(query.split()) & set(doc.split())) / len(set(query.split()) | set(doc.split()))
+                
+                batch_features.append(v_q[i] + v_d[i] + [jaccard, cosine_dist])
+            return batch_features
+
+    def prepare_data_train(self, dataset, batch_size=256):
+        is_batch = batch_size > 1
+
         X = []
         Y = []
-        for data in dataset:
-            query, doc, rel = data
-            X.append(self.features(query, doc))
-            Y.append(rel)
-        return np.array(X), np.array(Y)
+        batch_queries = []
+        batch_docs = []
 
-    def prepare_data_test(self, dataset):
+        for data in tqdm(dataset):
+            query, doc, rel = data
+            query = ' '.join(query)
+            doc = ' '.join(doc)
+            
+            batch_queries.append(query)
+            batch_docs.append(doc)
+            Y.append(rel)
+            
+            if len(batch_queries) == batch_size:
+                if is_batch:
+                    X.extend(self.features(batch_queries, batch_docs, is_batch))
+                else:
+                    X.append(self.features(batch_queries, batch_docs, is_batch))
+                
+                # Clear the batch lists
+                batch_queries = []
+                batch_docs = []
+
+        # Process any remaining data in the last batch
+        if batch_queries:
+            if is_batch:
+                X.extend(self.features(batch_queries, batch_docs, is_batch))
+            else:
+                X.append(self.features(batch_queries, batch_docs, is_batch))
+
+        return np.array(X), np.array(Y)
+    
+    def prepare_data_test(self, dataset, batch_size=256):
         """
         Persiapan data testing (X)
         """
+        is_batch = batch_size > 1
+
         X = []
-        for (query, doc) in dataset:
-            X.append(self.features(query, doc))
+        batch_queries = []
+        batch_docs = []
+
+        for data in dataset:
+            query, doc = data
+            query = ' '.join(query)
+            doc = ' '.join(doc)
+            
+            batch_queries.append(query)
+            batch_docs.append(doc)
+            
+            if len(batch_queries) == batch_size:
+                if is_batch:
+                    X.extend(self.features(batch_queries, batch_docs, is_batch))
+                else:
+                    X.append(self.features(batch_queries, batch_docs, is_batch))
+                
+                # Clear the batch lists
+                batch_queries = []
+                batch_docs = []
+
+        # Process any remaining data in the last batch
+        if batch_queries:
+            if is_batch:
+                X.extend(self.features(batch_queries, batch_docs, is_batch))
+            else:
+                X.append(self.features(batch_queries, batch_docs, is_batch))
+
         return np.array(X)
 
     def fit_ranker(self, X_train, Y_train, train_group_qid_count, 
@@ -99,7 +155,6 @@ class Ranker:
                 group=train_group_qid_count,  # Group data for the training set
             )
         
-
     def predict_ranker(self, X):
         """
         Fungsi untuk memprediksi X
@@ -110,9 +165,7 @@ class Ranker:
         """
         Menyimpan ranker model
         """
-        if type=='lsi':
-            self.model.save(filename)
-        elif type=='lgbm':
+        if type=='lgbm':
             self.ranker.booster_.save_model(filename)
         else:
             raise ValueError("Type can only be 'lsi' or 'lgbm'")
@@ -121,10 +174,7 @@ class Ranker:
         """
         Load ranker model
         """
-        if type=='lsi':
-            self.model = LsiModel.load(filename)
-            return self.model
-        elif type=="lgbm":
+        if type=="lgbm":
             self.ranker = lgb.Booster(model_file=filename)
             return self.ranker
         else:
@@ -151,7 +201,6 @@ if __name__ == "__main__":
 
         # membuat model LSI dari dokumen train
         ranker = Ranker()
-        ranker.create_lsi_model(train_documents)
 
         # mempersiapkan train dataset dan validation dataset
         train_qrel_path = r"qrels-folder\train_qrels.txt"
@@ -171,10 +220,16 @@ if __name__ == "__main__":
         best_score = ranker.ranker.best_score_['val'] 
         print(f"Best NDCG score on validation set: {best_score}")
 
+        # LSI
         # Output
         # OrderedDict([('ndcg@5', 0.9794901122519907), 
         # ('ndcg@10', 0.9812383590985622), 
         # ('ndcg@25', 0.9814625590191021)])
+
+        # BERT
+        # OrderedDict([('ndcg@5', 0.977902698441548), 
+        # ('ndcg@10', 0.9806530298234324), 
+        # ('ndcg@25', 0.9810282434449141)])
     
     if 'train_all' in section:
         # Pada 'train_all', data training dan validation digabungkan, 
@@ -194,7 +249,6 @@ if __name__ == "__main__":
         documents = {**train_documents, **val_documents}
 
         ranker = Ranker()
-        ranker.create_lsi_model(documents)
 
         train_qrel_path = r"qrels-folder\train_qrels.txt"
         val_qrel_path = r"qrels-folder\val_qrels.txt"
@@ -207,7 +261,6 @@ if __name__ == "__main__":
         ranker.fit_ranker(X, Y, group_qid_count)
 
         ranker.save_model('lgbr_base.txt', type='lgbm')
-        ranker.save_model('lsi_base.model', type='lsi')
 
     if 'trial' in section:
         # Pada 'trial', contoh penggunaan model yang sudah ada. 
@@ -221,7 +274,6 @@ if __name__ == "__main__":
         queries = DataPreparator.load_from_pickle(query_pkl)
 
         ranker = Ranker()
-        ranker.create_lsi_model(documents)
 
         train_qrel_path = r"qrels-folder\train_qrels.txt"
         dataset, group_qid_count = ranker.data_preparator.prepare_training_dataset(train_qrel_path, queries, documents)

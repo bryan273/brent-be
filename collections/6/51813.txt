@@ -1,0 +1,1 @@
+x-Axis. The-axis is the horizontal axis of a two-dimensional plot in Cartesian coordinates that is conventionally oriented to point to the right (left figure). In three dimensions, the -, -, and are usually arranged so as to form a right-handed coordinate system.

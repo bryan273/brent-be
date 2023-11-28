@@ -1,0 +1,1 @@
+The number fr(E) is called the frequency of E. N, the. number of times that the experiment is performed, is called. the number of trials or the sample size. If E consists of a single outcome s, then we refer to P(E) as. the relative frequency or estimated probability of the. outcome s, and we write P(s).

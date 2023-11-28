@@ -1,0 +1,1 @@
+The bottom line is that passive scanning in systems can expose a lot of information about all aspects of the system in normal communications without intruding upon operations. Active scanning has the potential to discover more information, and when combined with passive scanning, it gives a more complete picture.

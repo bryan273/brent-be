@@ -1,0 +1,1 @@
+E.g. in evacuations, egress times are usually strongly determined by the relevant bottlenecks. Therefore, a proper understanding of bottlenecks and their influence on properties like the flow is highly relevant. One of the most natural questions is “When does a bottleneck lead to a traffic jam?”

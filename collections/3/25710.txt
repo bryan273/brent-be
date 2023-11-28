@@ -1,0 +1,1 @@
+The chat app does not turn off the SalesForce Chatter, so you can miss messages or send out the wrong status. Can not set user-defined status. Buggy like is common in SalesForce. When chatting with a few people, such as 4, sometimes only 3 names display.

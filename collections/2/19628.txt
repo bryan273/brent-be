@@ -1,0 +1,1 @@
+Fixed bugs in Multi Report mod More... Physics Toolbox Sensor Suite 1.4.4 for Android 4.1+ APK Download. What's new: Fixed a bug that made Orientation mode crash on some devices. Physics Toolbox Sensor Suite 1.4.2 for Android 4.1+ APK Download. What's new: Fixed a bug that made the app crash on a small subset of devices.

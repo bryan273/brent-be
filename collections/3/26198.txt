@@ -1,0 +1,1 @@
+Extending flaps or slats increases the wing camber (curvature), the CL and the geometric AOA both reduce. The lift formula tells us that if CL increases IAS must decrease if lift is to remain constant. So therefore stall speed and AOA both are reduced. Lowering the flaps also increases drag, especially when beyond 25°.

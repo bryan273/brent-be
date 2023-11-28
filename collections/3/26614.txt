@@ -1,0 +1,1 @@
+If we reason by paying too much attention to exceptions to the rule, and generalize on the exceptions, our reasoning contains this fallacy. This fallacy is the converse of the accident fallacy. It is a kind of Hasty Generalization, by generalizing too quickly from a peculiar case.

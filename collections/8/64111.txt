@@ -1,0 +1,1 @@
+Dividend Yield %. is the annual dividend return expressed as a percentage. For example, if the total dividends for the year are $10 and the share price is $100, the Dividend Yield % is 10 / 100 multiplied by 100 = 10%.

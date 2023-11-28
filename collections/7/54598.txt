@@ -1,0 +1,1 @@
+Typical roles involved in software deployments for enterprise applications may include: 1  in pre-production environments: application developers: see Software development process. build-and-release engineers: see Release engineering. 2  in production environments: system administrator. database administrator.

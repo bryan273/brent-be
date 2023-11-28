@@ -1,0 +1,1 @@
+Sometimes audiogalaxy-helper.exe and other EXE system errors can be related to problems in the Windows registry. Several programs can share the same audiogalaxy-helper.exe file, but when these programs are uninstalled or changed, sometimes orphaned (invalid) EXE registry entries are left behind.

@@ -1,0 +1,1 @@
+Magnetic Ink Printing Specifications For DDA/ARP Check Orders *See ANSI Publication #X9.27 for Printing Specifications Account Name Address City, State, ZIP Code Customer Account Number (maximum 10 digits) Starting Check Number (maximum 10 digits) Completed By GENERAL INFORMATION 1. No printing other than magnetic encoding is to appear within the 5/

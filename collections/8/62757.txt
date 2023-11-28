@@ -1,0 +1,1 @@
+Scatter plots are useful data visualization tools for illustrating a trend. 1  If the vertical (or y-axis) variable increases as the horizontal (or x-axis) variable increases, the correlation is positive.  If the y-axis variable decreases as the x-axis variable increases or vice-versa, the correlation is negative.

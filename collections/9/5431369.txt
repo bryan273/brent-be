@@ -1,0 +1,1 @@
+Personal Designer (4Design) (CAD Drawing Database) by 4D Graphics, Inc.The DRW file created by Personal Designer (now known as 4Design) is a CAD/CAM database that stores 3D vector information for use with said program. It is a binary file.

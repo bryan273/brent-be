@@ -1,0 +1,1 @@
+Currency, your new system for Minecraft money! Currency is a very simple mod that adds 28 money-like items to Minecraft. Each of these items has a value expressed in credits. The items are best used as currency on a server. The items in this mod are divided into 3 groups: coins, banknotes and bankcards. The smallest coin is the penny, it's worth 0.01 credits.

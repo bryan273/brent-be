@@ -1,0 +1,1 @@
+Noise Reduction Rating (NRR) is the difference between the overall C-weighted sound level of a noise spectrum having equal energy per octave and the resulting A-weighted noise levels under a hearing protection device.

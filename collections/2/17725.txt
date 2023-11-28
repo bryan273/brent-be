@@ -1,0 +1,1 @@
+To conduct ANOVA with the M&M example above, we would test the null hypothesis H 0 :μ 1 = μ 2 = μ 3 = μ 4. This states that there is no difference between the mean weights of the red, blue and green M&Ms.

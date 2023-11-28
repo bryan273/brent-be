@@ -1,0 +1,1 @@
+This is the. most common relay used for fog lights or other simple circuits. If there is a middle 87b pin, it will have power whenever there is power. to the 87 (whenever relay is “activated”). This way the middle 87b pin may be used as an extra power output.

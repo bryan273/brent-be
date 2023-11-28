@@ -1,0 +1,1 @@
+1 To calculate the amperage for a circuit, first add up the wattage of all the electrical devices that will be on the circuit. 2  Then, divide the total wattage by the voltage of the system, 110 or 220, and that will give you the expected current or amps.

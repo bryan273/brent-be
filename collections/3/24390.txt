@@ -1,0 +1,1 @@
+In most browsers the shorter and more specific variant of the code will run faster (in some instances much faster) than the second variant and so it makes sense to use the shorter and more specific version. It also makes the code easier to read and maintain.

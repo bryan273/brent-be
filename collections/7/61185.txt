@@ -1,0 +1,1 @@
+: Age category (, 1, ..., ). These values can be in any convenient units, but must be chosen so that no observed lifespan extends past category (as in an table). : . Survivorship, which measures the proportion of individuals who survive to the beginning of age category (as in an table).

@@ -1,0 +1,1 @@
+Resolution in propositional logic. Resolution rule. The resolution rule in propositional logic is a single valid inference rule that produces a new clause implied by two clauses containing complementary literals. A literal is a propositional variable or the negation of a propositional variable.

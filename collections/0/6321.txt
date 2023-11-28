@@ -1,0 +1,1 @@
+Head-to-Head: Points: H2H Points is very similar to how fantasy football is played. It allows you to assign a given point value to individual statistic categories (i.e. HR=4, RBI=1, etc.) and each scoring period's winner is determined solely by which team accumulates the most fantasy points versus a single opponent.

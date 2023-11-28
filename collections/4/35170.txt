@@ -1,0 +1,1 @@
+I consider CFML to be one of the first big JVM languages and just as popular as Groovy, Scala, Clojure and jRuby. (On the Tiobe index, Scala is #42, Groovy, Clojure and CFML are in the #51-#100 list, and jRuby doesn’t even rank.

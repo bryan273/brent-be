@@ -1,0 +1,1 @@
+The title page should contain the title of the paper, the author's name, and the institutional affiliation. Include the page header (described above) flush left with the page number flush right at the top of the page. Please note that on the title page, your page header/running head should look like this:

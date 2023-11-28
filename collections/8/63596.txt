@@ -1,0 +1,1 @@
+Every time I press the ON botton, I can only see a black screen with a blinking cursor, nothig else. I not even get to see the Dell golo and the core name during the booting procces. I do not even get error messages.

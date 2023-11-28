@@ -1,0 +1,1 @@
+Whilst making the changes it distinguishes between different authors, but when the document is saved the original author identity is lost; the identity is shown as 'Author' for every change. 1  56 people had this question. 2  Be the first person to mark this helpful.

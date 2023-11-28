@@ -1,0 +1,1 @@
+Since there is no shearing stresses present in a fluid at rest-the pressure in a fluid is independent of direction. For fluids-liquids or gases-at rest the pressure gradient in the vertical direction depends only on the specific weight of the fluid. How pressure changes with elevation can be expressed as.

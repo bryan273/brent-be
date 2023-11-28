@@ -1,0 +1,1 @@
+A scatter graph (or scatter diagram) plots 2 variables against each other on a pair of axes. It then shows lot's of x's to mark off different values. This let's you see if there is a pattern emerging in the data. An example of a scatter diagram is below.

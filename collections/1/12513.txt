@@ -1,0 +1,1 @@
+Measurements of temperature, humidity and wind above the surface are found by launching radiosondes (weather balloons). Data are usually obtained from near the surface to the middle of the stratosphere, about 30,000 meters (100,000 ft).

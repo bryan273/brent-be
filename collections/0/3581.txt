@@ -1,0 +1,1 @@
+To convert the benefits to an annual basis one multiplies the hourly benefits of each type of trip times the number of hours per year for that type of trip. There are 260 week days per year and at six rush hours per weekday there are 1560 rush hours per year. This leaves 7200 nonrush hours per year.

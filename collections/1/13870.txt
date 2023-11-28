@@ -1,0 +1,1 @@
+Well, that clearly depends on the type of data being stored, and who all will need the access to read and write data on the Blockchain and whether all these participants need to be given same or different privileges of reading and writing on the database in concern. Blockchain. Bitcoin. Technology. Fintech. Business.

@@ -1,0 +1,1 @@
+Select the Push Button setup method. Click the button in the Add WPS Client screen. The green button light on the WNR3500 router begins to blink in a regular pattern. While the button light is blinking, you have 2 minutes to enable WPS on the device you are trying to connect to the router.

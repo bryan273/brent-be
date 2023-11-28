@@ -1,0 +1,1 @@
+If B2 is the price and C2 is the sales tax, you can type the formula =B2*C2 in D2, as shown here: This formula multiplies 800 by 0.089 (the underlying percentage in decimal form) to find the sales tax to pay.

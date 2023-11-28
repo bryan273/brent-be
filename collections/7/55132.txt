@@ -1,0 +1,1 @@
+1 Take the number of beats you counted, and multiply by 4 to get the number of beats in a whole minute. 2  For example, if you counted 24 beats in 15 seconds, multiply 24 by 4 = 96. 3  The song's tempo is 96BPM. 4  You multiply by four, because 60 seconds divided by 15 seconds = 4.

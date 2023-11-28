@@ -1,0 +1,1 @@
+Software: OS-Cent OS 4.4, openldap 2.2.13-6.4E. System name: ldap.adminmart.com. Domain name: adminmart.com. System IP: 192.168.1.212. Note: Use your domain name and IP instead of adminmart. Easy steps for adding users: 1. Create unix user. 2. Create unix user's ldap passwd file. 3. Convert passwd.file to ldif file.

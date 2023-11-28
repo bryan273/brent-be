@@ -1,0 +1,1 @@
+Here are some ideas of connection WordPress and real-world things: 1  A bell that goes off whenever there’s a new comment, sale, or plugin update on your site. 2  An IoT lamp that lights up when you receive or answer a new ticket. 3  Push notifications if the site is down or there’s another security problem.

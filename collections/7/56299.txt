@@ -1,0 +1,1 @@
+A laser consists of a gain medium, a mechanism to energize it, and something to provide optical feedback. The gain medium is a material with properties that allow it to amplify light by way of stimulated emission. Light of a specific wavelength that passes through the gain medium is amplified (increases in power).

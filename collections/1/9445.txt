@@ -1,0 +1,1 @@
+The Quantitative Precipitation Forecast (abbreviated QPF) is the expected amount of melted precipitation accumulated over a specified time period over a specified area.[1] A QPF will be created when precipitation amounts reaching a minimum threshold are expected during the forecast's valid period.

@@ -1,0 +1,1 @@
+1 Right Click on your screen and inside the pop-up menu choose Refresh. 2  or, press your F5 key. 3  or, from the menu, select View and select Refresh.  or, click on the refresh button.

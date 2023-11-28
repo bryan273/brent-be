@@ -1,0 +1,1 @@
+Now select all the layers from the skateboard psd excluding the background layer and then go to Edit>Free Transform (Shortcut: CTRL+T) now size the skateboard down a bit, this is down to ensure your PNG file will fit the board, you can either scale down the board or scale up the graphic in Illustrator.

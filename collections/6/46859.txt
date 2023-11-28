@@ -1,0 +1,1 @@
+The Factor Theorem. The Factor Theorem is a result of the Remainder Theorem, and is based on the same reasoning. If you haven't read the lesson on the Remainder Theorem, review that topic first, and then return here.

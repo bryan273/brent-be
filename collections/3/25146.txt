@@ -1,0 +1,1 @@
+, worked at Verizon Wireless. 1  Yes, the iPhone and smartphones in general have GPS receivers. It is possible for the phone to get a location fix solely from the satellite signals, and in this mode the phone just listens for the signals and doesn't rely on mobile network signals or data transmission.

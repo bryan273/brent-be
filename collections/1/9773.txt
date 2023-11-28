@@ -1,0 +1,1 @@
+The mass per mole of a substance is called its molar mass. Since the atomic mass unit (amu) is defined as 1/12 of the mass of the 12C atom, it follows that the molar mass of a substance, measured in grams per mole, is numerically equal to its mean atomic or molecular mass measured in amu.

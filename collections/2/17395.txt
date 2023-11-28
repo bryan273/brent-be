@@ -1,0 +1,1 @@
+1 Fixed ratio (FR) – schedules deliver reinforcement after every n th response. 2  Example: FR2 = every second desired response the subject makes is reinforced. 3  Lab example: FR5 = rat's bar-pressing behavior is reinforced with food after every 5 bar-presses in a Skinner box.

@@ -1,0 +1,1 @@
+LifeGuard Scan Sudomotor provides information that determines the cardiometabolic risk in patients. The test, equivalent to a galvanic skin response stress test, measures the sweat glands’ capacity to release chloride ions in response to an electrochemical activation.

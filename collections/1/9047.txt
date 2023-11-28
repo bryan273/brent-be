@@ -1,0 +1,1 @@
+Modules today are typically 2, 4 and 8 GB. Third is how much total RAM is supported by the motherboard, or rather the chipset on the motherboard. The operating system isn't a limitation, you can perfectly well have 128 GB of RAM and then install a 32-bit operating system on the computer.

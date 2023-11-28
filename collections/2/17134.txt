@@ -1,0 +1,1 @@
+Second, copy the whole column and go to another sheet do Paste Special-> Transpose. Thirdly copy the value you just got, and open a word document, then choose Paste Options -> choose A, Last, copy everything in the word document back to a cell in an excel sheet,you would get all values in one cell.

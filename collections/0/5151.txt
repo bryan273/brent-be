@@ -1,0 +1,1 @@
+Translation: the difference between. a wine with a pH of 4.0 and with a pH of 3.0 is that the wine with the pH of 3.0 has 10x the. number of hydrogen ions as the pH 4.0 wine (or 1x10-3 versus 1x10-4 H+ ions). The. measurement of acidic content is the acid’s potential to liberate H+ ions as it dissociates.

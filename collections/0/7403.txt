@@ -1,0 +1,1 @@
+Structure of a Logical Argument. Whether we are consciously aware of it or not, our arguments all follow a certain basic structure. They begin with one or more premises, which are facts that the argument takes for granted as the starting point. Then a principle of logic is applied in order to come to a conclusion.

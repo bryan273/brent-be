@@ -1,0 +1,1 @@
+rule of nines (rūl nīnz) Method used in calculating body surface area involved in burns whereby values of 9% or 18% of surface area are assigned to specific regions as follows: head and neck, 9%; anterior thorax, 18%; posterior thorax, 18%; arms, 9% each; legs, 18% each; perineum, 1%.

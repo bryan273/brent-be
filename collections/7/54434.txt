@@ -1,0 +1,1 @@
+Fitting a regression equation (model) Building a Bivariate linear regression model to represent the relationship between two variables by a straight line involves determining the coefficients of that line, a process known as fitting the regression line.

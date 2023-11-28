@@ -1,0 +1,1 @@
+Soccer Field Dimensions (Imperial units) 1  The field of play must be rectangular and marked with lines. These lines belong to the areas of which they are boundaries. 2  The centre mark is indicated at the midpoint of the halfway line. A circle with a radius of 9.15 m (10 yds) is marked around it.

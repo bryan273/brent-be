@@ -1,0 +1,1 @@
+Simplest of the factory is introduction of a static method in the base class itself, which creates the required object based on the type. Other variant is Abstract Factory. Concrete classes are isolated. Client need not event know which class is implementing its need. Static factory - Sample Program

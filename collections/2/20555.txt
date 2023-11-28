@@ -1,0 +1,1 @@
+The String is a placeholder in this example for any data that we might want to structure with a linked list (we can use any set of instance variables); the instance variable of type Node characterizes the linked nature of the data structure. 1  Linking together a linked list. 2  Insert. 3  Remove. Traversal.

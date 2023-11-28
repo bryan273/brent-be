@@ -1,0 +1,1 @@
+On March 26, 2015, HAR implemented the following update: 3 days after the Option End Date passes, the system automatically changes the listing from the Option Pending status to the Pending status.

@@ -1,0 +1,1 @@
+X2 - DAILY INDEX DATA, INDICES AND METALS. Daily values, requires 2MB disk space. ITEM START DATE S&P 500 Open(Prior day CLOSE to 80) 1/2/62 S&P 500 High 1/2/62 S&P 500 Low 1/2/62 S&P 500 Close 1/2/30 NYSE Comp.

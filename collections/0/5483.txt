@@ -1,0 +1,1 @@
+Bluetooth uses the microwave radio frequency spectrum in the 2.402 GHz to 2.480 GHz range. Maximum power output from a Bluetooth radio is 100 mW for class 1, 2.5 mW for class 2, and 1 mW for class 3 devices. Even the maximum power output of class 1 is a lower level than the lowest powered mobile phones.

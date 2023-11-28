@@ -1,0 +1,1 @@
+Ground Beef Calculator. User selects fat or lean percentage: This page allows you to view nutrient information tailored to any fat or lean percentage within certain ranges, either for raw meat or meat cooked in a particular way.

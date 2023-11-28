@@ -1,0 +1,1 @@
+1 Pick a starting location and draw the first vector to scale in the indicated direction. Label the magnitude and direction of the scale on the diagram (e.g., SCALE: 1 cm = 20 m).  Starting from where the head of the first vector ends, draw the second vector to scale in the indicated direction.

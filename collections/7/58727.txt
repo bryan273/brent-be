@@ -1,0 +1,1 @@
+Go to the Developer Dashboard to create a private device type. 1  Sign into the ARTIK Cloud Developer Dashboard. 2  Click + New Device Type. 3  Name this device type Flame Sensor and give it a unique name such as com.example.iot.flame. 4  Click Create Device Type.

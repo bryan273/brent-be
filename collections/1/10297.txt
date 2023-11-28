@@ -1,0 +1,1 @@
+more ... An object that has height, width and depth, like any object in the real world. Example: your body is three-dimensional. Also known as 3D. See: Two-Dimensional.

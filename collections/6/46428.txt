@@ -1,0 +1,1 @@
+The first time a client connects to a server through the Schannel SSP, a full TLS/SSL handshake is performed. When this is complete, the master secret, cipher suite, and certificates are stored in the session cache on the respective client and server.

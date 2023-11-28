@@ -1,0 +1,1 @@
+According to the ECBS generation of the IBAN shall be the exclusive responsibility of the bank/branch servicing the account. The ECBS document replicates part of the ISO/IEC 7064:2003 standard as a method for generating check digits in the range 02 to 98.

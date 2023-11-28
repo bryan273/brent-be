@@ -1,0 +1,1 @@
+Different types of Blockchain available in Market these are Public Blockchain, Private Blockchain, and Consortium Blockchain. There are various Blockchain components that are available in the market like Ledger, Smart Contract, Consensus Network, Membership, Events, System Management, Wallet, System Integration.

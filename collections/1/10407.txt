@@ -1,0 +1,1 @@
+Three major genes are involved in determination of Drosophila sex. These are sex-lethal, sisterless, and deadpan. Deadpan is an autosomal gene which inhibits sex-lethal, while sisterless is carried on the X chromosome and inhibits the action of deadpan.

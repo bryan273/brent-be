@@ -1,0 +1,1 @@
+The maximum distance a deck joist can span between supports is determined by the joist's dimensions and species, as well as the spacing between joists. The closer the joists are to each other, the greater the distance they're able to span safely.

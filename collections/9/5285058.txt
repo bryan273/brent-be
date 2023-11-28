@@ -1,0 +1,1 @@
+In CSS, the em unit is a general unit for measuring lenghts, for example page margins and padding around elements. You can use it both horizontally and vertically, and this shocks traditional typographers who always have used em exclusively for horizontal measurements.

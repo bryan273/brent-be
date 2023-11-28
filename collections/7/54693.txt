@@ -1,0 +1,1 @@
+The fact that hydrogen atoms emit or absorb radiation at a limited number of frequencies implies that these atoms can only absorb radiation with certain energies. This suggests that there are only a limited number of energy levels within the hydrogen atom. These energy levels are countable.

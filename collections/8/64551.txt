@@ -1,0 +1,1 @@
+During the last few months we’ve been running some tests with Wix users to check your response to the upcoming change. A sample poll we ran showed an overwhelming 89% of Wix users support the addition of advanced HTML5 features over continued support for IE8.

@@ -1,0 +1,1 @@
+Pressure half time is the time required for the peak pressure gradient to reduce by half (1/2) which will correspond to a decrease in peak velocity by a factor of square root of two (21/2). Pressure half time of a regurgitant jet depends on the severity of the regurgitation and the compliance of the receiving chamber.

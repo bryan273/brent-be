@@ -1,0 +1,1 @@
+Apr 29, 2014. The main units are kilopascals (kPa), atmospheres (atm), millimeters of mercury (mmHg), and sometimes Torr. The kilopascal is a unit for pressure derived from physics. Pressure is defined as a force exerted over an area. The larger the force, the greater the pressure.

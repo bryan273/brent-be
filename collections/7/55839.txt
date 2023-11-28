@@ -1,0 +1,1 @@
+5)list disk. 6)select disk number if u have more than one (whichever disk is the one with the recovery on it). 7)list partition. )select partition [number] (the recovery partition number). 8)assign. 9)you will see it in my computer.

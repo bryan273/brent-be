@@ -1,0 +1,1 @@
+Continuous average power ratings are a staple of performance specifications for audio amplifiers and, sometimes, loudspeakers. Continuous average power is derived from the root mean square (RMS) of the AC voltage or current, and is often incorrectly referred to as RMS power, RMS watts, or watts RMS.

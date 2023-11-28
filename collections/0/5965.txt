@@ -1,0 +1,1 @@
+A95: The statistical estimate for which 95% of the values are less than or equal to, and which is evaluated between defined boundaries. It is used to represent “typical” levels. Boundary 1 Minimum 0.5 second before starting of door closing at the departure floor.

@@ -1,0 +1,1 @@
+BD is a transversal intersecting AB and ED. Therefore AB  DE because ∠ CDE and ∠ CBA are congruent alternate interior angles. REF: 060938ge 7 ANS: MT and HA intersect at B, MA  HT, and MT bisects HA (Given). ∠ MBA ≅∠ TBH (Vertical Angles).

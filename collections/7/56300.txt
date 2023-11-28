@@ -1,0 +1,1 @@
+In a dispersive medium, the phase speed itself depends upon the frequency of the wave, making the relationship between wavelength and frequency nonlinear. In the case of electromagnetic radiation —such as light—in free space, the phase speed is the speed of light, about 3×10 8 m/s.

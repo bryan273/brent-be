@@ -1,0 +1,1 @@
+Method 1 Writing Your First Java Program. In order to start writing programs in Java, set up your work environment. Many programmers use Integrated Development Environments (IDEs) such as Eclipse and Netbeans for their Java programming, but one can write a Java program and compile it without bloated IDEs.

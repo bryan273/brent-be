@@ -1,0 +1,1 @@
+False negative results (test is negative, but you are actually pregnant) usually occur if the blood pregnancy test was performed too early (a rule of thumb is that it takes at least 7 days after conception for the test to show a positive result).

@@ -1,0 +1,1 @@
+The Daily Precipitation map shows the amount of precipitation that has accumulated within the last 24 hours. The precipitation imagery displays precipitation estimates in colorized contoured bands by interpreting the intensity levels of NOWrad mosaic radar into rainfall estimates each hour.

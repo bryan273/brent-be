@@ -1,0 +1,1 @@
+Furthermore, the term package has other uses in software (for example .NET NuGet packages). A component is a similar concept, but typically refers to a higher level; a component is a piece of a whole system, while a module is a piece of an individual program.

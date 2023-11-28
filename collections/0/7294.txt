@@ -1,0 +1,1 @@
+How to enable Javascript. Go to the 'Tools' menu and choose 'Internet Options'. Next, click the 'Security' tab. Make sure the 'Internet Zone' is highlighted and press the 'Custom Level' button to open the security options.

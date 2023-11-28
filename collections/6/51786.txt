@@ -1,0 +1,1 @@
+First download the same Eyeglass OVF. If this version is not available from the Superna download site, please raise a support ticket requesting the required version. Deploy the OVF. Copy the eyeglass backup archive to where the appliance will be restored. Open Eyeglass Shell or Secure Shell to the appliance.

@@ -1,0 +1,1 @@
+The Options Clearing Corporation is an example of a clearing house that functions for the purpose of clearing equity options and bond derivatives, in order to ensure the proper implementation of these instruments.

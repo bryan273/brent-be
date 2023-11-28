@@ -1,0 +1,1 @@
+Diffusion is simply a net flux. The net flux is positive when C1 > C2, so the diffusion is from a region of higher concentration to a region of lower concentration, down the concentration gradient. The net flux is proportional to C1-C2, or proportional to the concentration difference between the two compartments.

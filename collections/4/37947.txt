@@ -1,0 +1,1 @@
+The IBAN consists of up to 34 alphanumeric characters, as follows: 1  country code using ISO 3166-1 alpha-2 - two letters, 2  check digits-two digits, and. 3  Basic Bank Account Number (BBAN) - up to 30 alphanumeric characters that are country-specific.

@@ -1,0 +1,1 @@
+In applications design, TLS is usually implemented on top of Transport Layer protocols, encrypting all of the protocol-related data of protocols such as HTTP, FTP, SMTP, NNTP and XMPP. Historically, TLS has been used primarily with reliable transport protocols such as the Transmission Control Protocol (TCP).

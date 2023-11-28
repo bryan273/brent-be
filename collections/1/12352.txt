@@ -1,0 +1,1 @@
+Determine the employee’s regular hourly pay rate; this is the rate that you pay the employee for straight-time wages or hours that are not considered overtime or double-time. Step 2. Pay holiday hours at the employee’s regular pay rate.

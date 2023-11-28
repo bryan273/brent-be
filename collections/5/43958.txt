@@ -1,0 +1,1 @@
+When deciding which approach to use on your network, remember that the key difference between the two approaches to security is action. Passive security involves providing notification of potential security issues, yet it allows those issues to continue until the administrator takes action.

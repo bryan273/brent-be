@@ -1,0 +1,1 @@
+Simply put, the IEC 60364 can be seen as similar to the NEC because of its ability to provide a model for development of national requirements in the context of technological innovations and advancements. Nonetheless, the IEC has been found to be unsuitable for direct adoption of installation practices.

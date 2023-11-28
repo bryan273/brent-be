@@ -1,0 +1,1 @@
+Rating Newest Oldest. Best Answer: You either have an HTML document generated using PHP (in which case rename it so it has a .html file extension and open it in a web browser), or you have some PHP program code (in which case place it on a webserver ( http://httpd.apache.org/ ) with PHP installed on it ( http://php.net/ ).

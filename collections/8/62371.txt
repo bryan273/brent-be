@@ -1,0 +1,1 @@
+In the IVA-2 CPT, clients are told that they will see or hear the numbers 1 or 2 and that they are to click the mouse when presented with a visual or auditory 1 and inhibit clicking when presented with a 2. The task is made more challenging by the shifting of modalities between the visual and auditory stimuli.

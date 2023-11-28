@@ -1,0 +1,1 @@
+Line density adjusts the number of scan lines in your ultrasound image. A higher level provides better resolution in the image (more scan lines), but reduces the frame rate. Use this to get the best possible image with the most acceptable frame rate.

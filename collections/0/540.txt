@@ -1,0 +1,1 @@
+Calc Function. 1  Calcs that help predict probability of a diseaseDiagnosis. 2  Subcategory of 'Diagnosis' designed to be very sensitiveRule Out. 3  Disease is diagnosed: prognosticate to guide treatmentPrognosis.  Numerical inputs and 1  outputsFormula. Med treatment and moreTreatment.  Suggested protocolsAlgorithm.

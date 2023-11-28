@@ -1,0 +1,1 @@
+This document has been created based on my practical experience from more than 10 years of professional FORTRAN 77 (from now on referred to as F77) software development and maintenance, and about 4 years of similar C++ experience. With such a background, I found it natural to try to mix the two languages by calling FORTRAN from C++.

@@ -1,0 +1,1 @@
+NH3 + H2O <==> NH4+ + OH¯. Note that it is an equilibrium condition. The equilibrium constant for this reaction is written as follows: Kc = ( [NH4+] [OH¯] ) / ( [NH3] [H2O] ) However, in pure liquid water, [H2O] is a constant value. To demonstrate this, consider 1000 mL of water with a density of 1.00 g/mL.

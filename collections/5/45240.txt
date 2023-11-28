@@ -1,0 +1,1 @@
+Definition. The reverse word dictionary is a dictionary where the word entries in the dictionary are not alphabetized in the same manner as a traditional dictionary.

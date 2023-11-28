@@ -1,0 +1,1 @@
+Type in the range of cells where you want the COUNTIF function to check for your condition. Enter the top left cell position in the range, then a colon, then the bottom right cell position in the range. Then enter a comma. Step 4. Enter in the condition that you want the function to search for.

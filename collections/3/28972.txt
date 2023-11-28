@@ -1,0 +1,1 @@
+1 By default, my browser has placed the TCX Course file in my DOWNLOADS folder. 2  Plug in your Garmin device into your computer via USB.  Drag & drop or copy & paste the downloaded file into the Garmin > Garmin > NewFiles folder.

@@ -1,0 +1,1 @@
+Terminal Server product or Microsoft Windows Terminal Server (WTS) The Microsoft Windows Terminal Server (WTS) is a server program running on its Windows NT 4.0 (or higher) operating system that provides the graphical user interface (GUI) of the Windows desktop to user terminals that don't have this capability themselves.

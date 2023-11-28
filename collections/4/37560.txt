@@ -1,0 +1,1 @@
+The destination table is available in the data flow properties list. Follow these steps to set up an expression: 1  Right-click on the data flow canvas and select the Properties menu. 2  Scroll down and find the property named like [Oracle Destination].[DestinationTable]. 3  This is the property containing the destination table.

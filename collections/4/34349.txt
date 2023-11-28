@@ -1,0 +1,1 @@
+This laboratory introduces C. elegans and describes methods required for its cul-ture; these techniques and familiarity with C. elegans are prerequisites for RNAi exper-iments. Included are techniques for growing Escherichia coli cells and preparing plates to feed C. elegans. The most common strain of bacteria used to feed worms is the E.

@@ -1,0 +1,1 @@
+when you find the average rate of change you are finding the rate at which how fast the function s y values output are changing as compared to the function s x values input when working with functions of all types the average rate of change is expressed using function notation

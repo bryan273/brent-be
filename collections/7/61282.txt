@@ -1,0 +1,1 @@
+OneNote Web App makes this scenario possible. In OneNote 2010 you can start using OneNote Web App by saving your notebook to your SharePoint library. On the File tab, click Share, and then under Share On click Network. Now, your notebook is available to view and edit in the browser, or re-open in OneNote.

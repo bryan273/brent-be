@@ -1,0 +1,1 @@
+Right-click on the link. Select the “Save Target As”, “Save Link As”, or “Download Linked File As” option on the popup menu. Choose a location to save the file, then click the Save button.

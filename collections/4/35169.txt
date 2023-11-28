@@ -1,0 +1,1 @@
+Even though it started as tag based and written in C++ back in 1995, it was released with a full rewrite in Java back in 2002 (Before Scala was even officially released) and has matured to a modern scripting language featuring Java interop, closures, dynamic typing, and OO patterns.

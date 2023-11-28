@@ -1,0 +1,1 @@
+Windows Fax & Scan is an old, outdated app and it seems to have trouble with some all-in-one devices. I recommend that you download the full driver/software package from the HP support page, then use the HP software for scanning.

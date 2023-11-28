@@ -1,0 +1,1 @@
+Alkaline and carbon-zinc batteries are not rechargeable and have a cell voltage of 1.5V. NiMH and NiCd are rechargeable and have a cell voltage of 1.2V. Cell chemistry (type of battery) determines the initial voltage how the voltage changes as the battery is discharged. This is one example of battery discharge curves.

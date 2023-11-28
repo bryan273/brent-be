@@ -1,0 +1,1 @@
+PharmacyChecker Approved means: 1  Pharmacy is licensed. 2  Prescription is required. 3  Pharmacy contact information is confirmed. 4  Privacy policies protect personal information. 5  Personal/financial data transmission is encrypted.

@@ -1,0 +1,1 @@
+You can download this either. using an internet browser, or if you are using a machine without a GUI or test based browser, you can. retrieve the file using the wget command: [root@localhost] wget http://prdownloads.sourceforge.net/nagios/nsca-version-number.tar.gz.

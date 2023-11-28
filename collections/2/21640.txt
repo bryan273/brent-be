@@ -1,0 +1,1 @@
+Since every quotient can be written as a product, it is always possible to use the product rule to compute the derivative, though it is not always simpler. Example 3.4.2 Find the derivative of $\ds \sqrt{625-x^2}/\sqrt{x}$ in two ways: using the quotient rule, and using the product rule.

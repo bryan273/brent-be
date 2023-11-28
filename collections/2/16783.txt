@@ -1,0 +1,1 @@
+You would find upon exploration that for a given set of values for the voltage divider (R 1 and R 2), you will get more power to the load if you decrease the load resistor R L but is comes at the expense of higher current and power from the power supply.

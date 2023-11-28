@@ -1,0 +1,1 @@
+Definition used by the ISA (International Society of Automation): A Material Take Off (MTO) is the process of analyzing the drawings and determining all the materials required to accomplish the design. We then use the material takeoff to create a bill of materials (BOM). Inspection does not aid in creating a bill of materials.

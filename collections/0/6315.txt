@@ -1,0 +1,1 @@
+1 If teams are tied in a category, each team gets an average of the point total. 2  Example: 2 teams tie for 1st place, each gets 11.5 points [(12+11) / 2 = 11.5]  League standings are updated after each day's games, so it's possible to see your score rise or fall in one or more categories each day.

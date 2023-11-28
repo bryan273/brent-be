@@ -1,0 +1,1 @@
+SQL Server comes with the following data types for storing a date or a date/time value in the database: 1  DATE - format YYYY-MM-DD. 2  DATETIME - format: YYYY-MM-DD HH:MI:SS. 3  SMALLDATETIME - format: YYYY-MM-DD HH:MI:SS.  TIMESTAMP - format: a unique number.

@@ -1,0 +1,1 @@
+1 You can only upload a photo (png, jpg, jpeg) or a video (3gp, 3gpp, mp4, mov, avi, mpg, mpeg, rm). 2  You can only upload a photo or a video. 3  Video should be smaller than <b>600mb/5 minutes</b>.  Photo should be smaller than <b>5mb</b>.

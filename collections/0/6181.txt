@@ -1,0 +1,1 @@
+The chart shows the values of negative z scores which is either to the left or below the mean value. The whole number and the first digit after the decimal point of the z score is displayed in the row and the second digit in the column of the normal distribution table.

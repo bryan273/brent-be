@@ -1,0 +1,1 @@
+I am going to create Win Hex like application in Qt. I want to know which widget should I use for creating hex display area. I have to open hard disk in it so it would be a very large number of lines for displaying 500 GB of disk.

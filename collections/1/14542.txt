@@ -1,0 +1,1 @@
+MySQL Server maintains several time zone settings: 1  The system time zone. When the server starts, it attempts to determine the time zone of the host machine and uses it to set the system_time_zone system variable. The value does not change thereafter. You can set the system time zone for MySQL Server at startup with the --timezone=timezone_name option to mysqld_safe.

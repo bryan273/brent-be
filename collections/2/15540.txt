@@ -1,0 +1,1 @@
+Function of the RNA primer: DNA polymerases need a double-stranded DNA region to which they can attach in order to begin copying the rest of the DNA strand. In order to provide this double-stranded attachment site, RNA primers are added by primase, an RNA polymerase which does not require such an attachment site itself.

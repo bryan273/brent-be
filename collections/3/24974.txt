@@ -1,0 +1,1 @@
+But you do have to be a little more technically inclined to install them. You have to know how Laraler works. You have to know how to get the router to find them. You have to know how the WeMo app works, Which means that you have to have a feeling for how software works.

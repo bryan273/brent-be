@@ -1,0 +1,1 @@
+When you export your contacts from Outlook, a copy of your contacts is saved to a CSV file, or other file type. You can then use this file to import your contacts to another email account. In Outlook 2013 or 2016 on a PC, choose File.

@@ -1,0 +1,1 @@
+When DNA replication starts, one primer is needed at the start of the leading strand. The lagging strand will need new primers regularly, and they mark the start of the stretches known as Okazaki fragments.

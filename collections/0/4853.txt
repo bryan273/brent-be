@@ -1,0 +1,1 @@
+In a lot of ways, Office 365 is what Windows Live should’ve been. As part of Microsoft’s push for Office 365, they released a collection of web apps called Outlook on the web (formerly Outlook Web App) in 2015. This suite included four separate tools: Outlook Mail, Outlook Calendar, Outlook People, and Outlook Tasks.

@@ -1,0 +1,1 @@
+With modular programming, concerns are separated such that modules perform logically discrete functions, interacting through well-defined interfaces. Often modules form a directed acyclic graph (DAG); in this case a cyclic dependency between modules is seen as indicating that these should be a single module.

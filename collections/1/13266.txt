@@ -1,0 +1,1 @@
+From version 13.2, the GridView in the XtraGrid control provides a built-in checkbox column for multiple row selection. This feature is demonstrated in the following example: How to use an unbound check box column to select grid rows.

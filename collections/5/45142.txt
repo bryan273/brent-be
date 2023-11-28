@@ -1,0 +1,1 @@
+1 Go to the Search section. 2  Click Manage search engines. 3  Under Other search engines you can: 4  Add a search engine: Fill out the fields to set up the search engine.  Edit a search engine: If a search engine is listed, select it and edit the fields.

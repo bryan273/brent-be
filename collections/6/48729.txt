@@ -1,0 +1,1 @@
+Select the cell for entering the formula. Determine which cell has the price and which cell has the tax rate. Note the letter of the column and the number of the row for necessary cells. For example, A14 would be the cell in the 14th row of the first column.

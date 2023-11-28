@@ -1,0 +1,1 @@
+distillation column is based on those two components, and the other components are split. according to thermodynamics as described below. In this case, propane is the light key, and you want 99% of it to go out the top stream; i-butane is the heavy key, and you want. 1% of it to go out the top stream.

@@ -1,0 +1,1 @@
+To calculate federal income tax, you need to first estimate your adjusted gross income (AGI). Then, estimated taxable income is determined by subtracting allowable deductions and exemptions from AGI.

@@ -1,0 +1,1 @@
+What is the Apache HTTP Server Project?¶. The Apache HTTP Server Project is a collaborative software development effort aimed at creating a robust, commercial-grade, featureful, and freely-available source code implementation of an HTTP (Web) server.

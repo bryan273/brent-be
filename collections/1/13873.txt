@@ -1,0 +1,1 @@
+Believe it or not, there’s really just two types of Blockchain and one of them is called blockchain The other one is called tangle which is radically different from blockchains. IOTA is the only cryptocurrency that uses the tangle, which is an undirected acyclic graph.

@@ -1,0 +1,1 @@
+Power in a Series Circuit. Voltage in a Series Circuit. The voltage dropped across the resistor in a circuit consisting of a single resistor and a voltage source is the total voltage across the circuit and is equal to the applied voltage.

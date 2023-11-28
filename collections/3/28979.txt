@@ -1,0 +1,1 @@
+There are two versions of TCX files: TCX Course and TCX History. TCX Course files contain all the navigation to use with your Garmin Edge series devices. This is the most common file format that we recommend to get turn-by-turn navigation.

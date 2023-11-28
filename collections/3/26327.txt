@@ -1,0 +1,1 @@
+All replies. You can either open the shared folders MMC snap in by running mmc, select file, add/remove snapins, then add Share Folders, or you can open server manager, go to Tools, and select Computer Management, then open shared folders. Thanks but I have already tried that and it doesn't show up as an open file.

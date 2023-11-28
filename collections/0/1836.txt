@@ -1,0 +1,1 @@
+Electromagnetic fields at low frequencies. Electric fields exist whenever a positive or negative electrical charge is present. They exert forces on other charges within the field. The strength of the electric field is measured in volts per metre (V/m).

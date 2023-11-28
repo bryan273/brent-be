@@ -1,0 +1,1 @@
+An example of the use of calculus in mechanics is Newton's second law of motion: historically stated it expressly uses the term rate of change which refers to the derivative saying The rate of change of momentum of a body is equal to the resultant force acting on the body and is in the same direction.

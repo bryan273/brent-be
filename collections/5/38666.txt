@@ -1,0 +1,1 @@
+Lean Body Mass is a component of body composition, calculated by subtracting body fat weight from total body weight: total body weight is lean plus fat. In equations:

@@ -1,0 +1,1 @@
+Windows RT 8.1: FAQ. Windows RT 8.1 is a Windows-based operating system that's optimized for thin and light PCs that have extended battery life and are designed for life on the go. Windows RT 8.1 only runs built-in apps or apps that you download from the Windows Store.

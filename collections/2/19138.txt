@@ -1,0 +1,1 @@
+These resources provide a high-level introduction to the IBM® FileNet® Business Process Manager product. IBM FileNet P8 Platform and Architecture (Type: IBM Redbooks®; Format: HTML, PDF) In this IBM Redbooks publication, we provide an overview of IBM FileNet P8 and describe the core component architecture.

@@ -1,0 +1,1 @@
+This article will discuss how to install Encore if you're a CC subscriber and don't have Encore CS6 already installed on your computer; the terms and implications of Encore's end-of-life status; and how to work around the lack of Dynamic Link transfers from Premiere Pro CC to Encore CS6.

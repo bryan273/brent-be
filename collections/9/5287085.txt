@@ -1,0 +1,1 @@
+1 NREL previously calculated wind farm land usage at about 85 acres per MW of capacity and capacity density of 3.0 ±1.7 MW/km 2. 2  Yale calculated wind energy usage down to the turbine level, calculating 1-3 acres per turbine.

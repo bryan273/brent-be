@@ -1,0 +1,1 @@
+Since 2008, Android has seen numerous updates which have incrementally improved the operating system, adding new features and fixing bugs in previous releases. Each major release is named in alphabetical order after a dessert or sugary treat; for example, version 1.5 Cupcake was followed by 1.6 Donut.

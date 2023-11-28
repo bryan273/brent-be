@@ -1,0 +1,1 @@
+Introduction. The one-way analysis of variance (ANOVA) is used to determine whether there are any significant differences between the means of two or more independent (unrelated) groups (although you tend to only see it used when there are a minimum of three, rather than two groups).

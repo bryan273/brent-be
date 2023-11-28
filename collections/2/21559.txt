@@ -1,0 +1,1 @@
+Architectural drawings are drawn to scale, so that relative sizes are correctly represented. The scale is chosen both to ensure the whole building will fit on the chosen sheet size, and to show the required amount of detail.

@@ -1,0 +1,1 @@
+Tag out is a labelling process that is always used when lockout is required. Why the lockout/tag out is required (repair, maintenance, etc.). Time of application of the lock/tag. The name of the authorized person who attached the tag and lock to the system.

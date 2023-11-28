@@ -1,0 +1,1 @@
+It is believed that prosody assists listeners in parsing continuous speech and in the recognition of words, providing cues to syntactic structure, grammatical boundaries and sentence type.

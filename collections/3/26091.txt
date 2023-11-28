@@ -1,0 +1,1 @@
+Spintronics fundamentally differs from traditional electronics in that, in addition to charge state, electron spins are exploited as a further degree of freedom, with implications in the efficiency of data storage and transfer.

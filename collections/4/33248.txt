@@ -1,0 +1,1 @@
+In compiler theory, a reaching definition for a given instruction is an earlier instruction whose target variable can reach (be assigned to) the given one without an intervening assignment. For example, in the following code: d1 : y := 3 d2 : x := y d1 is a reaching definition for d2. In the following, example, however:

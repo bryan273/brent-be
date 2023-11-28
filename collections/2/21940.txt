@@ -1,0 +1,1 @@
+1.2 This guide is intended to aid designers and users of GCLs in establishing the. possible adequacy of a candidate GCL to limit fluid migration and remain stable. within the structure or system under consideration. 1.3 Units – The values stated in SI units are to be regarded as the standard.

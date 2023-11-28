@@ -1,0 +1,1 @@
+1 The PC on the 192.168.3.x subnet sends data back to IP 192.168.111.55 but sees it is on another subnet. 2  It checks it’s routing table and finds the 0.0.0.0 entry. 3  This entry has the default gateway set to IP 192.168.3.1 (Router D) so forwards packets there.

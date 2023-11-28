@@ -1,0 +1,1 @@
+DSC is an automated calling system that is part of the. Global Maritime Distress and Safety System (GMDSS). GMDSS is a major overhaul of the. international system governing safety radio equipment on commercial ships to improve safety on. the high seas. DSC provides automated distress calls and limited automation of ship-to-ship and.

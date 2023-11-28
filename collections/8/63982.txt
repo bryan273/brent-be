@@ -1,0 +1,1 @@
+Both Debian and Ubuntu installation images are available in a number of choice. You need to search the mirror repositories to find a complete Debian image, but both Debian and Ubuntu are available in torrent downloads and network images – that is, minimal images that complete installation by linking to online software repositories.

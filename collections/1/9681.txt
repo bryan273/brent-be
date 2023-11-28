@@ -1,0 +1,1 @@
+Illustrator: Can’t find ellipse (circle) tool. In Photoshop, the ellipse (circle) tool can be found by right clicking the rectangle tool in the tool panel. Illustrator, as with many things in comparison to Photoshop, is slightly different. Simply left click and hold for the ellipse (circle) tool to appear.

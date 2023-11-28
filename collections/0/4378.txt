@@ -1,0 +1,1 @@
+When you void a payment, you can select the action you want Payables to take on the invoices paid by the void payment. You can choose to place the invoices on hold, cancel the invoices, or do nothing with the invoices, leaving them available for payment.

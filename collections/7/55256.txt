@@ -1,0 +1,1 @@
+David: that's because the router's hostname is being used as username. The PPPoE client router is called CPE, which is the username configured on the server. Enchanter: you can tell the client to send another username as the hostname by configuring the Dialer1 interface: ppp chap hostname whatever .

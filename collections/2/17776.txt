@@ -1,0 +1,1 @@
+If each bulb is wired to the battery in a separate loop, the bulbs are said to be in parallel. If the four light bulbs are connected in series, there is same current through all of them, and the voltage drop is 1.5 V across each bulb, which may not be sufficient to make them glow.

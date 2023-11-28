@@ -1,0 +1,1 @@
+This consists of a refrigeration cycle, where heat is removed from a low-temperature space or source and rejected to a high-temperature sink with the help of external work, and its inverse, the thermodynamic power cycle.

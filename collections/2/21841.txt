@@ -1,0 +1,1 @@
+Most visitors to this site keep a pretty close watch on their system. When a new user account suddenly appears on the system it's no surprise it's a matter of concern and raises more than a few questions. It turns out UpdatusUser is part of the NVIDIA driver package for their graphics cards.

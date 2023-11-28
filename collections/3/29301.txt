@@ -1,0 +1,1 @@
+Most entities are compared with the entire US or one of the 50 states based on area measurements (1990 revised) provided by the US Bureau of the Census. The smaller entities are compared with Washington, DC (178 sq km, 69 sq mi) or The Mall in Washington, DC (0.59 sq km, 0.23 sq mi, 146 acres).

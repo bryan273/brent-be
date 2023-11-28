@@ -1,0 +1,1 @@
+What they mean by the transformation $T$ is the transformation which is induced by multiplication by $A$. You can verify that matrix multiplication is in fact a linear mapping, and in our particular case we have the linear mapping $T:\ \mathbf{x}\mapsto A\mathbf{x}$.

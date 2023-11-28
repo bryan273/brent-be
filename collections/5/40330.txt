@@ -1,0 +1,1 @@
+Windows Defender is a part of your Windows 10 OS so you get it preinstalled in the system when you install the OS or buy the computer. It doesn’t occupy extra space and cannot be removed from programs and features. You have no need to update Windows Defender separately as the update comes from this via Windows updates.

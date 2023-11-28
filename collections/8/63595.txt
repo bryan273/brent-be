@@ -1,0 +1,1 @@
+When I try to boot my computer I can only see black screen and a blinking cursor. I tryed to use the reinstalation CD but it doesn't run the CDs eventhough it detects them. This problem stated right after I force it to turn Off after it froze on me.

@@ -1,0 +1,1 @@
+It is one of the most commonly-used types of industrial control systems, however there are concerns about SCADA systems being vulnerable to cyberwarfare/cyberterrorism attacks. Referring to the functional hierarchy diagram in this article:

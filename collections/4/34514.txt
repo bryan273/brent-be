@@ -1,0 +1,1 @@
+What is the function of the pivot joint? A: The function of a pivot joint is to allow the part of the body attached to the bone that articulates with the joint to rotate. The human body has several p... Full Answer >

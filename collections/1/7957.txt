@@ -1,0 +1,1 @@
+4. Pivot joints: These joints allow only one type of movement, the rotation of one bone on or around another. An example of a pivot joint is the joint between the atlas and axis (C1 & C2) vertebrae, the rotation around each other allows our heads to ‘pivot’ left and right. 5.

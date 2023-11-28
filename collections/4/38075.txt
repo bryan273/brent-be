@@ -1,0 +1,1 @@
+Real-Time PCR Assays. Real-time reverse transcriptase-polymerase chain reaction (RT-qPCR) is the most widely used diagnostic assay for detecting norovirus. This assay detects the genetic material (RNA) of the virus. It can be used to test stool, vomitus, and environmental specimens.

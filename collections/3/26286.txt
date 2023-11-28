@@ -1,0 +1,1 @@
+Additionally, due to the nature of the changing census questions from year to year, certain data points could appear to be discontinuous across time. For example, prior to 1940, census enumerators only recorded data about white and non-white populations. After 1940, more demographic categories were reported.

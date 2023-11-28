@@ -1,0 +1,1 @@
+For example, if you have a course blog, add a WordPress Resource and a link will automatically be generated to your blog and all new posts and comments on the blog will feed to the Course Hub site. Similarly, add an ERES Resource to add a link to readings uploaded to the electronic reserves system.

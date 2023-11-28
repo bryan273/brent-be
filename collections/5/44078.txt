@@ -1,0 +1,1 @@
+& + letter + accent code + ; \ + code + letter. This page explains the patterns behind how HTML, TeX, and Microsoft Word represent accented letters. The page begins with explanations for HTML, LaTeX, and Word and concludes with a chart summarizing how accents are handled across languages.

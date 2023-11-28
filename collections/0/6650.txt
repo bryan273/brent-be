@@ -1,0 +1,1 @@
+Calculating your Agile teams Velocity is quite simple. Just sum the total estimates (story points, days, ideal days or hours) of user stories, requirements or backlog items that were delivered and accepted within a prior Sprint (iteration).

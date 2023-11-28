@@ -1,0 +1,1 @@
+What makes a driver different from conventional power supplies, is that an LED driver responds to the ever-changing needs of the LED, or circuit of LEDs, by supplying a constant amount of power to the LED, as its electrical properties change with temperature.

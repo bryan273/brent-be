@@ -1,0 +1,1 @@
+While the moment in time at which a particular nucleus decays is unpredictable, a collection of atoms of a radioactive nuclide decays exponentially at a rate described by a parameter known as the half-life, usually given in units of years when discussing dating techniques.

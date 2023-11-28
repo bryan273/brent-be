@@ -1,0 +1,1 @@
+Prove: e f 4. Prove the theorem: Angles, whose sides are parallel, respectively, are equal to each other, or their sum is 180 ° Guidance: First case: Given: AC BD, AE BF; Prove: A B= Second Case: Given: AC BD, AE BF; Prove: A B 180+ = ° 5. ABC is isosceles (AB AC=) Given: DE BC Prove: ADE is isosceles.

@@ -1,0 +1,1 @@
+As with Oracle SQL programs, we can invoke a PL/SQL program either by typing it in sqlplus or by putting the code in a file and invoking the file in the various ways we learned in Getting Started With Oracle.

@@ -1,0 +1,1 @@
+Download and install the open-source JDK 8 for most popular Linux distributions. If you came here looking for Oracle JDK 8 product binaries for Solaris, Linux, Mac OS X, or Windows, which are based largely on the same code, you can download them from java.oracle.com.

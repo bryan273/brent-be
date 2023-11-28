@@ -1,0 +1,1 @@
+In typical rockets the mass ratio is between 10 and 30. Imagine a rocket with a total mass of 1 ton and a mass ratio of 1000: when empty, it would only weight one kg, including its cargo, while when full it would need to contain 999 kg of fuel! This is of course almost impossible to make.

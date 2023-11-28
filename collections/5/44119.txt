@@ -1,0 +1,1 @@
+Alternatively, residues can be calculated by finding Laurent series expansions, and one can define the residue as the coefficient a −1 of a Laurent series. The definition of a residue can be generalized to arbitrary Riemann surfaces. Suppose is a 1-form on a Riemann surface.

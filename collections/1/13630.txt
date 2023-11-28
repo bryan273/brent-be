@@ -1,0 +1,1 @@
+1 2x USB WiFi dongle(s) – for using the Pi as a wireless router (one dongle connects to the WiFi network and the other creates a personal aces point, with a bridge between them.) An Ethernet cable can be used instead of one dongle if desired.

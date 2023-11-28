@@ -1,0 +1,1 @@
+Why Main method is declared public static void in Java is one of Classical interview questions in Java. Every Java Programmer knows that main method is entry point in Java program but only few knows the secret behind signature and syntax of main method in Java.

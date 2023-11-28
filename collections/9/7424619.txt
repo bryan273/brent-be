@@ -1,0 +1,1 @@
+You obviously downloaded an archive of some sort. Right click on the file and select Extract All. That will take all of the files and copy it to a folder of your choosing. It will not delete anything but rather just add them to your file system.

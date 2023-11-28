@@ -1,0 +1,1 @@
+For population 15 years and over in Riverdale city: 1  Manufacturing (25%) 2  Construction (17%) 3  Retail trade (9%) 4  Public administration (9%) 5  Accommodation and food services (8%) 6  Transportation and warehousing (4%) 7  Professional, scientific, and technical services (4%)

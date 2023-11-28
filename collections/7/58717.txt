@@ -1,0 +1,1 @@
+If the particles can only pass through protein channels, then the rate of diffusion is determined by the number of channels as well as the number of particles. Once the channels operate at their maximal rate, a further increase in particle numbers no longer increases the apparent rate of diffusion.

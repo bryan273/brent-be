@@ -1,0 +1,1 @@
+[clarification needed] Electroless nickel plating uses hypophosphite as the reducer while plating of other metals like silver, gold and copper typically use low-molecular-weight aldehydes. A major benefit of this approach over electroplating is that the power sources and plating baths are not needed, reducing the cost of production.

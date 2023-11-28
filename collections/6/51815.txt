@@ -1,0 +1,1 @@
+Place a checkmark next to Axis Titles.  Horizontal and vertical axis text boxes will then be added to your chart. 1  If you want to label your chart's secondary axes, click on the arrow to the right of Axis Titles, then select More Options to designate the axes you want labeled. 2  5 Edit step.

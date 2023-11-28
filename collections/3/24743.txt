@@ -1,0 +1,1 @@
+To find Kb substitute the values for the equilibrium concentrations into the equilibrium expression and solve for Kb. Example: The pH of a 0.1000 M solution of aniline solution was found to be 8.79. Determine the value of Kb, the ionization constant for aniline. The formula for aniline is C6H5NH2. Write the equation for the reaction of the aniline with water.

@@ -1,0 +1,1 @@
+Routing Number also called as RTN or Routing Transit Number is used to facilitate fund transfer across the banks in USA. FedACH is Federal Reverse Bank's Automated clearing house. Fedwire is the real-time gross settlement electronic payments service owned and operated by the Federal Reserve Banks.

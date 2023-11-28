@@ -1,0 +1,1 @@
+Based on this extension name, the # name of the library file (name.so) and the name of the config file (name.ini) # are automatically generated # NAME = yourextension # # Php.ini directories # # In the past, PHP used a single php.ini configuration file.

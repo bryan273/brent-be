@@ -1,0 +1,1 @@
+A battery is a group of two or more cells. They are connected in series positive (+) to negative (-) for greater voltage, or in parallel (+ to + and-to -) for greater current capacity. The individual cells inside a 9-volt battery. An everyday examples of a battery is the 9-volt transistor battery, which is six 1.5-volt cells in series.

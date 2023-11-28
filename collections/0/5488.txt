@@ -1,0 +1,1 @@
+1 Go to your device’s Settings panel and tap on the toggle slider to enable it. 2  Next, tap on the “Wi-Fi” text to see the configuration screen. 3  Tap on “Wi-Fi Direct” button on the bottom (for Samsung devices), or launch options menu to see the “Wi-Fi Direct” option (for AOSP) and then tap on it.

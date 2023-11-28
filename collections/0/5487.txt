@@ -1,0 +1,1 @@
+As soon as you walk in the house, the map you received on your cell phone from your car's Bluetooth-enabled GPS system is automatically sent to your Bluetooth-enabled computer, because your cell phone picked up a Bluetooth signal from your PC and automatically sent the data you designated for transfer.

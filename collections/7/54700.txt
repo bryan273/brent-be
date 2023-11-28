@@ -1,0 +1,1 @@
+The inverse of the wavelength of electromagnetic radiation is therefore directly proportional to the energy of this radiation. By properly defining the units of the constant, R H, Bohr was able to show that the wavelengths of the light given off or absorbed by a hydrogen atom should be given by the following equation.

@@ -1,0 +1,1 @@
+Part of the cooling system in Pressurized Water Reactors where the heat from the reactor is used to make steam for the turbine. Some reactor designs, called Boiling Water Reactors, do not have S/Gs but instead allow boiling in the reactor core to produce steam for the turbine.. Containment.

@@ -1,0 +1,1 @@
+SMPTE Time Code frame rates of 24, 25 and 30 frames per second are common, each having uses in different portions of the industry. The professional frame rate for motion pictures is 24 frames per second and, for television, 30 frames per second (in the U.S.).

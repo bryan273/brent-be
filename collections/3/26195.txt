@@ -1,0 +1,1 @@
+As can be seen in the table above, when the aircraft banks 30° the stall speed increases with 7% due to the fact that aircraft weight in a level turn increases by 15% caused by the increased load factor. Although load factor increases, the stalling angle of attack will remain the same.

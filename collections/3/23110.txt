@@ -1,0 +1,1 @@
+It is used to avoid lock-ups during the intros or varios places in the game, or when you only want to activate codes at a certain time and not constantly have the effect of the code on. It's main purpose is to activate codes with the push of a button.

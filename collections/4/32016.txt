@@ -1,0 +1,1 @@
+Manages SMS operations such as sending data, text, and pdu SMS messages. Get this object by calling the static method getDefault(). For information about how to behave as the default SMS app on Android 4.4 (API level 19) and higher, see Telephony.

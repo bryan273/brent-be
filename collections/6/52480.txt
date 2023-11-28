@@ -1,0 +1,1 @@
+Configure the Minimum password age policy setting to a value of at least 2 days. Users should know about this limitation and contact the Help Desk if they need to change their password during that two-day period.

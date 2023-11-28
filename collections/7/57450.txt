@@ -1,0 +1,1 @@
+Monotonicity criterion. This article is about a voting system criterion. For the mathematical notion of an order preserving mapping, see monotonic function. The monotonicity criterion is a voting system criterion used to evaluate both single and multiple winner ranked voting systems.

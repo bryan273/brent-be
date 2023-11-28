@@ -1,0 +1,1 @@
+Guest OS/Virtual Machine Model. This is a very common type of virtualization. Many of you must be familiar with this type of virtualization and might have done it in their career. In this virtualization model each Virtual Machine (VM) runs as a separate instance of operating system within the virtualization software.

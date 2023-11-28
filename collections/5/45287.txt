@@ -1,0 +1,1 @@
+Click on ‘User your fingerprint with Windows’ that takes you to a window where you can select your finger and scan prints. These steps are explained in detail in one of the previous posts – How to configure finger print based login. { 0 comments… add one }.

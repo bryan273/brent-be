@@ -1,0 +1,1 @@
+If your present chips fit these criteria, you'll know that you're running at the appropriate machine settings, your tooling has the correct chipbreaker and insert rake angle, and you are removing the right amount of heat from the workpiece. Given the right tooling and machining data, the chips will be self-breaking.

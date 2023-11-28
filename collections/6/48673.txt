@@ -1,0 +1,1 @@
+Car registration fees depend on a number of factors. Fees for first time registrations are calculated according to: 1  Vehicle type (car, truck, motorcycle, etc.). 2  Vehicle weight. 3  Registration renewal month. 4  Renewal month is based upon the first letter of the owner's last name. 5  County taxes and surcharges.

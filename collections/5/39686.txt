@@ -1,0 +1,1 @@
+The Cisco Fabric Extender architecture enables: ● Architecture flexibility: The common, scalable, and adaptive architecture across data center racks and points of delivery (PoDs) is server and server adapter agnostic and supports several connectivity options, physical topologies, and evolving needs.

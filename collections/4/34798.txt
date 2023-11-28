@@ -1,0 +1,1 @@
+Calculate Standard Deviation By Hand. This is the formula for the sample standard deviation, which is used when data is drawn from a larger set. It takes the degrees of freedom into account, using what is known as Bessel's correction.

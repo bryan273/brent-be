@@ -1,0 +1,1 @@
+The abnormal conformational transition from alpha helix to beta sheet exposes hydrophobic amino acid residues and promotes protein aggregation. As discussed already, misfolded proteins result when a protein follows the wrong folding pathway or energy-minimizing funnel, and misfolding can happen spontaneously. Most of the time, only the native conformation is produced in the cell.

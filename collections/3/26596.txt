@@ -1,0 +1,1 @@
+These test weight estimates are reasonably accurate but are not accepted for official grain trading purposes. The official minimum allowable test weight in the U.S. for No. 1 yellow corn is 56 lbs/bu and for No. 2 yellow corn is 54 lbs/bu (USDA-GIPSA, 1996). Corn grain in the U.S. is marketed on the basis of a 56-lb bushel regardless of test weight.

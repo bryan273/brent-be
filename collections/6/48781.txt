@@ -1,0 +1,1 @@
+Symptoms. 1  When you try to change the Hosts file or the Lmhosts file in Microsoft Windows Vista, Windows 7 or Windows 8 you may receive an error message that resembles either of the following. 2  This issue occurs even though you log on by using an account that has administrative credentials.

@@ -1,0 +1,1 @@
+Chroot the server to the directory jaildir. This option also implies that the server attempts to drop root privileges at startup (otherwise, chroot gives very little additional security), and it is only available if the OS supports to run the server without full root privileges.

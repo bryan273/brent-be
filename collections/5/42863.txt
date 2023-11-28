@@ -1,0 +1,1 @@
+A fuel with a higher octane rating can be run at a higher compression ratio without causing detonation. Compression is directly related to power (see engine tuning), so engines that require higher octane usually deliver more motive power.

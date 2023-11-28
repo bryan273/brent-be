@@ -1,0 +1,1 @@
+class method vs static method in Python. Class Method. The @classmethod decorator, is a builtin function decorator that is an expression that gets evaluated after your function is defined. The result of that evaluation shadows your function definition.

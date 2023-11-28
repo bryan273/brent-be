@@ -1,0 +1,1 @@
+Load Test Two. 5.1.2.1. Each primary door latch system and auxiliary door latch system, when in the fully latched position, shall not separate when a load of 9,000 N is applied in the fork-bolt opening direction and parallel to the face of the latch, when tested in accordance with paragraph 7.1.1.1. 5.1.2.2.

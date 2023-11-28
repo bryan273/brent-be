@@ -1,0 +1,1 @@
+UNDERSTANDING ISO CODES. Understanding ISO Codes - The ISO cleanliness code (per ISO4406-1999) is used to quantify particulate. contamination levels per milliliter of fluid at 3 sizes 4m[c], 6m[c] and 14m[c]. The ISO code is expressed in 3 numbers. (example: 19/17/14).

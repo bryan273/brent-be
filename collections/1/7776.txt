@@ -1,0 +1,1 @@
+Repair a corrupted workbook manually. 1  On the File tab, click Open. 2  In Excel 2013 or Excel 2016, click on the location where the spreadsheet is located, and click Browse. 3  In the Open dialog box, select the corrupted workbook that you want to open. 4  Click the arrow next to the Open button, and then click Open and Repair.

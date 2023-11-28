@@ -1,0 +1,1 @@
+HDL/LDL Ratio. When comparing good cholesterol (HDL) to bad cholesterol (LDL), there is a ratio that may be used. When using it, the goal is to keep the ratio of HDL/LDL above 0.3, with the ideal being above 0.4. The medical community is divided on the effectiveness of using the ratio to predict the chances of developing heart disease.

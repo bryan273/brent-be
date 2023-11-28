@@ -1,0 +1,1 @@
+CSV (Cluster Shared Volumes) CSV (Cluster Shared Volumes) is a feature in Windows Server in which shared disks are concurrently accessible to all nodes within a failover cluster. The feature was first introduced in Windows Server 2008 R2 as a way to simplify storage with clustered Hyper-V virtual machines (VMs). Download this free guide.

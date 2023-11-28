@@ -1,0 +1,1 @@
+difference between mosfet and cmos. MOSFET is a transistor technology. It is an extention of the field-effect transistor (FET). As with bipolar transistor, where you have NPN and PNP, you can have two kind of FET (P-channel and N-channel).

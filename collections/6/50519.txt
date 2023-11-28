@@ -1,0 +1,1 @@
+Converting Liters per 100 Kilometers to Miles per Gallon'. 1  1. Place the value in liters/100 kilometer (represented by l/100 km in the formula) that you want to convert to miles/gallon to replace the blank space below. 2  2. Perform the above calculations to get the end result in miles/gallon or mpg.

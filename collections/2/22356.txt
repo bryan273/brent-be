@@ -1,0 +1,1 @@
+f(x) = ax2. 1  Larger values of a squash the curve inwards. 2  Smaller values of a expand it outwards. 3  And negative values of a flip it upside down.

@@ -1,0 +1,1 @@
+where 10 is the base, 2 is the logarithm (i.e., the exponent or power) and 100 is the number. Using natural logs (loge or ln): Carrying all numbers to 5 significant figures, ln 30 = 3.4012 is equivalent to e3.4012 = 30 or 2.71833.4012 = 30.

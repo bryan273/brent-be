@@ -1,0 +1,1 @@
+A file geodatabase is a collection of files in a folder on disk that can store, query, and manage both spatial and nonspatial data. Arc GIS Desktop Documentation

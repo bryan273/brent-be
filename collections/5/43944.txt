@@ -1,0 +1,1 @@
+If the TCP Dynamic Ports dialog box contains 0, indicating the Database Engine is listening on dynamic ports, delete the 0. In the IPn Properties area box, in the TCP Port box, type the port number you want this IP address to listen on, and then click OK. In the console pane, click SQL Server Services.

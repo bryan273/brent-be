@@ -1,0 +1,1 @@
+In archaea, some enzymes of the mevalonate pathway are found, but the orthologs of three yeast proteins, accounting for the route from phosphomevalonate to geranyl pyrophosphate, are missing, as are the enzymes from the alternative pathway.

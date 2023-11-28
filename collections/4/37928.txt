@@ -1,0 +1,1 @@
+Create a Simple Volume. Applies To: Windows 7, Windows Server 2008 R2. A simple volume is a dynamic volume that is made up of disk space from a single dynamic disk. A simple volume can consist of a single region on a disk or multiple regions of the same disk that are linked together. You can create simple volumes only on dynamic disks.

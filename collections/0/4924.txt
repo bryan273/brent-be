@@ -1,0 +1,1 @@
+The Big Mac PPP exchange rate between two countries is obtained by dividing the price of a Big Mac in one country (in its currency) by the price of a Big Mac in another country (in its currency). Source: Economist, 2017.

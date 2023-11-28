@@ -1,0 +1,1 @@
+A good rule of thumb is: 1  for difficult separations (δCV ≤ 1) use up to 100 g (~200 mL) of silica gel per gram of compound to be purified (1% load) 2  for normal separations (1 ≤ δCV ≤ 5) use from 20 to 90 g (~40-180 mL) of silica gel per gram of compound to be purified (2-9% load)

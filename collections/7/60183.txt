@@ -1,0 +1,1 @@
+Swift is easier to maintain. Legacy is what holds Objective-C back -- the language cannot evolve without C evolving. C requires programmers to maintain two code files in order to improve the build time and efficiency of the executable app creation, a requirement that carries over to Objective-C. Swift drops the two-file requirement.

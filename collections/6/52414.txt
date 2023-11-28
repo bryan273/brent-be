@@ -1,0 +1,1 @@
+Market data from BitcoinAverage Price Index and Bitstamp. News from Google. Webdesign by Ripple. Built with Bootstrap.

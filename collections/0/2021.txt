@@ -1,0 +1,1 @@
+Remote Installation Services (RIS) ships as part of the Windows® 2000 Server operating system. This document outlines the steps necessary to install, configure, and use RIS. RIS was designed to reduce the costs incurred by pre-installing or physically visiting each client computer to install the operating system (OS).

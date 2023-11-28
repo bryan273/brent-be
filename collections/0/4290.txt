@@ -1,0 +1,1 @@
+Import a text file by connecting to it. You can import data from a text file into an existing worksheet as an external data range. Click the cell where you want to put the data from the text file. On the Data tab, in the Get External Data group, click From Text/CSV.

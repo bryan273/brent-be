@@ -1,0 +1,1 @@
+To convert emissions of a gas into CO2 equivalent, its emissions are multiplied by the gas's Global Warming Potential (GWP). The GWP takes into account the fact that many gases are more effective at warming Earth than CO2, per unit mass.

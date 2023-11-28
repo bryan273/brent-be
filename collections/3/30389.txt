@@ -1,0 +1,1 @@
+WhatsApp needs to access the internet to be able to work; some type of connection needs to be available to send and receiving messages. In the case of the iPhone, this boils down to two options you're already using.

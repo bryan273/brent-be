@@ -1,0 +1,1 @@
+Applying VIX(like) Indicators to Stocks. The VIX index is calculated by the CBOE using option data on SPX options (See Figure 1). In a nutshell it measures the current implied volatility of a subset of the options traded on SPX. If you have not the slightest idea what any of that means, fear not, for basic interpretation is fairly straightforward:

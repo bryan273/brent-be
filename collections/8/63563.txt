@@ -1,0 +1,1 @@
+Gift Card Popularity Rank (30 points max): We used the number of people who search for each gift card online as a proxy for its popularity. 1  30 points: Ranks 1 to 5. 2  25 points: Ranks 6 to 10. 3  20 points: Ranks 11 to 15.  15 points: Ranks 16 to 1  25. 10 points: Ranks 26 to 2  50. 5 points: Ranks 51 to  75. 0 points: Ranks 76+.

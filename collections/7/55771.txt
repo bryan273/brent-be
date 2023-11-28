@@ -1,0 +1,1 @@
+Formulas and Functions. A formula is an expression which calculates the value of a cell. Functions are predefined formulas and are already available in Excel. For example, cell A3 below contains a formula which adds the value of cell A2 to the value of cell A1.

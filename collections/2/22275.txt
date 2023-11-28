@@ -1,0 +1,1 @@
+Instructions. Insert your SanDisk card, flash drive or other device into the computer. Click Start, and then click the Computer icon to view your removable drives. Right-click your SanDisk card, flash drive or other device under Drives with removable storage and click Format.. Leave the Capacity setting as it is.

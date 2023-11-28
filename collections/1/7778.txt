@@ -1,0 +1,1 @@
+Let me show you below the most common error messages you may receive on the screen at the time of Excel file corruption: “Excel can’t open the file abc.xlsx because the file format or file extension is not valid.” “The file is corrupt and can’t be opened.” “File error: Data may have been lost.”

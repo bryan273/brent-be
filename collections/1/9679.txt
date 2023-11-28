@@ -1,0 +1,1 @@
+You create a symbol set using the Symbol Sprayer tool. You can then use the other symbolism tools to change the density, color, location, size, rotation, transparency, and style of the instances in the set. The Symbol Sprayer tool (Shift+S) places multiple symbol instances as a set on the artboard.

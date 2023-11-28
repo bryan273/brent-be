@@ -1,0 +1,1 @@
+This is not necessary, as it can run from any location as long as the config file is. correct, but for the sake of clarity we will put the nsca binary in nagios’ bin directory and the config. file in nagios’ etc directory. [root@localhost] cp $DOWNLOADPATH$/nsca-version-number/src/ncsa $NAGIOSHOME$/bin.

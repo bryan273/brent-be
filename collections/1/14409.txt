@@ -1,0 +1,1 @@
+For more information, see the weather forecast and our average climate infomation (in graphs) below. * Data from nearest weather station: Amendola, Italy (151.0 KM).

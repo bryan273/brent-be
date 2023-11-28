@@ -1,0 +1,1 @@
+If you're just learning it, it will be a bit confusing... but you'll get the hang of it after a while. To find the Z time during Standard time, add 5 hours to the 24 hour time. During Daylight time, add 4 hours to the 24 hour time.

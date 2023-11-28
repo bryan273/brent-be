@@ -1,0 +1,1 @@
+What is SSL? The Secure Sockets Layer (SSL) and Transport Layer Security (TLS) is the most widely deployed security protocol used today. It is essentially a protocol that provides a secure channel between two machines operating over the Internet or an internal network.

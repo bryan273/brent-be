@@ -1,0 +1,1 @@
+Plug the power cord on the AC power supply into the DC connector on the back of the speaker. Plug the AC power supply into a live AC (mains) outlet. The speaker emits a tone to confirm connection to AC power, and charging begins. On the front of the speaker, the battery status indicator blinks yellow to show the battery is charging.

@@ -1,0 +1,1 @@
+J. Firstly I would try fully powering off your entire phone, and then once back on restart the app and see if any changes. If you still cannot view that network on your Surface RT, ensure you can detect and connect to the hotspot from a different device.

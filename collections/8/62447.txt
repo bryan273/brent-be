@@ -1,0 +1,1 @@
+Boolean variables are stored as 16-bit (2-byte) numbers. A data type that holds integer variables stored as 2-byte whole numbers in the range -32,768 to 32,767. The Integer data type is also used to represent enumerated values. The percent sign (%) type-declaration character represents an Integer in Visual Basic.

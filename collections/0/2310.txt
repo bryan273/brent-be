@@ -1,0 +1,1 @@
+This tutorial describes how to install and configure an OpenLDAP server and also an OpenLDAP client.

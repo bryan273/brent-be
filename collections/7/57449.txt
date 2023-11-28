@@ -1,0 +1,1 @@
+The textbook says it's a way of transforming a set of numbers into another set that preserves the order. But I don't understand what that means. Here are a few examples. The question was: do these functions represent a monotonic transformation. u = 2v - 13 (yes) u = -1/v2 (no) u = ln(v) (yes) u = v2 (no)

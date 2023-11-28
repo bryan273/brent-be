@@ -1,0 +1,1 @@
+To merge a group of cells: 1  Highlight or select a range of cells. 2  Right-click on the highlighted cells and select Format Cells... . 3  Click the Alignment tab and place a checkmark in the checkbox labeled Merge cells. 4  Highlight or select a range of cells.

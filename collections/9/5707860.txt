@@ -1,0 +1,1 @@
+Ordinal (ordered) logistic regression model. Used to model an ordered response — for example, low, medium, or high. Might also be called the ordinal multinomial logit model. Ordinal logistic models take into account the ordered nature of the response, which can result in simple, more powerful models.

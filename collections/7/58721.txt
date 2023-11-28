@@ -1,0 +1,1 @@
+Step 1: Create and connect a new device type. 1  Click Flame Sensor in the left column. 2  Click Manifest and then + New Version. 3  Enter onFire as the Field Name and Boolean for Data Type. 4  Click Save and then Next: Actions. 5  Bypass Actions for this tutorial and click Save New Manifest.

@@ -1,0 +1,1 @@
+The hosts file location hasn’t changed in Windows 7 and is the same in Windows NT, 2000, XP, 2003, Vista and Windows 7. It’s an important system file to map hostnames to IP addresses. For example it can map domains to your PC (localhost) by adding the IP 127.0.0.1 in front of a domain name.

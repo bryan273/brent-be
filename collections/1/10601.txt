@@ -1,0 +1,1 @@
+This new service adds to the list of APIs available for free to Steamworks developers, including achievements, cloud saves, authentication services, error reporting, leaderboards, matchmaking, Steam Workshop, peer-to-peer networking, in-game overlay, downloadable content, and much more.

@@ -1,0 +1,1 @@
+Alternative shortcut: SHIFT+Insert. Nil. Select All. CTRL+A. Select all the text in the editing pane. This is usually followed by Cut or Copy. Auto Code Completion. CTRL+ALT+A. Turn on/off Auto Code Completion. (Auto Code Completion). Tip: Use SHIFT+Spacebar to force code completion.

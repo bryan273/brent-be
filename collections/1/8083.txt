@@ -1,0 +1,1 @@
+Microsoft XNA Framework Redistributable 4.0. The XNA Framework Redistributable download provides game developers with the XNA Framework run-time libraries they can include with their product for redistribution on the Windows platform. 1  Details.

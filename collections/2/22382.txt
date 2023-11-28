@@ -1,0 +1,1 @@
+In light of the above theorem, it makes sense to ask for a basis for the kernel of a linear transformation. In the previous example, a basis for the kernel is given by. Next we show the relationship between 1-1 linear transformations and the kernel.

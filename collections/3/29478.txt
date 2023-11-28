@@ -1,0 +1,1 @@
+Although the overall potential of a cell can be measured, there is no simple way to accurately measure the electrode/electrolyte potentials in isolation. The electric potential also varies with temperature, concentration and pressure.

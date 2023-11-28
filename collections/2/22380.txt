@@ -1,0 +1,1 @@
+In our case, this transformation is multiplication by the matrix $A$. The image is the set of all points in $\mathbb{R}^4$ that you get by multiplying this matrix to points in $\mathbb{R}^5$, you can find these by checking the matrix on the standard basis.

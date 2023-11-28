@@ -1,0 +1,1 @@
+SQL Date and Time Data Types and Functions. SQL Dates. The most difficult part when working with dates is to be sure that the format of the date you are trying to insert, matches the format of the date column in the database.

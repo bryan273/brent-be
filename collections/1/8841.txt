@@ -1,0 +1,1 @@
+Chapter 3: VECTORS. 1. We say that the displacement of a particle is a vector quantity. Our best justi¯cation for this. assertion is: A. displacement can be speci¯ed by a magnitude and a direction. B. operating with displacements according to the rules for manipulating vectors leads to re-. sults in agreement with experiments.

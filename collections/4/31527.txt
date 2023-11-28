@@ -1,0 +1,1 @@
+A radiology information system (RIS) is a networked software system for managing medical imagery and associated data. A RIS is especially useful for tracking radiology imaging orders and billing information, and is often used in conjunction with PACS and VNAs to manage image archives, record-keeping and billing. Download this free guide.

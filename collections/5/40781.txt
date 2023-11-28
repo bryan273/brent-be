@@ -1,0 +1,1 @@
+Now, with Azure Service Fabric, we can create stateful services that can hold data reliably between multiple replicas deployed on multiple nodes (VM). This removes the need for using caching services, queues, or database calls to fetch or save data for every request.

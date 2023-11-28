@@ -1,0 +1,1 @@
+How to store sound mechanically. Now suppose you want to play a tune. If you know your street well, and you can run really fast, you could (in theory) dart back and forth picking out each note on a different bit of railing on a different house. Let's say you do this a few times until you can remember the tune exactly.

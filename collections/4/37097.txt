@@ -1,0 +1,1 @@
+Programming Languages 101: Compiled Languages vs. Interpreted Languages. When we’re comparing programming languages, there are lots of ways to describe them: “high-level,” front-end vs. back-end, cross-platform, and more. But one differentiator comes up often: compiled vs. interpreted.

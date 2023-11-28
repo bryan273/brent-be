@@ -1,0 +1,1 @@
+In this case, the growth of austenite is assumed to be steady (in the model, this value is considered a few cell parameters in thickness, 10 −8 m). D V is the diffusion coefficient of solute elements in austenite.

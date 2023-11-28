@@ -1,0 +1,1 @@
+static_foo expects 1 argument, and a.static_foo expects 1 argument too. print(a.static_foo) # <function static_foo at 0xb7d479cc> And of course the same thing happens when you call static_foo with the class A instead.

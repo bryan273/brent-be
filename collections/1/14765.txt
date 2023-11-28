@@ -1,0 +1,1 @@
+Step 2: Click the File tab, then Click on the Info option. On the right menu click on the Protect Document button under Permissions, and then select the Encrypt with Password option. 3. Step 3: When the Encrypt Document dialog appears, set a password for your word document and then click OK button.

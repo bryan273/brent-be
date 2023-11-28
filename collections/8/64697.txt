@@ -1,0 +1,1 @@
+Bode's Law Kepler's Law is exact and can be derived from Newton's laws of the motion of bodies. There is another law concerning the planets but it is only approximate and cannot be derived from other laws. It is often called Bode's Law because it was popularized by Bode, but it was actually discovered by Titius.

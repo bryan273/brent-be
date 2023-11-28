@@ -1,0 +1,1 @@
+Boolean operators are things like AND, OR, and NOT. In English: If the event isn't scheduled and I can change the calendar, schedule the event. NOTE: One of the things that tends to make you a better programmer is using better names for your variables.

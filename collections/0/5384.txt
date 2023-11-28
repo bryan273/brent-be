@@ -1,0 +1,1 @@
+And divide it by the percentage of internet users for that language. The final result will be: The Percentage of the internet content divided by the Percentage of internet users for the same language. So, what I need first is the top internet content by language. This is the official statistics.

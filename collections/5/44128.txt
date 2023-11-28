@@ -1,0 +1,1 @@
+The dequantized coefficients are inverse transformed to determine a decoded residue. Les coefficients déquantifiés sont traités par transformée inverse en vue de la détermination d'un résidu décodé. A sample residue may not always be available. Il se peut, dans certains cas, qu'il ne reste pas de résidu d'échantillon.

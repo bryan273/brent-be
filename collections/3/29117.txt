@@ -1,0 +1,1 @@
+Note: The taskeng.exe file is located in the folder C:\Windows\System32. In other cases, taskeng.exe is a virus, spyware, trojan or worm! Check this with Security Task Manager. Click to Run a Free Scan for taskeng.exe related errors.

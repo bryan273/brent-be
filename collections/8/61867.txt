@@ -1,0 +1,1 @@
+The usual first step in learning about computer science is to take CS106. Even if you don't end up majoring in CS, this class will serve you well in most engineering and scientific disciplines. Because students enter Stanford with varying backgrounds, there are two different paths through the CS106 course.

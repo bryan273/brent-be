@@ -1,0 +1,1 @@
+Debian vs. Ubuntu: Administration and Package Management. Debian installs by default with a root account and at least one non-privileged user. Ubuntu uses sudo, which hides the root password, and allows at least one user access to root

@@ -1,0 +1,1 @@
+1 Right-click on the highlighted cells and select Format Cells... . 2  Click the Alignment tab and place a checkmark in the checkbox labeled Merge cells. 3  Highlight or select a range of cells.

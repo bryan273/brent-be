@@ -1,0 +1,1 @@
+1 Freezing in this scenario begins at a temperature significantly below 0 °C. 2  The first material to freeze is not the water, but a dilute solution of alcohol in water. 3  The liquid left behind is richer in alcohol, and as a consequence, further freezing would take place at progressively lower temperatures.

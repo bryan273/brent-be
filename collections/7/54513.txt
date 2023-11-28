@@ -1,0 +1,1 @@
+1 When the wind forces the blades to move, it has transferred some of its energy to the rotor. 2  Shaft-The wind-turbine shaft is connected to the center of the rotor. 3  When the rotor spins, the shaft spins as well.

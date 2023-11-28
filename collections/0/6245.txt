@@ -1,0 +1,1 @@
+Xslx is excel work sheet file. It could contains much more than just raw data (chart, formating document, etc...) In case you only need to store raw data(only rows and columns) csv is usually prefered though the size of xlsx is smaller.

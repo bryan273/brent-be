@@ -1,0 +1,1 @@
+the simplest checksum algorithm is the so called longitudinal parity check which breaks the data into words with a fixed number n of bits and then computes the exclusive or xor of all those words the result is appended to the message as an extra word

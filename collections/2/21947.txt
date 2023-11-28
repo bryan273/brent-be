@@ -1,0 +1,1 @@
+Figure 8 Overview of BN for example (1) The same approach is used for backward CPM calculation connecting LF and LS. Activity ‘E’ is the last activity of the project and has no successor, so its LF is set to. EF. ‘E’ is successor of ‘C’ and ‘D’ so LS of ‘E’ is linked to LF of ‘C’ and ‘D’.

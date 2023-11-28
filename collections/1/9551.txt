@@ -1,0 +1,1 @@
+While word identification is a process that results in a fairly exact outcome (i.e., a student either reads the word automobile or not) the process of comprehending text is not so exact. Different readers will interpret an author's message in different ways.

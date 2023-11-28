@@ -1,0 +1,1 @@
+map (function, iterable, ...) ¶ Apply function to every item of iterable and return a list of the results. If additional iterable arguments are passed, function must take that many arguments and is applied to the items from all iterables in parallel.

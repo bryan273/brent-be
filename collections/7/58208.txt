@@ -1,0 +1,1 @@
+4. System Zero Potential Vs Circuit Zero Potential. Earthing and Grounding both is refer to zero potential, but the system connected to zero potential is differ than Equipment connected to zero potential .If a neutral point of a generator or transformer is connected to zero potential then it is known as grounding.

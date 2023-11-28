@@ -1,0 +1,1 @@
+1 Shaft-The wind-turbine shaft is connected to the center of the rotor. 2  When the rotor spins, the shaft spins as well. 3  In this way, the rotor transfers its mechanical, rotational energy to the shaft, which enters an electrical generator on the other end.

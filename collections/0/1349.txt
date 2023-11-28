@@ -1,0 +1,1 @@
+It’s that simple. We take the average distance that a gasoline-powered vehicle can drive on a gallon of gas (28.2 miles for comparable 2012 model year cars), and then calculate how much it would cost to drive the average EV that same distance.

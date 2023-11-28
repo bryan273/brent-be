@@ -1,0 +1,1 @@
+This series provides an introduction to the Six Sigma DMAIC process, and a more in-depth look at each of the individual phases. You'll learn about the objectives of each phase and common tools to help you reach them. DMAIC Phase 1: Define. DMAIC Phase 2: Measure. DMAIC Phase 3: Analyze.

@@ -1,0 +1,1 @@
+• The type of PE material from which the pipe ismade (e.g., PE 4710) ; • The pipe or tubing dimension ratio or the pipe pressure rating or pressure class. for 73° F water, or both; • The standard against which the pipe has beenmade and tested;

@@ -1,0 +1,1 @@
+For example, the pressure inside a balloon or at the bottom of a water basin would change as air is let out of the balloon or as water is poured out of the basin. Head pressure (or pressure head) measures the static pressure of a liquid in a tank or a pipe.

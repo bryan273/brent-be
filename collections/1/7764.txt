@@ -1,0 +1,1 @@
+1 Helper T cells augment the immune response by recognizing the presence of a foreign antigen and then stimulating antibody production and producing cytokines that “turn on” or activate other T cells. 2  Regulatory T cells function in an opposite manner: they dampen or turn off the immune response.

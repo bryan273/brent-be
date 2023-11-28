@@ -1,0 +1,1 @@
+Note: The STUN RFC states: This protocol is not a cure-all for the problems associated with NAT. 1  STUN enables a device to find out its public IP address and the type of NAT service its sitting behind. 2  STUN operates on TCP and UDP port 3478. 3  STUN is not widely supported by VOIP devices yet.

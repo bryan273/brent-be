@@ -1,0 +1,1 @@
+This Excel spreadsheet is a tool for managing audits. The three tabs to the worksheet are a planning calendar that indicates when audits are scheduled including the projected completion date, who the auditor will be and the date of actual completion.

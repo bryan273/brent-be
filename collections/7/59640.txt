@@ -1,0 +1,1 @@
+This section identifies the hazards of the chemical presented on the SDS and the appropriate warning information associated with those hazards. 1  The required information consists of: 2  The hazard classification of the chemical (e.g., flammable liquid, category). 3  Signal word. 4  Hazard statement(s).

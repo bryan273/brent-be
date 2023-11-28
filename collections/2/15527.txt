@@ -1,0 +1,1 @@
+In addition to this, the IEC differs from the NEC as it is not designed to be suitable as a model code document. In fact, it cannot be considered as a code itself as there is always a need to come up with a document compatible with the IEC for the engineers to have a fool-proof installation of electronics.

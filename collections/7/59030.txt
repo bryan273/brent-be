@@ -1,0 +1,1 @@
+The other type of disk image is more correctly a filesystem image. This approach is aware of the type of filesystem you have on your hard disk and what files are on it. A filesystem image would most likely be the copy your backup utility is referring to.

@@ -1,0 +1,1 @@
+The first stored procedure, sp_addlogin, creates a new user account for the database server and assigns a password and default database for that account. Sp_addlogin creates a SQL Server account; to have the script create an NT account or group, replace this stored procedure call with a call to sp_grantlogin.

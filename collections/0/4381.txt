@@ -1,0 +1,1 @@
+1. Find the payment online, and from the Payments window select the payment and choose the Actions button. 2. In the Payment Actions window select Void. Review and optionally change the void Date and the GL Date you want Payables to use for the accounting distributions.

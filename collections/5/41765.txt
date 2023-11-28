@@ -1,0 +1,1 @@
+One very important advantage of EDI over paper documents is the speed in which the trading partner receives and incorporates the information into their system thus greatly reducing cycle times. For this reason, EDI can be an important component of just-in-time production systems.

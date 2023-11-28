@@ -1,0 +1,1 @@
+Rhombus is a parallelogram that has equal side. If the diamond angles is straight, then it is a square. Rhombus differ in the size of side and the size of angles.

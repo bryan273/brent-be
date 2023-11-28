@@ -1,0 +1,1 @@
+FSU, Florida State University GPA, SAT Scores and ACT Scores for Admission. Data courtesy of Cappex. Note that there are some red dots (rejected students) and yellow dots (waitlisted students) hidden behind the green and blue throughout the graph, especially in the middle.

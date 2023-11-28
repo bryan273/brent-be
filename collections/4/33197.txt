@@ -1,0 +1,1 @@
+Supervisor - webTA is configured to support the Supervisor role for the federal time and attendance process. The main function of the role is to certify timesheets for assigned employees. Master Timekeeper - The Master Timekeeper role is similar in many ways to the Timekeeper role.

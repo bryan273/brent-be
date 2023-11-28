@@ -1,0 +1,1 @@
+1 In Outlook, right click the folder you want to share and choose properties. 2  Click the Permissions tab. 3  Click the Add button and select the user(s) that you want to give access to.  After the users have been added, select the appropriate level of permissions for each.

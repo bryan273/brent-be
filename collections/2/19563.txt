@@ -1,0 +1,1 @@
+A third party is an entity that is involved in some way in an interaction that is primarily between two other entities. A contract might be, for example, between a software company that creates a mobile app and an end user.

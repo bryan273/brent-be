@@ -1,0 +1,1 @@
+RTIm Direct is a full-lifecycle software solution for tracking, documenting, monitoring, and managing Response to Intervention (RTI) / Academic Intervention Services (AIS).

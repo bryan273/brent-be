@@ -1,0 +1,1 @@
+Step 7: Now experiment with the font tools, which you’ll find under the font box. 1  They are: 2  B bold. 3  I italic. 4  U underline. 5  abc strike through. 6  subscript. 7  superscript.

@@ -1,0 +1,1 @@
+WordPress and PHP7. For the last few months, WordPress Core has been getting ready for the upcoming release of PHP7. PHP7 is bringing a host of improvements to PHP. One of the most notably is substantial performance improvements.Benchmarks of WordPress using PHP7 are showing a 2-3x speed improvement compared to PHP5.6.

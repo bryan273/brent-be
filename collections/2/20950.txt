@@ -1,0 +1,1 @@
+Other common differences include: 1  Double-loop g replaced by single-loop version. 2  Different closing height where the forked stroke intersects with the stem (e.g. : a, b, d, g, p, q, r, þ). 3  Bracketed serifs (if any) replaced by hooked serifs. 4  Tail of Q replaced by tilde (as in, for example, the Garamond typeface).

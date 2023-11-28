@@ -1,0 +1,1 @@
+If the monthly accounting period ends on Tuesday and the employees worked on both Monday and Tuesday, the month-end adjusting entry to record the salaries earned but unpaid is: Debit Unpaid Salaries $600 and credit Salaries Payable $600. Debit Salaries Expense $400 and credit Salaries Payable $400.

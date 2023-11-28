@@ -1,0 +1,1 @@
+Mean opinion score. Mean opinion score (MOS) is a measure used in the domain of Quality of Experience and telecommunications engineering, representing overall quality of a stimulus or system. It is the arithmetic mean over all individual “values on a predefined scale that a subject assigns to his opinion of the performance of a system quality”.

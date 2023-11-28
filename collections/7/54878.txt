@@ -1,0 +1,1 @@
+Performance measurement is a key component of IT Governance. It verifies the achievement of strategic IT objectives and. provides for a review of IT performance and the contribution of IT to the business (i.e. delivery of promised business value).

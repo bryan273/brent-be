@@ -1,0 +1,1 @@
+One motherboard may have a limit of, for example 48 GB for Unbuffered RAM, and a limit of 128 GB for ECC Registered RAM. The limits on the amount of memory addressable may also depend on the CPU installed. Some motherboards can address more memory with a Xeon CPU than with a Core i-series.

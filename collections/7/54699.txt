@@ -1,0 +1,1 @@
+The blanket is a layer surrounding the vessel in a fusion powerplant. It will absorb the energy from the fusion neutrons produced in the plasma, boiling water via a heat exchanger, which will be used to drive a steam turbine and produce electricity.

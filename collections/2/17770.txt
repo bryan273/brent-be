@@ -1,0 +1,1 @@
+A series circuit with a voltage source (such as a battery, or in this case a cell) and 3 resistors. Components of an electrical circuit or electronic circuit can be connected in many different ways. The two simplest of these are called series and parallel and occur frequently.

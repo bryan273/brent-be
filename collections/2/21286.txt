@@ -1,0 +1,1 @@
+• Change a geometric construction dynamically, that is, change the positions and distances between components of the given figure while still maintaining the prescribed relationships between constructed components of the figure.

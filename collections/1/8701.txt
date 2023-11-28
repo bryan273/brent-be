@@ -1,0 +1,1 @@
+PowerApps uses a model called dataflow programming where the emphasis is in the movement of data and the relationship and transformations of it. In this programming

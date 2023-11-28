@@ -1,0 +1,1 @@
+GFM stands for Gram Formula Mass and describes the mass of one mole of a compound. To find the GFM, add the individual GAM for each element in the compound (e.g. H 2 O = 1.01 +1.01 + 16.00 = 18.02 g/mol).

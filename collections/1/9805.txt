@@ -1,0 +1,1 @@
+Predictive analysis is the attempt to predict what could happen. To do this, we need to dig into data and pull out the pieces that can help answer that question. You may have heard of the term data mining to describe such analysis. But just mining the data, and bringing it to the surface, doesn't really DO anything.

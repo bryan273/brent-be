@@ -1,0 +1,1 @@
+There are four types of T cells, each with a special purpose. 1  Helper T cells detect infection and get the other cells of the immune system ready for battle. 2  Cytotoxic, or killer, T cells destroy infected cells. 3  Regulatory T cells tell the immune system when the battle with the pathogens is over and to stop fighting.

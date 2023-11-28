@@ -1,0 +1,1 @@
+Here at SpoilerTV we allow you to personalize your experience by allowing you to customize various items on the site. Enter the HEX Code of the colour you would like to use as a background. To get a HEX code goto the colour picker and pick your color then paste in the # number including the # at the front.

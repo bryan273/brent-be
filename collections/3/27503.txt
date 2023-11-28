@@ -1,0 +1,1 @@
+Perimeter of a Polygon. The perimeter of a polygon is calculated using the same method of adding together each side. Remember that if all the sides are equal, you only need to know one side of the polygon. If the sides are unequal, however, you do need to know the length of each different side.

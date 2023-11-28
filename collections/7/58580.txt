@@ -1,0 +1,1 @@
+The sampling rate is adapted from that attained when recording digital audio on a PAL (or NTSC) videotape with a PCM adaptor, an earlier way of storing digital audio. An audio CD can represent frequencies up to 22.05 kHz, the Nyquist frequency of the 44.1 kHz sample rate.

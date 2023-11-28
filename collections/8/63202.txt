@@ -1,0 +1,1 @@
+Commercial Open Source Software (COSS) can contain Free Open Source Software components, however limits availability of key functionality to closed proprietary software, and therefore is discussed only on the COSS page.

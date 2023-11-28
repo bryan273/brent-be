@@ -1,0 +1,1 @@
+The Diagnostic Report provides diagnostic and troubleshooting information for a failed session. 1  This information includes both the Diagnostic ID and the Diagnostic header that were reported when the session failed.

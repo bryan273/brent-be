@@ -1,0 +1,1 @@
+This is because, in building a software factory, you are in fact codifying the domain knowledge and experience of those resources, and then on-selling it in the form of a tool (factory) to be used by others with lesser domain expertise.

@@ -1,0 +1,1 @@
+Airflow Meter. An airflow meter measures air velocity as well as air pressure. Depending on the type of application, the airflow meter is made as a hot-wire airflow meter, a vane airflow meter, a cup anemometer, a Pitot tube air flow meter or a pocket weather flow meter, all of which can measure air velocity as well as air pressure. Some can even detect the wind direction.

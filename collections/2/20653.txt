@@ -1,0 +1,1 @@
+Apple is the slowest, though it recently allowed app developers to tap into Siri's code. Google Now seems to be the most likely to default to a web search -- unsurprising given that it's built around a search engine. Cortana comes on a Windows Phone (it will also work on Windows 10 computers).

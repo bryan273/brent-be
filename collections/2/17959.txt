@@ -1,0 +1,1 @@
+The Domain Name System (abbreviated DNS) is simply put like the phone book of the Internet. It helps us, the users, keep track of website names like pingdom.com or google.com, rather than having to remember the IP-address that the computer needs to start any form of communication.

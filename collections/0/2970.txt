@@ -1,0 +1,1 @@
+Economic Census - Puerto Rico data are not comparable to U.S. Economic Census data Value Flags -Either no or too few sample observations were available to compute an estimate, or a ratio of medians cannot be calculated because one or both of the median estimates falls in the lowest or upper interval of an open ended distribution.

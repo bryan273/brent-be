@@ -1,0 +1,1 @@
+Hey Guys, IP addresses of 169.254.x.y means that your computer could not reach your DHCP servers to be assigned an address. The easy solution is to repair your Local Area Connection.ey Guys, IP addresses of 169.254.x.y means that your computer could not reach your DHCP servers to be assigned an address. The easy solution is to repair your Local Area Connection.

@@ -1,0 +1,1 @@
+These analyses may benefit from the use of different C. elegans natural isolates and/or defined mutants (e.g., mutants of known immunity pathways that are widely believed to control host–microbiota interactions ) because these may additionally help to identify host genes involved in shaping the interaction.

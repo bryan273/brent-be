@@ -1,0 +1,1 @@
+Two kinds of logarithms are often used in chemistry: common (or Briggian) logarithms and natural (or Napierian) logarithms. The power to which a base of 10 must be raised to obtain a number is called the common logarithm (log) of the number.

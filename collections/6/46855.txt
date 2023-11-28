@@ -1,0 +1,1 @@
+For example, given a polynomial P(x) , and also given that a is a root of the polynomial, then when P(x) is divided by the factor (x-a) , the result should be a smaller polynomial P1(x) and a remainder zero. Below is an example that serves to prove the remainder theorem.

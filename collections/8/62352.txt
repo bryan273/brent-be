@@ -1,0 +1,1 @@
+FMT is a raceway, but not a conduit and is described in a separate NEC Article 360. It only comes in 1/2 & 3/4 trade sizes, whereas FMC is sized 1/2 ~ 4 trade sizes. NEC 360.2 describes it as: A raceway that is circular in cross section, flexible, metallic and liquidtight without a nonmetallic jacket..

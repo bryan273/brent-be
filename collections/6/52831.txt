@@ -1,0 +1,1 @@
+1 Some genetic diseases, are caused by sex linked genes, for example haemophilia. 2  The allele for haemophilia is recessive so two copies are needed for a female to have the disease.  However, because males only have one X chromosome, they only need one copy of the haemophilia allele to have the disease.

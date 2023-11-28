@@ -1,0 +1,1 @@
+Match the drawing page size to the printer paper size. On the File menu, click Page Setup. Click the Page Size tab, and under Page size, select the Same as printer paper size option. Top of Page.

@@ -1,0 +1,1 @@
+Adapter FEX technology extends the current benefits of the Cisco Nexus 2000 Series Fabric Extender architecture to the server NICs, providing architecture flexibility, high scalability with 4000 logical interfaces, and one single point of management and policy enforcement, which result in increased business benefits.

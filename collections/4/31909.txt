@@ -1,0 +1,1 @@
+Report Abuse. There are are no predefined shortcuts in excel for this but you can make your own. In excel goto tools>macro>record new macro. In the dialog window that opens give a name to your macro (e.g Fill cell red) and assign a shortuct key in the box below.

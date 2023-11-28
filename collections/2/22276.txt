@@ -1,0 +1,1 @@
+First of all, they seemed to be allowing predefined (by iOS) folders to get endlessly bigger than just 1000 pics. At one point I have 3500 in one of the folders. Then, either iOS 8.1 or 8.1.1 (I forget) changed things, so that pictures were contained in an individual folder for each month.

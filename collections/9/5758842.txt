@@ -1,0 +1,1 @@
+Given the fact that any pregnancy test displays its results based on accurate measurement of the Human Chorionic Gonadotropin (hCG) hormone level, undergoing treatment with HCG injections causes a false rise in the hCG found in the urine and thus a false positive result.

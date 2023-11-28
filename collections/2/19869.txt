@@ -1,0 +1,1 @@
+1 Optional: Use your image editor's crop tool to crop out unnecessary portions of the screen shot. 2  Go to the File Menu and choose Save As. 3  Navigate to the folder where you want to save the image. 4  Type a file name for the image.

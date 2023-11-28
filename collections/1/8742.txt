@@ -1,0 +1,1 @@
+LT22 SAP tcode - Display Transfer Order / Stor. Type. LT22 (Display Transfer Order / Stor. Type) is a standard SAP transaction code available within R/3 SAP systems depending on your version and release level. Below for your convenience is a few details about this tcode including any standard documentation available.

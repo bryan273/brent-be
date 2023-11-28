@@ -1,0 +1,1 @@
+The 4th to 8th positions in the VIN are the vehicle descriptor section or VDS. This is used, according to local regulations, to identify the vehicle type, and may include information on the automobile platform used, the model, and the body style.

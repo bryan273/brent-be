@@ -1,0 +1,1 @@
+In these cases, a second-. ary image of the OpenScape Enterprise. Express is maintained and in the un-. likely event of a failure, the second im-. age can be started (manually via repli-. cation or automatically via HA) to run. in place of the primary, providing sur-. vivability for all installed applications.

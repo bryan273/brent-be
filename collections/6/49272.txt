@@ -1,0 +1,1 @@
+The NA is derived from the size of the lens, its working distance, and it's index of refraction. High-quality objective lenses indicates their Numerical Aperture on the sides of their barrels. In general, the useful magnification of an objective is 1000 times its Numerical Aperture.

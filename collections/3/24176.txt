@@ -1,0 +1,1 @@
+Google supports the standard sitemap protocol. Google also supports XML extensions for video, images, and news resources; use these extensions to describe video files, images, and other hard-to-parse content on your site to improve how we index these resources.

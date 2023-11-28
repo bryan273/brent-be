@@ -1,0 +1,1 @@
+A key to making Shatter work the way you want is to use a gradient layer, or a separate layer that tells the Shattter effect how to behave (this will make more sense later on). You can make your gradient layer in Photoshop, Illustrator, or another graphic program, then import the file into After Effects.

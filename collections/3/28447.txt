@@ -1,0 +1,1 @@
+An auditor is assigned to perform a post-implementation review on a system for which the auditor performed a procedure review and made control recommendations prior to the system's implementation.

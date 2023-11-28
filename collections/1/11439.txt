@@ -1,0 +1,1 @@
+Basic Overview of PRI VS SIP Trunking. What is PRI and SIP Trunking? PRI and SIP Trunking are two different ways of connecting your business to the PSTN (Public Switched Telephone Network). Typically both methods, PRI and SIP Trunking, require a piece of an equipment in your office called a PBX (Private Branch Exchange).

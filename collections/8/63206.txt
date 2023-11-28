@@ -1,0 +1,1 @@
+Finding new software is a breeze for Linux users. The Linux desktop offers powerful, easy-to-use open-source applications for everything you need, just a few clicks away in your Linux distribution’s package manager. The programs are free, too—and you don’t have to dodge the installer crapware you do on Windows.But which of those programs are right for you?

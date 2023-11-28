@@ -1,0 +1,1 @@
+This function, denoted , is defined as the composite of the cube function and the tangent function. To calculate the first derivative of , we note that the function is the composite of the cube function and the tangent function, and differentiate using the chain rule for differentiation: Fill this in later.

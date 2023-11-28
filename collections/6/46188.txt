@@ -1,0 +1,1 @@
+A. If an object's velocity is changing, it's either experiencing acceleration or deceleration. B. If an object's velocity remains constant, its acceleration must be increasing. C. If an object is said to be decelerating, its velocity must be increasing. D. If an object's velocity decreases, then the object is accelerating.

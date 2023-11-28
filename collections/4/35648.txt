@@ -1,0 +1,1 @@
+Caller ID & Phone number = NODID. I'm getting calls from some party with both the phone number and caller id of NODID. I have no idea what on earth this is, Google search tells me it's probably some scam. Okay, my problem is without a real phone number I can't set up a rule to block the inbound call.

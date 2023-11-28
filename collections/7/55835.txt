@@ -1,0 +1,1 @@
+tutorial on how to make the recovery partition visible in my computer. 1) start menu search. 2)CMD. 3)run as administrator. 4)in cmd type diskpart. 5)list disk. 6)select disk number if u have more than one (whichever disk is the one with the recovery on it). 7)list partition.

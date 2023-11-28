@@ -1,0 +1,1 @@
+The possible number of correct answers a student can get is 0, 1, 2, 3, 4, and 5: only 6 possibilities, and this is a finite number. Therefore, if we collect data of the number of questions correctly answered by a student, then that particular data will be discrete. In a game, one has to shoot a target.

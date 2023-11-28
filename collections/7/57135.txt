@@ -1,0 +1,1 @@
+Travelmath helps you find cities close to your location. You can use it to look for nearby towns and suburbs if you live in a metropolis area, or you can search for cities near any airport, zip code, or tourist landmark. You'll get a map of the local cities, including the distance and information on each town.

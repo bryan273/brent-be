@@ -1,0 +1,1 @@
+1 Find a sound (or upload one) on the website and get the asset ID, which is the number at the end of the URL. 2  Open ROBLOX Studio and open a place in Edit Mode.  Open your Basic Objects panel and double-click Sound. Make sure it's in Workspace.

@@ -1,0 +1,1 @@
+Definitions (from the RFC). 1  STUN Client: A STUN client (also just referred to as a client) is an entity that generates STUN requests. 2  A STUN client can execute on an end system, such as a user's PC, or can run in a network element, such as a conferencing server.

@@ -1,0 +1,1 @@
+A vulnerability scan detects and classifies system weaknesses in computers, networks and communications equipment and predicts the effectiveness of countermeasures. A scan may be performed by an organization’s IT department or a security service provide, possibly as a condition imposed by some authority.

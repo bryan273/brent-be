@@ -1,0 +1,1 @@
+Great news for the two of you that want to run Android apps on your iPad! Alien Dalvik, the software layer that allows all Android apps to run on the Android platform, is being ported to various different platforms, including BlackBerry’s PlayBook.

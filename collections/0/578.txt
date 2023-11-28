@@ -1,0 +1,1 @@
+You can browse the Internet or pick up your email in more than one way. There are several web browsers available and a number of different local email readers. To specify which programs are set up in Windows 7 and Windows Vista, follow these steps: Open the Control Panel. Choose Programs, and then beneath the heading Default Programs, click the link Set Your Default Programs.

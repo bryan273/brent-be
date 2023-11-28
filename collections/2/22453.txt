@@ -1,0 +1,1 @@
+There are several types of lines defined by their use. 1  Contour lines are used to define edges. 2  Dividing lines can also define edges, but what distinguishes them from contour lines is they divide space. 3  Decoration lines are used to embellish an object. 4  Gesture lines are quick and rough continuous lines used to capture form and movement.

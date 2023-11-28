@@ -1,0 +1,1 @@
+Be sure to only add similar units. For example, you cannot add inches to feet. For example, if you need to find the perimeter of a rectangle with sides of 9 inches and 1 foot, you must first change to the same units. perimeter = 2 ( a + b)

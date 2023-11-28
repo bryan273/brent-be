@@ -1,0 +1,1 @@
+Audio power is the electrical power transferred from an audio amplifier to a loudspeaker, measured in watts. The electrical power delivered to the loudspeaker, together with its sensitivity, determines the sound power level generated (with the rest being converted to heat).

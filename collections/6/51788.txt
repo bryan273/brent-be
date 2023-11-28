@@ -1,0 +1,1 @@
+Basic Printer Specs. Dots per inch (dpi): This number defines how many dots the printer can fit onto a square inch of paper. Due to baseline specs set long ago, all dpi numbers are a multiple of either 300 or 360--for example, 1200 dpi or 1440 dpi.

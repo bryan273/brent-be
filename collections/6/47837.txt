@@ -1,0 +1,1 @@
+TOLL-BY-PLATE is an FDOT image based electronic toll collection system that uses photographic images of the vehicles license plate to identify the customer responsible for payment. This feature is available on the HEFT (Homestead Extension of Florida's Turnpike) from Florida City to Miramar in Miami-Dade County.

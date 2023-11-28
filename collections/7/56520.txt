@@ -1,0 +1,1 @@
+The hard part seems to be the account number, which some claim using the full phone number works, others say that they had to use the IMEI number as the account number. Either way, it should be possible to port out. You may want to contact Tracfone support and ask what information should be used for porting away.

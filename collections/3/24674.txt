@@ -1,0 +1,1 @@
+Answer: The to_date function is used to convert character data to the date datatype. to_date ('02-MAY-97') which returns a value of type date. to_date may also be called with a second parameter, which instructs the function to convert the specified string from the specified format into a standard date.

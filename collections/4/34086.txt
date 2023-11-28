@@ -1,0 +1,1 @@
+I nternet P rotocol Address (or IP Address) is an unique address that computing devices use to identify itself and communicate with other devices in the Internet Protocol network. Any device connected to the IP network must have an unique IP address within its network.

@@ -1,0 +1,1 @@
+I had to generate 50,000 random numbers for a project at work with only a couple hours' notice – we’re producing cards for a client as part of an instant win game, and each one needs a unique code – and your generator saved the day.

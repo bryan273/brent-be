@@ -1,0 +1,1 @@
+HTTPS (HTTP Secure) is a protocol created by combining HTTP (HyeperText Transfer Protocol) and SSL/TLS protocols. HTTPS provides secure communication by encryption and identifies end points of the connections making it ideal for applications like payment transitions on WWW (World Wide Web) or sensitive transactions in corporations.

@@ -1,0 +1,1 @@
+This test detects the ability of microorganism to ferment glucose and to produce acidic end products. Enteric organism produces pyruvic acid from glucose metabolism. Some enteric will then use the mixed acid pathway to metabolize pyruvic acid to other acidic products such as lactic acid, acetic acid and formic acids.

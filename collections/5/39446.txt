@@ -1,0 +1,1 @@
+There is only one processor chip. That chip can have one, two, four, six, or eight cores. Currently, an 18-core processor is the best you can get in consumer PCs. Each “core” is the part of the chip that does the processing work. Essentially, each core is a central processing unit (CPU).

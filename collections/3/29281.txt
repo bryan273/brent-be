@@ -1,0 +1,1 @@
+For a cyclically alternating electric current, RMS is equal to the value of the direct current that would produce the same power dissipation in a resistive load. In econometrics the root mean square error of an estimator is a measure of the imperfection of the fit of the estimator to the data.

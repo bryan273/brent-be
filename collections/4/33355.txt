@@ -1,0 +1,1 @@
+To define your macro, name it (using the topmost box on the right-hand side of Butler's window), and click on the Keys tab immediately below that. In the Keys section, type Control-U, then click the Triggers tab. In the Triggers section, click in the Hot Key box and press F2.

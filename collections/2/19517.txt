@@ -1,0 +1,1 @@
+(Code 10). When working with a USB device in Windows XP. If you have plugged in a USB device (usually a mass storage device) into a computer and it doesnt work, here are some basic troubleshooting steps to resolve the problem. First, you want to rule out any problems with the device itself.

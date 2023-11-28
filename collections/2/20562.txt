@@ -1,0 +1,1 @@
+splice() Method Syntax. The splice() method takes at least two integer arguments, each greater than or equal to zero (<=0). The first argument specifies the index at which to start removing and/or inserting elements on the original array. The second argument determines how many elements will be deleted.

@@ -1,0 +1,1 @@
+Simple Disaster-Recovery-as-a-Service. vCloud Availability for vCloud Director makes it easy for service providers to run a disaster-recovery-as-a-service (DRaaS) offering that is natively compatible with their customer’s vSphere environment.

@@ -1,0 +1,1 @@
+The derivative of a power function involving x to the nth power (n being non-zero) can be derived using the definition of the derivative. The power function derivative is equal to x to the (n-1)th power times n. Many polynomial derivatives are based on derivatives of multiple power functions.

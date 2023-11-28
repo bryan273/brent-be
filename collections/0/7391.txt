@@ -1,0 +1,1 @@
+When the focus of a project is to reduce cycle time, the idea is to reduce time required for the entire transaction. This concept may create difficulty for stakeholders involved in transactional projects because there is no physical, visible buildup of WIP.

@@ -1,0 +1,1 @@
+The largest entity on a CD is called a track. A CD can contain up to 99 tracks (including a data track for mixed mode discs). Each track can in turn have up to 100 indexes, though players which handle this feature are rarely found outside of pro audio, particularly radio broadcasting.

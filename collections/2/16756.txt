@@ -1,0 +1,1 @@
+There are three different ways to load a product onto a column: neat, in solution or dry. 1  Neat is rarely used because it can overload the column and lead to cracking. 2  Dry loading is seldom used because of the risks associated with it (acidity and volatility of silica gel).

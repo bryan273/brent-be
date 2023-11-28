@@ -1,0 +1,1 @@
+the actual procedure which yields the checksum given a data input is called a checksum function or checksum algorithm depending on its design goals a good checksum algorithm will usually output a significantly different value even for small changes made to the input

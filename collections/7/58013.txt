@@ -1,0 +1,1 @@
+To find your keycode within Webroot SecureAnywhere for Mac 1  : Open the SecureAnywhere interface (click the Webroot icon in the menu bar, then select Open Webroot SecureAnywhere from the drop-down menu). 2  From the main window, click My Account.  A window opens with your keycode and subscription information.

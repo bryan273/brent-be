@@ -1,0 +1,1 @@
+Here is how the SRS is computed for a retiree whose MRA is age 56 and who retires under FERS with 30 years of civilian service and an estimated age 62 Social Security benefit of $1200 a month. 1  The FERS service is divided by 40. 2  The age 62 Social Security benefit is multiplied by the fraction derived above.

@@ -1,0 +1,1 @@
+I want to compare the system time with 11.00 AM on a button click event. And if the current time is greater than or equal to 11.00 AM, i've to perform some functions.I am using C#. want to compare the system time with 11.00 AM on a button click event. And if the current time is greater than or equal to 11.00 AM, i've to perform some functions. I am using C#.

@@ -1,0 +1,1 @@
+For many true experimental designs, pretest-posttest designs are the preferred method to compare participant groups and measure the degree of change occurring as a result of treatments or interventions.

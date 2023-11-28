@@ -1,0 +1,1 @@
+A typical application of Usable Area and Building Load Factor is as follows. For a 1,000 sf (actual square feet) office suite the Building Load Factor is used to add and additional 150 sf of common area (1,000 x 15%) for a total of 1,150 square feet of rentable area (rentable square feet or rsf).

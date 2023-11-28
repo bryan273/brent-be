@@ -1,0 +1,1 @@
+Life Expectancy. An table is a tabulation of numbers which is used to calculate life expectancies. : Age category (, 1, ..., ). These values can be in any convenient units, but must be chosen so that no observed lifespan extends past category .

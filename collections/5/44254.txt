@@ -1,0 +1,1 @@
+If you need access to function keys (F1–F12), hold down the Function (fn) key at the bottom-left of your keyboard. Touch Bar changes to show the function buttons for you to select, and then it returns to its previous state when you release the Function key.

@@ -1,0 +1,1 @@
+Microsoft has added new auditing options to Windows Server 2008 R2/Windows 7 computers and above. The new auditing controls more granular areas of your computer, reducing the overall security log entries so you can audit more of what you want and less of what you don’t need. In this second part video... Read More.

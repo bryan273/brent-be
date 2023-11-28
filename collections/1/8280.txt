@@ -1,0 +1,1 @@
+Austell Gas Login. To login in one should visit the bill payment website http://austellgas.com/ and enter his/her username/password in the right section of the page and press login. In case you have forgotten your password/user id you can press on Forgot password button.

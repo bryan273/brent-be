@@ -1,0 +1,1 @@
+You can generate frequency tables using table(dataframe$attribute) function. This will give you the frequency counts of the variable 'attribute' in your data. Look up help in rstudio for further info on this function. You can probably use one of the apply functions in case you want frequency counts for multiple variables.

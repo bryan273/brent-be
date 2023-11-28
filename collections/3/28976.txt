@@ -1,0 +1,1 @@
+Is there a way to edit the .tcx file so it appears with the correct date? I have a garmin 350 and occasionaly when it boots up it stores incorrect date time information at the begining of the ride but somehow corrects later. When the data is uploaded to TC it places the whole file in a workout from several years ago.

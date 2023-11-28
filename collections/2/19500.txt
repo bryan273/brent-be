@@ -1,0 +1,1 @@
+CPT Codes Mapped to CVX Codes. This table cross-references Current Procedural Terminology (CPT™) codes that are related to vaccines, toxoids and immune globulins with their corresponding CVX codes. The goal of the table is to support mapping of CPT codes to CVX codes in systems that receive CPT codes as part of an electronic data exchange.

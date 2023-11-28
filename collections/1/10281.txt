@@ -1,0 +1,1 @@
+Here are all albums that have sold 5 million or more copies in the last 10 years. The sales tally is the number of albums the album has sold from the week ending March 10, 2002 to the week ending March 11, 2012. (If the album was released prior to March 2002, I also show its total sales in parentheses.

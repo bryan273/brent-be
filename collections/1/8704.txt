@@ -1,0 +1,1 @@
+Choose the “Create from Blank” option on the next screen. Now we need to build our Logic Flow from the available options. Our goal is to run this Logic Flow when when a user submits a new Tweet, so we’ll start with the “PowerApps – When a control is selected” action.

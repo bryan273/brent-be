@@ -1,0 +1,1 @@
+Consider the following rhombus #ABCD#, where diagonals #AD# and #BC# intersect at #O#. In a rhombus all sides are equal and opposite sides are parallel. Further a rhombus is also a parallelgram and hence exhibits properties of a parallelogram andwe use that diagonals of a parallelogram bisect each other.

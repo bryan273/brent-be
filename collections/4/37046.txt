@@ -1,0 +1,1 @@
+Welcome to “Bioinformation” a data journal. 1  standardize data formats; 2  debate on gene nomenclature; 3  derive new data points; 4  tease old data points using new data points; 5  glean new data points from old data points; 6  derive tertiary data points from secondary data points; 7  minimize data duplication; 8  maximize knowledge accumulation.

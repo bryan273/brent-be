@@ -1,0 +1,1 @@
+According to this answer to a question about car batteries: [...] so the entire chassis is an extension of the minus terminal of the battery. If this is the case, I would expect that you'd get shocked when you touch something metal on a started vehicle if you're grounded.

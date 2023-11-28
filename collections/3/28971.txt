@@ -1,0 +1,1 @@
+Two reasons to choose GPX file: 1  You have a GPS unit that doesn’t read TCX files. The eTrex, Oregon, Montana, and GPSmap series do not read TCX.  You don’t care about riding a certain speed, and you don’t need the basic turn guidance offered by the TCX.

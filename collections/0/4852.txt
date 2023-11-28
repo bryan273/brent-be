@@ -1,0 +1,1 @@
+If you’re still confused, here’s what you need to know: 1  Outlook.com is the current name for Microsoft’s email service, which was formerly known as Hotmail. 2  Outlook Mail is the web app that let’s you browse your Outlook.com email account. 3  Outlook, or Office Outlook, is Microsoft’s desktop email client.

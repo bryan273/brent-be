@@ -1,0 +1,1 @@
+If the date and time of any solar eclipse are known, it is possible to predict other eclipses using eclipse cycles. The saros is probably the best known and one of the most accurate. A saros lasts 6,585.3 days (a little over 18 years), which means that, after this period, a practically identical eclipse will occur.

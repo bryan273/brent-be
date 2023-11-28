@@ -1,0 +1,1 @@
+A player's class is the biggest determiner of that character's stat growth and skills. Though some skills can be gained from races, most of them are unlocked by reaching a certain levels in various classes. There are three kinds of class. Basic classes, Hybrid classes and Prestige Classes.

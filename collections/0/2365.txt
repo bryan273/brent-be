@@ -1,0 +1,1 @@
+this information is packaged into a cookie and sent to your web browser which then stores the information for later use the next time you go to the same web site your browser will send the cookie to the web server the message is sent back to the server each time the browser requests a page from the server

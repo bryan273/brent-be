@@ -1,0 +1,1 @@
+I have been presenting our solution in Windows Server 2012 for File Storage for Virtualization (Hyper-V over SMB) and Databases (SQL Server over SMB) for a while now. I always start the conversation talking about how simple and easy it is for an IT Administrator or an Application Developer to use SMB 3.0.

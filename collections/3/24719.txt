@@ -1,0 +1,1 @@
+Third-party reports of death that do not automatically generate an alert in DATS (such as a phone call from a friend or neighbor) must also be verified by following the steps in GN 02602.070C, Procedure for Resolving Death Alerts & Exceptions.

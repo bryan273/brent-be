@@ -1,0 +1,1 @@
+exists and is an alternate of . Since this is regarding statistics I assume you mean lower case sigma (σ) which, in statistics, is the symbol used for standard deviation, and σ2 is known as the variance.

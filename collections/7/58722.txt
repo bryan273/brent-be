@@ -1,0 +1,1 @@
+We’ve already seen how to get your devices to send data to the cloud. In most cases, the data is then processed by various Azure services. However, in some cases the cloud is nothing more than a means of communication between two devices. Imagine a Raspberry Pi connected to a garage door.

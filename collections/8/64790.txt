@@ -1,0 +1,1 @@
+NiFi is a system of enhancing data through filtering with the help of point source security. It was developed by the National Security Agency to enhance and boost the underlying capacities of the host system NiFi is operating on. NiFi’s main purpose is to automate the data flow between two systems.

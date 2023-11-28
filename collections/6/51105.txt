@@ -1,0 +1,1 @@
+First, a fraction is made up of two integers—one on the top, and one on the bottom. The top one is called the numerator, the bottom one is called the denominator, and these two numbers are separated by a line. The line can be horizontal or slanted—they both mean the same thing and simply serve to separate the numerator from the denominator.

@@ -1,0 +1,1 @@
+Sometimes the temperature does not decrease with height in the troposphere, but increases. Such a situation is known as a temperature inversion. Temperature inversions limit or prevent the vertical mixing of air.

@@ -1,0 +1,1 @@
+On Version 0.1.7+, using either MMB or RMB on the toolbar button will save on the clipboard the whole page or just the visible area, respectively. The ToolTip will remind you the actions.(MMB = middle-mouse-button, RMB = right-mouse-button).

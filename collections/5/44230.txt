@@ -1,0 +1,1 @@
+Sunway's H101 and the very similar Onyx-15 have been engineered to remove a viral defense mechanism that interacts with a normal human gene p53, which is very frequently dysregulated in cancer cells. Despite the promises of early in vivo lab work, these viruses do not specifically infect cancer cells, but they still kill cancer cells preferentially.

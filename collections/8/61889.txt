@@ -1,0 +1,1 @@
+While brightness, contrast, saturation, and sharpness may appear to be the simplest of image controls on the surface and may appear to be mutually exclusive controls, they are related and intertwined in such a way that changing any one of them can create quite complex effects in your photos.

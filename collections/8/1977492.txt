@@ -1,0 +1,1 @@
+Google uses TensorFlow internally for tasks such as image recognition, where it can rely on the Internet’s vast store of, say, cat photos to train its AI to recognize images of cats. Amazon’s scenarios are quite different.

@@ -1,0 +1,1 @@
+Melting curve analysis. Melting curve analysis is an assessment of the dissociation-characteristics of double-stranded DNA during heating. As the temperature is raised, the double strand begins to dissociate leading to a rise in the absorbance intensity, hyperchromicity.

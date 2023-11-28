@@ -1,0 +1,1 @@
+On Exchange 2003, for a user to be able to send email as someone else while the mailbox is open in Outlook, they need two permissions... 1. Full Mailbox Access. This allows them to open the mailbox. It used to also grant Send As permission, but this has now been removed.

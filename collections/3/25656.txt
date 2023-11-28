@@ -1,0 +1,1 @@
+The Windows Terminal Server has three parts: the multiuser core server itself, the Remote Desktop Protocol that enables the Windows desktop interface to be sent to the terminals by the server, and the Terminal Server Client that goes in each terminal. Users will have access to 32-bit Windows-based applications.

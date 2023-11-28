@@ -1,0 +1,1 @@
+Entitlements, not product keys. When you use the free upgrade to Windows 10 or pay for a digital retail version, you don’t get a product key. Instead, your computer uses what Microsoft calls a digital entitlement.

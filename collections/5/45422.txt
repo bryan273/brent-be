@@ -1,0 +1,1 @@
+The program type is a good indicator of the appropriateness of a ribbon. Ribbons work well for document creation and authoring programs, as well as document viewers and browsers. Ribbons might work for other types of programs, but other forms of command presentation may be more appropriate.

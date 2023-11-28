@@ -1,0 +1,1 @@
+RDS components include: 1  Remote Desktop Connection Broker: The connection broker connects users with remote desktops. If a user loses connectivity to a remote desktop, the connection broker allows the user to reestablish the connection without losing the virtual desktop's state.

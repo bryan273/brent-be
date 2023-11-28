@@ -1,0 +1,1 @@
+What fixed it for me is this: 1. Go to your Steam folder (Default location is C:\Program Files (x86)\Steam) 2. Inside this folder should be lots of files and folders including steam.exe 3. Delete everything in this folder, but do not delete any of the folders or the steam.exe file 4.

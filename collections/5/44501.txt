@@ -1,0 +1,1 @@
+Supercapacitors support a broad spectrum of applications, including: 1  Low supply current for memory backup in static random-access memory (SRAM) 2  Power for cars, buses, trains, cranes and elevators, including energy recovery from braking, short-term energy storage and burst-mode power delivery.

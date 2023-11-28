@@ -1,0 +1,1 @@
+In addition, they had to account for the slight delay between the time when the electromagnet holding the platform is shut off and when the platform is actually released.

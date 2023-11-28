@@ -1,0 +1,1 @@
+Accuracy matters, so does efficiency. For these reasons, the Merriam-Webster Dictionary app for Office adds a valuable feature to your Word document: access to an entire dictionary at a click. When used, the app will not only find the definition, but will also display syllables, accents, and correct usage examples.

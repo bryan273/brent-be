@@ -1,0 +1,1 @@
+Every square is a rectangle. (true) 2. Every rectangle is a square. (false) 3. Every square is a rhombus. (true) 4. Every rhombus is a square. (false) 5. Every parallelogram is a rectangle.

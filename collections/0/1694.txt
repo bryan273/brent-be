@@ -1,0 +1,1 @@
+Wavelength. 1  Frequency tells us how many waves are passing a point per second, the inverse of time. 2  Wavelength tells us the length of those waves in metres, almost like a displacement. 3  If we multiply these two together, we are really multiplying 1/s and m… which gives us m/s, the velocity of the wave!

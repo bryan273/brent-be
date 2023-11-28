@@ -1,0 +1,1 @@
+Early Voting Workers - Workers perform overall tasks of an early voting site for an 8 day period, beginning from the 10th to the 3rd day before the election Sets up and breaks down the site, verifies voter’s eligibility and issues ballots to the voters.

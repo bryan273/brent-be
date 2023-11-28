@@ -1,0 +1,1 @@
+To find the distances between cities in US and other useful information such as average speed, driving time, the recommended breaks, fuel consumption, fuel price, type in the above fields the names of localities - FROM New-York-City,NY TO Lehi,UT and then press ENTER key or click on DISTANCE button.

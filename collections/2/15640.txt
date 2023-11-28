@@ -1,0 +1,1 @@
+1 Open the Wireless section of the router configuration page to set up your wireless network. Unless you have a specific reason, you should always choose WPA2 as the encryption method.  Create a strong password that contains letters, numbers, and symbols.

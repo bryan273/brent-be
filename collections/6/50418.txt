@@ -1,0 +1,1 @@
+In calculating the high-three, use basic salary only, with basic salary defined as compensation from which retirement deductions are taken – this would omit overtime, incentive awards, etc but would include locality pay. Also, each ending date for a salary is treated as starting date for the next salary.

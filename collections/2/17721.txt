@@ -1,0 +1,1 @@
+= stdev(A1:A6)/sqrt(n)…………………………….Formula 1. Where n = the number of replicates in your sample; don’t enter the letter n, enter the number of samples you took or refer to a cell in the spreadsheet that contains that information. Sqrt calculates the square root of whatever value you use to replace n in Formula 2.

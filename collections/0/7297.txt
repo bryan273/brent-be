@@ -1,0 +1,1 @@
+Both Can Run in a Browser. JavaScript runs on most modern browsers, and most websites take advantage of this to enhance the user’s experience. Java applets can also run in a browser, but they have been declining in popularity for various reasons, including compatibility and security.

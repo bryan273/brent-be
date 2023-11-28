@@ -1,0 +1,1 @@
+It read: Could not connect to Steam network. This could be due to a problem with your Internet connection, or with the Steam network. Please visit www.steampowered.com for more info. I tested my Internet connection and it worked just fine.

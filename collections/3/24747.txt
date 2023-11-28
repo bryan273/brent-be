@@ -1,0 +1,1 @@
+1 to display the site in Compatibility View. 2  Open Internet Explorer, select the Tools button , and then select Internet options. 3  Under Browsing history, select Delete.  In the Delete Browsing History dialog box, select the History check box, and then select Delete.

@@ -1,0 +1,1 @@
+The (activation / inhibition/ saturation) point of an enzyme is reached when all active sites have bound substrate molecules. When a noncompetitive inhibitor molecule binds to an (active/ allosteric) site on an enzyme, the shape of the active site changes so that the substrate molecules can no longer bind.

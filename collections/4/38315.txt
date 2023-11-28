@@ -1,0 +1,1 @@
+The underlying purpose of a JV is to create an audit trail, so that  weeks, months, or years later if a question arrises regarding a  transaction there is documented evidence and support for why a  transaction was posted or posted in the manner that it was posted.

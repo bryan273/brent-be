@@ -1,0 +1,1 @@
+The magnetic field at any given point is specified by both a direction and a magnitude (or strength); as such it is a vector field. The term is used for two distinct but closely related fields denoted by the symbols B and H, where H is measured in units of amperes per meter (symbol: A·m −1 or A/m) in the SI.

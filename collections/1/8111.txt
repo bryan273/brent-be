@@ -1,0 +1,1 @@
+The IP traffic will be flowing through the virtual interface (which is in turn tied to the subinterface (logical), which is in turn tied to the physical frame-relay interface. Kinda fun when you start piling things on that way. HTH, Scott.

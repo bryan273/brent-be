@@ -1,0 +1,1 @@
+Counting syllables. 1  a short vowel counts for one beat. 2  a long vowel for two beats, 3  a double consonant counts for one beat. 4  the nasal consonant n at the end of a syllable counts for a beat.

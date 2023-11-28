@@ -1,0 +1,1 @@
+Go to File > Open. If you're using Excel 2007, click the Microsoft Office Button , and then click Open. Select Text Files from the Open dialog box. Locate and double-click the text file that you want to open. If the file is a text file (.txt), Excel starts the Import Text Wizard.

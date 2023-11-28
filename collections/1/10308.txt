@@ -1,0 +1,1 @@
+Large differences between test results indicate that there are issues between your ISP and at least one other network. One test once won't say anything conclusive (the problem could be local to your home connection, or a brief issue, etc.).

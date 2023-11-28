@@ -1,0 +1,1 @@
+Spoon Studio 2011 is a software program developed by Code Systems. The most common release is 9.0.1549.2, with over 98% of all installations currently using this version. The primary executable is named Studio.exe. The setup package generally installs about 2 files.

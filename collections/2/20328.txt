@@ -1,0 +1,1 @@
+The supply of high-temperature heat first drives a gas or steam turbine-powered generator and the resulting low-temperature waste heat is then used for water or space heating as described in cogeneration. At smaller scales (typically below 1 MW) a gas engine or diesel engine may be used.

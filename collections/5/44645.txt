@@ -1,0 +1,1 @@
+MetCal (the “Meteorological Calculator”) is the GUI for the SPA as described in for more information about the archive. It is the interface that most new users of this package should become familiar with before they begin to work with the developer's interface (see Developers interface).

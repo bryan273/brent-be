@@ -1,0 +1,1 @@
+1 Unzip the file and place the contents on the Desktop. 2  Right-click on the icon you want to use and pin to the Taskbar. 3  Select Properties from the menu and move to the Shortcut tab. 4  The link to my chosen web browser program (Google Chrome) is in the Target and Start in fields.

@@ -1,0 +1,1 @@
+In psychological measurement and research design, there are four major scales of measurement used to talk about variables. A nominal scale includes variables where the order of the units does not matter. Ordinal scales consist of variables where the order matters, but the difference between the units does not matter.

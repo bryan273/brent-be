@@ -1,0 +1,1 @@
+Under the hood, Chrome is fitted with V8, a more powerful JavaScript engine that we built to run complex web applications with lightning speed.

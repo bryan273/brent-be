@@ -1,0 +1,1 @@
+Debian vs. Ubuntu: Governance and Community Debian is a community distribution, in which all those who have passed the tests to become a Debian maintainer and selective non-maintainers elect the project leader and vote in referendum on major policy issues.

@@ -1,0 +1,1 @@
+Derivative of the volume of a cube. #1. dunit909. I am asked to find the second derivative of the volume of a cube with respect to the length of a side. would my initial f(x)=x3/x ?? than just follow with the quotient rule to get f(2)(x)? Why do you have f(x) = x3/x = x2?

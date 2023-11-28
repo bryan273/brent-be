@@ -1,0 +1,1 @@
+Setting Up Device Name for Bluetooth Connection: 1  To be able to edit the settings for Bluetooth, you will have to turn it on first.You can turn on Bluetooth quickly by swiping down your finger from the status bar. 2  This will launch the Notification center. 3  Just tap on the Bluetooth icon to turn it on.

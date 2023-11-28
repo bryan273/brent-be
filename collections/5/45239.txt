@@ -1,0 +1,1 @@
+Reverse dictionaries were historically difficult to produce before the advent of the electronic computer, but have become more common since 1974, when the first computer sorted reverse dictionary was published: Stahl and Scavnicky's A Reverse Dictionary of the Spanish Language.

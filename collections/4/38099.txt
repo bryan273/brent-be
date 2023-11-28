@@ -1,0 +1,1 @@
+Beginner's Guide to Programming - guidetoprogramming.com. Most pages written by programmers are for programmers or people who understand their language. This page is for regular people interested in programming. When I had general questions about programming earlier in my career, I found few programmers who could easily and clearly answer my questions.

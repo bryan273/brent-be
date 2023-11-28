@@ -1,0 +1,1 @@
+This limit applies whether you are adding one large attachment that is greater than 20 megabytes (MB) or several attachments whose sum total size is greater than 20 MB. If you are using an Exchange Server account, the limit is controlled by your Exchange Server administrator.

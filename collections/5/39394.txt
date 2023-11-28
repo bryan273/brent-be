@@ -1,0 +1,1 @@
+After understanding the exponential function, our next target is the natural logarithm. Given how the natural log is described in math books, there’s little “natural” about it: it’s defined as the inverse of e^x, a strange enough exponent already.

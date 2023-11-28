@@ -1,0 +1,1 @@
+You may then have to quit and restart Excel to have the new shortcut take effect--you shouldn't have to, but I found it necessary on one Mac (but not on another). You can use this same technique to remap any other commands that may not appear in Excel's customization menu. Related: 1  Business Software.

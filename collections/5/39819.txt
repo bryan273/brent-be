@@ -1,0 +1,1 @@
+Tilt-table test. This test monitors the response of blood pressure and heart rate to changes in posture and position, simulating what occurs when you stand up after lying down. You lie flat on a table, which is then tilted to raise the upper part of your body.

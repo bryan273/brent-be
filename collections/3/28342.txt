@@ -1,0 +1,1 @@
+With a.class_foo, a is not bound to class_foo, rather the class A is bound to class_foo. Here, with a staticmethod, even though it is a method, a.static_foo just returns a good 'ole function with no arguments bound. static_foo expects 1 argument, and a.static_foo expects 1 argument too. And of course the same thing happens when you call static_foo with the class A instead.

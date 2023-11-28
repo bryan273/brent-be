@@ -1,0 +1,1 @@
+Accessing the Diagnostic Report. The Diagnostic Report can be accessed by clicking the Diagnostic Report (Detail) metric on either the Peer-to-Peer Session Detail Report in Skype for Business Server 2015 or the Conference Detail Report.

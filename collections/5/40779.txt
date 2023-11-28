@@ -1,0 +1,1 @@
+Higher utilization of available resources (VM): Service Fabric deploys primary and many secondary replicas on multiple nodes (VMs) and each VM can share multiple services. In PaaS 1.0, cloud services in the form of a worker or Web role used to take the whole VM, which was not an optimal use of computing resources.

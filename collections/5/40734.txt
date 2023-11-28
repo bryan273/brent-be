@@ -1,0 +1,1 @@
+In Windows 2000 and later versions of Solitaire, right-clicking on open spaces automatically moves available cards to the four foundations in the upper right-hand corner, as in Freecell. If the mouse pointer is on a card, a right click will move only that card to its foundation, provided that it is a possible move.

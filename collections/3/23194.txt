@@ -1,0 +1,1 @@
+The properties of inverse functions are listed and discussed below. 1  Only one to one functions have inverses. If g is the inverse of f then f is the inverse of g. 2  If f and g are inverses of each other then both are one to one functions. 3  f and g are inverses of each other if and only if. (f o g)(x) = x , x in the domain of g.

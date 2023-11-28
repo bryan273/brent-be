@@ -1,0 +1,1 @@
+Use the formula w = m x g to convert weight into mass. Weight is defined as the force of gravity on an object. Scientists put that sentence into an equation by writing w = m x g, or. w = mg. Since weight is a force, scientists also write the equation as F = mg.

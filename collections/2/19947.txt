@@ -1,0 +1,1 @@
+XML Parser. User Contributed Notes 3 notes. While this SAX event based parser is better for memory management than the tree based parsers of SimpleXML and DOM, the pull-based parser XMLReader is much easier to use than the xml_parser_* functions, and still doesn't require loading the file into memory.

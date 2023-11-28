@@ -1,0 +1,1 @@
+For example, if you had a few songs on your computer, and a few on your phone, and the ones on your phone were not on the computer, and the ones on your computer were not on the phone, then after a sync operation, the contents of your computer AND the phone is the combination of contents of both devices.

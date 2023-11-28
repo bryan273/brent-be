@@ -1,0 +1,1 @@
+1 Draw the resultant from the tail of the first vector to the head of the last vector. Label this vector as Resultant or simply R.  Using a ruler, measure the length of the resultant and determine its magnitude by converting to real units using the scale (4.4 cm x 20 m/1 cm = 88 m).

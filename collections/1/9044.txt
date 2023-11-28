@@ -1,0 +1,1 @@
+There can be: 1  Up to 80 stores in counties with a population of more than 700,000. 2  Up to 20 stores in counties with a population between 100,000 and 700,000. 3  Up to 4 stores in counties with a population between 55,000 and 100,000.  Up to 2 stores in counties with a population of fewer than 55,000.

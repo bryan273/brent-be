@@ -1,0 +1,1 @@
+How to Size Text in CSS. by Richard Rutter November 20, 2007 Published in Browsers, CSS, HTML, Layout & Grids, Typography & Web Fonts. There’s been a welcome resurgence of interest in web typography over the past year or so, with many articles and conference talks offering techniques and theory.

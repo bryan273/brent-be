@@ -1,0 +1,1 @@
+The default folder is the My Documents folder attached to your username in Windows 7, and the OneDrive folder in Windows 8.1. You can change this quite easily. Just use the Save As command and browse to your preferred folder and click Open. Notepad will remember your choice.

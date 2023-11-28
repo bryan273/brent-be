@@ -1,0 +1,1 @@
+Could u please help me out. How to compare date time in c#, I have two record in DB i.e. From_time(10 am) and To_Time(2 pm).Now i'm trying to find compare between 10am(small value) and 2 pm(Greater value), my code is as follow:-.ow to compare date time in c#, I have two record in DB i.e. From_time(10 am) and To_Time(2 pm).

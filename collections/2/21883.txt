@@ -1,0 +1,1 @@
+Healing skills should not be confused with skills in other skill slots that can heal — only the skills listed below qualify. This is especially true for traits and upgrade components which trigger on healing, referring to the use of dedicated healing skill.

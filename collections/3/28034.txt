@@ -1,0 +1,1 @@
+1 Reboot your computer. 2  Repeatedly hit F8 before the Windows logo appears. 3  Select Safe Mode with Networking from the Advanced Startup menu.  Click here for more detailed instructions on entering Safe Mode.

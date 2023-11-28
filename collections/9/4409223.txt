@@ -1,0 +1,1 @@
+Standard output (cout) On most program environments, the standard output by default is the screen, and the C++ stream object defined to access it is cout. For formatted output operations, cout is used together with the insertion operator, which is written as << (i.e., two less than signs).

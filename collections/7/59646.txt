@@ -1,0 +1,1 @@
+This section specifies the following: 1  The identification of the product (chemical name, supplier code, description, class, synonym and / or formulation) as used on the label. 2  The name, address, telephone number, emergency telephone number, and optional fax number or e-mail address.

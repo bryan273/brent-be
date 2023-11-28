@@ -1,0 +1,1 @@
+Frequentists posit that the probability of an event is its relative frequency over time, (3.4) i.e., its relative frequency of occurrence after repeating a process a large number of times under similar conditions. This is also known as aleatory probability.

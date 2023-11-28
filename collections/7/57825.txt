@@ -1,0 +1,1 @@
+Reports overdue and pending Locus/Calocus evaluations by clinician and/or facility. Data provided includes consumer name, date report was due, number of days past due, last assessment, clinician and consumer’s level of care.

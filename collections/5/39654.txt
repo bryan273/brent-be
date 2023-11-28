@@ -1,0 +1,1 @@
+Connect the negative end of the battery to the other negative end of the battery. Then test with the voltometer. Then test all the batteries in series. This is done by connecting one batteries positive side with the negative side of the other battery. Then test with the voltometer. Record and compare results.

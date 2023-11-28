@@ -1,0 +1,1 @@
+example 4 use the result of example 3 to find the average rate of change of from 3 to 6 solution the average rate function of change of from 3 to x is so the average rate of change of from 3 to 6 is a 6 9 3 3

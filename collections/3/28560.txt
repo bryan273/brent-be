@@ -1,0 +1,1 @@
+Based on information and supporting documentation provided in the referral, OAQ manually inputs basic information about the Respondent into SDCMS such as the Respondent’s name and address, Data Universal Numbering System (DUNS) number, whether the case is procurement related, and other relevant information.

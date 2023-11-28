@@ -1,0 +1,1 @@
+main method is static in Java, so that it can be called without creating any instance. While JVM tries to execute Java program it doesn't know how to create instance of main class as there is no standard constructor is defined for main class.

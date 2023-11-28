@@ -1,0 +1,1 @@
+Since MSA loan limits are based on the median house price in the highest-priced county in the MSA, if the highest-priced county leaves an MSA, the loan limits for that MSA can drop dramatically.

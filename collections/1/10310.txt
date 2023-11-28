@@ -1,0 +1,1 @@
+This test uses Measurement Lab (M-Lab) infrastructure and code. M-Lab is a research and industry coalition dedicated to open Internet measurement and public data. Running this test contributes valuable data to the public domain. These data are critical for protecting your rights.

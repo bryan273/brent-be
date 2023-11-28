@@ -1,0 +1,1 @@
+I wanted to change the PIN, but ended up bricking it. As used by Tracfone: A PIN always refers to the SIM Card Pin. And hey: there is no way to get that unless you call the carrier. It can not be displayed on the phone. Security Code however, is what I wanted to change. The default is: “0000” – and I didn’t want that.

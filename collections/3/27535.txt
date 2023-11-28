@@ -1,0 +1,1 @@
+Density is defined as mass per unit volume; it has the SI unit kg·m -3 and is an absolute quantity. Specific gravity is the ratio of a material's density with that of water at 4 °C (where it is most dense and is taken to have the value (*) 999.974 kg·m -3) and is therefore a relative quantity with no units.

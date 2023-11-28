@@ -1,0 +1,1 @@
+n the ratio (expressed as a percentage) of the absorbed dose at a given depth in an irradiated body, to the absorbed dose at a fixed reference point on the central ray, usually the surface-absorbed dose.

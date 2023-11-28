@@ -1,0 +1,1 @@
+In computer cryptography, a key is a long sequence of bits used by encryption and decryption algorithms. An encryption algorithm takes the original un-encrypted message, and a key like the above, and alters the original message mathematically based on the key's bits to create a new encrypted message.

@@ -1,0 +1,1 @@
+Vertical partitioning divides a table into multiple tables that contain fewer columns. Normalization is the standard database process of removing redundant columns from a table and putting them in secondary tables that are linked to the primary table by primary key and foreign key relationships.

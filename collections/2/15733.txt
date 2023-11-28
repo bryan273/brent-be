@@ -1,0 +1,1 @@
+State Annual and Seasonal Time Series. The graphics presented here depict historical temperature averages for U.S. states since 1895. They are derived from the current U.S. Climate Division Database (nClimDiv), which has been used in climate monitoring at NCEI since March 2014.

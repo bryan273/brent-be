@@ -1,0 +1,1 @@
+A Windows virtual machine is a type of software emulation that allows you to run a fully functional copy of the Windows operating system on a machine in which that copy is not actually installed.... Read More ». http://www.ehow.com/how_6824596_switch-mode-virtual-machine-windows.html.

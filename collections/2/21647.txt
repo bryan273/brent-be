@@ -1,0 +1,1 @@
+Product Rule. If the two functions f(x) and g(x) are differentiable (i.e. the derivative exist) then the product is differentiable and, The proof of the Product Rule is shown in the Proof of Various Derivative Formulas section of the Extras chapter.

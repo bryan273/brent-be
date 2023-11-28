@@ -1,0 +1,1 @@
+REGIONS BANK Routing Number : 074014213: Telegraphic name : UNION PLANTERS. IN: City : INDIANAPOLIS: State : IN: Funds transfer status : eligible: Funds settlement-only status : Book-Entry Securities transfer status : ineligible: Date of last revision (YYYYMMDD) 20050811

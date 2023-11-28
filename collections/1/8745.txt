@@ -1,0 +1,1 @@
+Hi all, Can anybody let me know,what is the transaction code to display Transfer Order Created with respect to delivery. Thanks in Advance.

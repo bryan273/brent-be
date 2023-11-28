@@ -1,0 +1,1 @@
+To do this, you’ll need thumbnails from the videos you want to suggest, and you’ll want to place those thumbnails on an image that is the same resolution as your video. Add that image to the end of your video, and then in YouTube, use the spotlight annotation to link each of the thumbnails to the corresponding videos on YouTube.

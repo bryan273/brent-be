@@ -1,0 +1,1 @@
+t-Test. Papers Introduction to the t-Test (University of Leicester) Describes the conditions that must be met in order to use of the test.Z-test and t-test are basically the same, they compare between two means to suggest whether both samples come from the same population.

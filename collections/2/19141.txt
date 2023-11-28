@@ -1,0 +1,1 @@
+The eDiscovery Manager system requires the following hardware. The eDiscovery Manager server is supported in a VMWare ESXi Version 3.5 virtual machine environment. The eDiscovery Manager server requires one of the following operating systems, depending on the hardware platform. Requires IBM C Compiler V9.0.0.1 or later.

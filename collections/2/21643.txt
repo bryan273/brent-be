@@ -1,0 +1,1 @@
+Note that the numerator of the quotient rule is very similar to the product rule so be careful to not mix the two up! The proof of the Quotient Rule is shown in the Proof of Various Derivative Formulas section of the Extras chapter. Let’s do a couple of examples of the product rule. Example 1 Differentiate each of the following functions.

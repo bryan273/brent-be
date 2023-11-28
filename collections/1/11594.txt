@@ -1,0 +1,1 @@
+A custom button is a push button that you can add to the Google Toolbar that can have custom navigation, search, send and update capabilities. Notably, a custom search button can use most any website's search engine, not just Google's.

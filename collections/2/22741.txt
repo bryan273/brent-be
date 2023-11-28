@@ -1,0 +1,1 @@
+A funny thing happens when you look for a product key in Windows 10 after doing the free upgrade: You won’t find them. In Windows 10, utilities like Magical Jelly Bean KeyFinder or Belarc Advisor return generic product keys instead of authentic ones.

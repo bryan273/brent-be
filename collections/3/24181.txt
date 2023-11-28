@@ -1,0 +1,1 @@
+Although Sitemaps are mainly used to improve the index process of your website by search engines, they can be used to provide accessibility to certain pages as well. For example, pages that are not accessible via your menus, can be indexed by the search engine if you want.

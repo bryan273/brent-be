@@ -1,0 +1,1 @@
+Examples of expenses that are are commonly accrued include: 1  Interest on loans, for which no lender invoice has yet been received. 2  Goods received and consumed or sold, for which no supplier invoice has yet been received. 3  Services received, for which no supplier invoice has yet been received.

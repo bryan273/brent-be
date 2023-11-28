@@ -1,0 +1,1 @@
+Most of the time you are running your JavaScript in a web browser and there the JavaScript is usually interpreted. Now interpreted languages are usually slower than compiled languages. There are two reasons for this.

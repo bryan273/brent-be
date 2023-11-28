@@ -1,0 +1,1 @@
+For example, if you reduce pump rotational speed by one half -- flow is halved, head is reduced by three quarters, and power is reduced by seven eighths. Instead of a pressure or flow switch, a pressure transducer is used to control the drive and, ultimately, the output of the pump.

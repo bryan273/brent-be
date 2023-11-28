@@ -1,0 +1,1 @@
+From time-to-time, our system might experience bugs or glitches that affect the accuracy or correct application of mathematical algorithms. We will do our best to update the site if we are made aware of any malfunctioning or misapplication of these algorithms.

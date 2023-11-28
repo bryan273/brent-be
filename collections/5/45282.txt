@@ -1,0 +1,1 @@
+Finally I could fix the problem after installing latest driver for the device from dell website. 1  Go to //www.dell.com/support/home/us/en/04/product-support/product/latitude-e7450-ultrabook/drivers/advanced. 2  Click on ‘Find it myself’ tab. 3  Go to ‘security’ drivers.  Download latest software for ‘Dell ControlVault Driver’.

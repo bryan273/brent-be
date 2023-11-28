@@ -1,0 +1,1 @@
+Overview of T-tests. Essentially, a t-test is used to compare two samples to determine if they came from the same population. Whenever we draw a sample from the population, we can reasonably expect that the sample mean will deviate from the population mean a little bit.

@@ -1,0 +1,1 @@
+For example, to display a Chart for Apple enter AAPL. And to display side-by-side charts for Apple and Facebook enter AAPL,FB. If you are ensure of a Symbol Id, enter some of the company name in the box, Eg Apple, and click 'Search'.

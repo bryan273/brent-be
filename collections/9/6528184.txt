@@ -1,0 +1,1 @@
+Changes from the 1994 AECC definition. the term acute lung injury was abandoned. measurement of the PaO2/FIO2 ratio was changed to require a specific minimum amount of PEEP. 3 categories of ARDS were proposed (mild, moderate, and severe) based on the PaO2/FIO2 ratio. Radiographic criteria were changed to improve interrater reliability.

@@ -1,0 +1,1 @@
+The domain maximum password age is determined by the value of the maxPwdAge attribute. Only the domainDNS object that represents the domain in Active Directory has this attribute. The syntax is Integer8, also called LargeInteger. The value is a 64-bit integer representing time intervals in 100-nanosecond ticks.

@@ -1,0 +1,1 @@
+We know that for any level flight (not climbing) the amount of lift must be equal to the weight of the aircraft, thus if all up weight is lower then the amount of lift required is less too. To calculate the new stall speed: Vs new = Vs old weight x √(new weight / old weight).

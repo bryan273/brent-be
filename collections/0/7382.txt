@@ -1,0 +1,1 @@
+Sine wave inverters with more than three steps in the wave output are more complex and have significantly higher cost than a modified sine wave, with only three steps, or square wave (one step) types of the same power handling.

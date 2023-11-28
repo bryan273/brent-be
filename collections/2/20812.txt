@@ -1,0 +1,1 @@
+Physicists tell us that the escape velocity on our planet Earth is some seven miles per second. To find out the escape velocity on the Moon, we first must know the Moon's mass in relation to Earth's (1/81 = 0.012) and the Moon's radius in comparison with Earth's (1080 miles/3960 miles = 0.273).

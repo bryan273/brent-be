@@ -1,0 +1,1 @@
+Drawing It. Here is one way to draw a rectangle with the Golden Ratio: Draw a square (of size 1) Place a dot half way along one side. Draw a line from that point to an opposite corner (it is √5/2 in length) Turn that line so that it runs along the square's side.

@@ -1,0 +1,1 @@
+Toshiba HDD/SSD Alert allows you to carefully monitor the status your disks are having as well as create backup copies to prevent all your data get lost if your hardware gets broken. TOSHIBA HDD/SSD Alert supervises the Disk Drive operating status status and warns the user if a hardware failure is expected to happen.

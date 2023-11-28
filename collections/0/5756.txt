@@ -1,0 +1,1 @@
+Chats History more than seven days old are a little bit more complicated to restore. Here are how to restore whatsapp chat history. Go to the Database folder within the SD card on your smartphone – the exact location of that backup files is /sdcard/WhatsApp/Databases.

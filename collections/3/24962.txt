@@ -1,0 +1,1 @@
+In This Section. Explains partitioned tables and indexes, and the benefits of partitioning. Explains the partitioning scripts that can be run against the AdventureWorks2008R2 sample database to implement a partitioning design, and the benefits of this design in a real-world scenario.

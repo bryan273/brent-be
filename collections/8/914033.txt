@@ -1,0 +1,1 @@
+Dial star 60 (*60). You will receive instructions for call blocking, and you need to follow the prompts to add a new number to your block list, add the last number that dialed you to your block list, remove a number from your block list, or edit/change a number on your block list.

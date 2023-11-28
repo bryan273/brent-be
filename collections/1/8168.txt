@@ -1,0 +1,1 @@
+Then create a Mat object that will store the data of the loaded image. Now we call the function which loads the image name specified by the first argument (argv[1]). The second argument specifies the format in what we want the image. This may be: 1  CV_LOAD_IMAGE_GRAYSCALE (0) loads the image as an intensity one.

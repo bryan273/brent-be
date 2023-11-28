@@ -1,0 +1,1 @@
+Syllable counter for a haiku, tanka, sonnet, limerick, other poems & lyrics. Shows the syllable count, synonyms, rhymes, and syllable stress. H o w M a n y S y ll a bl e s

@@ -1,0 +1,1 @@
+4. Right-click on the Normal.dot file and choose Rename.. Type in a name like OldNormal.dot or Normalold.dot.. 5. Open Word. The program will recreate the Normal.dot file based on its default settings.

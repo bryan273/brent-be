@@ -1,0 +1,1 @@
+Where the X's ('X-bar-one' and 'X-bar-two') are the means of the two independent samples (hence this is called an independent-samples t-test), the 's' represents the standard deviation for each group, and the N's each represent the respective sample sizes of each group.

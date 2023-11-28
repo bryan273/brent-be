@@ -1,0 +1,1 @@
+Launch your Web browser and navigate to the Facebook website. If you see your Facebook page with the language in Spanish, it means you are still logged in, but the language setting has been changed. Click the Espanol link at the bottom of the page. A dialog box appears.

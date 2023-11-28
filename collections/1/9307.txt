@@ -1,0 +1,1 @@
+Plankalkül (Plan Calculus) Konrad Zuse begins work on Plankalkül (Plan Calculus), the first algorithmic programming language, with the goal of creating the theoretical preconditions for the solution of general problems. Seven years earlier, Zuse had developed and built the world´s first binary digital computer, the Z1.

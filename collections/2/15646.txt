@@ -1,0 +1,1 @@
+Most routers have the default information printed on a sticker affixed to the router. 1  Open the Wireless section of the router configuration page to set up your wireless network. 2  Create a strong password that contains letters, numbers, and symbols.  While you are configuring the router, change the login information.

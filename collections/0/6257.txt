@@ -1,0 +1,1 @@
+Effects of Temperature Temperature usually is ignored in liquid flow calculations because its effect is too small. Temperature has a greater effect on gas flow calculations, because gas volume expands with higher temperature and contracts with lower temperature.

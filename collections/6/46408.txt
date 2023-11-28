@@ -1,0 +1,1 @@
+Windows Vista and later provide a Control Panel to configure update settings and check for updates. The Windows Update Control Panel also has the function of downloading Windows Ultimate Extras, optional software for Windows Vista Ultimate Edition.

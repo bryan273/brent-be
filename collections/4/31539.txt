@@ -1,0 +1,1 @@
+A GPU is a type of APU for graphics. A PPU is a type of APU for physics. A GPU might even one day become another APU just for the GPU, specialized for realtime raytracing or Sparse_voxel_octrees. There are manufacturers that will produce a customized APU optimized for what you want it to do.

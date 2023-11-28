@@ -1,0 +1,1 @@
+In this example, overdrive is accomplished by usingthe 90-tooth gear to turn the 30-tooth gear. This increasesspeed three times but cuts torque to one-third.With automatic transmissions, on the other hand, gearselection decisions are made by an automatic control sys-tem.

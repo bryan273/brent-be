@@ -1,0 +1,1 @@
+Notes on opening a cd to see its contents: 1  You can experiment and try to open a cd drive. Put a disc in your cd drive and then go to my computer and try to open the cd to see its contents.  If you open the wrong cd drive nothing will happen, just close that and open the correct one.

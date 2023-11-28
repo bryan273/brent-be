@@ -1,0 +1,1 @@
+http://www.whatisdifferencebetween.com/technology/what-is-the-difference-between-mos-dslr-cmos-and-ccd.html. I used to work in semiconductors and technically, MOS and CMOS are names given by that industry to detail what the substrate the semiconductor is made on. The above breaks it down in layman's terms.

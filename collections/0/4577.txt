@@ -1,0 +1,1 @@
+By averaging all 6 values, we can estimate that an average European Swallow flies at cruising speed with a frequency of roughly 15 beats per. second, and an amplitude of roughly 22 cm. Last month’s article on The Strouhal Number in Cruising Flight showed how simplified flight waveforms that graph amplitude versus.

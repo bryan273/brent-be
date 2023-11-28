@@ -1,0 +1,1 @@
+These examples show how to manually add a check column to allow web-style multiple row selection. End-users can select/deselect rows, group rows or select/deselect all rows by clicking the column header. Changing a check box value does not initiate row editing. These examples are based on the A371 article.

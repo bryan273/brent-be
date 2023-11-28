@@ -1,0 +1,1 @@
+Cities. Travelmath provides a database of major and local cities around the world. You can find the latitude and longitude of any world city, and check the city distance by comparing the flight distance between cities with the driving distance to see how far two cities are from each other.

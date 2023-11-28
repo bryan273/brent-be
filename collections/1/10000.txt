@@ -1,0 +1,1 @@
+Network switches, functions & role in networks. 1  1. 2  Network Switches: Functions & Role in NetworksA network switch or switching hub is a computer networking device that connectsmultiple computers together within one local area network (LAN).

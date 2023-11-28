@@ -1,0 +1,1 @@
+This policy allows us to add and remove items at the end without moving any of the other items in the stack. 1  Fixed-length array implementation of a stack of strings. ArrayStackOfStrings.java implements this approach for a stack of strings whose maximum capacity is specified by the argument to the constructor.

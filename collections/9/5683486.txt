@@ -1,0 +1,1 @@
+T-s diagram of a Combined gas (Brayton)- steam (Rankine) cycle. Numerical example: - Simple Brayton efficiency: 36.8% - Simple Rankine efficiency: 35% - Combined Brayton and Rankine cycles: 56.4% Fig.8.26. Difference between gas turbine (left) and steam turbine (right) blades.

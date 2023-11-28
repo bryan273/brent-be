@@ -1,0 +1,1 @@
+NCSA - Computer Definition. (1) (National Center for Supercomputing Applications, Urbana-Champaign, IL, www.ncsa.uiuc.edu) A high-performance computing facility located at the University of Illinois at Urbana-Champaign.

@@ -1,0 +1,1 @@
+A gene with incomplete penetrance is not always expressed even when the trait it produces is dominant or when the trait is recessive and present on both chromosomes. If half the people with a gene show its trait, its penetrance is said to be 50%.

@@ -1,0 +1,1 @@
+Log File Formats. Web Site Analyzer can use the information in HTTP, FTP, and other server log files to analyze a site. The log file formats that Web Site Analyzer can analyze include the following: NCSA (Common or Access, Combined, and Separate or 3-Log) W3C Extended (used by Microsoft IIS 4.0 and 5.0)

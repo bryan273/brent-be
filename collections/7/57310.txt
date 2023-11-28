@@ -1,0 +1,1 @@
+The City of Bethlehem uses an independent third party tool to provide automated language translation. As with any machine translation, the conversion is not context-sensitive and may not fully translate text into its intended meaning.

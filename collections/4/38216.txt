@@ -1,0 +1,1 @@
+1. Pressure is defined as force per unit area that a fluid exerts on its surroundings. You can measure this force by detecting the amount of deflection on a diaphragm positioned inline with the fluid. Given the known area of the diaphragm, pressure can then be calculated. Pressure sensors are packaged with a scale that provides a method to convert to engineering units.

@@ -1,0 +1,1 @@
+The resistance depends on the specific type of metal we're dealing with. E.g., the friction in silver is much less than it is in iron. The greater the distance an electron can travel without bumping into an ion core, the smaller is the resistance, i.e., the greater is the electrical conductivity.

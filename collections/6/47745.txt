@@ -1,0 +1,1 @@
+AWS Key Management Service is a fully managed service, so you can focus on the encryption needs of your applications while AWS handles availability, physical security, and hardware maintenance of the underlying infrastructure. Learn more ».

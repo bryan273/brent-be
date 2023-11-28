@@ -1,0 +1,1 @@
+An Approved Scanning Vendor (ASV), for example, is a service provider that is certified and authorized by the Payment Card Industry (PCI) to scan payment card networks. Vulnerability scans are also used by attackers looking for points of entry.

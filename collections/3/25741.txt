@@ -1,0 +1,1 @@
+Required Reading. My typical pattern when reviewing a security product line is to start with the standalone antivirus and then summarize the antivirus review as part of my review of the full security suite. If there's an even bigger mega-suite in the mix, I summarize the entry-level suite review.

@@ -1,0 +1,1 @@
+So we generally have either Fast-Slow-Fast-Fast or Fast-Fast-Slow-Fast. There are also different types of Key-schemes through the symphony. A good example of a classical key-scheme would be the 1st, 3rd and 4th movements are in the tonic key, but the 2nd movement and the trio of the 3rd movement are in the subdominant.

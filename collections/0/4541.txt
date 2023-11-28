@@ -1,0 +1,1 @@
+We've been describing fees in a way that really is nonsense. We ought to look at fees not in terms of assets, but as a percentage of the incremental returns of a fund -- how much extra return you can expect over a comparable index fund. Think of the 7% expected long-term returns of stocks. A 1.5% fund expense ratio is a big fraction of that 7%.

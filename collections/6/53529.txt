@@ -1,0 +1,1 @@
+Step 5: You can also change the size of the letters. Next to the font box near the top of the screen, you’ll find another box containing a number (’11′ in this example). As you did with the font box arrow, click the arrow in this box. A drop-down list appears that consists of numbers. These are the numbers of ‘points’ that letters are measured in.

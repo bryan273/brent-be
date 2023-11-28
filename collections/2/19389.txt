@@ -1,0 +1,1 @@
+So for Newton, the force of gravity acting between the earth and any other object is directly proportional to the mass of the earth, directly proportional to the mass of the object, and inversely proportional to the square of the distance that separates the centers of the earth and the object.

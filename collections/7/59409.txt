@@ -1,0 +1,1 @@
+In specular reflection the phase of the reflected waves depends on the choice of the origin of coordinates, but the relative phase between s and p (TE and TM) polarizations is fixed by the properties of the media and of the interface between them.

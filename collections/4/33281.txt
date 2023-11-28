@@ -1,0 +1,1 @@
+A hygrometer is an easy to use tool for measuring the amount of humidity in the atmosphere. There are two main types of hygrometers – a dry and wet bulb psychrometer and a mechanical hygrometer.

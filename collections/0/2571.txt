@@ -1,0 +1,1 @@
+If your Exchange Server is configured to use the default limit, you receive this error message if the sum total of the attachments is greater than 10 MB (10240 KB). Only your Exchange Server administrator can change this limit.

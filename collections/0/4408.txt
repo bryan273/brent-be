@@ -1,0 +1,1 @@
+1 Control systems can operate in places that humans would find dangerous or awkward.  Outputs [output: the term denoting either an exit or changes which exit a system and which activate/modify a process ] are consistent and error free.

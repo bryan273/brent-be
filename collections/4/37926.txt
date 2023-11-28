@@ -1,0 +1,1 @@
+It was too bad that the New Simple Volume, New Spanned Volume, New Stripped Volume, New Mirrored Volume, New RAID-5 Volume greyed out so that you cannot create new partition with this unallocated space.

@@ -1,0 +1,1 @@
+AB ≅ CB (CPCTC).REF: 081335ge 5 ANS: 3 Perpendicular line segments form right angles; 6 If two parallel lines are cut by a transversal, the alternate interior angles are congruent; 8 AAS; 9 CPCTCREF: 060229b 6 ANS: AC ≅ EC and DC ≅ BC because of the definition of midpoint. ∠ ACB ≅∠ ECD because of vertical angles.

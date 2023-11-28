@@ -1,0 +1,1 @@
+Configuring Virtual Interfaces. Virtual interfaces are software-based interfaces that you create in the memory of the networking device using Cisco IOS commands. Virtual interfaces do not have a hardware component such as the RJ-45 female port on a 100BASE-T Fast Ethernet network interface card.

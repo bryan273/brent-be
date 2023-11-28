@@ -1,0 +1,1 @@
+This update is basically a preparement for what will be one of the last big feature updates to Prometheus, of course aside of bug fixes and maybe small features here and there. The long awaited Prometheus v2 has been cancelled, and we explain why as well as detailing the next update at the link below:

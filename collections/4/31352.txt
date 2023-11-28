@@ -1,0 +1,1 @@
+TimeZone specifies the time zone of the computer. The time zones that are specified in Windows System Image Manager are not localized. They are always in English in the registry. The Multilingual User Interface Pack (MUI) resource name for the time zone is localized, which is what is displayed to the user.

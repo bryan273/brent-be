@@ -1,0 +1,1 @@
+Wavelength and frequency. Light is measured by its wavelength (in nanometers) or frequency (in Hertz). One wavelength equals the distance between two successive wave crests or troughs. Frequency (Hertz) equals the number of waves that passes a given point per second.

@@ -1,0 +1,1 @@
+This is a .dll of SuperAntiSpyware. After undeleting the app, three files are left behind and virtually imossible to delete (other two are: SASWINLO.dll, SASCTXMN.DLL) Mark Johnson. It is a antispyware program.

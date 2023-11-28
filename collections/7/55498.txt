@@ -1,0 +1,1 @@
+If you remove the negative clamp and inadvertently complete a circuit to ground, there will be no current flow because the ground clamp is already grounded. Subsequent shorting of the positive terminal to ground will then produce no current flow because the current has no return path to the negative post.

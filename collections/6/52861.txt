@@ -1,0 +1,1 @@
+expand search to ancestral names. 1  the meaning is anything from the name's write-up that is surrounded by double quotes. 2  separate search terms with spaces. 3  search for an exact phrase by surrounding it with double quotes example: lord of the rings will match names from the novel 'The Lord of the Rings'.

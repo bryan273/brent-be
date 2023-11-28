@@ -1,0 +1,1 @@
+Enter numbers that represent the bins you want to group values into. Make a selection the same size as the range that contains bins, or one greater if want to include the extra item. Enter the FREQUENCY function as an array formula using Control+Shift+Enter.

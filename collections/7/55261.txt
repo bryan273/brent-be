@@ -1,0 +1,1 @@
+Define DNS server. Another configuration parameter possible to be set by DHCP server to its client is a definition of DNS server. If you want your clients to use DNS server with an IP address 8.8.8.8 and 10.1.1.1 you can do it by including an option domain-name-servers to DHCP's configuration file.

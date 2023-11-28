@@ -1,0 +1,1 @@
+EtG can be detected by our assay system at levels even below 100 ng/ml, but we build in a “margin of safety” so that at 100 ng/ml we are very certain that EtG is present, indicating even small amounts of drinking.

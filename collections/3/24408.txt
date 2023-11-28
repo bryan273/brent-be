@@ -1,0 +1,1 @@
+Unlike the ISO standard sizes which have the single aspect ratio of 1:root2, ANSI standard sizes have two aspect ratios 1:1.2941 and 1:1.5455 which means that enlarging and reducing between the sizes is not as easy as with the ISO sizes and leaves wider margins on the enlarged/reduced document.

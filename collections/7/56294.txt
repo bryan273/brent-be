@@ -1,0 +1,1 @@
+The beam in the cavity and the output beam of the laser, when travelling in free space (or a homogeneous medium) rather than waveguides (as in an optical fiber laser), can be approximated as a Gaussian beam in most lasers; such beams exhibit the minimum divergence for a given diameter.

@@ -1,0 +1,1 @@
+LME Aluminium Contract specifications Every metal traded on the LME must conform to strict specifications regarding quality, lot size and shape. Each LME tradeable contract is likewise governed by rules covering (but not limited to) prompt dates, settlement terms, traded and cleared currencies and minimum tick size.

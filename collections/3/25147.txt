@@ -1,0 +1,1 @@
+An OS is the main system software that allows your device to run. It determines how everything on the screen is laid out and how your device functions. It also gives you access to apps that are designed for your device's OS.

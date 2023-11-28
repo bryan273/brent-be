@@ -1,0 +1,1 @@
+1 A change in fan speed as the refrigerator responds to changes in temperature due to door opening. 2  A clicking/tic toc noise can be heard when the defrost timer switches on and off.  A click can be heard when the temperature control unit turns the unit on and off.

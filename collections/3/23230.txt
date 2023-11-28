@@ -1,0 +1,1 @@
+hi team t24 release t24 r11 the total assets and total liabilities in the gl report does not match i generated the mismatch report but it is showing nil differences is there any way to trace the differences so that i can make the total assets and total liabilites equal can someone give me a quick resolution to resolve this issue

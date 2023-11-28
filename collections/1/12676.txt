@@ -1,0 +1,1 @@
+However, we also cover it under the title SPP Inventory Balancing on this post. http://www.scmfocus.com/sapplanning/2009/04/23/inventory-balancing-in-spp/. _________________________________________. Integration to CRM. CRM is the reservoir for demand, however, and CRM has more data than SAP ERP.

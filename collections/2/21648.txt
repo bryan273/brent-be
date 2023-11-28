@@ -1,0 +1,1 @@
+Let’s now work an example or two with the quotient rule. In this case, unlike the product rule examples, a couple of these functions will require the quotient rule in order to get the derivative.

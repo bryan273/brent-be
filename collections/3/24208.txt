@@ -1,0 +1,1 @@
+The mklink command is used to create a symbolic link. It is a built-in command of cmd.exe in Windows Vista and later. In XP, junction utility by Mark Russinovich is capable of working with reparse points, now offered by Microsoft as a part of Sysinternals suite.

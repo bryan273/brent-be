@@ -1,0 +1,1 @@
+To choose website fonts. 1  Open Internet Explorer, select the Tools button and select Internet options. 2  Select the General tab, and then, under Appearance, select Fonts. 3  Select the fonts you want to use, select OK, and then select OK again.

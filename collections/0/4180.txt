@@ -1,0 +1,1 @@
+Step 3: Open Sign-in options and tap the Change button under Password. Step 4: Enter current user password and tap Next. Step 5: Type a new password, re-type it, input password hint and click Next. Step 6: Choose Finish to complete changing user password.

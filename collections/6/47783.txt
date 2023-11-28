@@ -1,0 +1,1 @@
+The irrationals, however, are NOT such a system. If you multiply the two irrationals 2*pi and 1/pi together you get the result 2, which not only is not irrational, it is a natural or counting number. The set of irrationals is not even closed with respect to addition. Example: (pi- 1) + (6-pi) equals 5.

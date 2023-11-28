@@ -1,0 +1,1 @@
+Using the splice() Method to Remove Array Elements. The script below removes array elements, and displays the splice() method's return value, and the original array. The splice() method above will delete 3 elements from our original array, starting with the third element (Array[2]).

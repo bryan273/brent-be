@@ -1,0 +1,1 @@
+Under normal circumstances, the temperature of the air is a few degrees cooler than the coolant. If the sensor is bad and displays a temperature higher than the coolant level, the engine-control unit reduces the fuel flow, resulting in a lean operating condition that decreases fuel economy.

@@ -1,0 +1,1 @@
+The original type of television tuner, which has been the standard for converting analog OTA signals since the 1940’s, is the NTSC tuner. By September of 2011, virtually every major conventional television station in Canada will have ceased to broadcast analog OTA signals making the NTSC tuner inside your television obsolete.

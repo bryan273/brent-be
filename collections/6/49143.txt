@@ -1,0 +1,1 @@
+Multiply the DPS by the number of shares. When you know the number of shares of company stock you own and the company's DPS for the most recent recent time period, finding the approximate amount of dividends you will earn is easy. Simply use the formula D = DPS multiplied by S, where D = your dividends and S = the number of shares you own.

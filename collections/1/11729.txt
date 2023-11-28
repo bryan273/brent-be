@@ -1,0 +1,1 @@
+When FileVault is turned on, your Mac always requires that you log in with your account password. 1  Choose Apple menu () > System Preferences, then click Security & Privacy. 2  Click the FileVault tab. 3  Click the Lock button, then enter an administrator name and password.  Click Turn On FileVault.

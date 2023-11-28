@@ -1,0 +1,1 @@
+So the vectors produced to span the kernel by this method are always a basis for the kernel, and the dimension of the kernel = number of free variables in solving AX = 0. In getting a basis for the image one wants to pick out certain columns.

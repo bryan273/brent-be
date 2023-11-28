@@ -1,0 +1,1 @@
+Austenite grain size contributes to the strength and fatigue life of steel. A larger austenite grain size is correlated to a decrease in fatigue strength. Therefore, uncharacteristically large prior austenite grains may exist within the failed component. In order to determine the optimal grain size for this application,

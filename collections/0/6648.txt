@@ -1,0 +1,1 @@
+If the product backlog has 300 story points, and the team is averaging 30 story points per sprint, it can be estimated that team members will require 10 more sprints to complete work. If each sprint lasts two weeks, then the project will last 20 more weeks.

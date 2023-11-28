@@ -1,0 +1,1 @@
+Electric motors can be powered by alternating (AC) current or direct current (DC) . DC motors were developed first and have certain advantages and disadvantages. Each type of motor works differently but they all use the power of the electromagnetic field.

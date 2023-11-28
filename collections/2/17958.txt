@@ -1,0 +1,1 @@
+The DNS Check in Pingdom Tools will check your DNS health and help you find errors, and verify that you domain name has been set up correctly.

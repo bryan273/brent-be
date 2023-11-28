@@ -1,0 +1,1 @@
+It is placed in the network; the cables are plugged in; the unit is turned on and there is nothing else to do. In contrast, for large company networks, a managed switch can be configured to adjust speeds, combine users in subgroups, monitor traffic and report network activity. See virtual LAN, SNMP, spanning tree protocol and Ethernet.

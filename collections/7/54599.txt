@@ -1,0 +1,1 @@
+The format is binary and consists of four sections: 1  The lead, which identifies the file as an RPM file and contains some obsolete headers. 2  The signature, which can be used to ensure integrity and/or authenticity. 3  The header, which contains metadata including package name, version, architecture, file list, etc.

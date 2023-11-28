@@ -1,0 +1,1 @@
+Open the tools menu in your browser. Select the option or tab named “Internet Options (Internet Explorer)”, “Options (Firefox)”, “Preferences (Safari)” or “Settings (Chrome)”. Look for a box or option labeled “Home Page (Internet Explorer, Firefox, Safari)” or “On Startup (Chrome)”.

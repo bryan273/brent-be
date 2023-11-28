@@ -1,0 +1,1 @@
+Part 1: Change user password on Windows 10. 1  Step 1: Enter PC settings. 2  Step 2: Select Users and accounts. 3  Step 3: Open Sign-in options and tap the Change button under Password.  Step 4: Enter current user password and tap 1  Next. Step 5: Type a new password, re-type it, input password hint and click Next.

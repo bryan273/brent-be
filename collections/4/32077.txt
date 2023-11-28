@@ -1,0 +1,1 @@
+Understanding power handling Part 1 - Thermally limited power handling (the only one quoted by all the other manufacturers!) There's a lot of misinformation and worry about matching amps and cabs and most of this worry is totally unnecessary.

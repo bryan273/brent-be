@@ -1,0 +1,1 @@
+Also, the second argument to openssl is not an encryption type but a subcommand, to tell it what kind of action to take. For example, manupulation of X.509 certificates, manipulation of keys, signing, encryption, certificate generation, message digest calculation, etc... – Celada Mar 25 '13 at 16:20.

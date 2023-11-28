@@ -1,0 +1,1 @@
+The resolution of ultrasound is actually quite good compared to CT and MRI. The slice thickness is a function of the quality of the probe but can be a mm or two. The resolution changes over the field of view do to focusing. The highest resolution is at the location of the best focusing.

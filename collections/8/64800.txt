@@ -1,0 +1,1 @@
+To add audio to your Place, while there are a number of creative ways our builders can use sound, to simply insert an audio file, do the following: 1  Find a sound (or upload one) on the website and get the asset ID, which is the number at the end of the URL.  Open ROBLOX Studio and open a place in Edit Mode.

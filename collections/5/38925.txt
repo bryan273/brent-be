@@ -1,0 +1,1 @@
+EUR (or €) is the measuring unit. In English, ‘EUR’ (or the euro sign ‘€’) is placed before the figure, separated by a (non-breaking) space, e.g. EUR 30. In French and German the order is reversed, e.g. 30 EUR. Note also that English uses the singular of terms such as million if they relate to a currency such as EUR 10 million.

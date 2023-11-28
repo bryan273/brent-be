@@ -1,0 +1,1 @@
+E. 12 month Loss of Business Income (100% coinsurance) $. F. Maximum amount of months it should take you to get back into operation x. If 6 months, use .5 (50% coinsurance); 12 months, use 1.00 (100% coinsurance); 18 months, use 1.5 (150% coinsurance), etc.

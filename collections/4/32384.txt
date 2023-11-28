@@ -1,0 +1,1 @@
+NPI: 1326241589 National Provider Indentifier (NPI) The 10-position all-numeric identification number assigned by the NPPES to uniquely identify a health care provider. Provider Name: DR. RAMON E. SANCHEZ M.D.,M.P.H. Provider Location Address: MEDICAL PAVILLION SUITE#11 SAN JUAN, PR 00910 Provider location address

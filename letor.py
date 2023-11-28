@@ -5,10 +5,9 @@ import math
 from tqdm import tqdm
 
 class LETOR:
-    def __init__(self, ranker_path, model_path, data_path):
+    def __init__(self, ranker_path, data_path):
         self.ranker = Ranker()
         self.ranker.load_model(ranker_path, type="lgbm")
-        self.ranker.load_model(model_path, type="lsi")
 
         self.data_preparator = DataPreparator()
         self.data = DataPreparator.load_from_pickle(data_path)
@@ -60,11 +59,10 @@ if __name__ == "__main__":
     if 'testing' in section:
         # memuat model ranker, testing data, dan file qrels (yang berisi <qid,doc> yang relevan).
         ranker_path = "lgbr_base.txt"
-        model_path = "lsi_base.model"
         data_path = r'pickle\test_data.pkl'
         qrel_path = r"qrels-folder\test_qrels.txt"
 
-        letor = LETOR(ranker_path, model_path, data_path)
+        letor = LETOR(ranker_path, data_path)
         qrels = letor.data_preparator.read_qrels_test(qrel_path)
 
         data = letor.data
@@ -121,6 +119,9 @@ if __name__ == "__main__":
             df_letor = pd.concat([df_letor, df_letor_loop], ignore_index=True)
             df_bsbi = pd.concat([df_bsbi, df_bsbi_loop], ignore_index=True)
 
+        print("Mean NDCG Score for Letor:", sum(ndcgs_letor) / len(ndcgs_letor))
+        print("Mean NDCG Score for BSBI:", sum(ndcgs_bsbi) / len(ndcgs_bsbi))
+        
         # Save df_letor to a CSV file
         df_letor.to_csv('df_letor.csv', index=False)
 

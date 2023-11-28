@@ -1,0 +1,1 @@
+tossmartsrv.exe runs as a service under the name TOSHIBA HDD SSD Alert Service with extensive SYSTEM privileges (full administrator access).

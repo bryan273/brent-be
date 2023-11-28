@@ -1,0 +1,1 @@
+1 Endocrine action: the hormone is distributed in blood and binds to distant target cells. 2  Paracrine action: the hormone acts locally by diffusing from its source to target cells in the neighborhood. 3  Autocrine action: the hormone acts on the same cell that produced it.

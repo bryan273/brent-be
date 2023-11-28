@@ -1,0 +1,1 @@
+For example: 1  There is probably a computer controlling the automatic transmission. 2  If the car has anti-lock brakes, there is a computer reading the wheel speed and controlling the brakes. 3  Many air bag systems have their own computers.  A car with keyless entry or a security system has a computer for these systems.

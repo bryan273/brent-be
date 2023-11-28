@@ -1,0 +1,1 @@
+Click the icon you want to add to the taskbar. This icon can be from the Start menu or from the desktop. Drag the icon to the Quick Launch toolbar. If you cannot see the Quick Launch toolbar, then follow these steps: Right-click the taskbar, select Toolbars and select the Quick Launch option.

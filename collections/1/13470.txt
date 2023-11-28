@@ -1,0 +1,1 @@
+Because transmittance inherently decreases logarithmically, linearity breaks down at. higher concentrations due to sample saturation (Figure 3). Since the transmitted light at 2.0Au is less than. 1%, any increases in concentration will reflect only slight changes in absorbance.

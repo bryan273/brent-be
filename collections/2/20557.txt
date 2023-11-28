@@ -1,0 +1,1 @@
+Using the splice() Method to Remove Array Elements. The script below removes array elements, and displays the splice() method's return value, and the original array. (We use the join() method to display all original array elements separated by a space.)

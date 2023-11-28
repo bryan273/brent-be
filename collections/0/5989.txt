@@ -1,0 +1,1 @@
+Copper capacitive sensors can be implemented on standard FR4 PCBs as well as on flexible material. ITO allows the capacitive sensor to be up to 90% transparent (for one layer solutions, such as touch phone screens). Size and spacing of the capacitive sensor are both very important to the sensor's performance.

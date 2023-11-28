@@ -1,0 +1,1 @@
+Diesel particulate matter, as specified by US EPA procedures, is determined by gravimetric analysis from a PM sample obtained by filtering diluted diesel exhaust at a temperature of 47°C ± 5°C. Similar sampling temperatures are specified by a number of other standards and regulations worldwide.

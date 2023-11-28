@@ -1,0 +1,1 @@
+If the patient is admitted to the general surgery service for observation, codes 99218–99220 are reported for the first day of observation. For subsequent observation services, performed on a date other than the initial day of observation care, CPT codes 99224–99226 should be reported.

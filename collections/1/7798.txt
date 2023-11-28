@@ -1,0 +1,1 @@
+What is the difference between the JRE and the Java SE platform? JRE (Java Runtime Environment) Java SE(Java Platform, Standard Edition) Who needs it? Computer users who run applets and applications written using Java technology Software developers who write applets and applications using Java technology What is it?

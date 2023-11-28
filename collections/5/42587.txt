@@ -1,0 +1,1 @@
+When listing items one by one, one per line, following a colon, capitalization and ending punctuation are optional when using single words or phrases preceded by letters, numbers, or bullet points. If each point is a complete sentence, capitalize the first word and end the sentence with appropriate ending punctuation.

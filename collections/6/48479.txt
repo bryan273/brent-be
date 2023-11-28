@@ -1,0 +1,1 @@
+Strictly speaking, TCP works in segments that are encased in IP packets. The maximum size of an IP packet is the minimum size of the Maximum Transmission Unit (MTU) along the entire packet path. Typically that's 1500B, or ~9000B. From that, subtract off the IP header and options, if any. Then subtract off the TCP header and options, if any.

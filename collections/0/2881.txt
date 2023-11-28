@@ -1,0 +1,1 @@
+by admin. Discrete vs Continuous Data. Data is the most salient entity in statistics as it is necessarily the “study of the collection, organization, analysis, and interpretation of data”. The numerical data used in statistics fall in to two main categories. They are discrete data and continuous data.

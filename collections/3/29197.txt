@@ -1,0 +1,1 @@
+The Hardware-assisted virtualization (HAV) detection tool checks if the computer processor supports HAV and if this setting is enabled.

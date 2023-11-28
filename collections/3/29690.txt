@@ -1,0 +1,1 @@
+1 “If you kick the bale, it should hurt your foot.”.  Follow drive directional arrows on the baler monitor to make sure hay is fed consistently across the width of the bale chamber so bales have square shoulders. This helps round bales shed moisture, and improves stacking attributes of square bales.

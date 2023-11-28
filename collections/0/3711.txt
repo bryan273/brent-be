@@ -1,0 +1,1 @@
+Edit a linked or embedded object. 1  To select the object you want, press Tab or Shift+Tab. 2  To open the shortcut menu, press Shift+F10. 3  To select Worksheet Object, press the Down Arrow key until it's selected. 4  To select Edit, press the Right Arrow key and then press Enter.

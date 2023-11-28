@@ -1,0 +1,1 @@
+Native Command Queuing Native Command Queuing (NCQ) is a technology designed to improve performance and reliability as the transactional workload increases on SATA hard disk drives.

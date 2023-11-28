@@ -1,0 +1,1 @@
+Follow these simple steps: 1  Step 1: Launch Microsoft Excel in your system. 2  Step 2: Click the File tab > Open. 3  Step 3: Locate the corrupt excel file and select it. 4  Step 4: Before Excel can attempt to repair the file and open it, you need to select the action: 5  Step 5: Within a few seconds, the file will be repaired.

@@ -1,0 +1,1 @@
+Projects attached to the current article target earlier versions of DevExpress controls, which did not provide the built-in checkbox column for multiple row selection. These examples show how to manually add a check column to allow web-style multiple row selection.

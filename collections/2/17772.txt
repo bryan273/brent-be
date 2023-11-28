@@ -1,0 +1,1 @@
+1 REVIEW: 2  Connecting batteries in series increases voltage, but does not increase overall amp-hour capacity. 3  All batteries in a series bank must have the same amp-hour rating. 4  Connecting batteries in parallel increases total current capacity by decreasing total resistance, and it also increases overall amp-hour capacity.

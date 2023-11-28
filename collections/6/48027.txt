@@ -1,0 +1,1 @@
+Feature datasets can contain feature classes as well as the following types of datasets: 1  Attachments. 2  Feature-linked annotation. 3  Geometric networks. 4  Network datasets. 5  Parcel fabrics. 6  Relationship classes. 7  Terrains. 8  Topologies.

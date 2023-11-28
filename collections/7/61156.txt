@@ -1,0 +1,1 @@
+The SAS System converts date, time and datetime values back and forth between calendar dates and clock times with SAS language elements called formats and informats. 1  Formats present a value, recognized by SAS, such as a time or date value, as a calendar date or clock time in a variety of lengths and notations.

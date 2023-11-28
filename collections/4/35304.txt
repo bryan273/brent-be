@@ -1,0 +1,1 @@
+You can organize these scripts by creating subfolders under the Scripts folder in your database project. When you open any one of these additional scripts in the Transact-SQL editor, you can connect to your database server and execute all or part of that script.

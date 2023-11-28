@@ -1,0 +1,1 @@
+Detailed Water Temperature Statistics for Myrtle Beach, SC. Box and Whisker statistical plot. Colored boxes indicate the 25th through 75th percentiles, with the red/blue center of each box indicating the mean (average) value.

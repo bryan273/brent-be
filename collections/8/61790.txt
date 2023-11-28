@@ -1,0 +1,1 @@
+Compost is an item used most commonly with the Farming skill. While not as effective as supercompost, it reduces the chance of a player's crops becoming diseased while growing throughout the plant cycle, as well as increasing the minimum and maximum number of crops that will be received by the player upon harvest.

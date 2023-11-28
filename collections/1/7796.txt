@@ -1,0 +1,1 @@
+Distributed freely and is available from: java.com Distributed freely and is available from: oracle.com/javase What is the difference between the JRE and the JDK? JRE (Java Runtime environment) JDK(Java Development Kit) It is an implementation of the Java Virtual Machine* which actually executes Java programs.

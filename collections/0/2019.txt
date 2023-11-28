@@ -1,0 +1,1 @@
+If more than one OS image is available for installation, the user has a choice of which OS to install. Note that you can configure the RIS server to limit the OS images the user can see. For more information on restricting OS image access, see the section Restricting OS Image Options below.

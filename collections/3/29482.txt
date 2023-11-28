@@ -1,0 +1,1 @@
+Summary. 1  The electromotive force (EMF) is the maximum potential difference between two electrodes of a galvanic or voltaic cell. 2  The standard reduction potential of Mn+, 1 M / M couple is the standard cell potential of the galvanic cell: Pt | H2, 1 atm | H+, 1 M || Mn+, 1 M | M.

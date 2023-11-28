@@ -1,0 +1,1 @@
+Current weather for 3,000 airports in the world overlayed on map. Global IR Satellite provides worldwide cloud cover displayed on the map, refreshed every 60 minutes. Global Radar provides worldwide areas of precipitation on the map, refreshed every 30 minutes.

@@ -1,0 +1,1 @@
+A bid tells the owner how much money they should expect to pay the construction management company in order for them to complete the project. 1  Open bid: An open bid is used for public projects. 2  Closed bid: A closed bid is used for private projects.

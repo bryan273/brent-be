@@ -1,0 +1,1 @@
+Notice that the definition of a square is a combination of the definitions of a rectangle and a rhombus. Therefore, a square is both a rectangle and a rhombus, which means that the properties of parallelograms, rectangles, and rhombuses all apply to squares. Because squares have a combination of all of these different properties, it is a very specific type of quadrilateral.

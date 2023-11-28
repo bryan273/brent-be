@@ -1,0 +1,1 @@
+A fab is a facility that produces its own silicon wafers. A fabless facility is one that outsources the production of silicon wafers. Fabless companies focus on the design and development of their products.

@@ -1,0 +1,1 @@
+Some ranges of census tract numbers in the 2010 Census are used to identify distinctive types of census tracts. The code range in the 9400s is used for those census tracts with a majority of population, housing, or land area associated with an American Indian area and matches the numbering used in Census 2000.

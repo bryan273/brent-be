@@ -1,0 +1,1 @@
+The A dimension is for the sign nearest the transition or point of restriction. The B dimension is for the next sign upstream of the transition or restriction. The C dimension is for the first sign (in a three-sign series) that the driver encounters in a temporary traffic control zone.

@@ -1,0 +1,1 @@
+Magnitude and Intensity measure different characteristics of earthquakes. Magnitude measures the energy released at the source of the earthquake. Magnitude is determined from measurements on seismographs. Intensity measures the strength of shaking produced by the earthquake at a certain location.

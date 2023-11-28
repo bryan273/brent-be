@@ -1,0 +1,1 @@
+For example, a vehicle that depreciates over 5 years is purchased at a cost of $17,000, and will have a salvage value of $2000. Then this vehicle will depreciate at $3,000 per year, i.e. (17-2)/5 = 3. This table illustrates the straight-line method of depreciation. Book value at the beginning of the first year of depreciation is the original cost of the asset.

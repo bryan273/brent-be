@@ -1,0 +1,1 @@
+#1 Excel tutorial on the net. You can convert your Excel file to an XML data file, or vice versa. This enables you to exchange data between different applications. First, turn on the Developer tab. Here's the data we want to convert to an XML data file. First, we will create a schema based on XML source data.

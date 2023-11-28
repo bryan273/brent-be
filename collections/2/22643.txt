@@ -1,0 +1,1 @@
+How to Print Screen to a File on the Desktop in Mac OS X. The basic functionality of taking a screen shot of a window or desktop in Mac OS X takes an complete image capture of the desktop and all open windows and running apps and dumps it to a unique file on the Mac desktop.

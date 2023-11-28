@@ -1,0 +1,1 @@
+Network switches, functions & role in networks. 1  1. 2  2. 3  3. between WAN routers as places for analytic modules. 4  4. links so that the resulting local area network is a tree without loops. 5  5. addressing information is stored. 6  6. 7  7. device and its switch port.

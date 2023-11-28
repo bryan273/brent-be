@@ -1,0 +1,1 @@
+You might also look up the options for sudo and decide on a sudo set up altogether different from Ubuntu's and Debian's defaults. Debian's packages are divided into three main categories: Unstable, Testing, and Stable. A new package enters stable, and transfers into Testing when it has been debugged.

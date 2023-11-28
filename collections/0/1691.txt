@@ -1,0 +1,1 @@
+1 Unit rate-this is the price you will pay per unit (kWh) of energy, so it can fluctuate depending on how much energy you use. Standing charge-this is a fixed amount that you are charged each day, regardless of how much gas or electricity you use. 2  Unit rate-this is the price you will pay per unit (kWh) of energy, so it can fluctuate depending on how much energy you use.

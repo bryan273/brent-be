@@ -1,0 +1,1 @@
+to block or allow cookies in internet explorer select the tools button and then select internet options select the privacy tab and under settings move the slider to the top to block all cookies or the bottom to allow all cookies and then select ok

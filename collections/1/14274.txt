@@ -1,0 +1,1 @@
+Click a cell in the list range. Using the example, click any cell in the range A6:C10. On the Data tab, in the Sort & Filter group, click Advanced. Do one of the following: To filter the list range by hiding rows that don't match your criteria, click Filter the list, in-place.

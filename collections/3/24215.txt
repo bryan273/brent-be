@@ -1,0 +1,1 @@
+Under Windows, you can use the command mklink [flag] [source] [destination] to create a symbolic link to a directory. You must use the /j flag if you’re dealing with directories, the /h flag if you’re dealing with a file, or /d to essentially create a soft link/shortcut.

@@ -1,0 +1,1 @@
+Do a file system backup of the Oracle Express database files (*.db). Always backup the system databases with user databases as they contain catalog information about them. These system databases are very small and can be found in subdirectories below $OLAP_HOME/oes630/.

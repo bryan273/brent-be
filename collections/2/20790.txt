@@ -1,0 +1,1 @@
+Examples of reflection. Plane wave, plane surface. The phase of the reflected sound waves from hard surfaces and the reflection of string waves from their ends determines whether the interference of the reflected and incident waves will be constructive or destructive.

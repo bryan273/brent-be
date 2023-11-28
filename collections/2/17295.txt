@@ -1,0 +1,1 @@
+Operations Management Suite (OMS) is a cloud-based IT management solution released by Microsoft to help your organization manage cloud workloads running across cloud platforms – including AWS, Windows Server, Linux, VMware and OpenStack – and help protect your on-premise and cloud infrastructure.

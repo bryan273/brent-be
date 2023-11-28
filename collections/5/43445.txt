@@ -1,0 +1,1 @@
+Classification of pancreatic cancer. Pancreatic cancer is categorized depending on whether it affects the exocrine or endocrine functions of the pancreas. There is an important distinction between the two broad types of pancreatic cancer because they have different risk factors, causes, symptoms, diagnostic tests, treatments, and prognoses.

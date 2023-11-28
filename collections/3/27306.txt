@@ -1,0 +1,1 @@
+1 ^1 The element does not have any stable nuclides, and a value in brackets, e.g. [209], indicates the mass number of the longest-lived isotope of the element.

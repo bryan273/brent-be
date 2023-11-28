@@ -1,0 +1,1 @@
+A soft return or soft wrap is the break resulting from line wrap or word wrap (whether automatic or manual), whereas a hard return or hard wrap is an intentional break, creating a new paragraph. With a hard return, paragraph-break formatting can (and should) be applied (either indenting or vertical whitespace).

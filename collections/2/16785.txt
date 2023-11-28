@@ -1,0 +1,1 @@
+1 The same current flows through each part of a series circuit. 2  The total resistance of a series circuit is equal to the sum of individual resistances. 3  Voltage applied to a series circuit is equal to the sum of the individual voltage drops.

@@ -1,0 +1,1 @@
+Common problems switching to AHCI under Linux 1  : AHCI controller does not work on AMD/ATI RS400-200 and RS480 HBA when MSI is enabled due to a hardware error. In order for AHCI to work users must provide the “pci=nomsi” kernel boot parameter. 2  AHCI controller on AMD/ATI SB600 HBA can’t do 64-bit DMA transfers.

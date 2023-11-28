@@ -1,0 +1,1 @@
+Additional resources. 1  Project Luxorion lists, with detailed descriptions, all of the frequencies allocated for radio astronomy. 2  NASA's Mission: Science website discusses microwaves. 3  Hackaday.com shows how to make the electronics for a Doppler motion sensor.

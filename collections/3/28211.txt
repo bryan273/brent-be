@@ -1,0 +1,1 @@
+DO: Give appropriate permissions to users and groups who will use the new file share. DO NOT: Enable host side compression unless a T600 or T500 is used and there are enough resources to accomplish the extra. overhead. DO: Use Tintri VM-consistent snapshots to ensure proper backup of user’s data.

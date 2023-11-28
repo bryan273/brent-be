@@ -1,0 +1,1 @@
+OneNote Web App opens the notebook directly in your OneNote desktop application, where you can work more substantially — for example, if you want to use audio notes or customize note tags. Your changes are automatically saved on the web server.

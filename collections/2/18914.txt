@@ -1,0 +1,1 @@
+1 Give your crossword puzzle a name. 2  Then, make a word list with an answer and a clue on each line. 3  For example, “superman: man of steel”. 4  Press “Make My Crossword Puzzle!” to generate a crossword puzzle using as many of the clues as possible.

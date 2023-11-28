@@ -1,0 +1,1 @@
+Join this session and learn how to quickly and easily achieve high scale apps by using a combination of Azure Traffic Manager and multiple App Service Environment deployments within a single Azure region.

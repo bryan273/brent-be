@@ -1,0 +1,1 @@
+The SSID itself is a 32-character string (the characters can be anything a computer can type, such as a letter, number, symbol, punctuation mark, and even a blank space). A wireless network can be either hidden or broadcast. If the SSID is broadcast, then anyone can find that network and hop on.

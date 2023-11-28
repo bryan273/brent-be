@@ -1,0 +1,1 @@
+A character style is a collection of character formatting attributes that can be applied to text in a single step. A paragraph style includes both character and paragraph formatting attributes, and can be applied to a paragraph or range of paragraphs. Paragraph styles and character styles are found on separate panels.

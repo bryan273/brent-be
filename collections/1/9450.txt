@@ -1,0 +1,1 @@
+PoP = C × A {\displaystyle {\text{PoP}}=C\times A}. 1  C = the confidence that precipitation will occur somewhere in the forecast area. 2  A = the percent of the area that will receive measurable precipitation, if it occurs at all.

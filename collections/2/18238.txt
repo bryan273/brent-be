@@ -1,0 +1,1 @@
+The speed of sound in the atmosphere is a constant that depends on the altitude, but an aircraft can move through the air at any desired speed. The ratio of the aircraft's speed to the speed of sound affects the forces on the aircraft.

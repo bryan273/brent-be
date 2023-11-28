@@ -1,0 +1,1 @@
+While .NET Core 5 and CoreCLR support is a future option, enterprises can prepare for it today by developing ASP.NET 5 services on top of .NET 4.x on Service Fabric. Doing so will make it easier to migrate to the CoreCLR in the future.

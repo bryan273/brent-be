@@ -1,0 +1,1 @@
+1 Upload in Progress. 2  Upload failed. 3  Please upload a file larger than 100x100 pixels. 4  We are experiencing some problems, please try again. 5  You can only upload files of type PNG, JPG, or JPEG. 6  You can only upload files of type 3GP, 3GPP, MP4, MOV, AVI, MPG, MPEG, or RM.

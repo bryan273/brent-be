@@ -1,0 +1,1 @@
+With this change, any payment made after the payment due date is now considered late, typically resulting in a late fee and in some cases when occurring repeatedly, a delinquency added to the consumer's credit report.

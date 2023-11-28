@@ -1,0 +1,1 @@
+File and personal geodatabases, which are freely available to all ArcGIS users (i.e., users of ArcView, ArcEditor, and ArcInfo), are designed to support the full information model of the geodatabase. This includes topologies, raster catalogs, network datasets, terrain datasets, address locators, and so on.

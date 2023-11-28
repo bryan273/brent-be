@@ -1,0 +1,1 @@
+In geometrical optics, a focus, also called an image point, is the point where light rays originating from a point on the object converge. Although the focus is conceptually a point, physically the focus has a spatial extent, called the blur circle.

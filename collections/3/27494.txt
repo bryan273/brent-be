@@ -1,0 +1,1 @@
+Perimeter is the distance around a two dimensional shape, a measurement of the distance around something; the length of the boundary. A perimeter is a path that surrounds a two-dimensional shape. The term may be used either for the path or its length—it can be thought of as the length of the outline of a shape. The perimeter of a circle or ellipse is called its circumference.

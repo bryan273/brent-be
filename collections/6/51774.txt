@@ -1,0 +1,1 @@
+You will first divide 1 kg by 2.2 lbs and then multiply that number by the value you in pounds you are trying to convert. 1  Example: Say you want to convert 4 pounds into kilograms. 2  You would first divide 1 kg by 2.2 lbs which equals .45. 3  Then multiply .45 by 4 which equals 1.81. 4  Therefore 4 pounds equals 1.81 kilograms.

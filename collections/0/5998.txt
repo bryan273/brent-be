@@ -1,0 +1,1 @@
+Unlike resistive touch screens, capacitive screens do not use the pressure of your finger to create a change in the flow of electricity. Instead, they work with anything that holds an electrical charge – including human skin.

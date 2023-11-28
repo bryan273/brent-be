@@ -1,0 +1,1 @@
+The DNS check will automatically find out which DNS servers are used by the domain name you specify, then perform a number of tests on them to make sure that the domain name is properly set up and that those DNS servers are responding in a consistent and correct manner.

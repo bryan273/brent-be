@@ -1,0 +1,1 @@
+Your estimate summary. For each type of coverage involved in your estimate, there is a summary section that shows the total estimated costs (RCV and ACV) and net claim amount for the coverage type. The example to the right depicts a Dwelling coverage summary: The sum of all the line items for that particular coverage. The total RCV of all items for that coverage.

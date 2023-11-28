@@ -1,0 +1,1 @@
+Radiology Information System (RIS) The Radiology module is an electronic web-based application designed with high flexibility and ease of usage, implemented in single clinics and polyclinics. RIS is a complete management system that handles all the business functions from patient management, diagnosis and reporting, to inventory control.

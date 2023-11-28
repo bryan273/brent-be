@@ -1,0 +1,1 @@
+Reference (computer science) In computer science, a reference is a value that enables a program to indirectly access a particular datum, such as a variable or a record, in the computer's memory or in some other storage device.

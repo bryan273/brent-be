@@ -1,0 +1,1 @@
+NSCCL has also devised mechanism to handle various exceptional situations like security shortages, bad delivery, company objections, auction settlement etc. Clearing is the process of determination of obligations, after which the obligations are discharged by settlement.

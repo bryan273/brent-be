@@ -1,0 +1,1 @@
+Chemistry determines the cell voltage (1.2V or 1.5V and there are others like Lithium at 3.0V), whether the battery is rechargeable, and how the voltage changes as the battery discharges i.e. at what voltage is the battery considered to be flat or fully charged. Switched mode power supplies. One more point.

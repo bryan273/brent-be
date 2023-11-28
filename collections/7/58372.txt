@@ -1,0 +1,1 @@
+What is the difference between SSL and HTTPS? Main difference between SSL and HTTPS is that SSL is a cryptographic protocol, while HTTPS is protocol created combining HTTP and SSL. But, sometimes, HTTPS is not identified as a protocol per se, but a mechanism that merely uses HTTP over encrypted SSL connections. In other words, HTTPS uses SSL to create a secure HTTP connection.

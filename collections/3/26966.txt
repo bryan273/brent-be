@@ -1,0 +1,1 @@
+What is Spoon Sandbox Manager? up vote 1 down vote favorite. When ever I check Task Manager or Process Explorer, I always see this exe in Task Manager spoon-sandbox.exe and there is always more than one instance running at any given time. I found that it is located at C:\Program Files\Spoon\3.20.0.8. There are 11 folders with different versions ( 3.xx.y.z).

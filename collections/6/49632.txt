@@ -1,0 +1,1 @@
+Accuracy. 1  Note: Fractional results are rounded to the nearest 1/64. 2  Note: You can increase or decrease the accuracy of this answer by selecting the number of significant figures required from the options above the result. 3  Note: For a pure decimal result please select 'decimal' from the options above the result.

@@ -1,0 +1,1 @@
+Example: multicomponent distillation with shortcut methods. Consider a single distillation column as shown in Fig. 6-1. Short-cut methods. have been developed that allow you to see the splits that can be achieved at different. pressures, with different reflux ratios, and with a different number of stages. It is often.

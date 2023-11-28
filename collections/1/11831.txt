@@ -1,0 +1,1 @@
+Here are the model numbers of the two devices: Netgear WN2500RP extender receiving 2 ghz and transmitting 5 ghz. Ultimately good results, with no less than 2 Mbps anywhere in the apartment, usually 6-12. AT&T router- NVG589 It's an n router and it's WPS light is quickly blinking red.

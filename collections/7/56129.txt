@@ -1,0 +1,1 @@
+Examples of Health Plans include health insurance companies, HMOs, company health plans, Medicare, and Medicaid. In addition, employers and schools that handle PHI in order to enroll their employees and students in health plans fall under the definition of a Health Plan and need to be HIPAA compliant.

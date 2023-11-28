@@ -1,0 +1,1 @@
+Open Enterprise Server (OES) is a server operating system designed for shared network resources and a virtualization computing environment. Open enterprise server, a product of Novell, is a combination of Netware and Suse Linux enterprise server and can be installed like any of the two depending upon the installation.

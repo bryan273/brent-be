@@ -1,0 +1,1 @@
+System Requirements Lab Detection is a software program developed by Husdawg. The most common release is 1.0.5.0, with over 98% of all installations currently using this version. The setup package generally installs about 8 files and is usually about 612 KB (626,688 bytes).

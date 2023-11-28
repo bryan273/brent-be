@@ -1,0 +1,1 @@
+In frequentist statistics, the p-value is a function of the observed sample results (a test statistic) relative to a statistical model, which measures how extreme the observation is.

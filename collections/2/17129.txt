@@ -1,0 +1,1 @@
+In Excel, you can use a formula to combine a row of cells or a column of cells into a single cell. Please do as follows: Combine cells based on row or column into one with space. Step 1. Typing the formula = A1& &B1& &C1 into a blank cell, and press Enter button on the keyboard. See screenshot:

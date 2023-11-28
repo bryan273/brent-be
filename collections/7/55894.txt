@@ -1,0 +1,1 @@
+The MELD score, which we have been using for the past several years, is calculated by taking the patient’s most recent bilirubin, creatinine, and INR, which is then entered into the computer and calculated. Theoretically, the MELD score can arrange in values between 5 and 40.

@@ -1,0 +1,1 @@
+Next, we look at the average age of NHL team rosters during the 2015‑16 regular season. Analysis only takes into account players who are part of the current roster: If a player is traded to another team, he is excluded from the average age of the old team and added to the age of the new team.

@@ -1,0 +1,1 @@
+C: 273K When you are finding the value of temperature  Celsius in Kelvin, add 278k to the Celsius temperature to obtain  the value of Kelvin.

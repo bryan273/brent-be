@@ -1,0 +1,1 @@
+Auxillary Power Unit (APU) and Ground Power Unit (GPU) is used to mostly to assist the aircraft engines to start. They supply air to Air driven Motor. The motor is mechanically connected to the high pressure compressor assembly of the engine. This starts the engines.

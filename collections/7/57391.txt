@@ -1,0 +1,1 @@
+How do ant communicate with one another? They communicate with each other by touching their antennae with one another. If red ants come upon another ant they do so to tell if they are from the same nest.

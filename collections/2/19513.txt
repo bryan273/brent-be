@@ -1,0 +1,1 @@
+1) If you are using a USB cable with your device, check the cable to make sure it matches the speed of the device. Use USB 2.0 cables with USB 2.0 devices and USB 1.1 cables with USB 1.1 devices. Swap cables and check the device, if this does not work, proceed to Step 2.

@@ -1,0 +1,1 @@
+On VMware machines I have Linux installed and now I want to connect to these VMs from host Windows using SSH. I am unable to do so. Are there any specific settings in order to make this work ? Thanks in advance.

@@ -1,0 +1,1 @@
+The right click allows you to quickly change the view of the browser by hiding or unhiding your toolbars. Consider customizing your tool bars. Firefox's upper right corner settings menu offers a Customize option which allows you to drag and drop various shortcut icons into your browser window.

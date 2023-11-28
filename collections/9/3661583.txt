@@ -1,0 +1,1 @@
+The goal of the program is to reduce the workload on your pancreas by learning which foods keep your blood sugar in balance. This is achieved by monitoring your blood glucose levels four to six times each day after eating and recording the results in comparison with your food selections.

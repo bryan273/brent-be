@@ -1,0 +1,1 @@
+1 Cosubstrates are coenzymes that bind tightly to a protein, yet will be released and bind again at some point. 2  Prosthetic groups are enzyme partner molecules that bind tightly or covalently to the enzyme (remember, coenzymes bind loosely). While cosubstrates bind temporarily, prosthetic groups permanently bond with a protein.

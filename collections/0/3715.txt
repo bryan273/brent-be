@@ -1,0 +1,1 @@
+Use these shortcuts to enable the use of a pen or pointer during your presentation: 1  To enable Pen, press CTRL + P. 2  To enable Laser, press CTRL + L. 3  To enable Arrow, press CTRL + A. 4  To enable Highlighter, press CTRL + I. 5  To erase notes made with pen or highlighter, press CTRL + E. 6  To hide pointer, press CTRL + H.

@@ -1,0 +1,1 @@
+Tip: If you want to merge the cell values based on column, you just need to enter this formula = A1& &A2& &A3& &A4 in adjacent blank cell that you want to get the result. Then do as the above steps, you will get the following results: Combine cells based on row or column into one with commas.

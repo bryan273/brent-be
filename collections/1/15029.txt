@@ -1,0 +1,1 @@
+MSE 2090: Introduction to Materials Science Chapter 5, Diffusion 3. Interdiffusion (or impurity diffusion)occurs in. response to a concentration gradient. Self-diffusion is diffusion in one-component material, when all atoms that exchange positions are of the same. type.

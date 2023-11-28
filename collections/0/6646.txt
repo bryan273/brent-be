@@ -1,0 +1,1 @@
+Velocity. By far the single most important word to any Agile team. Whether you are currently practicing Agile, looking to adopt within your organization or trying to achieve your Agile Nirvana, understanding Velocity is fundamental to achieving success with Agile. Beyond a basic understanding, it’s important that you learn how to measure, influence and improve upon it.

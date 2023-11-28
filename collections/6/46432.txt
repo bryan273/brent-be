@@ -1,0 +1,1 @@
+I went into local policy (gpedit.msc) and set the Turn Off Encryption Support option for Internet Explorer to SSL 3.0, TLS 1.0, TLS 1.1, and TLS 1.2 in both the Computer and User Settings. Neither one of these settings was set until this point.

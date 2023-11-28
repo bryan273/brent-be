@@ -1,0 +1,1 @@
+As I stated initially NSCA is “sort of the reverse” of NRPE and the diagram above illustrates the process by which Nagios receives the check results. 1  NSClient++ decides it is time to run checks. 2  NSClient++ gathers all results. 3  NSClient++ connect to NSCA (server) and sends all results.  NSClient++ goes back to sleep.

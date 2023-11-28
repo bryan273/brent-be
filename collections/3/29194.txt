@@ -1,0 +1,1 @@
+1 Install Instructions. 2  Download the application (havdetectiontool.exe) to your local machine. 3  There is only one installer for both 32 bit and 64 bit machines. 4  Double click on the application and follow the prompts. 5  Note: The tool requires administrator privileges. 6  Refer to the User Guide for more details.

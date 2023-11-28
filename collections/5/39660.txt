@@ -1,0 +1,1 @@
+That means overall, your supply must be between 2.7 and 3.5V so you would probably choose 3.0V e.g. two series connected AA batteries. As the battery starts to go flat, the voltage will decrease and when it gets to around 2.7V the first electronic component might start to operate incorrectly.

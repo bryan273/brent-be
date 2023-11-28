@@ -1,0 +1,1 @@
+In Boolean searching, an and operator between two words or other values (for example, pear AND apple) means one is searching for documents containing both of the words or values, not just one of them.

@@ -1,0 +1,1 @@
+It looks like the product key is on its way out, at least as far as users are concerned. After installation, your version of Windows 10 should just activate in the background in a few moments or a few days at the most. You can check your activation status by going to Settings > Update & Security > Activation.

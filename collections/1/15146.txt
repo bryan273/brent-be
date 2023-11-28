@@ -1,0 +1,1 @@
+The p-value helps us to know what is the likelihood or probability that the randomness in sampling would lead to difference in sample means as large as observed, even if the populations have the same means. Thus, it really is a probability, with a value ranging from zero to one.

@@ -1,0 +1,1 @@
+The smaller the sample size for an experiment, the less applicable the results will be to the general population. The world has some 7 billion individuals, and thus a representative sample in any experiment would have to be very large to be applied to this general population.

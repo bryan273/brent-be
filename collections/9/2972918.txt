@@ -1,0 +1,1 @@
+The vapor pressure is the partial pressure at equilibrium of a substance in the gas phase when the conditions (T,P) are such that the substance should normally be in the liquid phase (as per the phase diagram). Therefore, the second sentence.

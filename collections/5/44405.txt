@@ -1,0 +1,1 @@
+At the end of this course, you'll understand how to develop an HTML5 game. You will gain familiarity with HTML5 features such as 2D canvas and techniques for improving performance.

@@ -1,0 +1,1 @@
+1 The action potential opens gates in the muscle's calcium store (sarcoplasmic reticulum). 2  Calcium ions flow into the cytoplasm, which is where the actin and myosin filaments are. 3  Calcium ions bind to troponin-tropomyosin molecules located in the grooves of the actin filaments.

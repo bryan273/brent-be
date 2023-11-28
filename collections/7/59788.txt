@@ -1,0 +1,1 @@
+17.1 Introduction to forms. An HTML form is a section of a document containing normal content, markup, special elements called controls (checkboxes, radio buttons, menus, etc.), and labels on those controls. Note. This specification includes more detailed information about forms in the subsections on form display issues.

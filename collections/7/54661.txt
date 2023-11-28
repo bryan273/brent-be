@@ -1,0 +1,1 @@
+Switch to the previous window. CTRL+SHIFT+F6. When a document window is not maximized, perform the Size command (on the Control menu for the window). Press the arrow keys to resize the window, and, when finished, press ENTER.

@@ -1,0 +1,1 @@
+Standard Poodle, Mini Poodle, Toy Poodle, Toy Teacup poodle , and Teacup poodle. Maybe we can use human heights to make an example: a Standard poodle = a 180cm person; a Mini Poodle = a 170 cm person; a Toy Poodle= a 160 cm person.

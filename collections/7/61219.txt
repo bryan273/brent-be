@@ -1,0 +1,1 @@
+Unlike the income tax example above, these taxes do not include actual taxes owed as part of the base. A good priced at $80 with a 25% exclusive sales tax rate yields $20 in taxes owed. Since the sales tax is added on the top, the individual pays $20 of tax on $80 of pre-tax goods for a total cost of $100.

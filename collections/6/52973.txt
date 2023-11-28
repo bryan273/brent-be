@@ -1,0 +1,1 @@
+Segmentation involves the use of a bridge or a switch (or a router) to split a larger collision domain into smaller ones in order to reduce collision probability, and to improve overall network throughput. In the extreme case (i.e. microsegmentation), each device is located on a dedicated switch port.

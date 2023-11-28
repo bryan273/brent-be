@@ -1,0 +1,1 @@
+// === max_over_time(Matrix ValueTypeMatrix) Vector === func funcMaxOverTime (ev * evaluator, args Expressions) Value return aggrOverTime (ev, args, func (values []Point) float64

@@ -1,0 +1,1 @@
+It is a corrected version of the equation obtained from modifying the population standard deviation equation by using the sample size as the size of the population, which removes some of the bias in the equation.

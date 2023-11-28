@@ -1,0 +1,1 @@
+Mosteller and Tukey noted that the four levels are not exhaustive and proposed: 1  Names. 2  Grades (e.g. freshmen, sophomores etc.) 3  Counted fractions bound by 0 and 1. 4  Counts (non-negative integers) 5  Amounts (non-negative real numbers) 6  Balances (any real number)

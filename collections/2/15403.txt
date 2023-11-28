@@ -1,0 +1,1 @@
+How can I preserve the author identity in Track Changes in Word? Whilst making the changes it distinguishes between different authors, but when the document is saved the original author identity is lost; the identity is shown as 'Author' for every change. Abuse history.

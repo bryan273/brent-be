@@ -1,0 +1,1 @@
+If you're new to KML, begin by browsing the KML Tutorial, which presents short samples of KML code that you can view in Google Earth and Google Maps. The KML Reference provides detailed syntax for all KML elements, with explanations and diagrams of how to specify them.

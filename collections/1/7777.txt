@@ -1,0 +1,1 @@
+Common reasons for Ms excel corruption. Improper shutdown of computer – Basically the files size of Excel are large therefore if there is any improper shutdown of system occur there are chances that your open Ms excel can easily corrupt. The improper shut down can occur due to power failure or any other reason.

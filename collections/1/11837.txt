@@ -1,0 +1,1 @@
+If I press the wps button on both the repeater and router the wps button on the router will blink green for about a minute then turn solid green for an hour or two then start blinking red indefinitely until I re-press the wps button on both devices. While it blinks red on the router I don't know what that indicates.

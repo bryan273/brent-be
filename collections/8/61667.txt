@@ -1,0 +1,1 @@
+Morphlabs is the leading provider of OpenStack services in the Asia-Pacific region. Deploy your own private cloud and maintain the highest level of control and security while have the ability to place workloads in the public cloud, virtualization environments or even bare metal.

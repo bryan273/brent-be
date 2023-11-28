@@ -1,0 +1,1 @@
+Silver Content of Popular US Coins. To determine the melt value of your silver coins divide the current spot price per ounce (www.kitco.com) by the exact amount of Troy Grams in one Troy Ounce (31.1034768) to get the spot price per Troy Gram. Write this down for future reference.

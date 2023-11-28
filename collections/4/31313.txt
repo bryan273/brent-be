@@ -1,0 +1,1 @@
+How in Notepad can I save a file without the .txt extension? A. A. When you save the file, just put the file name in double quotes, e.g. johns.bat will save the file as johns.bat with no .txt extension.

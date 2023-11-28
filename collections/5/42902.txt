@@ -1,0 +1,1 @@
+What is a 'Blockchain'. A blockchain is a public ledger of all Bitcoin transactions that have ever been executed. It is constantly growing as ‘completed’ blocks are added to it with a new set of recordings. The blocks are added to the blockchain in a linear, chronological order.

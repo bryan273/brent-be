@@ -1,0 +1,1 @@
+The XNA Framework Redistributable provides the necessary runtime components to execute a game on Windows that was developed using Microsoft XNA Game Studio 3.0. This release contains improved functionality along with new features.

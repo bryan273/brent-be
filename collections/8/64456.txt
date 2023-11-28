@@ -1,0 +1,1 @@
+Graph the Data. 1  Before you graph your data, insert a new row at the top of the spreadsheet and add labels to identify the data in each column. (If you don't know how to do this, the Excel tutorial can you show you, or you can use the Help function in Excel.)

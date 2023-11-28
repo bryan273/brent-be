@@ -1,0 +1,1 @@
+If the surgeon sees the patient on the hospital unit on the date of admission, report all E/M services related to the admission with the initial inpatient admission service code (99221–99223); documentation is key in this situation.

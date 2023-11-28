@@ -1,0 +1,1 @@
+Adding Toolbar Buttons. This tutorial explains how to add a toolbar button to the Windows Internet Explorer user interface. The toolbar button can either run a Microsoft Win32 application, run a script, or open an Explorer Bar. If you also want to create a menu item for the Win32 application or script, see the Adding Menu Items tutorial.

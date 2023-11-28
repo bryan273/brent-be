@@ -1,0 +1,1 @@
+There are a few instances. where you must use a Variant data type, but generally you should try to use a specific data type where possible. > ReDim. Sometimes array's are declared without dimensions; you do this when you know that, later in the code, you will have to. apply some sort of variable sizing.

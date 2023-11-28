@@ -1,0 +1,1 @@
+fiori apps are bundle of transactional analytical and form feed apps that are developed to keep things simple like show minimum and only the needed content to a particular type of user like employees managers sales guy etc to be honest years before sap screens looked boring and complex to end users

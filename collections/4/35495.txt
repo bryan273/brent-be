@@ -1,0 +1,1 @@
+AutoRun is a feature of the Windows operating system that causes predetermined actions when certain media is inserted. Common media types that trigger AutoRun actions include CDs, DVDs and USB storage devices.

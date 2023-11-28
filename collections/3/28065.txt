@@ -1,0 +1,1 @@
+You can find the length of a line segment using two other line segments by creating an equation. The length of line segments on a graph (or the Cartesian Plane) can be found by either counting the units that the line segment covers, or by using the distance formula. To unlock this lesson you must be a Study.com Member.

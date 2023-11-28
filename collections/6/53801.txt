@@ -1,0 +1,1 @@
+To be clear, after a sync operation, regardless of the content disparity between two devices, the content of both devices will be identical, such that the content on device 1 now exists on device 2 alongside device 2's original content, and the content of device 2 now exists on device 1 alongside device 1's original content.

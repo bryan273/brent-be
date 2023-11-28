@@ -1,0 +1,1 @@
+With the eMMC solution, a host system can now gain access to all major classes of mass storage memory sub-systems, including embedded memory (eMMC), memory cards, or even hard disk drives (via ATA-on-MMC specification) with one common MMC Interface Protocol Bus.

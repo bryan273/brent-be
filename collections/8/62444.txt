@@ -1,0 +1,1 @@
+SomeVar is a variable of type Variant. Since a variant can behave like any data type, we can make it look like an array, which is exactly what the ReDim statement does.  After it is executed, SomeVar becomes an array! Of course, we could create a 2 dimensional array with.  ReDim SomeVar(9, 9)

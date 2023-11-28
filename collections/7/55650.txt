@@ -1,0 +1,1 @@
+1 These are Ingredient-Strength combinations (e.g. Acetaminophen 250 MG). For details, download the source code for building DRUG_STRENGTH.  If you only want to use this table for drug and ingredient concepts that are valid (where the field INVALID_REASON is null), the DRUG_STRENGTH records can be used as such.

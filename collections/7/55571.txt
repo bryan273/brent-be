@@ -1,0 +1,1 @@
+Microtubule-associated proteins (MAPs) associate with microtubules at the midzone and the spindle poles to regulate their dynamics. γ-tubulin is a specialized tubulin variant that assembles into a ring complex called γ-TuRC which nucleates polymerization of α/β tubulin heterodimers into microtubules.

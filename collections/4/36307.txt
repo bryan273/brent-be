@@ -1,0 +1,1 @@
+An example of a without recourse note is a personal check written by A, the maker, to B, the payee. B, in turn pays off a debt to C by endorsing the check and adding the without recourse phrase. If A's bank refuses to pay C the check amount because A has insufficient funds in his checking account, C cannot demand payment from B. C will have to attempt to collect the money from A.

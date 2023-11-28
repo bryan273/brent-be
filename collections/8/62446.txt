@@ -1,0 +1,1 @@
+The VarType function never returns the value for vbArray by itself. It is always added to some other value to indicate an array of a particular type. The constant vbVariant is only returned in conjunction with vbArray to indicate that the argument to the VarType function is an array of type Variant.

@@ -1,0 +1,1 @@
+Profile pages: Since social media is all about communication, a profile page is often necessary to represent an individual. It often includes information about the individual user, like a profile photo, bio, website, feed of recent posts, recommendations, recent activity and more.

@@ -1,0 +1,1 @@
+Once again: I want to install Windows 7 in a virtual environment, then install PHP. Thanks. VMware Workstation 7.0 if you need all the features, this product is not free. http://www.vmware.com/products/workstation/ or download and use VMware Player for free. http://www.vmware.com/products/player/. Go to Solution.

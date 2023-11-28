@@ -1,0 +1,1 @@
+Data View Use the buttons to select a data type to display in the map. Distribution Use the check boxes to select distributions to display. Distribution Use the check boxes to select distributions to display in the graph.

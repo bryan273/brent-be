@@ -1,0 +1,1 @@
+Again, using the proper function in a formula works the same as the upper and lower. However, with the proper function, the text is changed to mixed case. The first character of each word will convert to a capital letter, while the remaining letters will be converted to lower.

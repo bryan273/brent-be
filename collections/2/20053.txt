@@ -1,0 +1,1 @@
+Requirements: 1  Vehicle with a supported automatic transmission or with a similar automatic transmission as unsupported custom installation. Currently supported are 700R4, Turbo 400, Ford AOD, GM-4L60 and 4L60E, GM4L80, and other such transmissions with an externally mounted shift lever that is typically cable driven.

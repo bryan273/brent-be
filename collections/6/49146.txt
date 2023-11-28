@@ -1,0 +1,1 @@
+1 For example, let's say that you own 50 shares of company stock and that you bought these shares at a price of $20 per share. 2  If the company's DPS in recent time periods has been roughly $1, you can find the dividend yield by plugging your values into the formula DY = DPS/SP; thus, DY = 1/20 = 0.05 or 5% .

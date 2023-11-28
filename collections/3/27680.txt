@@ -1,0 +1,1 @@
+sap fiori as we mentioned is the set of pre packaged apps from sap which naturally connect to an sap back end however sapui5 or openui5 the technology that have been used to create the fiori apps does not require an sap back end and can connect to anywhere as long as you can make the data fit

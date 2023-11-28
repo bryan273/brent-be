@@ -1,0 +1,1 @@
+Answer / ramesh kumar k. Ith is called Thermal Current It is also called Schort. Circuit Current Isc. It is nothing but the current which flows in the line if. there is any fault in that line... it is generally 100 times to the normal rated current.

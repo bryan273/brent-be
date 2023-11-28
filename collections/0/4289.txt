@@ -1,0 +1,1 @@
+This article relies too much on references to primary sources. (May 2009) Cluster Shared Volumes (CSV) is a feature of Failover Clustering first introduced in Windows Server 2008 R2 for use with the Hyper-V role.

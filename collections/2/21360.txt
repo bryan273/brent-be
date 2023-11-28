@@ -1,0 +1,1 @@
+Usability testing is the measurement of ease of use of a product or piece of software. In contrast, usability engineering (UE) is the research and design process that ensures a product with good usability. Usability is a non-functional requirement.

@@ -1,0 +1,1 @@
+The BUP files are “backup” files, duplicates of the IFO files and necessary because if the IFO files are unreadable (maybe a scratch on the disk), the player wouldn’t be able to present menus, read the jump tables, etc. The VOB files are “video object” files and contained video encoded per the DVD Video spec.

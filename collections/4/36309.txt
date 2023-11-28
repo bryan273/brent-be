@@ -1,0 +1,1 @@
+Recourse provides the legal means for a lender to seize a borrower's assets if he defaults on a debt. If the debt is full recourse, the borrower is liable for the full amount of the debt even to the extent it exceeds the value of the collateralized asset.

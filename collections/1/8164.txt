@@ -1,0 +1,1 @@
+It may be: 1  WINDOW_AUTOSIZE is the only supported one if you do not use the Qt backend. 2  In this case the window size will take up the size of the image it shows. 3  No resize permitted! 4  WINDOW_NORMAL on Qt you may use this to allow window resize. 5  The image will resize itself according to the current window size.

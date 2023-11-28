@@ -1,0 +1,1 @@
+The first derivative of this plot, dF/dT, is the. rate of change of fluorescence in the reaction, and a. signiﬁcant change in ﬂuorescence accompanies the melting. of the double-stranded PCR products. A plot of -dF/dT vs. temperature will display these changes in ﬂuorescence as. distinct peaks.

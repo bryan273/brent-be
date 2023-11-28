@@ -1,0 +1,1 @@
+You're right, C and D batteries both are 1.5 volts. Actually, AA and AAA are also 1.5 volts. That makes you wonder what the difference is. If they're the same voltage, why not just use all AAA batteries and make things lighter and smaller. But there is a big difference between them all. In an electrical circuit or device, there are 2 really important things.

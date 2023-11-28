@@ -1,0 +1,1 @@
+Logically, MAC addresses are used in the media access control protocol sublayer of the OSI reference model. MAC addresses are most often assigned by the manufacturer of a network interface controller (NIC) and are stored in its hardware, such as the card's read-only memory or some other firmware mechanism.
