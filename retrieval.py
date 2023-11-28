@@ -50,7 +50,7 @@ if __name__ == "__main__":
         query testing yang diberikan. Kode ini sebagai langkah awal untuk
         pengujian model LETOR
         """
-        retrieval = Retrieval(k=1000)
+        retrieval = Retrieval(k=100)
         query_pkl = r'pickle\test_queries.pkl'
 
         qid_query = DataPreparator.load_from_pickle(query_pkl)

@@ -5,12 +5,13 @@ import math
 from tqdm import tqdm
 
 class LETOR:
-    def __init__(self, ranker_path, data_path):
+    def __init__(self, ranker_path, data_path=None):
         self.ranker = Ranker()
         self.ranker.load_model(ranker_path, type="lgbm")
-
+    
         self.data_preparator = DataPreparator()
-        self.data = DataPreparator.load_from_pickle(data_path)
+        if data_path:
+            self.data = DataPreparator.load_from_pickle(data_path)
 
     def ndcg(ranking):
         """ Calculate the normalized search effectiveness metric score 
