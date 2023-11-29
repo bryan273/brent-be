@@ -13,7 +13,6 @@ ranker_path = "lgbr_base.txt"
 letor = LETOR(ranker_path)
 retrieval = Retrieval()
 
-
 @app.route("/")
 def hello_world():
     return "Hello"
@@ -29,9 +28,9 @@ def get_document_by_id(doc_id):
         "content": content.decode('utf-8')
     })
 
-@app.route("/search", methods=['POST'])
+@app.route("/search", methods=['GET'])
 def get_rel_docs():
-    query = request.json["query"]
+    query = request.args.to_dict()['q']
     doc_paths = get_relevant_doc_id(letor, retrieval, query)
     response = []
     for doc_id in doc_paths:
