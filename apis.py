@@ -2,11 +2,13 @@ from flask import Flask, request, jsonify
 from data_preparator import DataPreparator
 import json
 from letor import LETOR
+from flask_cors import CORS
 
 from main_pipeline import get_relevant_doc_id
 from retrieval import Retrieval
 
 app = Flask(__name__)
+CORS(app)
 
 mapping_file = DataPreparator.load_from_pickle("pickle/mapping_doc.pkl")
 ranker_path = "lgbr_base.mdl"
