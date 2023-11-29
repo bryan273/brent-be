@@ -9,6 +9,8 @@ def main_pipeline_letor(letor, retrieval, query, k=50):
     terms = retrieval.data_preparator.preprocess_text(clean_text).split(' ')
 
     doc_paths, _ = retrieval.retrieve_documents(terms)
+    if doc_paths==[]:
+        return []
     doc_ids = [doc_path.split('\\')[-1][:-4] for doc_path in doc_paths]
     dataset = retrieval.data_preparator.prepare_testing_dataset(terms, doc_paths)
 
@@ -39,7 +41,7 @@ if __name__=="__main__":
     retrieval = Retrieval()
 
     mapping_file = DataPreparator.load_from_pickle("pickle/mapping_doc.pkl")
-    query = "cardiovascular disease"
+    query = "61821"
     docs = get_relevant_doc_id(letor, retrieval, query)
     for doc in docs:
         with open("main_pipeline.txt", "w") as output_file:
