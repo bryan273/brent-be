@@ -3,11 +3,12 @@ from ranker import Ranker
 import pandas as pd
 import math
 from tqdm import tqdm
+import joblib
 
 class LETOR:
     def __init__(self, ranker_path, data_path=None):
         self.ranker = Ranker()
-        self.ranker.load_model(ranker_path, type="lgbm")
+        self.ranker.load_model(ranker_path)
     
         self.data_preparator = DataPreparator()
         if data_path:

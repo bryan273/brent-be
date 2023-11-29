@@ -6,6 +6,7 @@ from data_preparator import DataPreparator
 from sentence_transformers import SentenceTransformer
 from sklearn.preprocessing import normalize
 from tqdm import tqdm
+import joblib
 
 class Ranker:
     def __init__(self, num_latent_topics=200):
@@ -160,24 +161,30 @@ class Ranker:
         """
         return self.ranker.predict(X)
 
-    def save_model(self, filename, type=''):
+    def save_model(self, filename):
         """
         Menyimpan ranker model
         """
-        if type=='lgbm':
+        ext = filename.split(".")[-1]
+        if (ext=="txt") or (ext=='mdl'):
             self.ranker.booster_.save_model(filename)
+        elif ext=='pkl':
+            joblib.dump(self.ranker, filename)
         else:
-            raise ValueError("Type can only be 'lsi' or 'lgbm'")
+            raise ValueError("Extension can only be 'txt' or 'pkl'")
 
-    def load_model(self, filename, type=''):
+    def load_model(self, filename):
         """
         Load ranker model
         """
-        if type=="lgbm":
+        ext = filename.split(".")[-1]
+        if (ext=="txt") or (ext=='mdl'):
             self.ranker = lgb.Booster(model_file=filename)
             return self.ranker
+        elif ext=='pkl':
+            return joblib.load(filename)
         else:
-            raise ValueError("Type can only be 'lsi' or 'lgbm'")
+            raise ValueError("Extension can only be 'txt' or 'pkl'")
 
 if __name__ == "__main__":
     section = ['train_all']
@@ -259,7 +266,7 @@ if __name__ == "__main__":
         group_qid_count = train_group_qid_count + val_group_qid_count
         ranker.fit_ranker(X, Y, group_qid_count)
 
-        ranker.save_model('lgbr_base.txt', type='lgbm')
+        ranker.save_model('lgbr_base.txt', ext='txt')
 
     if 'trial' in section:
         # Pada 'trial', contoh penggunaan model yang sudah ada. 
@@ -279,5 +286,5 @@ if __name__ == "__main__":
         
         X, Y = ranker.prepare_data_train(dataset)
 
-        ranker.load_model('lgbr_base.txt', type='lgbm')
+        ranker.load_model('lgbr_base.txt', ext='txt')
         print(ranker.predict_ranker(X[:2]))

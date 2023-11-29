@@ -34,7 +34,7 @@ def get_relevant_doc_id(letor, retrieval, query):
     return result_path
 
 if __name__=="__main__":
-    ranker_path = "lgbr_base.txt"
+    ranker_path = "lgbr_base.mdl"
     letor = LETOR(ranker_path)
     retrieval = Retrieval()
 
