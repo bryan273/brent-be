@@ -8,7 +8,6 @@ import re
 
 from index import InvertedIndexReader, InvertedIndexWriter
 from util import IdMap, merge_and_sort_posts_and_tfs
-from compression import VBEPostings
 from tqdm import tqdm
 
 import nltk
@@ -370,11 +369,3 @@ class BSBIIndex:
                 indices = [stack.enter_context(InvertedIndexReader(index_id, self.postings_encoding, directory=self.output_dir))
                            for index_id in self.intermediate_indices]
                 self.merge_index(indices, merged_index)
-
-
-if __name__ == "__main__":
-
-    BSBI_instance = BSBIIndex(data_dir='collections',
-                              postings_encoding=VBEPostings,
-                              output_dir='index')
-    BSBI_instance.do_indexing()  # memulai indexing!
