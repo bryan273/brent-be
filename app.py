@@ -42,3 +42,6 @@ def get_rel_docs():
         content = content.decode('utf-8')
         response.append({"doc_id": doc_id, "content": content})
     return jsonify(response)
+
+if __name__ == "__main__":
+    app.run(host='0.0.0.0', port=5000)
