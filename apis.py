@@ -11,7 +11,7 @@ app = Flask(__name__)
 CORS(app)
 
 mapping_file = DataPreparator.load_from_pickle("pickle/mapping_doc.pkl")
-ranker_path = "lgbr_base.txt"
+ranker_path = "lgbr_base.mdl"
 letor = LETOR(ranker_path)
 retrieval = Retrieval()
 
