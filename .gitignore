@@ -2,3 +2,4 @@ myenv/
 testenv/
 .vscode/
 env/
+__pycache__/
