@@ -1,6 +1,7 @@
 from flask import Flask, request, jsonify
 from data_preparator import DataPreparator
 import json
+import os
 from letor import LETOR
 from flask_cors import CORS
 
@@ -21,7 +22,7 @@ def hello_world():
 
 @app.route("/doc/<string:doc_id>")
 def get_document_by_id(doc_id):
-    path = mapping_file[doc_id]
+    path = os.path.join(*mapping_file[doc_id].split('\\'))
     with open(path, "rb") as file:
         content = file.read()
 
@@ -36,7 +37,7 @@ def get_rel_docs():
     doc_paths = get_relevant_doc_id(letor, retrieval, query)
     response = []
     for doc_id in doc_paths:
-        path = mapping_file[doc_id]
+        path = os.path.join(*mapping_file[doc_id].split('\\'))
         with open(path, "rb") as file:
             content = file.read()
         content = content.decode('utf-8')

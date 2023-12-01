@@ -2,6 +2,7 @@ from retrieval import Retrieval
 from data_preparator import DataPreparator
 from letor import LETOR
 import re
+import os
 
 def main_pipeline_letor(letor, retrieval, query, k=50):
 
@@ -47,6 +48,7 @@ if __name__=="__main__":
         with open("main_pipeline.txt", "w") as output_file:
             output_file.write("Query : " + query + "\n")
             for doc in docs:
-                with open(mapping_file[doc], "r") as file:
+                txt_path = os.path.join(*mapping_file[doc].split('\\'))
+                with open(txt_path, "r") as file:
                     content = file.read()
                     output_file.write(doc + " : " + content + "\n")
