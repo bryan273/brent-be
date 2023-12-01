@@ -23,7 +23,6 @@ def hello_world():
 @app.route("/doc/<string:doc_id>")
 def get_document_by_id(doc_id):
     path = os.path.join(*mapping_file[doc_id].split('\\'))
-    print("path doc",path)
     with open(path, "rb") as file:
         content = file.read()
 
@@ -34,16 +33,11 @@ def get_document_by_id(doc_id):
 
 @app.route("/search", methods=['GET'])
 def get_rel_docs():
-    print("masuk aman 1")
     query = request.args.to_dict()['q']
-    print("masuk aman 2")
     doc_paths = get_relevant_doc_id(letor, retrieval, query)
-    print("masuk aman 3")
     response = []
     for doc_id in doc_paths:
-        print("masuk aman 4")
         path = os.path.join(*mapping_file[doc_id].split('\\'))
-        print("path search",path)
         with open(path, "rb") as file:
             content = file.read()
         content = content.decode('utf-8')
