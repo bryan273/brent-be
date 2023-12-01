@@ -180,7 +180,7 @@ class DataPreparator:
         """
         dataset = []
         for file_path in doc_paths:
-            file_path = os.path.join(file_path.split('\\'))
+            file_path = os.path.join(*file_path.split('\\'))
             with open(file_path, 'r', encoding='utf-8') as file:
                 content = file.read()
                 tokens = re.findall(r"\w+", content)
