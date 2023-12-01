@@ -23,6 +23,7 @@ def hello_world():
 @app.route("/doc/<string:doc_id>")
 def get_document_by_id(doc_id):
     path = os.path.join(*mapping_file[doc_id].split('\\'))
+    print("path doc",path)
     with open(path, "rb") as file:
         content = file.read()
 
@@ -38,6 +39,7 @@ def get_rel_docs():
     response = []
     for doc_id in doc_paths:
         path = os.path.join(*mapping_file[doc_id].split('\\'))
+        print("path search",path)
         with open(path, "rb") as file:
             content = file.read()
         content = content.decode('utf-8')
