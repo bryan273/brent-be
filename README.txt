@@ -1,14 +1,14 @@
 README ini bertujuan untuk menjelaskan langkah-langkah yang dijalankan pada TP ini
 Notes: beberapa comment pada kode dibantu oleh chatGPT :D
 
-File TP2 digunakan untuk meretrieve TOP-100 document yang relevan:
+File TP2 digunakan untuk meretrieve TOP-N document yang relevan:
 - bsbi.py
 - compression.py
 - util.py
 - index.py
 
-File TP3 digunakan untuk melakukan reranking document, 
-dengan langkah-langkah sebagai berikut:
+File TP4 digunakan untuk melakukan reranking document, 
+dengan langkah-langkah sebagai berikut (lengkapnya ada di branch full):
 
 1. File data_preparator.py
 
@@ -22,15 +22,14 @@ yang telah diproses dan disimpan dalam pickle
 
 2. File retrieval.py
 File ini ditujukan untuk mempersiapkan testing dataset, di mana pada kode ini
-akan ada beebrapa fungsi untuk me-retrieve top 100 document dan diubah formatnya
+akan ada beebrapa fungsi untuk me-retrieve top N document dan diubah formatnya
 untuk persiapan data
 
-Ketika dijalankan program ini akan membuat dataset dari top-100 doc yang diretrieve
+Ketika dijalankan program ini akan membuat dataset dari top-N doc yang diretrieve
 
 3. File ranker.py
 File ini digunakan untuk membuat, melatih, dan menggunakan model ranker 
-berdasarkan representasi vektor dengan pendekatan LSI (Latent Semantic Indexing) 
-dan model LightGBM.
+berdasarkan representasi vektor dari BERT dan model LightGBM.
 
 Ketika dijalankan program ini akan melatih model dan juga mengevaluasinya pada
 data validation.
@@ -42,14 +41,10 @@ ini juga akan dilakukan evaluasi pada hasil reranking pada data test.
 Ketika dijalankan program ini akan melakukan prediksi pada data testing dan
 mengevaluasinya. Lalu, hasil rerankingnya akan disimpan
 
-[Bonus]
-
 -------------------------------------------------------------------
 * Folder pickle digunakan untuk menyimpan data data hasil processing sebelumnya
 * File csv merupakaan hasil dari reranking pada data testing 
   (setelah menggunakan letor atau masih bsbi biasa)
 * lgbr_base.txt merupakan model ranker yang disimpan
-* lsi_base merupakan model LSI yang sudah dilatih
-* tfidf_vectorizer merupakan model TFIDF yang sudah dilatih
 
 * coba-coba.ipynb merupakan file untuk coba coba dan debugging saya :D
