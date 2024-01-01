@@ -1,6 +1,7 @@
 README ini bertujuan untuk menjelaskan langkah-langkah yang dijalankan pada TP ini
 Notes: beberapa comment pada kode dibantu oleh chatGPT :D
 
+
 File TP2 digunakan untuk meretrieve TOP-N document yang relevan:
 - bsbi.py
 - compression.py
