@@ -21,4 +21,5 @@ Deployment link: [https://brent-fe.vercel.app/](https://brent-fe.vercel.app/)
 
 ## Notes
 Front-End Repository: [https://github.com/jaycentg/brent-fe](https://github.com/jaycentg/brent-fe)
+
 Back-End Repository: [https://github.com/bryan273/brent-be](https://github.com/bryan273/brent-be)
